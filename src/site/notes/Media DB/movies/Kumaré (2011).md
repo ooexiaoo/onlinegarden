@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/kumare-2011/","title":"Kumaré","tags":["mediaDB/tv/movie"]}
+{"dg-publish":true,"permalink":"/media-db/movies/kumare-2011/","title":"Kumaré","tags":["mediaDB/tv/movie"],"noteIcon":""}
 ---
 
 #Movies_2023 
