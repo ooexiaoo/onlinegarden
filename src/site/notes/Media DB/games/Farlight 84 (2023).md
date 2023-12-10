@@ -10,4 +10,21 @@ I uninstalled it today, because I felt I might be too addicted to it, and also I
 I might go back to playing it again sometime later, but will keep it at a minimum level.
 
 #### Some of the video I recorded over my time playing it
-![vid](https://www.youtube.com/watch?v=FpojHn-6hrU)![vid](https://www.youtube.com/watch?v=k4LjvdW_syg)
+<div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
+  <iframe
+    src="https://www.youtube.com/embed/FpojHn-6hrU?si=pbY6VQHUSbh02F5W"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="autoplay; fullscreen"
+    frameborder="0"
+    scrolling="no"
+  ></iframe>
+</div>
+<div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
+  <iframe
+    src="https://www.youtube.com/embed/k4LjvdW_syg?si=jdjVaLBwS8-G_Scn"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="autoplay; fullscreen"
+    frameborder="0"
+    scrolling="no"
+  ></iframe>
+</div>
