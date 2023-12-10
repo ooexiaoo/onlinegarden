@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/manga/origin/"}
+{"dg-publish":true,"permalink":"/media-db/manga/origin/","noteIcon":""}
 ---
 
 
