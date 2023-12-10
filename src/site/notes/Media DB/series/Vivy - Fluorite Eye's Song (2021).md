@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/vivy-fluorite-eye-s-song-2021/","title":"Vivy: Fluorite Eye's Song","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/vivy-fluorite-eye-s-song-2021/","title":"Vivy: Fluorite Eye's Song","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 <center><img src="https://cdn.myanimelist.net/images/anime/1637/115052.jpg"></center>
