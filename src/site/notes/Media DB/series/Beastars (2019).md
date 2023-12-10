@@ -15,5 +15,12 @@ Watched both the seasons. There are some plot holes in the story, but you have t
 
 BTW, I loved the CGI movements of the characters, especially the small movements were very realistic. Like in the clip below, the way Juno scoots to the side in her chair.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H5RZw1EhZ9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
+  <iframe
+    src="https://www.youtube.com/embed/H5RZw1EhZ9I"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="autoplay; fullscreen"
+    frameborder="0"
+    scrolling="no"
+  ></iframe>
+</div>
