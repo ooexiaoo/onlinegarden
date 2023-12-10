@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/shingeki-no-kyojin-the-final-season-kanketsu-hen-2023/","title":"Shingeki no Kyojin: The Final Season - Kanketsu-hen","tags":["mediaDB/tv/movie"]}
+{"dg-publish":true,"permalink":"/media-db/movies/shingeki-no-kyojin-the-final-season-kanketsu-hen-2023/","title":"Shingeki no Kyojin: The Final Season - Kanketsu-hen","tags":["mediaDB/tv/movie"],"noteIcon":""}
 ---
 
 ![img](https://cdn.myanimelist.net/images/anime/1279/131078.jpg)
