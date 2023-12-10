@@ -9,6 +9,7 @@
 [[💻 JavaScript Course/💻 JavaScript Course\|💻 JavaScript Course]]
 [[🖥️ HTML & CSS/🖥️ HTML & CSS\|🖥️ HTML & CSS]]
 [[Python Basics/Python Basics\|Python Basics]]
+[[Media DB/Media DB\|Media DB]]
 # Q U I C K - L I N K S
 | File                                                                            | Cover                                                                                    |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -19,4 +20,4 @@
 
 { .block-language-dataview}
 - ## 〽️ Stats
-	-  Note Count: 1372
+	-  Note Count: 1378
