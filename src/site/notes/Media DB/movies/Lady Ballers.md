@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/lady-ballers/","title":"Lady Ballers","tags":["mediaDB/wiki"]}
+{"dg-publish":true,"permalink":"/media-db/movies/lady-ballers/","title":"Lady Ballers","tags":["mediaDB/wiki"],"noteIcon":""}
 ---
 
 ![Lady ballers](https://upload.wikimedia.org/wikipedia/en/b/bf/Lady_Ballers_Poster.jpg)
