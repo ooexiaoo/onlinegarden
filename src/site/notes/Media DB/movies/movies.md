@@ -14,6 +14,7 @@
 - [[Media DB/movies/Josee to Tora to Sakana-tachi (2020)\|Josee to Tora to Sakana-tachi (2020)]]
 - [[Media DB/movies/Kono Subarashii Sekai ni Shukufuku wo! Spin-off - Kono Subarashii Sekai ni Bakuen wo! ()\|Kono Subarashii Sekai ni Shukufuku wo! Spin-off - Kono Subarashii Sekai ni Bakuen wo! ()]]
 - [[Media DB/movies/Kumaré (2011)\|Kumaré (2011)]]
+- [[Media DB/movies/Lady Ballers\|Lady Ballers]]
 - [[Media DB/movies/M3GAN (2022)\|M3GAN (2022)]]
 - [[Media DB/movies/Memento (2000)\|Memento (2000)]]
 - [[Media DB/movies/Oblivion (2013)\|Oblivion (2013)]]
