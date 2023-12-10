@@ -9,5 +9,6 @@
 - [[Python Basics/Basics Chapter 7 - Operators\|Basics Chapter 7 - Operators]]
 - [[Python Basics/Basics Chapter 9 - Typecasting in Python\|Basics Chapter 9 - Typecasting in Python]]
 - [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 - Taking User Input]]
+- [[Python Basics/Basics Python 11 - Strings\|Basics Python 11 - Strings]]
 
 
