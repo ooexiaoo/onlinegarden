@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/arcane-2021/","title":"Arcane","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/arcane-2021/","title":"Arcane","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 ![img](https://cdn.myanimelist.net/images/anime/1730/129018.jpg)
