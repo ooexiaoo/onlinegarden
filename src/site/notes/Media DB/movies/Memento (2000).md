@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/memento-2000/","title":"Memento","tags":["mediaDB/tv/movie"]}
+{"dg-publish":true,"permalink":"/media-db/movies/memento-2000/","title":"Memento","tags":["mediaDB/tv/movie"],"noteIcon":""}
 ---
 
 #Movies_2023 
