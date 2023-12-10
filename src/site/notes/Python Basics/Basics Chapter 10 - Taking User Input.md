@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-10-taking-user-input/"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-10-taking-user-input/","noteIcon":""}
 ---
 
 🧶 Tags - #Python_Basics 
