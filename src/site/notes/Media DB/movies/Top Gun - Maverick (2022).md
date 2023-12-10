@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/top-gun-maverick-2022/","title":"Top Gun: Maverick","tags":["mediaDB/tv/movie"]}
+{"dg-publish":true,"permalink":"/media-db/movies/top-gun-maverick-2022/","title":"Top Gun: Maverick","tags":["mediaDB/tv/movie"],"noteIcon":""}
 ---
 
 #Movies_2023 
