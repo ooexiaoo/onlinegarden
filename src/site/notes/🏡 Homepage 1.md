@@ -21,15 +21,3 @@
 { .block-language-dataview}
 - ## 〽️ Stats
 	-  Note Count: 1372
-
-<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token 'const'
-    at DataviewInlineApi.eval (plugin:dataview:18404:21)
-    at evalInContext (plugin:dataview:18405:7)
-    at asyncEvalInContext (plugin:dataview:18415:32)
-    at DataviewJSRenderer.render (plugin:dataview:18436:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18020:14)
-    at e.load (app://obsidian.md/app.js:1:715749)
-    at DataviewApi.executeJs (plugin:dataview:18954:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10865:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:77:24)</pre>
