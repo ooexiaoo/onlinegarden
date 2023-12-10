@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/sakamichi-no-apollon-2012/","title":"Sakamichi no Apollon","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/sakamichi-no-apollon-2012/","title":"Sakamichi no Apollon","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 <img src="https://cdn.myanimelist.net/images/anime/1604/98654.jpg">
