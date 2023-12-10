@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/kage-no-jitsuryokusha-ni-naritakute-2nd-season-2023/","title":"Kage no Jitsuryokusha ni Naritakute! 2nd Season","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/kage-no-jitsuryokusha-ni-naritakute-2nd-season-2023/","title":"Kage no Jitsuryokusha ni Naritakute! 2nd Season","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 #Anime_Show_2023 
