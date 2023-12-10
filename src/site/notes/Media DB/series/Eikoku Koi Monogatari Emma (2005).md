@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/eikoku-koi-monogatari-emma-2005/","title":"Eikoku Koi Monogatari Emma","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/eikoku-koi-monogatari-emma-2005/","title":"Eikoku Koi Monogatari Emma","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 Watched the 1st season on Animax, When I was in school, and I was too young to understand the depth of it. Also, watching it on TV was not a great experience due to the fact that I was not as good at reading subtitles *(Yep, it was in Japanese)*.
