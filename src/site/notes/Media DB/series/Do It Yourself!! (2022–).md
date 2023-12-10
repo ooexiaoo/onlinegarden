@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/do-it-yourself-2022/","title":"Do It Yourself!!","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/do-it-yourself-2022/","title":"Do It Yourself!!","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 🧶 Tags - #Anime_Show_2023 
