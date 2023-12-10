@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/otonari-ni-ginga-2023/","title":"Otonari ni Ginga","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/otonari-ni-ginga-2023/","title":"Otonari ni Ginga","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 #Anime_Show_2023 
