@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/summertime-render-2022/","title":"Summertime Render","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/summertime-render-2022/","title":"Summertime Render","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 #Anime_Show_2023 
