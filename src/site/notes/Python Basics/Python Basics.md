@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","noteIcon":""}
 ---
 
 
