@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-python-11-strings/"}
+{"dg-publish":true,"permalink":"/python-basics/basics-python-11-strings/","noteIcon":""}
 ---
 
 
