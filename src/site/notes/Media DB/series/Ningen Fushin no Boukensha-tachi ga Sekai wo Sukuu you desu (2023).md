@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu-2023/","title":"Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu-2023/","title":"Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 ==2023-02-18 | 08:55==
