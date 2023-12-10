@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/wiki/wiki/"}
+{"dg-publish":true,"permalink":"/media-db/wiki/wiki/","noteIcon":""}
 ---
 
 
