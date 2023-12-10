@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/useful-code/responsive-embed-code-for-video/"}
+{"dg-publish":true,"permalink":"/useful-code/responsive-embed-code-for-video/","noteIcon":""}
 ---
 
 
