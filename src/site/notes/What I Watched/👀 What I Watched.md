@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-i-watched/what-i-watched/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/what-i-watched/what-i-watched/"}
 ---
 
 
