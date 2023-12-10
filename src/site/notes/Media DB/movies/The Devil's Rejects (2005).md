@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/the-devil-s-rejects-2005/","title":"The Devil's Rejects","tags":["mediaDB/tv/movie"]}
+{"dg-publish":true,"permalink":"/media-db/movies/the-devil-s-rejects-2005/","title":"The Devil's Rejects","tags":["mediaDB/tv/movie"],"noteIcon":""}
 ---
 
 #Movies_2023 
