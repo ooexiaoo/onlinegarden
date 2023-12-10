@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/cross-ange-tenshi-to-ryuu-no-rondo-2014/","title":"Cross Ange: Tenshi to Ryuu no Rondo","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/cross-ange-tenshi-to-ryuu-no-rondo-2014/","title":"Cross Ange: Tenshi to Ryuu no Rondo","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 <center><img src="https://cdn.myanimelist.net/images/anime/2/67515.jpg"></center>
