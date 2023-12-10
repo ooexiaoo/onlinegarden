@@ -3,7 +3,7 @@
 ---
 
 #Python_Basics
-Down - [[Basic Chapter 7\|Basic Chapter 7]]
+Down - [[Python Basics/Basics Chapter 6\|Basics Chapter 6]]
 2023-12-05 | 16:52
 #### 1st code
 ```python
