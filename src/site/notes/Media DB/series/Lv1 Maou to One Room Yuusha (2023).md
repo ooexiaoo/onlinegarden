@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/lv1-maou-to-one-room-yuusha-2023/","title":"Lv1 Maou to One Room Yuusha","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/lv1-maou-to-one-room-yuusha-2023/","title":"Lv1 Maou to One Room Yuusha","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 <center><img src="https://cdn.myanimelist.net/images/anime/1879/136721.jpg"></center>
