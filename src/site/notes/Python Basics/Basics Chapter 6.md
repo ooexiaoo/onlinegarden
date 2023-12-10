@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-6/"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-6/","noteIcon":""}
 ---
 
 🧶 Tags - #Python_Basics 
