@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/blade-runner-2049-2017/","title":"Blade Runner 2049","tags":["mediaDB/tv/movie"]}
+{"dg-publish":true,"permalink":"/media-db/movies/blade-runner-2049-2017/","title":"Blade Runner 2049","tags":["mediaDB/tv/movie"],"noteIcon":""}
 ---
 
 ==2023-01-05 - 20:23==
