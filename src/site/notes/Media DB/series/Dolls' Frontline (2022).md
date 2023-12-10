@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/dolls-frontline-2022/","title":"Dolls' Frontline","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/dolls-frontline-2022/","title":"Dolls' Frontline","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 #Anime_Show_2023 
