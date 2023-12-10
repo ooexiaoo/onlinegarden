@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/games/games/"}
+{"dg-publish":true,"permalink":"/media-db/games/games/","noteIcon":""}
 ---
 
 
