@@ -14,7 +14,8 @@ In python, anything that you enclose between single or double quotation marks is
 A string is essentially a sequence or array of textual data. Strings are used when working with Unicode characters.
 ## Example
 ```python
-name = "Harry"  print("Hello, " + name)
+name = "Exia"
+print("Hello, " + name)
 ```
 ## Output
 Hello, Harry
@@ -49,6 +50,7 @@ print(name[1])
 ## Looping through the string
 We can loop through strings using a for loop like this:
 ```python
-for character in name:      print(character)
+for character in name:
+print(character)
 ```
 Above code prints all the characters in the string name one by one!
