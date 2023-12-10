@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/helck-2023/","title":"Helck","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/helck-2023/","title":"Helck","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 #Anime_Show_2023 
