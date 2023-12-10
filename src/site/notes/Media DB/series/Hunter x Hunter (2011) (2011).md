@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/hunter-x-hunter-2011-2011/","title":"Hunter x Hunter (2011)","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/hunter-x-hunter-2011-2011/","title":"Hunter x Hunter (2011)","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 <center><img src="https://cdn.myanimelist.net/images/anime/1337/99013.jpg"></center>
