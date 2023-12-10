@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/games/farlight-84-2023/","title":"Farlight 84","tags":["mediaDB/game"]}
+{"dg-publish":true,"permalink":"/media-db/games/farlight-84-2023/","title":"Farlight 84","tags":["mediaDB/game"],"noteIcon":""}
 ---
 
 ![img](https://cdn.akamai.steamstatic.com/steam/apps/1928420/header.jpg?t=1695292364)
