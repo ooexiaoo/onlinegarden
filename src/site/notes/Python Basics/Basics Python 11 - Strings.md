@@ -9,7 +9,9 @@ Down - [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 
 🗃 Resources - [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 # [[Python Basics/Basics Python 11 - Strings\|Basics Python 11 - Strings]]
 ==2023-12-10 - 20:15==
-In python, anything that you enclose between single or double quotation marks is considered a string. A string is essentially a sequence or array of textual data. Strings are used when working with Unicode characters.
+In python, anything that you enclose between single or double quotation marks is considered a string.
+
+A string is essentially a sequence or array of textual data. Strings are used when working with Unicode characters.
 ## Example
 ```python
 name = "Harry"  print("Hello, " + name)
