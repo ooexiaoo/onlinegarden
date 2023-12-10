@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/kaminaki-sekai-no-kamisama-katsudou-2023/","title":"Kaminaki Sekai no Kamisama Katsudou","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/kaminaki-sekai-no-kamisama-katsudou-2023/","title":"Kaminaki Sekai no Kamisama Katsudou","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 #Anime_Show_2023 
