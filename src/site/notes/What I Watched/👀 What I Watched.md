@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-i-watched/what-i-watched/"}
+{"dg-publish":true,"permalink":"/what-i-watched/what-i-watched/","noteIcon":""}
 ---
 
 
