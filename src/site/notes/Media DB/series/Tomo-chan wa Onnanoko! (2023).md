@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/tomo-chan-wa-onnanoko-2023/","title":"Tomo-chan wa Onnanoko!","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/tomo-chan-wa-onnanoko-2023/","title":"Tomo-chan wa Onnanoko!","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 #Anime_Show_2023 
