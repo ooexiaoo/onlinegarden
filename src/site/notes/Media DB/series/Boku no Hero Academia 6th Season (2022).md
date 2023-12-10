@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/boku-no-hero-academia-6th-season-2022/","title":"Boku no Hero Academia 6th Season","tags":["mediaDB/tv/series"]}
+{"dg-publish":true,"permalink":"/media-db/series/boku-no-hero-academia-6th-season-2022/","title":"Boku no Hero Academia 6th Season","tags":["mediaDB/tv/series"],"noteIcon":""}
 ---
 
 #Anime_Show_2023 
