@@ -4,7 +4,7 @@
 
 🧶 Tags - #Python_Basics 
 Up - [[Python Basics/Basics Chapter 1\|Basics Chapter 1]]
-Down - [[Basic Chapter 3\|Basic Chapter 3]]
+Down - [[Python Basics/Basics Chapter 7 - Operators\|Basics Chapter 7 - Operators]]
 2023-12-06 | 18:18
 
 ---
