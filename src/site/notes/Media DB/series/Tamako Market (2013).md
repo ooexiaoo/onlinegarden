@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/tamako-market-2013/","title":"Tamako Market","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/tamako-market-2013/","title":"Tamako Market","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 🧶 Tags - #Anime_Show_2023
