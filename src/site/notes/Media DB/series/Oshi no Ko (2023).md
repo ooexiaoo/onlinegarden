@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/oshi-no-ko-2023/","title":"Oshi no Ko","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/oshi-no-ko-2023/","title":"Oshi no Ko","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 
