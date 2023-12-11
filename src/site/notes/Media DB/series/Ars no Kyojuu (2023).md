@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/ars-no-kyojuu-2023/","title":"Ars no Kyojuu","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/ars-no-kyojuu-2023/","title":"Ars no Kyojuu","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 #Anime_Show_2023 
