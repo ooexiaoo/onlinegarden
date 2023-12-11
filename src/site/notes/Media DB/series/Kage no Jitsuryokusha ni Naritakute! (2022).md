@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/kage-no-jitsuryokusha-ni-naritakute-2022/","title":"Kage no Jitsuryokusha ni Naritakute!","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/kage-no-jitsuryokusha-ni-naritakute-2022/","title":"Kage no Jitsuryokusha ni Naritakute!","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 #Anime_Show_2023 
