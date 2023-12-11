@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/tamako-love-story-2014/","title":"Tamako Love Story","tags":["mediaDB/tv/movie"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/movies/tamako-love-story-2014/","title":"Tamako Love Story","tags":["mediaDB/tv/movie"],"noteIcon":"1"}
 ---
 
 #Movies_2023 , #Movies 
