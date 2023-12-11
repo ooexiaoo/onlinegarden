@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/ooyukiumi-no-kaina-2023/","title":"Ooyukiumi no Kaina","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/ooyukiumi-no-kaina-2023/","title":"Ooyukiumi no Kaina","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 #Anime_Show_2023 
