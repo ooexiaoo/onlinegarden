@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-7-operators/","noteIcon":""}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-7-operators/","noteIcon":"1"}
 ---
 
 🧶 Tags - #Python_Basics 
