@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/name-unavailable/orders-of-thinking/","noteIcon":""}
+{"dg-publish":true,"permalink":"/projects/name-unavailable/orders-of-thinking/","noteIcon":"1"}
 ---
 
 
