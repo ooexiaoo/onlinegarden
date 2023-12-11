@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/cyberpunk-edgerunners-2022/","title":"Cyberpunk: Edgerunners","tags":["mediaDB/tv/movie"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/cyberpunk-edgerunners-2022/","title":"Cyberpunk: Edgerunners","tags":["mediaDB/tv/movie"],"noteIcon":"1"}
 ---
 
 <center><img src="https://cdn.myanimelist.net/images/anime/1818/126435.jpg"></center>
