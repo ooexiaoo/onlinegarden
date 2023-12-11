@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/paripi-koumei-2022/","title":"Paripi Koumei","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/paripi-koumei-2022/","title":"Paripi Koumei","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 
