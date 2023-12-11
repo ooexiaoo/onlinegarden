@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/josee-to-tora-to-sakana-tachi-2020/","title":"Josee to Tora to Sakana-tachi","tags":["mediaDB/tv/movie"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/movies/josee-to-tora-to-sakana-tachi-2020/","title":"Josee to Tora to Sakana-tachi","tags":["mediaDB/tv/movie"],"noteIcon":"1"}
 ---
 
 #Movies_2023 
