@@ -1,0 +1,43 @@
+---
+{"dg-publish":true,"permalink":"/my-anime-list/anime-s-i-ve-watched/","noteIcon":"1"}
+---
+
+# Tags - #Shows 
+- Hunter X Hunter
+- Initial D (Full Series)
+- Your Lie In April
+- Anohana
+- Gundam 00
+- Gundam Iron Blooded Orphans
+- Gundam Unicorn
+- Aldnova 0
+- Orange
+- I want To Eat Your Pancreas
+- 5cm Per Second
+- Tate No Yusha (Both Seasons, 2nd on going)
+- Attack On Titan (All Released so far, waiting for final season)
+- Dragon Ball z
+- One punch Man
+- Naruto (incomplete, lost interest)
+- Yu Yu Hakusho
+- Sakura Sao No Pet No Kanojo
+- Sword Art Online (1st Season, then lost interest)
+- Sword Art Online Alternative Gun Gale Online
+- Re-life
+- Inuyashiki
+- Run With The Wind
+- Slam Dunk
+- Dear Boys
+- Fate Stay/Night
+- Fate 0 Both Seasons
+- Ghost In The Shell
+- Psycho Pass
+- Toradora
+- Strike The Blood
+- Full Metal Alchemist
+- Kokoro Connect
+- Golden Time
+- Air Gear
+- Eureka 7
+- Tsuki Ga Michibiku Isekai Douchuu
+- [[Media DB/series/Eikoku Koi Monogatari Emma (2005)\|Eikoku Koi Monogatari Emma (2005)]]
