@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/beastars-2019/","title":"Beastars","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/beastars-2019/","title":"Beastars","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 #Anime_Show_2023 
