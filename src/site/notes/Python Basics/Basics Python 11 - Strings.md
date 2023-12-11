@@ -4,7 +4,7 @@
 
 
 🧶 Tags - #Python_Basics 
-Up - [[]]
+Up - [[Python Basics/Basics Python 12 - String Slicing & Operations on String\|Basics Python 12 - String Slicing & Operations on String]]
 Down - [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 - Taking User Input]]
 🗃 Resources - [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 # [[Python Basics/Basics Python 11 - Strings\|Basics Python 11 - Strings]]
