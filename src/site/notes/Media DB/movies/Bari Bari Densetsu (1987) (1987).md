@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/bari-bari-densetsu-1987-1987/","title":"Bari Bari Densetsu (1987)","tags":["mediaDB/tv/movie"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/movies/bari-bari-densetsu-1987-1987/","title":"Bari Bari Densetsu (1987)","tags":["mediaDB/tv/movie"],"noteIcon":"1"}
 ---
 
 #Movies_2023 
