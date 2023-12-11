@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/isekai-nonbiri-nouka-2023/","title":"Isekai Nonbiri Nouka","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/isekai-nonbiri-nouka-2023/","title":"Isekai Nonbiri Nouka","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 #Anime_Show_2023 
