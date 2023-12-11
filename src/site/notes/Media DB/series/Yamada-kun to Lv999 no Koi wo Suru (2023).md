@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/yamada-kun-to-lv999-no-koi-wo-suru-2023/","title":"Yamada-kun to Lv999 no Koi wo Suru","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/yamada-kun-to-lv999-no-koi-wo-suru-2023/","title":"Yamada-kun to Lv999 no Koi wo Suru","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 <img src="https://cdn.myanimelist.net/images/anime/1298/134178.jpg">
