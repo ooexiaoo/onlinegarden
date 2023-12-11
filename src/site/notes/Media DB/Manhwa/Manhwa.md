@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/manhwa/manhwa/","noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/manhwa/manhwa/","noteIcon":"1"}
 ---
 
 
