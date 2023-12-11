@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/urusei-yatsura-2022-2022/","title":"Urusei Yatsura (2022)","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/urusei-yatsura-2022-2022/","title":"Urusei Yatsura (2022)","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 #Anime_Show_2023 
