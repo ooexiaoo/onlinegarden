@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/bubblegum-crisis-1987/","title":"Bubblegum Crisis","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/bubblegum-crisis-1987/","title":"Bubblegum Crisis","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 #Anime, #Shows 
