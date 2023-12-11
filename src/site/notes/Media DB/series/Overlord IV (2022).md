@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/overlord-iv-2022/","title":"Overlord IV","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/overlord-iv-2022/","title":"Overlord IV","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 I've been watching overlord for years now. I thought I might now get to see another season after season 1 ended, but surprisingly I was wrong and overlords seems to have quite a following.
