@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/serial-experiments-lain-1998/","title":"Serial Experiments Lain","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/serial-experiments-lain-1998/","title":"Serial Experiments Lain","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 ![img](https://cdn.myanimelist.net/images/anime/1718/91550.jpg)
