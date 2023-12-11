@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-2023/","title":"Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-2023/","title":"Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 #Anime_Show_2023 
