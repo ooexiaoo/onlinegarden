@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/athletisism/workout-plan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/areas/athletisism/workout-plan/","noteIcon":"1"}
 ---
 
 
