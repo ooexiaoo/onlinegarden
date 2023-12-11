@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/benriya-saitou-san-isekai-ni-iku-2023/","title":"Benriya Saitou-san, Isekai ni Iku","tags":["mediaDB/tv/series"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/series/benriya-saitou-san-isekai-ni-iku-2023/","title":"Benriya Saitou-san, Isekai ni Iku","tags":["mediaDB/tv/series"],"noteIcon":"1"}
 ---
 
 #Anime_Show_2023 
