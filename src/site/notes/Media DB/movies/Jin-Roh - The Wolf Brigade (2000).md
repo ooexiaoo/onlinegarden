@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/jin-roh-the-wolf-brigade-2000/","title":"Jin-Rou","tags":["mediaDB/tv/movie"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/media-db/movies/jin-roh-the-wolf-brigade-2000/","title":"Jin-Rou","tags":["mediaDB/tv/movie"],"noteIcon":"1"}
 ---
 
 #Movies_2023 
