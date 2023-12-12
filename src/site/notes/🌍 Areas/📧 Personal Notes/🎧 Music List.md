@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/music-list/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/music-list/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.127+05:30","updated":"2023-12-12T01:04:37.728+05:30"}
 ---
 
 🧶 Tags - #Personal_Notes 
