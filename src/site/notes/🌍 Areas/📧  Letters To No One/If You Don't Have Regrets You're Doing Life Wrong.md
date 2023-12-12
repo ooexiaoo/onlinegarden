@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/if-you-don-t-have-regrets-you-re-doing-life-wrong/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/if-you-don-t-have-regrets-you-re-doing-life-wrong/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.968+05:30","updated":"2023-12-12T01:13:33.074+05:30"}
 ---
 
 🧶 Tags - #Letterstonoone 
