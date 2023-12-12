@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/the-theories-about-god-and-universe/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/the-theories-about-god-and-universe/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.037+05:30","updated":"2023-12-12T01:15:47.102+05:30"}
 ---
 
 🧶 Tags - #Letterstonoone 
