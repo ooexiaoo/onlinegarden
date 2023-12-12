@@ -122,7 +122,7 @@ You can have a craving, but never crave it enough to actually take an action to 
 Response is the action we take in order to change our habit.
 This is where many people fail.  To change our old bad habit is where many have a really hard time.
 To replace an old habit with a new one, especially when we have been practicing the old habit for a really long time.
-This is where [[2-Minutes\|2-Minutes]] rule can come in handy. This is where you gradually change a habit by taking it slow but, doing it consistently.
+This is where [[2-Minutes Reset\|2-Minutes Reset]] rule can come in handy. This is where you gradually change a habit by taking it slow but, doing it consistently.
 
 ## Reward
 No need to explain it too much, but, this is where you start to see the results of your hard work.
