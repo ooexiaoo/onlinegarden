@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/athletisism/workout-plan/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/areas/athletisism/workout-plan/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.073+05:30","updated":"2023-12-11T00:55:13.769+05:30"}
 ---
 
 
