@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/vivy-fluorite-eye-s-song-2021/","title":"Vivy: Fluorite Eye's Song","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"type":"series","subType":"series","title":"Vivy: Fluorite Eye's Song","englishTitle":"Vivy -Fluorite Eye's Song-","year":2021,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song","id":46095,"genres":["Action","Sci-Fi","Suspense"],"studios":["Wit Studio"],"episodes":13,"duration":"24 min per ep","onlineRating":8.41,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1637/115052.jpg","released":true,"streamingServices":["Crunchyroll","Funimation","Netflix","Aniplus Asia","Bahamut Anime Crazy","Wakanim"],"airing":false,"airedFrom":"03/04/2021","airedTo":"19/06/2021","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/vivy-fluorite-eye-s-song-2021/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.358+05:30","updated":"2023-12-10T09:55:05.287+05:30"}
 ---
 
 <center><img src="https://cdn.myanimelist.net/images/anime/1637/115052.jpg"></center>
