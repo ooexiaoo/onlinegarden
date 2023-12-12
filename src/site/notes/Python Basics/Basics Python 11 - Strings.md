@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-python-11-strings/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/python-basics/basics-python-11-strings/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T20:14:56.363+05:30","updated":"2023-12-12T00:07:26.992+05:30"}
 ---
 
 
