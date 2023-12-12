@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/manhwa/manhwa/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/media-db/manhwa/manhwa/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:58:32.673+05:30","updated":"2023-12-10T09:58:51.074+05:30"}
 ---
 
 
