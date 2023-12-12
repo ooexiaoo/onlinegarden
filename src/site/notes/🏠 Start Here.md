@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","tags":["gardenEntry"],"noteIcon":"1"}
+{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-12T22:20:40.819+05:30"}
 ---
 
 # 🏡
