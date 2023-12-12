@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/sono-bisque-doll-wa-koi-wo-suru-2022/","title":"Sono Bisque Doll wa Koi wo Suru","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"type":"series","subType":"series","title":"Sono Bisque Doll wa Koi wo Suru","englishTitle":"My Dress-Up Darling","year":2022,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru","id":48736,"genres":["Romance","Slice of Life"],"studios":["CloverWorks"],"episodes":12,"duration":"23 min per ep","onlineRating":8.27,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1179/119897.jpg","released":true,"streamingServices":["Crunchyroll","Funimation","Aniplus TV","Bahamut Anime Crazy","Bilibili","Bilibili Global","Laftel","Wakanim","iQIYI"],"airing":false,"airedFrom":"09/01/2022","airedTo":"27/03/2022","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/sono-bisque-doll-wa-koi-wo-suru-2022/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.145+05:30","updated":"2023-12-10T09:53:43.968+05:30"}
 ---
 
 <img src="https://cdn.myanimelist.net/images/anime/1179/119897.jpg">
