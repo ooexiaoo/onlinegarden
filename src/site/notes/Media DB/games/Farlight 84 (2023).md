@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/games/farlight-84-2023/","title":"Farlight 84","tags":["mediaDB/game"],"noteIcon":"1"}
+{"type":"game","subType":null,"title":"Farlight 84","englishTitle":"Farlight 84","year":"2023","dataSource":"SteamAPI","url":"https://store.steampowered.com/app/1928420","id":1928420,"genres":["Action","Adventure","Massively Multiplayer","Free to Play"],"onlineRating":0,"image":"https://cdn.akamai.steamstatic.com/steam/apps/1928420/header.jpg?t=1695292364","released":true,"releaseDate":"21/09/2023","played":false,"personalRating":0,"tags":["mediaDB/game"],"dg-publish":true,"permalink":"/media-db/games/farlight-84-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-15T20:36:50.531+05:30","updated":"2023-12-11T00:26:44.623+05:30"}
 ---
 
 ![img](https://cdn.akamai.steamstatic.com/steam/apps/1928420/header.jpg?t=1695292364)
