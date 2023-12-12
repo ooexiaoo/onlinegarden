@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcast-notes/podcast-notes/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/podcast-notes/podcast-notes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-11T20:28:40.821+05:30","updated":"2023-12-11T20:29:12.078+05:30"}
 ---
 
 
