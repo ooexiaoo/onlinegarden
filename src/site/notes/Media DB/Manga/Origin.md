@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/manga/origin/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/media-db/manga/origin/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:35.977+05:30","updated":"2023-12-10T09:58:27.735+05:30"}
 ---
 
 
