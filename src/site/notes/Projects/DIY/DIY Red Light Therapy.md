@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/projects/diy/diy-red-light-therapy/","noteIcon":"1"}
 ---
 
-
+🧶 Tags - #DIY
 Link - [MakerBazzar](https://makerbazar.in/products/9-watt-ac-dob-led-pcb-for-led-bulbs-red?variant=43967470469360) | [RedLightMan](https://redlightman.com/light-therapy/red/)
 
 To build this I wanted to get the perfect LED's that were in 650nm to 700+nm range, but they are either too expensive to buy or simply not available close enough.
