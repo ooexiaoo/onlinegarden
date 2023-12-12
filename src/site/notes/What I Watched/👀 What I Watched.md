@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-i-watched/what-i-watched/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/what-i-watched/what-i-watched/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.641+05:30","updated":"2023-12-10T09:02:17.044+05:30"}
 ---
 
 
