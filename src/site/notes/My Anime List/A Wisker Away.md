@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-anime-list/a-wisker-away/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/my-anime-list/a-wisker-away/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.803+05:30","updated":"2023-12-12T00:59:35.535+05:30"}
 ---
 
 🧶 Tags - #Movies 
