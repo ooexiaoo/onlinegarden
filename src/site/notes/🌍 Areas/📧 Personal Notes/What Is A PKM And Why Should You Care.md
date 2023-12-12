@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-12T01:08:04.445+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-12T22:51:40.645+05:30"}
 ---
 
 🧶 Tags - #Letterstonoone 
@@ -7,6 +7,7 @@
 ---
 🔗Links -
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2WBHyqRsxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|What Is A PKM And Why Should You Care]]
 ==2022-12-01 - 16:08==
 
