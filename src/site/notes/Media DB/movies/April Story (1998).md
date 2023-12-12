@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/april-story-1998/","title":"April Story","tags":["mediaDB/tv/movie"],"noteIcon":"1"}
+{"type":"movie","subType":null,"title":"April Story","englishTitle":"April Story","year":"1998","dataSource":"OMDbAPI","url":"https://www.imdb.com/title/tt0146271/","id":"tt0146271","genres":["Drama","Romance"],"producer":"Shunji Iwai","duration":"67 min","onlineRating":7.1,"actors":["Takako Matsu","Seiichi Tanabe","Kazuhiko Kato"],"image":"https://m.media-amazon.com/images/M/MV5BNWZiYzU4ZmYtZmZmOC00NDI0LTg0ZjAtNDIxNGE3ZGI5ODQxXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SX300.jpg","released":true,"streamingServices":null,"premiere":"14/03/1998","watched":true,"lastWatched":"","personalRating":7.5,"tags":["mediaDB/tv/movie"],"dateWatched":"2023-02-08 - 00:00","Rating":"⭐ 7.5","dg-publish":true,"permalink":"/media-db/movies/april-story-1998/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.054+05:30","updated":"2023-12-11T18:39:40.395+05:30"}
 ---
 
 #Movies_2023 
