@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/useful-code/responsive-embed-code-for-video/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/useful-code/responsive-embed-code-for-video/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T19:38:21.834+05:30","updated":"2023-12-10T19:40:36.279+05:30"}
 ---
 
 
