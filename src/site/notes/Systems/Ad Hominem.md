@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/systems/ad-hominem/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/systems/ad-hominem/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.440+05:30","updated":"2023-12-12T01:02:48.961+05:30"}
 ---
 
 # [[Systems/Ad Hominem\|Ad Hominem]]
