@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/the-beauty-inside/","noteIcon":"1"}
+{"banner_icon":"😍","dg-publish":true,"permalink":"/areas/letters-to-no-one/the-beauty-inside/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.017+05:30","updated":"2023-12-12T01:15:09.212+05:30"}
 ---
 
 # [[🌍 Areas/📧  Letters To No One/The Beauty Inside\|The Beauty Inside]]
