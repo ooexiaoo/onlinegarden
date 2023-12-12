@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/kimi-wa-houkago-insomnia-2023/","title":"Kimi wa Houkago Insomnia","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"type":"series","subType":"series","title":"Kimi wa Houkago Insomnia","englishTitle":"Insomniacs After School","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/50796/Kimi_wa_Houkago_Insomnia","id":50796,"genres":["Romance"],"studios":["LIDENFILMS"],"episodes":13,"duration":"23 min per ep","onlineRating":7.94,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1402/134007.jpg","released":true,"streamingServices":["HIDIVE","Anime Digital Network","Aniplus TV"],"airing":true,"airedFrom":"11/04/2023","airedTo":"01/01/1970","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/kimi-wa-houkago-insomnia-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.086+05:30","updated":"2023-12-10T09:46:17.508+05:30"}
 ---
 
 Beautiful series, still a few episodes left to watch but damn, this is tastefully done. Rewatchable for sure.
