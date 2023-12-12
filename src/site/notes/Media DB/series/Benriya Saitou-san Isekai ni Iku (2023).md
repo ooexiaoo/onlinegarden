@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/benriya-saitou-san-isekai-ni-iku-2023/","title":"Benriya Saitou-san, Isekai ni Iku","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"rating":"⭐ 7.5","dateWatched":"2023-02-13 - 06:00","Hours":4.6,"type":"series","subType":"series","title":"Benriya Saitou-san, Isekai ni Iku","englishTitle":"Handyman Saitou in Another World","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/50854/Benriya_Saitou-san_Isekai_ni_Iku","id":50854,"genres":["Adventure","Comedy","Fantasy"],"studios":["C2C"],"episodes":12,"duration":"23 min per ep","onlineRating":7.18,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1805/132335.jpg","released":true,"streamingServices":["Crunchyroll","Aniplus TV","Bilibili Global","Laftel"],"airing":true,"airedFrom":"08/01/2023","airedTo":"01/01/1970","watched":false,"lastWatched":"Currently watching","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/benriya-saitou-san-isekai-ni-iku-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.233+05:30","updated":"2023-12-10T09:40:28.166+05:30"}
 ---
 
 #Anime_Show_2023 
