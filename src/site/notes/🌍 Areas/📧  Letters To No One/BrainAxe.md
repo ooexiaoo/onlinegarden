@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/brain-axe/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/brain-axe/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:33:13.330+05:30","updated":"2023-12-12T01:13:12.498+05:30"}
 ---
 
 🧶 Tags - #Farlight84
