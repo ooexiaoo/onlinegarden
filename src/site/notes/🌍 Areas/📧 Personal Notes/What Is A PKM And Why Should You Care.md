@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-12T01:08:04.445+05:30"}
 ---
 
 🧶 Tags - #Letterstonoone 
