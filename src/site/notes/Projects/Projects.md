@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/projects/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/projects/projects/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T00:58:00.925+05:30","updated":"2023-12-12T00:58:24.536+05:30"}
 ---
 
 
