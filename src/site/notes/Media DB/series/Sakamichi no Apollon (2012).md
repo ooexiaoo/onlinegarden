@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/sakamichi-no-apollon-2012/","title":"Sakamichi no Apollon","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"type":"series","subType":"series","title":"Sakamichi no Apollon","englishTitle":"Kids on the Slope","year":2012,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/12531/Sakamichi_no_Apollon","id":12531,"genres":["Drama","Romance"],"studios":["Tezuka Productions","MAPPA"],"episodes":12,"duration":"22 min per ep","onlineRating":8.31,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1604/98654.jpg","released":true,"streamingServices":["Crunchyroll","HIDIVE"],"airing":false,"airedFrom":"13/04/2012","airedTo":"29/06/2012","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/sakamichi-no-apollon-2012/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.257+05:30","updated":"2023-12-10T09:53:30.004+05:30"}
 ---
 
 <img src="https://cdn.myanimelist.net/images/anime/1604/98654.jpg">
