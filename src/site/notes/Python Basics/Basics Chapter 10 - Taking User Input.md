@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-10-taking-user-input/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-10-taking-user-input/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T20:48:32.218+05:30","updated":"2023-12-10T19:50:49.282+05:30"}
 ---
 
 🧶 Tags - #Python_Basics 
