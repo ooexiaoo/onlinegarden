@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-python-12-string-slicing-and-operations-on-string/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/python-basics/basics-python-12-string-slicing-and-operations-on-string/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T00:05:46.253+05:30","updated":"2023-12-12T00:36:57.160+05:30"}
 ---
 
 🧶 Tags - #Python_Basics 
