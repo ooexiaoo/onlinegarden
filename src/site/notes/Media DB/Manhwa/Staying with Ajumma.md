@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/manhwa/staying-with-ajumma/","title":"Staying With Ajumma","tags":["Manwha"],"noteIcon":"1"}
+{"rating":"⭐ 8","dateRead":"onGoing","type":"manhwa","subType":"Harem","title":"Staying With Ajumma","englishTitle":"Staying With Ajumma","year":2022,"dataSource":"webtoon.xyz","url":"https://www.webtoon.xyz/read/staying-with-ajumma/","genres":["Drama","Harem","Mature","Romance"],"Author":["Geurogoreu"],"Artist":["jjang-i"],"Chapters":24,"onlineRating":7.32,"image":"","released":true,"Websites":["https://www.webtoon.xyz/read/staying-with-ajumma/","https://manhuascan.com/manga/34006-staying-with-ajumma"],"Read":true,"lastRead":"yesterday","personalRating":8,"tags":["Manwha"],"dg-publish":true,"permalink":"/media-db/manhwa/staying-with-ajumma/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T21:39:06.689+05:30","updated":"2023-12-12T00:44:03.640+05:30"}
 ---
 
 #Manwha 
