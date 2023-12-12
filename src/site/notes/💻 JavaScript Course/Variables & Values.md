@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/java-script-course/variables-and-values/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/java-script-course/variables-and-values/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.564+05:30","updated":"2023-12-12T07:35:15.365+05:30"}
 ---
 
 🧶 Tags - #JavaScript 
