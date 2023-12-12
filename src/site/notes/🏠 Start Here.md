@@ -2,19 +2,24 @@
 {"dg-publish":true,"permalink":"/start-here/","tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
-## Start Here
-[[💻 JavaScript Course/💻 JavaScript Course\|💻 JavaScript Course]]
-[[🖥️ HTML & CSS/🖥️ HTML & CSS\|🖥️ HTML & CSS]]
-[[Python Basics/Python Basics\|Python Basics/Python Basics]]
-[[Media DB/Media DB\|Media DB]]
-# Q U I C K - L I N K S
-| File                                                                            | Cover                                                                                    |
-| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [[What I Watched/📺 Movies 2023\|📺 Movies 2023]]                            | ![\|20](https://i.pinimg.com/564x/0f/21/7d/0f217d0189f841ae794500966ab1845a.jpg)         |
-| [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]]                     | ![\|20](https://wallpapers-clan.com/wp-content/uploads/2022/12/anime-eyes-gif-pfp-1.gif) |
-| [[Projects/Mohak Herbs/Mohak Herbs\|Mohak Herbs]]                            | ![\|20](https://i.ibb.co/280Hg9p/MH-LOGO-GIF1.gif)                                       |
-| [[Projects/Name Unavailable/The Binary Philosopher\|The Binary Philosopher]] | ![\|20](https://i.ibb.co/1GyKctn/The-Binary-Philosopher.gif)                             |
+## Where Are You? 😵‍💫
+You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
 
-{ .block-language-dataview}
+This is my little corner of the internet, where I publicly share my notes related to what I'm doing, what kind of content I'm consuming, etc to practice learning in public.
+
+Everything here is a work in progress. There are very few notes that I'm happy with, the ones that I can call are complete notes. Everything else is just constantly changing.
+
+You can meet me on my [YouTube](https://youtube.com/@naamnahihai) channel, or my main site [Exia's Garden](https://exiasgarden.pages.dev). I still need to make a real site where I'll finally post all my notes, but for now these are the places where you can find me and my ideas at.
+
+## How You Should Navigate This Site? 🌎
+You can see all the content of the site in the sidebar. Even though this is not the best way to navigate the site, I'm still building it, so for now this is one of the best ways.
+
+You can also search of anything you want with the search bar or by simply using **CTRL + K**.
+
+There is also a graph view on every page that will show you which files are linked to the current page, giving you an idea of what is connected to it.
+
+You can also hover the internal links and see what is the file's content is a hover popup, just like Wikipedia.
+
+
 - ## 〽️ Stats
 	-  Note Count: 1394
