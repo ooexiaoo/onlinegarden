@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/java-script-course/js-function-terminology/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/java-script-course/js-function-terminology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.558+05:30","updated":"2023-12-11T19:08:38.125+05:30"}
 ---
 
 🧶 Tags - #JavaScript 
