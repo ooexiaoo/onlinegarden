@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/html-and-css/chapter-16-finish-the-project/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/html-and-css/chapter-16-finish-the-project/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.650+05:30","updated":"2023-12-12T07:37:15.363+05:30"}
 ---
 
 🧶 Tags - #HTML_CSS 
