@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/areas/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.823+05:30","updated":"2023-12-12T22:18:50.775+05:30"}
+{"dg-publish":true,"permalink":"/areas/areas/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.823+05:30","updated":"2023-12-13T03:51:01.956+05:30"}
 ---
 
 
@@ -492,6 +492,7 @@
 		- [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-10\|2023-12-10]]
 		- [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-11\|2023-12-11]]
 		- [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-12\|2023-12-12]]
+		- [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-13\|2023-12-13]]
 		- [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/Daily Notes Database\|Daily Notes Database]]
 	- **🗓 Monthly Notes**
 		- [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2022-12\|2022-12]]
