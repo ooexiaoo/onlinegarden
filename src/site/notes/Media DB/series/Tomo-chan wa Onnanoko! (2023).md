@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/tomo-chan-wa-onnanoko-2023/","title":"Tomo-chan wa Onnanoko!","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"rating":"⭐ 7","dateWatched":"2023-02-11 - 08:00","Hours":4.9,"type":"series","subType":"series","title":"Tomo-chan wa Onnanoko!","englishTitle":"Tomo-chan Is a Girl!","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/52305/Tomo-chan_wa_Onnanoko","id":52305,"genres":["Comedy","Romance"],"studios":["Lay-duce"],"episodes":13,"duration":"23 min per ep","onlineRating":7.57,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1444/131828.jpg","released":true,"streamingServices":["Crunchyroll","Aniplus TV","Bahamut Anime Crazy","Laftel"],"airing":true,"airedFrom":"05/01/2023","airedTo":"01/01/1970","watched":false,"lastWatched":"Currently watching","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/tomo-chan-wa-onnanoko-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.191+05:30","updated":"2023-12-10T09:54:43.587+05:30"}
 ---
 
 #Anime_Show_2023 
