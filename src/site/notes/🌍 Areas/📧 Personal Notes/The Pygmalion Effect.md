@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/the-pygmalion-effect/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/the-pygmalion-effect/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.284+05:30","updated":"2023-12-12T01:05:59.250+05:30"}
 ---
 
 # [[🌍 Areas/📧 Personal Notes/The Pygmalion Effect\|The Pygmalion Effect]]
