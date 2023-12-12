@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/name-unavailable/the-only-youtube-guide-you-ll-ever-need/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/projects/name-unavailable/the-only-youtube-guide-you-ll-ever-need/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-28T17:20:45.224+05:30","updated":"2023-12-12T00:52:44.723+05:30"}
 ---
 
 
