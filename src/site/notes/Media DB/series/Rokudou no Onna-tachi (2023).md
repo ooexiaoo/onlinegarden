@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/rokudou-no-onna-tachi-2023/","title":"Rokudou no Onna-tachi","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"type":"series","subType":"series","title":"Rokudou no Onna-tachi","englishTitle":"Rokudo's Bad Girls","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/54259/Rokudou_no_Onna-tachi","id":54259,"genres":["Comedy","Romance"],"studios":["Satelight"],"episodes":null,"duration":"23 min","onlineRating":6.47,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1933/134709.jpg","released":true,"streamingServices":["Crunchyroll"],"airing":true,"airedFrom":"08/04/2023","airedTo":"01/01/1970","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/rokudou-no-onna-tachi-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.107+05:30","updated":"2023-12-10T09:53:11.596+05:30"}
 ---
 
