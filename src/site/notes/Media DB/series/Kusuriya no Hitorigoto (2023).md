@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/kusuriya-no-hitorigoto-2023/","title":"Kusuriya no Hitorigoto","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"type":"series","subType":"series","title":"Kusuriya no Hitorigoto","englishTitle":"The Apothecary Diaries","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/54492/Kusuriya_no_Hitorigoto","id":54492,"genres":["Drama","Mystery"],"studios":["OLM","TOHO animation STUDIO"],"episodes":24,"duration":"22 min per ep","onlineRating":8.67,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1708/138033.jpg","released":true,"streamingServices":["Crunchyroll","Netflix"],"airing":true,"airedFrom":"22/10/2023","airedTo":"01/01/1970","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/kusuriya-no-hitorigoto-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.385+05:30","updated":"2023-12-10T09:46:23.770+05:30"}
 ---
 
 ![img](https://cdn.myanimelist.net/images/anime/1708/138033.jpg)
