@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/omnivore/2023-11-20/100-m-offers-summary-alex-hormozi-aure-s-notes/","noteIcon":"1"}
+{"id":"ce359982-7168-40f2-ad5e-484249e68c12","dg-publish":true,"permalink":"/omnivore/2023-11-20/100-m-offers-summary-alex-hormozi-aure-s-notes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-20T04:48:20.832+05:30","updated":"2023-12-12T07:29:19.558+05:30"}
 ---
 
 
