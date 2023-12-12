@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/start-here/","tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
+# 🏡
 ## Where Are You? 😵‍💫
 You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
 
