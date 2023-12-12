@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-9-typecasting-in-python/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-9-typecasting-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T00:57:52.121+05:30","updated":"2023-12-10T19:50:40.655+05:30"}
 ---
 
 🧶 Tags - #Python_Basics 
