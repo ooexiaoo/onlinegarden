@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/projects/diy/electricity-usage-and-cost-for-mini-solar/","noteIcon":"1"}
 ---
 
-🧶 Tags - #Personal_Notes 
+🧶 Tags - #Personal_Notes, #DIY
 # [[Projects/DIY/Electricity Usage & Cost for Mini Solar\|Electricity Usage & Cost for Mini Solar]]
 ==2021-10-13 - 09:42==
 
