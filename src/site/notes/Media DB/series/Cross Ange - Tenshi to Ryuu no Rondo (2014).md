@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/cross-ange-tenshi-to-ryuu-no-rondo-2014/","title":"Cross Ange: Tenshi to Ryuu no Rondo","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"type":"series","subType":"series","title":"Cross Ange: Tenshi to Ryuu no Rondo","englishTitle":"Cross Ange: Rondo of Angel and Dragon","year":2014,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/25731/Cross_Ange__Tenshi_to_Ryuu_no_Rondo","id":25731,"genres":["Action","Fantasy","Sci-Fi"],"studios":["Sunrise"],"episodes":25,"duration":"23 min per ep","onlineRating":7.39,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/2/67515.jpg","released":true,"streamingServices":null,"airing":false,"airedFrom":"05/10/2014","airedTo":"29/03/2015","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/cross-ange-tenshi-to-ryuu-no-rondo-2014/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.338+05:30","updated":"2023-12-10T09:41:05.132+05:30"}
 ---
 
 <center><img src="https://cdn.myanimelist.net/images/anime/2/67515.jpg"></center>
