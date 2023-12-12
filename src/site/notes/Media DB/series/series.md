@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-12T19:56:43.516+05:30"}
 ---
 
 
