@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/html-and-css/the-problem-with-view-points/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/html-and-css/the-problem-with-view-points/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.691+05:30","updated":"2023-12-12T07:37:56.161+05:30"}
 ---
 
 🧶 Tags - #HTML_CSS 
