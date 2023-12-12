@@ -42,6 +42,7 @@
 	- [[Media DB/series/Mushoku Tensei II - Isekai Ittara Honki Dasu (2023)\|Mushoku Tensei II - Isekai Ittara Honki Dasu (2023)]]
 	- [[Media DB/series/My Home Hero (2023)\|My Home Hero (2023)]]
 	- [[Media DB/series/Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)\|Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)]]
+	- [[Media DB/series/NipTuck (2003–2010)\|NipTuck (2003–2010)]]
 	- [[Media DB/series/Ooyukiumi no Kaina (2023)\|Ooyukiumi no Kaina (2023)]]
 	- [[Media DB/series/Oshi no Ko (2023)\|Oshi no Ko (2023)]]
 	- [[Media DB/series/Otonari ni Ginga (2023)\|Otonari ni Ginga (2023)]]
