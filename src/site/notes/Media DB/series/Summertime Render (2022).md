@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/summertime-render-2022/","title":"Summertime Render","tags":["mediaDB/tv/series"],"noteIcon":"1"}
+{"rating":"⭐ 8.5","dateWatched":"2023-02-08 - 00:00","Hours":9.5,"type":"series","subType":"series","title":"Summertime Render","englishTitle":"Summer Time Rendering","year":2022,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/47194/Summertime_Render","id":47194,"genres":["Mystery","Supernatural","Suspense"],"studios":["OLM"],"episodes":25,"duration":"23 min per ep","onlineRating":8.53,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1120/120796.jpg","released":true,"streamingServices":["Disney+"],"airing":false,"airedFrom":"15/04/2022","airedTo":"30/09/2022","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/summertime-render-2022/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.293+05:30","updated":"2023-12-10T09:53:57.651+05:30"}
 ---
 
 #Anime_Show_2023 
