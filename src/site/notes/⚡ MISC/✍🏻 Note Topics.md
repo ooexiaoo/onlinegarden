@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/note-topics/","tags":["Favorite"],"noteIcon":"1"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-11T19:05:58.054+05:30"}
 ---
 
 # [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]
