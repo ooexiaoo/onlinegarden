@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","noteIcon":"1"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-12T20:46:46.420+05:30"}
 ---
 
 # [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]
