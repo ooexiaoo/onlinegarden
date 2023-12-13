@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note-processing-dashboard/notes-dashboard/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T09:34:19.075+05:30","updated":"2023-12-13T20:35:22.797+05:30"}
+{"dg-publish":true,"permalink":"/note-processing-dashboard/notes-dashboard/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T09:34:19.075+05:30","updated":"2023-12-14T00:11:58.959+05:30"}
 ---
 
 | File                                                                                                                  | Tags                                           |
@@ -21,16 +21,5 @@
 | [[🌍 Areas/📈 Personal Growth/Mental Models\|Mental Models]]                                                       | \-                                             |
 | [[🌍 Areas/📧 Personal Notes/Masturbation And Porn\|Masturbation And Porn]]                                        | \-                                             |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                        | <ul><li>Favorite</li></ul>                     |
-
-{ .block-language-dataview}
-
-### Unused Dataview
-| Tags | Folder | Files |
-| ---- | ------ | ----- |
-
-{ .block-language-dataview}
-### Unused Dataview
-| Tags | Folder | Files |
-| ---- | ------ | ----- |
 
 { .block-language-dataview}
