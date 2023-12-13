@@ -1,5 +1,5 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-13T09:28:07.997+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-13T20:13:50.572+05:30"}
 ---
 
 # [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]
@@ -38,6 +38,8 @@
 - [ ] https://totalshape.com/supplements/bryan-johnson-supplements-list/
 - [ ] https://www.simplypsychology.org/transactional-analysis-eric-berne.html
 - [ ] https://auresnotes.com/summary-your-brain-on-porn-gary-wilson/
+- [ ] parasocial relationships
+- [ ] https://zachshirow.medium.com/how-i-keep-my-obsidian-vault-super-organized-with-the-auto-note-mover-plugin-12bb86ccd78b
 
 Fadogia Agrestis
 https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF
