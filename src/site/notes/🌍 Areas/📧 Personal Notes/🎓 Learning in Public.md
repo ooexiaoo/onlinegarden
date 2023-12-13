@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-14T04:15:38.320+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-14T04:22:40.496+05:30"}
 ---
 
 🧶 Tags:: #🌱 , #Fleeting_Notes 
@@ -34,18 +34,18 @@ It's on you what format you want to use to show your work. I found that writing 
 
 You can also use social media platforms like [x](https://x.com), or [reddit](https://reddit.com), where you can post what you're learning or share the issues you're facing with a project.
 
-It depends on <span style="background:#d2cbff">what you're comfortable with, how complex is the topic, how easy or hard it is to write or create a video about</span>. If you're going to do this seriously, you're bound to use multiple ways to share your content on different platforms.
+It depends on **what you're comfortable with, how complex is the topic, how easy or hard it is to write or create a video about**. If you're going to do this seriously, you're bound to use multiple ways to share your content on different platforms.
 ### Welcome Feedback
-If you make your learning public, you set yourself up for feedback from other member of your community. <span style="background:#d2cbff">If someone thinks you're wrong or your work is not good? Well, that's a learning opportunity for you</span>.
+If you make your learning public, you set yourself up for feedback from other member of your community. **If someone thinks you're wrong or your work is not good? Well, that's a learning opportunity for you**.
 ### Don't Count Clicks
-This isn't a popularity contest. No need to judge yourself based on how many likes, or clicks you got. The goals is to learn, <span style="background:#d2cbff">Even if no one reads your blogs, you'll have a record of your learning journey and that's more important than anything else</span>.
+This isn't a popularity contest. No need to judge yourself based on how many likes, or clicks you got. The goals is to learn, **Even if no one reads your blogs, you'll have a record of your learning journey and that's more important than anything else**.
 
 In future maybe some people will get benefit from your content, but don't forget that the main beneficiary of the entire process is you.
 ### Participate
 Learning in public isn't simply about sharing what you learn. You also need to take part in other people's learning process.
 
-<span style="background:#d2cbff">Join discussions, comment on other blog posts or videos that you've enjoyed, or learnt something, thank the creators and ask questions</span>. By doing so you open yourself up for new knowledge and can also share your own insights with others.
+**Join discussions, comment on other blog posts or videos that you've enjoyed, or learnt something, thank the creators and ask questions**. By doing so you open yourself up for new knowledge and can also share your own insights with others.
 ## Why You Should Learn in Public
 It's easy to feel reluctant when it comes to sharing your work. Either due to our thinking that, **we don't have enough to share or that we are not good enough**, but don't let those feels stop you. The goal is to learn, If you keep your knowledge walled off from the rest of the world, there's a big chance that you'll miss out on some amazing benefits public learning provides.
 
-<span style="background:#d2cbff">Over time, as you learn more and hone your skills, the content you share will add credibility to your work</span>.
+**Over time, as you learn more and hone your skills, the content you share will add credibility to your work**.
