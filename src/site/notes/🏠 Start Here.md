@@ -1,12 +1,12 @@
 ---
-{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-13T10:10:53.693+05:30"}
+{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-14T04:16:28.571+05:30"}
 ---
 
 # 🏡
 ## Where Are You? 😵‍💫
 You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
 
-This is my little corner of the internet, where I publicly share my notes related to what I'm doing, what kind of content I'm consuming, etc to practice learning in public.
+This is my little corner of the internet, where I publicly share my notes related to what I'm doing, what kind of content I'm consuming, etc to practice [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|learning in public]].
 
 Everything here is a work in progress. There are very few notes that I'm happy with, the ones that I can call are complete notes. Everything else is just constantly changing.
 
@@ -23,4 +23,4 @@ You can also hover the internal links and see what is the file's content is a ho
 
 
 - ## 〽️ Stats
-	-  Note Count: 1411
+	-  Note Count: 1412
