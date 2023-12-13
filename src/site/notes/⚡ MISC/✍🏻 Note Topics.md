@@ -1,5 +1,5 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-11T19:05:58.054+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-13T09:28:07.997+05:30"}
 ---
 
 # [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]
@@ -33,6 +33,11 @@
 - [ ] Effects of being in constant silos and echo chambers (twitter, youtube, social media, even friends and family)
 - [x] [[🌍 Areas/📧  Letters To No One/Exploring Consciousness in Modern Western Culture\|Exploring Consciousness in Modern Western Culture]]
 - [ ] [[Transactional Analysis\|Transactional Analysis]]
+- [ ] https://yesterweb.org/no-to-web3/
+- [ ] https://publish.obsidian.md/aidanhelfant/Concept+Notes/Using+Tags+to+Identify+Note+Type+and+Status
+- [ ] https://totalshape.com/supplements/bryan-johnson-supplements-list/
+- [ ] https://www.simplypsychology.org/transactional-analysis-eric-berne.html
+- [ ] https://auresnotes.com/summary-your-brain-on-porn-gary-wilson/
 
 Fadogia Agrestis
 https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF
