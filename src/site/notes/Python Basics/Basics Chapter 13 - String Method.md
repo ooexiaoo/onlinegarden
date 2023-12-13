@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-13-string-method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T23:55:10.422+05:30","updated":"2023-12-13T03:29:25.843+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-13-string-method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T23:55:10.422+05:30","updated":"2023-12-13T23:00:44.568+05:30"}
 ---
 
 🧶 Tags - #Python_Basics 
-Up - [[]]
+Up - [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|Basics Chapter 14 - If Else Conditional Statements in Python]]
 Down - [[Python Basics/Basics Chapter 12 - String Slicing & Operations on String\|Basics Chapter 12 - String Slicing & Operations on String]]
 🗃 Resources - [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 # [[Python Basics/Basics Chapter 13 - String Method\|Basics Chapter 13 - String Method]]
