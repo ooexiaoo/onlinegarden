@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/compounded-relationships/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.247+05:30","updated":"2023-12-14T00:09:01.062+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/compounded-relationships/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.247+05:30","updated":"2023-12-14T02:55:04.874+05:30"}
 ---
 
 # [[🌍 Areas/📧 Personal Notes/Compounded Relationships\|Compounded Relationships]]
@@ -27,9 +27,6 @@ Make sure you only invest in the positive ones. After some efforts, if some rela
 -   And finally, remember that no one, least of all relationship coaches, know if the relationship market is going up, down, sideways or in fucking circles.
 
 ---
-🧶 Tags - #Personal_Notes, #Personal_Growth, #🌱 
-
----
+🧶 Tags:: #Personal_Notes, #Personal_Growth, #🌱 
 Resources - [[🌍 Areas/📈 Personal Growth/Focused Efforts On Things That Give Exponential Results\|Focused Efforts On Things That Give Exponential Results]]
----
 Links - https://www.reddit.com/r/LifeProTips/comments/gzjlfk/lpt_relationships_like_money_compound_over_time/
