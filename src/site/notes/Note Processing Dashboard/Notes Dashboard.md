@@ -10,6 +10,7 @@
 | [[🌍 Areas/📧 Personal Notes/Core Idea Time Management\|Core Idea Time Management]]                                | \-                                             |
 | [[🌍 Areas/💪🏼 Athletisism/Bryan Johnson Supplement list\|Bryan Johnson Supplement list]]                         | <ul><li>#🌱</li><li>#Reference_Notes</li></ul> |
 | [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|What Is A PKM And Why Should You Care]]        | <ul><li>Letterstonoone</li><li>🌱</li></ul>    |
+| [[🌍 Areas/📧 Personal Notes/Compounded Relationships\|Compounded Relationships]]                                  | \-                                             |
 | [[Macros\|Macros]]                                                                                                 | \-                                             |
 | [[Acquiring The Basic Skills\|Acquiring The Basic Skills]]                                                         | \-                                             |
 | [[🌍 Areas/💪🏼 Athletisism/Keeping Your Body At Its Best\|Keeping Your Body At Its Best]]                         | \-                                             |
