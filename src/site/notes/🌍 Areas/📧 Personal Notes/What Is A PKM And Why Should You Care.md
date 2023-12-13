@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-13T09:40:46.531+05:30"}
+{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-13T10:05:16.138+05:30"}
 ---
 
 🧶 Tags - #Letterstonoone, #🌱 
@@ -73,7 +73,7 @@ PKM as we already saw helps you make sense of the world. **Because through your 
 
 That means through better sense making you become better empowered to create better, to learn faster, to learn at a higher and more sustainable level and yet stay grounded and focused as the world attempts to tear your attention apart.
 
-Through better sense making by digitally linking your thinking, you can develop your ideas over decades. You can make more valuable leaps of insights, and all the while you can't help but train yourself into the habit of better thinking. By better thinking I mean having the ability to think **<mark style="background: #FFF3A3A6;">critically, creatively, and consecutively</mark>** all at the same time.
+Through better sense making by digitally linking your thinking, you can develop your ideas over decades. You can make more valuable leaps of insights, and all the while you can't help but train yourself into the habit of better thinking. By better thinking I mean having the ability to think **<mark style="background: #FDFD96;">critically, creatively, and consecutively</mark>** all at the same time.
 
 This type of sustainable sense making will fill your thoughts with more joy, meaning, and personal
 unique perspectives. Armed with all you can't help but be able to contribute more value, in more ways to your family, Friends, Community, and Society as a whole. And it's all from developing a personal environment to encourage, nurture, develop, and reliably save your best thinking. That's the promise and the premise of personal knowledge management.
