@@ -21,7 +21,7 @@ The whole project is <mark style="background: #BBFABBA6;">99KiB</mark> Including
 
 You can find the project on by clicking here - [Github.com](https://github.com/ooexiaoo/Password-Generator-Extension).
 
-![1.webp](/img/user/1.webp)
+![1.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/1.webp)
 
 ## Here's The Code:
 ### JSON
