@@ -4,22 +4,22 @@
 
 | File                                                                                                                  | Tags                                           |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[🌍 Areas/📧 Personal Notes/Core Idea Time Management\|Core Idea Time Management]]                                | \-                                             |
+| [[🌍 Areas/📧 Personal Notes/Communicating Better\|Communicating Better]]                                          | \-                                             |
 | [[Ask basic questions\|Ask basic questions]]                                                                       | \-                                             |
 | [[Systems/Dunning Kruger Effect\|Dunning Kruger Effect]]                                                           | \-                                             |
-| [[🌍 Areas/📧 Personal Notes/Communicating Better\|Communicating Better]]                                          | \-                                             |
-| [[🌍 Areas/📧 Personal Notes/Core Idea Time Management\|Core Idea Time Management]]                                | \-                                             |
-| [[🌍 Areas/💪🏼 Athletisism/Bryan Johnson Supplement list\|Bryan Johnson Supplement list]]                         | <ul><li>#🌱</li><li>#Reference_Notes</li></ul> |
 | [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|What Is A PKM And Why Should You Care]]        | <ul><li>Letterstonoone</li><li>🌱</li></ul>    |
 | [[🌍 Areas/📧 Personal Notes/Compounded Relationships\|Compounded Relationships]]                                  | \-                                             |
+| [[🌍 Areas/💪🏼 Athletisism/Bryan Johnson Supplement list\|Bryan Johnson Supplement list]]                         | <ul><li>#🌱</li><li>#Reference_Notes</li></ul> |
+| [[🌍 Areas/📧 Personal Notes/Masturbation And Porn\|Masturbation And Porn]]                                        | \-                                             |
+| [[🌍 Areas/📈 Personal Growth/Mental Models\|Mental Models]]                                                       | \-                                             |
+| [[🌍 Areas/📈 Personal Growth/Manifesting\|Manifesting]]                                                           | \-                                             |
+| [[🌍 Areas/📈 Personal Growth/How to focus on things that truly matter\|How to focus on things that truly matter]] | \-                                             |
+| [[🌍 Areas/📈 Personal Growth/Game Theory\|Game Theory]]                                                           | \-                                             |
 | [[Macros\|Macros]]                                                                                                 | \-                                             |
 | [[Acquiring The Basic Skills\|Acquiring The Basic Skills]]                                                         | \-                                             |
 | [[🌍 Areas/💪🏼 Athletisism/Keeping Your Body At Its Best\|Keeping Your Body At Its Best]]                         | \-                                             |
 | [[🌍 Areas/💸 Financial Notes/Taxes\|Taxes]]                                                                       | \-                                             |
-| [[🌍 Areas/📈 Personal Growth/Game Theory\|Game Theory]]                                                           | \-                                             |
-| [[🌍 Areas/📈 Personal Growth/How to focus on things that truly matter\|How to focus on things that truly matter]] | \-                                             |
-| [[🌍 Areas/📈 Personal Growth/Manifesting\|Manifesting]]                                                           | \-                                             |
-| [[🌍 Areas/📈 Personal Growth/Mental Models\|Mental Models]]                                                       | \-                                             |
-| [[🌍 Areas/📧 Personal Notes/Masturbation And Porn\|Masturbation And Porn]]                                        | \-                                             |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                        | <ul><li>Favorite</li></ul>                     |
 
 { .block-language-dataview}
