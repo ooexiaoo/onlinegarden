@@ -1,17 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-12T22:51:40.645+05:30"}
+{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-13T09:40:46.531+05:30"}
 ---
 
-🧶 Tags - #Letterstonoone 
- 
----
-🔗Links -
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2WBHyqRsxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+🧶 Tags - #Letterstonoone, #🌱 
+🔗Links - [To YouTube](https://www.youtube.com/embed/Q2WBHyqRsxA)
+
+<div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
+  <iframe
+    src="https://www.youtube.com/embed/Q2WBHyqRsxA"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="autoplay; fullscreen"
+    frameborder="0"
+    scrolling="no"
+  ></iframe>
+</div>
 
 # [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|What Is A PKM And Why Should You Care]]
 ==2022-12-01 - 16:08==
 
----
 PKM in its full form is known as **personal knowledge management**, is a system which helps you keep a database of all the knowledge that is important to you in your life. We all have the same problem, which is remembering things that help us make sense of the world.
 
 You can use a PKM for anything that you're into, like when you're working on your PhD, or just want to remember what shows you watched or want to watch, or you stumbled upon a topic and don't want to forget everything that you've learned by next week, or maybe you just want to track your habits, your workouts or your dreams and goals over time, or maybe you want to remember and cherish all the memories of your loved ones, or just and to remember how you've lived a good life.
@@ -19,7 +25,6 @@ You can use a PKM for anything that you're into, like when you're working on you
 If you do anything like that, then you're managing knowledge, and that's PKM. Knowledge management is the process of creating, sharing, using, and managing knowledge. Personal knowledge management is really about making sense of the world and once you start diving deeper into this topic you'll start asking many interesting questions like, **What should I do in this world? How should I conduct myself? Where should I spend my limited amount of attention? What really matters?**
 
 If we decide these existential questions are fundamental to a life worth living, then we better have a way to deal with all the stuff that we have going on in our lives, and PKM can help us do just that.
-
 ## So How Do We Do It?
 We need to create a framework to manage all the content that we have and create. Just like we humans have been doing it for years, we create simple frameworks that are easy to remember because even though the **"you"** of today has life figured out, how do you know you won't forget what you've learnt in the decades to come.
 
@@ -46,31 +51,23 @@ The beauty of the PKM planet is it forces the question, **where am I spending mo
 
 ## PKM Archetypes Overview
 With the help of PKM planet you can help understand the common the archetypes, This can help you understand your use case as to where you're spending most of your time. There are 7 PKM archetypes.
-
 ### Top-down vs Bottom-up
 How much time are you spending as a top-down thinker vs a bottom-up thinker?
-
 ### Note-taker vs Note-maker
 How does the time spent differ from the note-taker vs the note-makers?
 What about note-taker that fall into the trap of always summarizing the same information and never making sense of it.
-
 ### Regurgitators vs Sense-makers
 How do we recognize the content regurgitators vs sense-makers?
-
 ### Journaler, Writer, World-builder
 Are you a writer, a journaler, or a world-builder?
-
 ### PD Nerd, PM
 Are you a personal development nerd? A project manager?
-
 ### "Churn & Burn" Student vs "Know & Grow" Student
 What kind of student are you? And how do you get the knowledge?
-
 ### Relationship-builder
 Maybe you also want to keep a track of some personal and professional relationships? How does those weather patterns look on the PKM planet?
 
 Knowing these archetypes will help you avoid the most common pitfalls in knowledge management, while also confidently saving, developing, and maturing your ideas sustainably over time
-
 ## So What Is PKM?
 PKM as we already saw helps you make sense of the world. **Because through your sense of the world, all your actions are influenced.**
 
@@ -80,7 +77,6 @@ Through better sense making by digitally linking your thinking, you can develop 
 
 This type of sustainable sense making will fill your thoughts with more joy, meaning, and personal
 unique perspectives. Armed with all you can't help but be able to contribute more value, in more ways to your family, Friends, Community, and Society as a whole. And it's all from developing a personal environment to encourage, nurture, develop, and reliably save your best thinking. That's the promise and the premise of personal knowledge management.
-
 #### This kind of system helps you is a variety of ways.
 * All your important data in one place.
 * Remember and link your life together.
