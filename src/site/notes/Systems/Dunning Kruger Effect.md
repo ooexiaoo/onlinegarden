@@ -1,16 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/systems/dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.473+05:30","updated":"2023-12-14T00:13:19.019+05:30"}
+{"dg-publish":true,"permalink":"/systems/dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.473+05:30","updated":"2023-12-14T02:56:05.638+05:30"}
 ---
 
 # [[Systems/Dunning Kruger Effect\|Dunning Kruger Effect]]
 ==2022-06-08 - 15:14==
-
----
 ## What is the Dunning-Kruger Effect?
 The _Dunning-Kruger effect_ effect occurs when a person’s lack of knowledge and skills in a certain area cause them to overestimate their own competence. By contrast, this effect also causes those who excel in a given area to think the task is simple for everyone, and underestimate their relative abilities as well.
 
 ![Pasted image 20220608151457.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020220608151457.png)
-
 ## Where this bias occurs
 Imagine you and your friends decide to try something new—separately, you all start learning Spanish. Within a few days, you can say 10-15 sentences. You’re a bit disappointed, and believe you should be able to say more by now. To you, the language is quite simple, but having a good grip on it causes you to think it is simple for everyone, and that you therefore should have done more.
 
@@ -20,7 +17,6 @@ As a result of the Dunning-Kruger effect, you may not know what you’re good at
 
 Moreover, when you excel at what is challenging to you, you might accidentally fall prey to the belief that that thing is where your talents lie. In reality, you may just be a below-average performer finally approaching average levels.
 
----
- 🧶 Tags - #Fleeting_Notes, #systems , #🌱 
- Resources - [[Systems/Fallacies MOC\|Fallacies MOC]]
- Links - https://thedecisionlab.com/biases/dunning-kruger-effect
+🧶 Tags:: #Fleeting_Notes, #systems , #🌱 
+Resources - [[Systems/Fallacies MOC\|Fallacies MOC]]
+Links - https://thedecisionlab.com/biases/dunning-kruger-effect
