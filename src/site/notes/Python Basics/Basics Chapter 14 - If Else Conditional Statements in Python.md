@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-14-if-else-conditional-statements-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T22:59:30.967+05:30","updated":"2023-12-13T23:20:16.491+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-14-if-else-conditional-statements-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T22:59:30.967+05:30","updated":"2023-12-13T23:58:56.921+05:30"}
 ---
 
 🧶 Tags - #Python_Basics 
@@ -103,7 +103,6 @@ else:
   print("Number is positive.")
 
 print("I am happy now")
-
 ```
 # Nested if statements
 We can use if, if-else, elif statements inside other if statements as well.  
@@ -125,4 +124,16 @@ else:
 ### Output:
 ```python
 Number is between 11-20
+```
+
+## Here's What I Wrote:
+```python
+a = (input("what do you like to watch: "))
+print("You like to watch:", a)
+if a in ["anime", "manga", "manhwa"]:
+    print("There's a high chance that you're an Otaku\nGod bless your soul!")
+elif a in ["movies", "bollywood", "hollywood"]:
+    print("You might be a normie, I personally don't like people like you!\nGet out of my site this instant!")
+else:
+    print("😵‍💫")
 ```
