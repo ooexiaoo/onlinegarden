@@ -1,5 +1,5 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-13T20:58:10.897+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-15T04:36:02.230+05:30"}
 ---
 
 # [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]
@@ -40,6 +40,7 @@
 - [ ] https://auresnotes.com/summary-your-brain-on-porn-gary-wilson/
 - [ ] parasocial relationships
 - [ ] https://zachshirow.medium.com/how-i-keep-my-obsidian-vault-super-organized-with-the-auto-note-mover-plugin-12bb86ccd78b
+- [ ] > [!important] I still need to write about a story from bhagvattam about sage Kardama (This story is found in the third canto (Skandha) of the Bhagavatam, in Chapters 21 through 24) and Sage Narada (1st Canto (Skandha) of the Bhagavatam, specifically in Chapter 6)
 
 Fadogia Agrestis
 https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF
