@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-12T19:56:43.516+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-14T22:57:06.840+05:30"}
 ---
 
 
@@ -32,6 +32,7 @@
 - [[Media DB/series/Kusuriya no Hitorigoto (2023)\|Kusuriya no Hitorigoto (2023)]]
 - [[Media DB/series/Lv1 Maou to One Room Yuusha (2023)\|Lv1 Maou to One Room Yuusha (2023)]]
 - [[Media DB/series/Mashle (2023)\|Mashle (2023)]]
+- [[Media DB/series/MF Ghost (2023)\|MF Ghost (2023)]]
 - [[Media DB/series/Mr Robot (2015–2019)\|Mr Robot (2015–2019)]]
 - [[Media DB/series/Mushoku Tensei II - Isekai Ittara Honki Dasu (2023)\|Mushoku Tensei II - Isekai Ittara Honki Dasu (2023)]]
 - [[Media DB/series/My Home Hero (2023)\|My Home Hero (2023)]]
