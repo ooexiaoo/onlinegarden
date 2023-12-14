@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-14T22:57:06.840+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-15T00:09:53.596+05:30"}
 ---
 
 
@@ -22,6 +22,13 @@
 - [[Media DB/series/Eiyuu-ou Bu wo Kiwameru Tame Tenseisu - Soshite Sekai Saikyou no Minarai Kishi♀ (2023)\|Eiyuu-ou Bu wo Kiwameru Tame Tenseisu - Soshite Sekai Saikyou no Minarai Kishi♀ (2023)]]
 - [[Media DB/series/Helck (2023)\|Helck (2023)]]
 - [[Media DB/series/Hunter x Hunter (2011) (2011)\|Hunter x Hunter (2011) (2011)]]
+- [[Media DB/series/Initial D Battle Stage (2002)\|Initial D Battle Stage (2002)]]
+- [[Media DB/series/Initial D Battle Stage 2 (2007)\|Initial D Battle Stage 2 (2007)]]
+- [[Media DB/series/Initial D Battle Stage 3 (2021)\|Initial D Battle Stage 3 (2021)]]
+- [[Media DB/series/Initial D Extra Stage (2001)\|Initial D Extra Stage (2001)]]
+- [[Media DB/series/Initial D Extra Stage 2 (2008)\|Initial D Extra Stage 2 (2008)]]
+- [[Media DB/series/Initial D First Stage (1998)\|Initial D First Stage (1998)]]
+- [[Media DB/series/Initial D Second Stage (1999)\|Initial D Second Stage (1999)]]
 - [[Media DB/series/Isekai Nonbiri Nouka (2023)\|Isekai Nonbiri Nouka (2023)]]
 - [[Media DB/series/Kage no Jitsuryokusha ni Naritakute! (2022)\|Kage no Jitsuryokusha ni Naritakute! (2022)]]
 - [[Media DB/series/Kage no Jitsuryokusha ni Naritakute! 2nd Season (2023)\|Kage no Jitsuryokusha ni Naritakute! 2nd Season (2023)]]
