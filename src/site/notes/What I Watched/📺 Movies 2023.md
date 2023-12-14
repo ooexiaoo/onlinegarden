@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"banner":"![wallhaven-6o2xrl.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/wallhaven-6o2xrl.png)","banner_y":0.513,"cssclasses":["cards"],"number":100,"image":"https://i.pinimg.com/564x/0f/21/7d/0f217d0189f841ae794500966ab1845a.jpg","permalink":"/what-i-watched/movies-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.659+05:30","updated":"2023-12-15T03:35:29.443+05:30"}
+{"dg-publish":true,"banner":"![wallhaven-6o2xrl.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/wallhaven-6o2xrl.png)","banner_y":0.513,"cssclasses":["cards"],"number":100,"image":"https://i.pinimg.com/564x/0f/21/7d/0f217d0189f841ae794500966ab1845a.jpg","permalink":"/what-i-watched/movies-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.659+05:30","updated":"2023-12-15T03:38:37.043+05:30"}
 ---
 
 🧶 Tags - #Movies    #Dashboard 
@@ -7,6 +7,7 @@
 ==2023-01-23 - 15:59==
 
 > [!tldr] Scroll right to see more Info
+
 | File                                                                                                                                            | Cover                                                                                                                                        | Rating | Date-Watched       | Hours               | episodes | duration            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------ | ------------------- | -------- | ------------------- |
 | [[Media DB/movies/Top Gun - Maverick (2022)\|Top Gun - Maverick (2022)]]                                                                     | ![\|250](https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg) | ⭐ 8.5  | 2022-12-08 - 13:00 | 2.2                 | \-       | 2 hours, 10 minutes |
