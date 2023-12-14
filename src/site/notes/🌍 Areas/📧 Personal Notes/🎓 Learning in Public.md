@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-14T09:05:03.877+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-14T09:26:28.499+05:30"}
 ---
 
 🧶 Tags:: #🌱 , #Fleeting_Notes 
-🗃 Resources:: [[000 - 🏠 Start Here\|000 - 🏠 Start Here]]
+🗃 Resources:: [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]
 🔗 Links:: [Grow-self](https://grow-self.com/learning-in-public/)
 # [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|🎓 Learning in Public]]
 ==2023-12-14 - 03:24==
