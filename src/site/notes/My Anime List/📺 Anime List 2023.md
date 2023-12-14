@@ -1,11 +1,13 @@
 ---
-{"banner":"![wallhaven-6o2xrl.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/wallhaven-6o2xrl.png)","banner_y":0.513,"cssclasses":["cards"],"number":21,"image":"https://wallpapers-clan.com/wp-content/uploads/2022/12/anime-eyes-gif-pfp-1.gif","dg-publish":true,"banner_icon":"📺","permalink":"/my-anime-list/anime-list-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.782+05:30","updated":"2023-12-14T23:13:17.553+05:30"}
+{"banner":"![wallhaven-6o2xrl.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/wallhaven-6o2xrl.png)","banner_y":0.513,"cssclasses":["cards"],"number":21,"image":"https://wallpapers-clan.com/wp-content/uploads/2022/12/anime-eyes-gif-pfp-1.gif","dg-publish":true,"banner_icon":"📺","permalink":"/my-anime-list/anime-list-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.782+05:30","updated":"2023-12-15T03:34:32.620+05:30"}
 ---
 
 🧶 Tags - #Shows #Anime  #Dashboard 
 🔗 Links - [GogoHD](https://gogohd.net) | [Animwave.to](https://aniwave.to/home)
 # [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]]
 ==2023-01-23 - 15:59==
+
+> [!tldr] Scroll right to see more Info
 | File                                                                                                                                                                                                  | Cover                                                                                                                                        | Rating | Date-Watched      | Hours | episodes | duration      | status |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------- | ----- | -------- | ------------- | ------ |
 | [[Media DB/series/Tamako Market (2013)\|Tamako Market (2013)]]                                                                                                                                     | ![\|250](https://cdn.myanimelist.net/images/anime/1669/122434.jpg)                                                                           | ⭐ 8.5  | January 25, 2023  | 4.6   | 12       | 23 min per ep | \-     |
