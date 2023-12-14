@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-15T00:09:53.596+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-15T03:49:26.987+05:30"}
 ---
 
 
@@ -17,6 +17,7 @@
 - [[Media DB/series/Do It Yourself!! (2022–)\|Do It Yourself!! (2022–)]]
 - [[Media DB/series/Dolls' Frontline (2022)\|Dolls' Frontline (2022)]]
 - [[Media DB/series/Dr Stone - New World (2023)\|Dr Stone - New World (2023)]]
+- [[Media DB/series/Dr Stone - New World Part 2 (2023)\|Dr Stone - New World Part 2 (2023)]]
 - [[Media DB/series/Edomae Elf (2023)\|Edomae Elf (2023)]]
 - [[Media DB/series/Eikoku Koi Monogatari Emma (2005)\|Eikoku Koi Monogatari Emma (2005)]]
 - [[Media DB/series/Eiyuu-ou Bu wo Kiwameru Tame Tenseisu - Soshite Sekai Saikyou no Minarai Kishi♀ (2023)\|Eiyuu-ou Bu wo Kiwameru Tame Tenseisu - Soshite Sekai Saikyou no Minarai Kishi♀ (2023)]]
