@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-10T20:47:03.533+05:30"}
+{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-14T11:51:51.694+05:30"}
 ---
 
 
@@ -18,6 +18,7 @@
 - [[Media DB/movies/M3GAN (2022)\|M3GAN (2022)]]
 - [[Media DB/movies/Memento (2000)\|Memento (2000)]]
 - [[Media DB/movies/Oblivion (2013)\|Oblivion (2013)]]
+- [[Media DB/movies/Pluto (2023)\|Pluto (2023)]]
 - [[Media DB/movies/Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)\|Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)]]
 - [[Media DB/movies/Tamako Love Story (2014)\|Tamako Love Story (2014)]]
 - [[Media DB/movies/The Devil's Rejects (2005)\|The Devil's Rejects (2005)]]
