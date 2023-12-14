@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-15T03:31:28.490+05:30"}
+{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-15T03:33:30.033+05:30"}
 ---
 
 # 🏡
@@ -26,6 +26,8 @@ You can see all the content of the site in the sidebar. Even though this is not 
 👉🏻 Feel free to see my [[000 Digital Garden/⌛ Recently Edited Notes\|⌛ Recently Edited Notes]], [[000 Digital Garden/📝 Recently Added Notes\|📝 Recently Added Notes]] and [[000 Digital Garden/Permanent Notes\|Permanent Notes]]. I will organize things better as time goes on. but you can use these as a start for now.
 
 ⚡ Feel free to click on the tags to see similar content.
+
+🎥 You can also see my [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]] and [[What I Watched/📺 Movies 2023\|📺 Movies 2023]]. 
 
 >[! Skip this Backstory] 😿 My Backstory
 > I know it's a mess, and I'm trying to sort it all out as much as I can.
