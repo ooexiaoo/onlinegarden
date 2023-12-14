@@ -4,9 +4,8 @@
 
 | File                                                                                                 | Tags                                                                             |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [[🌍 Areas/📧  Letters To No One/😇 How To Become A Good Friend\|😇 How To Become A Good Friend]] | \-                                                                               |
-| [[🌍 Areas/📧 Personal Notes/💊 Tablets For Itch Allergy\|💊 Tablets For Itch Allergy]]           | \-                                                                               |
 | [[🌍 Areas/💸 Financial Notes/3 Big Levers In Business\|3 Big Levers In Business]]                | <ul><li>#Marketing</li><li>#Financial_Freedom</li><li>#Permanent_Notes</li></ul> |
 | [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]]      | <ul><li>#Personal_Growth</li><li>#Permanent_Notes</li></ul>                      |
+| [[🌍 Areas/📧  Letters To No One/😇 How To Become A Good Friend\|😇 How To Become A Good Friend]] | \-                                                                               |
 
 { .block-language-dataview}
