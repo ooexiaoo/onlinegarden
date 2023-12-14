@@ -4,7 +4,9 @@
 
 | File                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------- | ------------------ |
-| [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                               | 15.12.2023 - 03:28 |
+| [[What I Watched/📺 Movies 2023\|📺 Movies 2023]]                                                 | 15.12.2023 - 03:35 |
+| [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]]                                          | 15.12.2023 - 03:34 |
+| [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                               | 15.12.2023 - 03:33 |
 | [[🌍 Areas/📧  Letters To No One/😇 How To Become A Good Friend\|😇 How To Become A Good Friend]] | 15.12.2023 - 03:04 |
 | [[🌍 Areas/📧 Personal Notes/💊 Tablets For Itch Allergy\|💊 Tablets For Itch Allergy]]           | 15.12.2023 - 03:03 |
 | [[Persuasion\|Persuasion]]                                                                        | 15.12.2023 - 03:01 |
@@ -12,7 +14,5 @@
 | [[Sharing The Wealth\|Sharing The Wealth]]                                                        | 15.12.2023 - 03:00 |
 | [[Leverage\|Leverage]]                                                                            | 15.12.2023 - 03:00 |
 | [[Recruiting\|Recruiting]]                                                                        | 15.12.2023 - 02:59 |
-| [[Time Management\|Time Management]]                                                              | 15.12.2023 - 02:59 |
-| [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]]      | 15.12.2023 - 02:51 |
 
 { .block-language-dataview}
