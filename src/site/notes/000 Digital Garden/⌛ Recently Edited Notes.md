@@ -4,15 +4,15 @@
 
 | File                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Media DB/series/Dr Stone - New World Part 2 (2023)\|Dr Stone - New World Part 2 (2023)]]        | 15.12.2023 - 03:53 |
+| [[Media DB/series/Dr Stone - New World (2023)\|Dr Stone - New World (2023)]]                      | 15.12.2023 - 03:50 |
+| [[Media DB/series/series\|series]]                                                                | 15.12.2023 - 03:49 |
+| [[Media DB/series/Cyberpunk - Edgerunners (2022)\|Cyberpunk - Edgerunners (2022)]]                | 15.12.2023 - 03:47 |
+| [[Media DB/series/Tamako Market (2013)\|Tamako Market (2013)]]                                    | 15.12.2023 - 03:46 |
+| [[Media DB/series/Arcane (2021)\|Arcane (2021)]]                                                  | 15.12.2023 - 03:43 |
 | [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]]                                          | 15.12.2023 - 03:38 |
 | [[What I Watched/📺 Movies 2023\|📺 Movies 2023]]                                                 | 15.12.2023 - 03:38 |
 | [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                               | 15.12.2023 - 03:37 |
 | [[🌍 Areas/📧  Letters To No One/😇 How To Become A Good Friend\|😇 How To Become A Good Friend]] | 15.12.2023 - 03:04 |
-| [[🌍 Areas/📧 Personal Notes/💊 Tablets For Itch Allergy\|💊 Tablets For Itch Allergy]]           | 15.12.2023 - 03:03 |
-| [[Persuasion\|Persuasion]]                                                                        | 15.12.2023 - 03:01 |
-| [[🌍 Areas/📈 Personal Growth/Reading People\|Reading People]]                                    | 15.12.2023 - 03:01 |
-| [[Sharing The Wealth\|Sharing The Wealth]]                                                        | 15.12.2023 - 03:00 |
-| [[Leverage\|Leverage]]                                                                            | 15.12.2023 - 03:00 |
-| [[Recruiting\|Recruiting]]                                                                        | 15.12.2023 - 02:59 |
 
 { .block-language-dataview}
