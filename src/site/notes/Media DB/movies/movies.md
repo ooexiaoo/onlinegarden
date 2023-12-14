@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-14T11:51:51.694+05:30"}
+{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-15T00:09:53.599+05:30"}
 ---
 
 
@@ -10,6 +10,7 @@
 - [[Media DB/movies/Gyakusatsu Kikan (2017)\|Gyakusatsu Kikan (2017)]]
 - [[Media DB/movies/Hera Pheri (2000)\|Hera Pheri (2000)]]
 - [[Media DB/movies/Idiocracy (2006)\|Idiocracy (2006)]]
+- [[Media DB/movies/Initial D - Project D to the Next Stage - Project D e Mukete (2003)\|Initial D - Project D to the Next Stage - Project D e Mukete (2003)]]
 - [[Media DB/movies/Jin-Roh - The Wolf Brigade (2000)\|Jin-Roh - The Wolf Brigade (2000)]]
 - [[Media DB/movies/Josee to Tora to Sakana-tachi (2020)\|Josee to Tora to Sakana-tachi (2020)]]
 - [[Media DB/movies/Kono Subarashii Sekai ni Shukufuku wo! Spin-off - Kono Subarashii Sekai ni Bakuen wo! ()\|Kono Subarashii Sekai ni Shukufuku wo! Spin-off - Kono Subarashii Sekai ni Bakuen wo! ()]]
@@ -17,6 +18,7 @@
 - [[Media DB/movies/Lady Ballers\|Lady Ballers]]
 - [[Media DB/movies/M3GAN (2022)\|M3GAN (2022)]]
 - [[Media DB/movies/Memento (2000)\|Memento (2000)]]
+- [[Media DB/movies/New Initial D Movie - Legend 3 - Mugen (2016)\|New Initial D Movie - Legend 3 - Mugen (2016)]]
 - [[Media DB/movies/Oblivion (2013)\|Oblivion (2013)]]
 - [[Media DB/movies/Pluto (2023)\|Pluto (2023)]]
 - [[Media DB/movies/Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)\|Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)]]
