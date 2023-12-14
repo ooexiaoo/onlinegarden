@@ -4,7 +4,7 @@
 
 | File                                                                                                                  | Last modified      |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                | 14.12.2023 - 10:06 |
+| [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                | 14.12.2023 - 10:39 |
 | [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|🎓 Learning in Public]]                                        | 14.12.2023 - 09:26 |
 | [[Note Processing Dashboard/Notes Dashboard\|Notes Dashboard]]                                                     | 14.12.2023 - 09:13 |
 | [[000 Digital Garden/📝 Recently Added Notes\|📝 Recently Added Notes]]                                            | 14.12.2023 - 09:12 |
