@@ -20,4 +20,4 @@ There is also a graph view on every page that will show you which files are link
 
 You can also hover the internal links and see what is the file's content is a hover popup, just like Wikipedia.
 - ## 〽️ Stats
-	-  Note Count: 1412
+	-  Note Count: 1414
