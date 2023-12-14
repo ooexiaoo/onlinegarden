@@ -4,6 +4,8 @@
 
 | File                                                                                                                                                            | Last modified      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 Digital Garden/Permanent Notes\|Permanent Notes]]                                                                                                      | 15.12.2023 - 00:30 |
+| [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]]                                                                 | 15.12.2023 - 00:30 |
 | [[Media DB/series/Initial D Battle Stage 3 (2021)\|Initial D Battle Stage 3 (2021)]]                                                                         | 15.12.2023 - 00:17 |
 | [[Media DB/series/Initial D Extra Stage 2 (2008)\|Initial D Extra Stage 2 (2008)]]                                                                           | 15.12.2023 - 00:16 |
 | [[Media DB/series/Initial D Second Stage (1999)\|Initial D Second Stage (1999)]]                                                                             | 15.12.2023 - 00:16 |
@@ -12,7 +14,5 @@
 | [[Media DB/series/Initial D Battle Stage (2002)\|Initial D Battle Stage (2002)]]                                                                             | 15.12.2023 - 00:14 |
 | [[Media DB/series/Initial D Extra Stage (2001)\|Initial D Extra Stage (2001)]]                                                                               | 15.12.2023 - 00:13 |
 | [[Media DB/series/Initial D Battle Stage 2 (2007)\|Initial D Battle Stage 2 (2007)]]                                                                         | 15.12.2023 - 00:12 |
-| [[Media DB/series/Initial D First Stage (1998)\|Initial D First Stage (1998)]]                                                                               | 15.12.2023 - 00:11 |
-| [[Media DB/series/MF Ghost (2023)\|MF Ghost (2023)]]                                                                                                         | 15.12.2023 - 00:10 |
 
 { .block-language-dataview}
