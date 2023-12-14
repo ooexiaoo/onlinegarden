@@ -1,0 +1,5 @@
+---
+{"type":"series","subType":"ova","title":"Initial D Battle Stage","englishTitle":"Initial D Battle Stage","year":2002,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/821/Initial_D_Battle_Stage","id":821,"genres":["Action","Drama"],"studios":["Pastel"],"episodes":1,"duration":"52 min","onlineRating":7.57,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/2/13168.jpg","released":true,"streamingServices":null,"airing":false,"airedFrom":"15/05/2002","airedTo":"01/01/1970","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"dateWatched":"2016-01-01","permalink":"/media-db/series/initial-d-battle-stage-2002/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-15T00:09:52.758+05:30","updated":"2023-12-15T00:14:21.246+05:30"}
+---
+
+<img src="https://cdn.myanimelist.net/images/anime/2/13168.jpg">
