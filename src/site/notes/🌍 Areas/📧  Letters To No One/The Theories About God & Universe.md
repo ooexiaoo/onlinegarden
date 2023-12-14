@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/the-theories-about-god-and-universe/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.037+05:30","updated":"2023-12-12T01:15:47.102+05:30"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/the-theories-about-god-and-universe/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.037+05:30","updated":"2023-12-15T04:35:41.650+05:30"}
 ---
 
 🧶 Tags - #Letterstonoone 
@@ -22,7 +22,7 @@ You don't go to heaven for eternity, nor you go to hell for eternity. The karmic
 
 In Sanathan dram our goal is not to go to heaven or hell, as when you think about it, it's yet another type of rebirth. Our goal is to be united with God itself.
 
-> You are a drop of water, when a drop of water get in the ocean can you tell which is a drop of water, and which is the ocean?
+> [!abstract] You are a drop of water, when a drop of water get in the ocean can you tell which is a drop of water, and which is the ocean?
 
 Don't get me wrong, these are just semantics in one way, let me explain. It's not that other religions are wrong, they just have an ultimatum, while Sanathan's don't have that.
 
@@ -39,25 +39,41 @@ So the goals are not that different, but the way we go about achieving them are 
 
 Being in a cycle of rebirth has its own issues. So much so that you might think other religions are better, as I can just do all the good in one lifetime and be in heaven with God for eternity.
 
-What I mean by trying again is that, do you know what will you be reborn as? You might not get a human body. You might become an incest wondering all your life, never getting the opportunity to do something significant that will move you forward in your journey to reach God, but you'll go through all the pain and suffering that an incest goes through. This makes me feel that hell is nothing more than yet another existence of some kind where you just go through painful experiences. More on this on karma-cycle.
+And what I mean by trying again is that, **do you know what will you be reborn as?** You might not get a human body. You might become an insect wondering all your life, never getting the opportunity to do something significant that will move you forward in your journey to reach God, but you'll go through all the pain and suffering that an insect goes through.
 
-## The Timeline Of Karm Or The Cycle Of Karm
-People often say, especially atheists, that, *'If God is a peace loving being, why would he give innocent children cancer?'* or something similar, but according to the above points on rebirth we only see people from their one life, we do not get to see their previous lives and the kinds of acts/karms they have committed in their previous life/lives.
+This makes me feel that hell is nothing more than yet another existence of some kind where you just go through painful experiences. More on this on karma-cycle.
+
+## The Timeline Of Karma Or The Cycle Of Karma
+People often say, especially atheists, that, *'If God is a peace loving being, why would he give innocent children cancer?'* or something similar, but according to the above points on rebirth we only see people from their one life, we do not get to see their previous lives and the kinds of acts/karma they have committed in their previous life/lives.
 
 ![Pasted image 20221127075838.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020221127075838.png)
 
 Now, this example can be very triggering to some people, but this is just and ideology and as we'll discuss more about how the universe operates we'll understand that it's not all that bad when we see things from that kind of higher perspective.
 
-**Being in the karmic cycle can be a type of hell as well,** you go through the cycle of birth and death countless times because you're looking for pleasures of the world. This can be anything from money, sex, drugs, etc. The senseless urge to get fulfilled has no end. So what is the solution to this? Well it's God according to all religions, God will save you from becoming a being of eternal doom.
+**Being in the karmic cycle can be a type of hell as well,** you go through the cycle of birth and death countless times because you're looking for pleasures of the world. This can be anything from money, sex, drugs, etc.
+
+The senseless urge to get fulfilled has no end. So what is the solution to this? Well it's God according to all religions, God will save you from becoming a being of eternal doom.
 
 And for us to grow, we need to get better at understanding the world that God has made for us. By understanding how Maya acts of us, we can get one step closer to gaining some control over it.
 
+> [!important] I still need to write about a story from bhagvattam about sage Kardama (This story is found in the third canto (Skandha) of the Bhagavatam, in Chapters 21 through 24) and Sage Narada (1st Canto (Skandha) of the Bhagavatam, specifically in Chapter 6)
+
 ## Why Are We Created?
-As we all know that God is the supreme being of this universe and possibly other universes as well. But why exactly are we created, and what's the reason for our existence? This is one of the questions that is very hard to answer, as we might never know for certain what's the reason for our existence.
+As we all know that God is the supreme being of this universe and other universes as well. But why exactly are we created, and what's the reason for our existence? This is one of the questions that is very hard to answer, as we might never know for certain what's the reason for our existence.
+
+Until we are in our human form and with our limited experiences. Basically, we are like small children who don't have the intelligence or maturity to understand those things yet.
 
 #### Here are a few theories on that -
 * We are small children that need to evolve, and the way we evolve is by being in this playground called the universe.
 * We were once God by for some reason we have forgotten who we are and are trying to get back to the place we once belonged.
 
 ## Everything Is Made By God
-The physical bodies that we have are made by God. The feeling that we have are designed by God in order for us to exist in this physical world. The matter that we see is God as well. Anything and everything in this universe is made by God. This kind of theory doesn't sound good for many because even the bad things that we see in the world are made by God itself.
+The physical bodies that we have are made by God.
+
+The feeling that we have are designed by God in order for us to exist in this physical world.
+
+The matter that we see is God as well.
+
+Anything and everything in this universe is made by God.
+
+This kind of theory doesn't sound good for many because even the bad things that we see in the world are made by God itself.
