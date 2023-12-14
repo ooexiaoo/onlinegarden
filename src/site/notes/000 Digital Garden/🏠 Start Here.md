@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-15T03:29:24.738+05:30"}
+{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-15T03:31:28.490+05:30"}
 ---
 
 # 🏡
@@ -27,7 +27,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 ⚡ Feel free to click on the tags to see similar content.
 
->[! Skip this Backstory]
+>[! Skip this Backstory] 😿 My Backstory
 > I know it's a mess, and I'm trying to sort it all out as much as I can.
 The thing is, when I started writing all this, it was never my intention to publish my writings to the web as you can imagine. So the notes are not linked together in a way that would make it easy to find related content.
 I'm also publishing directly from my obsidian vault, so there are a few limitations as to how the UI will be rendered.
