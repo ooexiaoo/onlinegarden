@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                            | Last modified      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Media DB/series/Dr Stone - New World Part 2 (2023)\|Dr Stone - New World Part 2 (2023)]]                                                                   | 15.12.2023 - 03:49 |
 | [[000 Digital Garden/Permanent Notes\|Permanent Notes]]                                                                                                      | 15.12.2023 - 00:25 |
 | [[Media DB/series/Initial D Battle Stage 2 (2007)\|Initial D Battle Stage 2 (2007)]]                                                                         | 15.12.2023 - 00:09 |
 | [[Media DB/series/Initial D Battle Stage (2002)\|Initial D Battle Stage (2002)]]                                                                             | 15.12.2023 - 00:09 |
@@ -13,6 +14,5 @@
 | [[Media DB/series/Initial D Extra Stage 2 (2008)\|Initial D Extra Stage 2 (2008)]]                                                                           | 15.12.2023 - 00:09 |
 | [[Media DB/series/Initial D Second Stage (1999)\|Initial D Second Stage (1999)]]                                                                             | 15.12.2023 - 00:09 |
 | [[Media DB/series/Initial D First Stage (1998)\|Initial D First Stage (1998)]]                                                                               | 15.12.2023 - 00:09 |
-| [[Media DB/series/Initial D Battle Stage 3 (2021)\|Initial D Battle Stage 3 (2021)]]                                                                         | 15.12.2023 - 00:09 |
 
 { .block-language-dataview}
