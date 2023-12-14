@@ -1,0 +1,5 @@
+---
+{"type":"series","subType":"ova","title":"Initial D Extra Stage 2","englishTitle":"Initial D Extra Stage 2","year":2008,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/5228/Initial_D_Extra_Stage_2","id":5228,"genres":["Action","Drama"],"studios":["A.C.G.T."],"episodes":1,"duration":"54 min","onlineRating":7.41,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/10/10462.jpg","released":true,"streamingServices":["Shahid"],"airing":false,"airedFrom":"03/10/2008","airedTo":"01/01/1970","watched":true,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"dateWatched":"2016-01-01","permalink":"/media-db/series/initial-d-extra-stage-2-2008/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-15T00:09:52.492+05:30","updated":"2023-12-15T00:16:46.468+05:30"}
+---
+
+<img src="https://cdn.myanimelist.net/images/anime/10/10462.jpg">
