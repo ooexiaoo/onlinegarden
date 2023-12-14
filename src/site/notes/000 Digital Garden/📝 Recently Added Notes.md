@@ -4,6 +4,8 @@
 
 | File                                                                                                                                            | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-14\|2023-12-14]]                                                                         | 14.12.2023 - 11:53 |
+| [[Media DB/movies/Pluto (2023)\|Pluto (2023)]]                                                                                               | 14.12.2023 - 11:51 |
 | [[000 Digital Garden/📝 Recently Added Notes\|📝 Recently Added Notes]]                                                                      | 14.12.2023 - 09:08 |
 | [[000 Digital Garden/⌛ Recently Edited Notes\|⌛ Recently Edited Notes]]                                                                      | 14.12.2023 - 09:05 |
 | [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|🎓 Learning in Public]]                                                                  | 14.12.2023 - 03:24 |
@@ -12,7 +14,5 @@
 | [[🌍 Areas/💪🏼 Athletisism/BroccoMax (17.5 mg)\|BroccoMax (17.5 mg)]]                                                                       | 13.12.2023 - 21:19 |
 | [[🌍 Areas/💪🏼 Athletisism/Bryan Johnson Supplement list\|Bryan Johnson Supplement list]]                                                   | 13.12.2023 - 20:58 |
 | [[Excalidraw/Drawing 2023-12-13 09.58.23.excalidraw\|Drawing 2023-12-13 09.58.23.excalidraw]]                                                | 13.12.2023 - 09:58 |
-| [[Omnivore/2023-11-20/https---squoosh.app-\|https---squoosh.app-]]                                                                           | 13.12.2023 - 09:58 |
-| [[Note Processing Dashboard/Notes Dashboard\|Notes Dashboard]]                                                                               | 13.12.2023 - 09:34 |
 
 { .block-language-dataview}
