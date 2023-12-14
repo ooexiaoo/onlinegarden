@@ -18,8 +18,8 @@
 | [[🌍 Areas/💸 Financial Notes/Taxes\|Taxes]]                                                                       | <ul><li>#Financial_Freedom</li><li>#WIP</li></ul>                      |
 | [[🌍 Areas/📈 Personal Growth/Game Theory\|Game Theory]]                                                           | #WIP                                                                   |
 | [[🌍 Areas/📈 Personal Growth/How to focus on things that truly matter\|How to focus on things that truly matter]] | #WIP                                                                   |
-| [[🌍 Areas/📈 Personal Growth/Manifesting\|Manifesting]]                                                           | #WIP #Personal_Growth                                                  |
 | [[🌍 Areas/📈 Personal Growth/Mental Models\|Mental Models]]                                                       | #WIP                                                                   |
+| [[🌍 Areas/📈 Personal Growth/Manifesting\|Manifesting]]                                                           | #WIP #Personal_Growth                                                  |
 | [[🌍 Areas/📧 Personal Notes/Masturbation And Porn\|Masturbation And Porn]]                                        | <ul><li>#Personal_Notes</li><li>#WIP</li></ul>                         |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                        | <ul><li>Favorite</li></ul>                                             |
 
