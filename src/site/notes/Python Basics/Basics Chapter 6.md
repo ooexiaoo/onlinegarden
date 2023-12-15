@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-6/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-06T18:06:58.259+05:30","updated":"2023-12-10T19:54:02.038+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-6/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-06T18:06:58.259+05:30","updated":"2023-12-15T07:15:51.968+05:30"}
 ---
 
-🧶 Tags - #Python_Basics 
-Up - [[Python Basics/Basics Chapter 1\|Basics Chapter 1]]
-Down - [[Python Basics/Basics Chapter 7 - Operators\|Basics Chapter 7 - Operators]]
-2023-12-06 | 18:18
-
----
+🧶 Tags:: #Python_Basics 
+Up:: [[Python Basics/Basics Chapter 1\|Basics Chapter 1]]
+Down::: [[Python Basics/Basics Chapter 7 - Operators\|Basics Chapter 7 - Operators]]
 🗃 Resources - [YouTube Video](https://www.youtube.com/watch?v=ORCuz7s5cCY&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=6) | [Replit Chapter 06](https://replit.com/@codewithharry/06-Day6-Variables-and-Data-Types#main.py)
 # [[Python Basics/Basics Chapter 6\|Basics Chapter 6]]
 ==2023-12-06 - 18:07==
