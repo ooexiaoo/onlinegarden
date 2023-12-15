@@ -1,8 +1,13 @@
 ---
-{"Rating":"⭐ 8.5","dateWatched":"2023-12-08 - 03:30","Hours":4.6,"type":"series","subType":"series","title":"Yamada-kun to Lv999 no Koi wo Suru","englishTitle":"My Love Story with Yamada-kun at Lv999","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/53126/Yamada-kun_to_Lv999_no_Koi_wo_Suru","id":53126,"genres":["Romance"],"studios":["Madhouse"],"episodes":13,"duration":"23 min per ep","onlineRating":7.83,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1298/134178.jpg","released":true,"streamingServices":["Crunchyroll","Aniplus TV","Bahamut Anime Crazy"],"airing":false,"airedFrom":"02/04/2023","airedTo":"25/06/2023","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/yamada-kun-to-lv999-no-koi-wo-suru-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T01:33:17.453+05:30","updated":"2023-12-10T09:55:13.769+05:30"}
+{"Rating":"⭐ 8.5","dateWatched":"2023-12-08 - 03:30","Hours":4.6,"type":"series","subType":"series","title":"Yamada-kun to Lv999 no Koi wo Suru","englishTitle":"My Love Story with Yamada-kun at Lv999","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/53126/Yamada-kun_to_Lv999_no_Koi_wo_Suru","id":53126,"genres":["Romance"],"studios":["Madhouse"],"episodes":13,"duration":"23 min per ep","onlineRating":7.83,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1298/134178.jpg","released":true,"streamingServices":["Crunchyroll","Aniplus TV","Bahamut Anime Crazy"],"airing":false,"airedFrom":"02/04/2023","airedTo":"25/06/2023","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"status":"🟢 watched","permalink":"/media-db/series/yamada-kun-to-lv999-no-koi-wo-suru-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T01:33:17.453+05:30","updated":"2023-12-15T08:27:38.216+05:30"}
 ---
 
+Tags:: #Anime_Show_2023 
 <img src="https://cdn.myanimelist.net/images/anime/1298/134178.jpg">
+
+I've seen a trend where people just take an aspect of a character and amplify it to a 100. This is yet another anime that does that, the main character is a guy who is a pro gamer. When most anime miss the mark, this one does a good job.
+
+If you're looking for something similar see [[Media DB/series/Tomo-chan wa Onnanoko! (2023)\|Tomo-chan wa Onnanoko! (2023)]] which takes the fact that Tomo-chan is a bit tomboyish and turns it to a 100.
 
 I know it's a girl-centric anime, but was I pleasantly surprised by how nice it was to watch. There are not many good anime rom-coms these days, and if you know me, You'd know I love rom-coms that have and ending.
 
