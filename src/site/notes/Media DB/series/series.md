@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-15T08:46:29.987+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-16T03:24:50.161+05:30"}
 ---
 
 
@@ -58,6 +58,7 @@
 - [[Media DB/series/Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu (2023)\|Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu (2023)]]
 - [[Media DB/series/Sakamichi no Apollon (2012)\|Sakamichi no Apollon (2012)]]
 - [[Media DB/series/Serial Experiments Lain (1998)\|Serial Experiments Lain (1998)]]
+- [[Media DB/series/She Hulk\|She Hulk]]
 - [[Media DB/series/Sono Bisque Doll wa Koi wo Suru (2022)\|Sono Bisque Doll wa Koi wo Suru (2022)]]
 - [[Media DB/series/Spy x Family (2022)\|Spy x Family (2022)]]
 - [[Media DB/series/Summertime Render (2022)\|Summertime Render (2022)]]
