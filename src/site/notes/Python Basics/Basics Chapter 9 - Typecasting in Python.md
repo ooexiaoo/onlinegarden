@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-9-typecasting-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T00:57:52.121+05:30","updated":"2023-12-10T19:50:40.655+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-9-typecasting-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T00:57:52.121+05:30","updated":"2023-12-15T07:16:32.261+05:30"}
 ---
 
-🧶 Tags - #Python_Basics 
-Up - [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 - Taking User Input]]
-Down - [[Python Basics/Basics Chapter 7 - Operators\|Basics Chapter 7 - Operators]]
-🗃 Resources - [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+🧶 Tags:: #Python_Basics 
+Up:: [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 - Taking User Input]]
+Down:: [[Python Basics/Basics Chapter 7 - Operators\|Basics Chapter 7 - Operators]]
+🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 # [[Python Basics/Basics Chapter 9 - Typecasting in Python\|Basics Chapter 9 - Typecasting in Python]]
 ==2023-12-09 - 00:57==
 The conversion of one data type into the other data type is known as type casting in python or type conversion in python.
