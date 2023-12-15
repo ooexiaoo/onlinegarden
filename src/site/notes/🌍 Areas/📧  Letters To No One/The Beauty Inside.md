@@ -1,9 +1,8 @@
 ---
-{"banner_icon":"😍","dg-publish":true,"permalink":"/areas/letters-to-no-one/the-beauty-inside/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.017+05:30","updated":"2023-12-16T04:26:19.540+05:30"}
+{"banner_icon":"😍","dg-publish":true,"permalink":"/areas/letters-to-no-one/the-beauty-inside/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.017+05:30","updated":"2023-12-16T04:33:31.417+05:30"}
 ---
 
 ==2022-05-16 - 04:15==
-
 🧶 Tags:: #Letterstonoone #Fleeting_Notes #🌱 
 🗃 Resources:: [[]]
 🔗 Links::
