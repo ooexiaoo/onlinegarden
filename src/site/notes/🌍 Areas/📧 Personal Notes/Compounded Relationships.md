@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/compounded-relationships/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.247+05:30","updated":"2023-12-14T02:55:04.874+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/compounded-relationships/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.247+05:30","updated":"2023-12-15T12:37:54.751+05:30"}
 ---
 
 # [[🌍 Areas/📧 Personal Notes/Compounded Relationships\|Compounded Relationships]]
 ==2021-08-03 - 13:41==
-
----
 ### Fleeting Notes
 1. Like compound interest in financial market and money we can also get compound interest/benefits in our relationships.
 2. Imagine investing in a good relationship for a long time, this relationship will give you more benefits than if you were to start that relationship and break it in between then start it again and do the same thing.
@@ -26,7 +24,6 @@ Make sure you only invest in the positive ones. After some efforts, if some rela
 -   Remember that the friendship market can remain unfriendly longer than you can stay happy. Never bet against the market.
 -   And finally, remember that no one, least of all relationship coaches, know if the relationship market is going up, down, sideways or in fucking circles.
 
----
 🧶 Tags:: #Personal_Notes, #Personal_Growth, #🌱 
 Resources - [[🌍 Areas/📈 Personal Growth/Focused Efforts On Things That Give Exponential Results\|Focused Efforts On Things That Give Exponential Results]]
 Links - https://www.reddit.com/r/LifeProTips/comments/gzjlfk/lpt_relationships_like_money_compound_over_time/
