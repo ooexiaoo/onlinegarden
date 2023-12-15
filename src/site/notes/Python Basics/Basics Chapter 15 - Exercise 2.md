@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-15-exercise-2/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-15T07:20:14.633+05:30","updated":"2023-12-15T08:03:32.123+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-15-exercise-2/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-15T07:20:14.633+05:30","updated":"2023-12-16T04:50:05.695+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
@@ -44,7 +44,7 @@ import time
 # print(timestamp)
 
 hour = (int(time.strftime('%H%M%S')))
-	if (hour > 000000 and hour < 115959):
+	if (hour > 040000 and hour < 115959):
 	print("Good morning Exia")
 elif (hour >= 120000 and hour <= 155959):
 	print("Good afternoon Exia")
@@ -58,4 +58,23 @@ else:
 
 As you can see I used the **print(time.strftime('%H%M%S'))** to see if we can print the time as an **integer** without using **":"** as separators. Once I could see that we can do it, everything else was not that hard to do I did have to refer to [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|yesterday's tutorial]] about **elif and else**.
 
-Other than that it was fun to do it
+Other than that, it was fun to do it.
+
+## The Right Answer
+```python
+import time
+
+hour = int(time.strftime('%H'))
+
+if 4 <= hour < 12:
+    print("Good morning")
+elif 12 <= hour < 17:
+    print("Good afternoon")
+elif 17 <= hour < 20:
+    print("Good evening")
+else:
+    print("Good night")
+
+```
+
+Well, this is just better code. I didn't think about this.
