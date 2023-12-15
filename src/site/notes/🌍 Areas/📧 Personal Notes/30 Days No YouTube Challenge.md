@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-15T11:31:52.240+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-15T11:37:55.995+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -7,7 +7,15 @@
 ---
 I left [[🌍 Areas/📧 Personal Notes/2022-05-16 Free From Social Media\|social media]] a year ago but, I have still not gotten over my YouTube addiction. It's just that YouTube has taken the space social media had. It's very hard to not use YouTube, as it feels like I'm doing something productive even though all the things I'm learning or watching will never be applied anywhere.
 
-It's just knowledge stored in my head. It's not all that bad, I have a habit of having useless knowledge in my head for a long time. The problem is that by investing this time just watching things I'm not able to apply any of the things.
+It's just knowledge stored in my head. It's not all that bad, I have a habit of having useless knowledge in my head for a long time.
+
+Like this -
+
+> [!faq] Did You Know?
+> Most ant can survive underwater for 24 hours.
+> They do this by trapping air bubbles on their bodies, which allows them to breathe underwater. This helps them survive in case theirs a flood
+
+The problem is that by investing this time just watching things I'm not able to apply any of the things.
 
 So I'll never find what I really like or [[Projects/🧓🏻 Insightful Sage/Posts/Discovering Your Ikigai - A Guide to Finding Your Purpose and Living a Fulfilled Life\|what I want to do in life]]. I'll never commit even if I find it in a certain way. Of course there will always be doubts in life but getting good at something is important part of a fulfilling life.
 
