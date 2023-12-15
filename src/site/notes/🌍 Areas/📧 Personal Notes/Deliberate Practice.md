@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.116+05:30","updated":"2023-12-16T04:28:53.590+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.116+05:30","updated":"2023-12-16T04:30:32.598+05:30"}
 ---
 
 🧶 Tags:: #Personal_Notes #Personal_Growth #Fleeting_Notes #🌿
@@ -19,16 +19,15 @@ If you have a skill or, as some might like to call it, talent, the more effort y
 
 >[! example] A Very long Example
 >A few days ago, I decided to finally learn how to solve a 3x3 cube. Without ever knowing or having any idea of how to solve one, I decided to dive into this and solve one. All I knew was that it involves a few algorithms that if done correctly will solve the cube.
+>So finally, looking up on YouTube, I learned to solve the cube. The very first time was as hard as it could be. I could not follow any of the steps, even when following the steps and playing the video at 0.25x I could not solve it. It was a proper disaster.
 >
-So finally, looking up on YouTube, I learned to solve the cube. The very first time was as hard as it could be. I could not follow any of the steps, even when following the steps and playing the video at 0.25x I could not solve it. It was a proper disaster.
+>It took more than an hour to finally solve it for the first time. But, guess what, this was all I needed to get an idea of how hard it would be to solve one.
 >
-It took more than an hour to finally solve it for the first time. But, guess what, this was all I needed to get an idea of how hard it would be to solve one.
+>The very next time, I could do it in 20 minutes. The next time in 10. And if you’re thinking that this is what deliberate practice looks like, that you’re partially right. Yes, I’m a newbie when it comes to cubing and yes, I didn’t have any idea what I was doing.
 >
-The very next time, I could do it in 20 minutes. The next time in 10. And if you’re thinking that this is what deliberate practice looks like, that you’re partially right. Yes, I’m a newbie when it comes to cubing and yes, I didn’t have any idea what I was doing.
+>But the more I solved the cube, the more things I started to notice about my hand movements. The small gestures and how I should be moving my fingers to solve them more efficiently.
 >
-But the more I solved the cube, the more things I started to notice about my hand movements. The small gestures and how I should be moving my fingers to solve them more efficiently.
->
-If you ever see some of the pros solving a cube, you’d be amazed at the speed these guys can solve the cube. It’s almost as if their fingers are moving on their own in an amazing, systematic rhythm.
+>If you ever see some of the pros solving a cube, you’d be amazed at the speed these guys can solve the cube. It’s almost as if their fingers are moving on their own in an amazing, systematic rhythm.
 >
 >This is a pure example of deliberate practice. This is why some people excel more than others are able to do.
 
