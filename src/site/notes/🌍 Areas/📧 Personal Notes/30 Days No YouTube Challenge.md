@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-15T11:37:55.995+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-15T12:36:25.630+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -23,7 +23,7 @@ So I've decided to quite watching YouTube from **2023-12-12** until 12th of Jan.
 
 I listen to podcasts so, I'll just use Spotify to listen, and also take proper notes of it [[Podcast Notes/Harvard Psychiatrist on How To Get Ahead of 99.9% of People (Starting NOW)\|like I did here]].
 
-I just want to come out of it having a better restrain on my social media behaviors and spending that time doing something better than just binge watching YouTube in the name of **"Learning something, or being productive"**.
+I just want to come out of it having a better restrain on my social media behaviour and spending that time doing something better than just binge watching YouTube in the name of **"Learning something, or being productive"**.
 
 [Shwetabh](https://www.youtube.com/@ShwetabhGangwar1) once said that if you're not in the top 5% in the world at what you do, you shouldn't be sitting around and being lazy. Kaam Karo!!!
 
