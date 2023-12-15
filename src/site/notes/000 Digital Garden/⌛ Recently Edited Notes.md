@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
-| File                                                                                                                                            | Last modified      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                          | 15.12.2023 - 08:10 |
-| [[Python Basics/Python Basics\|Python Basics]]                                                                                               | 15.12.2023 - 08:05 |
-| [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]                                                             | 15.12.2023 - 08:03 |
-| [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|Basics Chapter 14 - If Else Conditional Statements in Python]] | 15.12.2023 - 07:35 |
-| [[Python Basics/Basics Chapter 13 - String Method\|Basics Chapter 13 - String Method]]                                                       | 15.12.2023 - 07:18 |
-| [[Python Basics/Basics Chapter 12 - String Slicing & Operations on String\|Basics Chapter 12 - String Slicing & Operations on String]]       | 15.12.2023 - 07:17 |
-| [[Python Basics/Basics Chapter 11 - Strings\|Basics Chapter 11 - Strings]]                                                                   | 15.12.2023 - 07:17 |
-| [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 - Taking User Input]]                                               | 15.12.2023 - 07:17 |
-| [[Python Basics/Basics Chapter 9 - Typecasting in Python\|Basics Chapter 9 - Typecasting in Python]]                                         | 15.12.2023 - 07:16 |
-| [[Python Basics/Basics Chapter 7 - Operators\|Basics Chapter 7 - Operators]]                                                                 | 15.12.2023 - 07:16 |
+| File                                                                                          | Last modified      |
+| --------------------------------------------------------------------------------------------- | ------------------ |
+| [[Media DB/series/Goblin Slayer II (2023)\|Goblin Slayer II (2023)]]                       | 15.12.2023 - 08:55 |
+| [[Media DB/series/Goblin Slayer (2018)\|Goblin Slayer (2018)]]                             | 15.12.2023 - 08:51 |
+| [[Media DB/series/series\|series]]                                                         | 15.12.2023 - 08:46 |
+| [[Media DB/series/Kusuriya no Hitorigoto (2023)\|Kusuriya no Hitorigoto (2023)]]           | 15.12.2023 - 08:45 |
+| [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]]                                   | 15.12.2023 - 08:44 |
+| [[Media DB/series/Kimi wa Houkago Insomnia (2023)\|Kimi wa Houkago Insomnia (2023)]]       | 15.12.2023 - 08:42 |
+| [[Media DB/series/Otonari ni Ginga (2023)\|Otonari ni Ginga (2023)]]                       | 15.12.2023 - 08:42 |
+| [[Media DB/series/Helck (2023)\|Helck (2023)]]                                             | 15.12.2023 - 08:36 |
+| [[Media DB/series/Dr Stone - New World Part 2 (2023)\|Dr Stone - New World Part 2 (2023)]] | 15.12.2023 - 08:31 |
+| [[Media DB/series/Pantheon (2022–2023)\|Pantheon (2022–2023)]]                             | 15.12.2023 - 08:30 |
 
 { .block-language-dataview}
