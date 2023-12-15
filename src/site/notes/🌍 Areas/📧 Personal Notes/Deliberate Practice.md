@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.116+05:30","updated":"2023-12-16T04:23:02.867+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.116+05:30","updated":"2023-12-16T04:28:53.590+05:30"}
 ---
 
-# [[🌍 Areas/📧 Personal Notes/Deliberate Practice\|Deliberate Practice]]
 🧶 Tags:: #Personal_Notes #Personal_Growth #Fleeting_Notes #🌿
 Resources:: [Grit: The Power of Passion and Perseverance](https://g.co/kgs/tkiCzk)
 
-##   What does deliberate practice mean?
+## What does deliberate practice mean?
 **Deliberate practice is doing something that is hard repeatedly in a systematic way repeatedly**.
 It is what makes an average athlete into an excellent athlete, an average student into an excellent student, and so on.
 
