@@ -4,7 +4,7 @@
 
 | File                                                                                                                                         | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/Deliberate Practice\|Deliberate Practice]]                                                                   | 16.12.2023 - 04:28 |
+| [[🌍 Areas/📧 Personal Notes/Deliberate Practice\|Deliberate Practice]]                                                                   | 16.12.2023 - 04:30 |
 | [[🌍 Areas/📧  Letters To No One/The Beauty Inside\|The Beauty Inside]]                                                                   | 16.12.2023 - 04:26 |
 | [[🌍 Areas/📧 Personal Notes/Deliberate Practice copy\|Deliberate Practice copy]]                                                         | 16.12.2023 - 04:20 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                           | 16.12.2023 - 04:19 |
