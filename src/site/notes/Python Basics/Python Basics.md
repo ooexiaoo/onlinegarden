@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-13T23:00:30.638+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-15T07:20:57.288+05:30"}
 ---
 
 
@@ -13,5 +13,6 @@
 - [[Python Basics/Basics Chapter 12 - String Slicing & Operations on String\|Basics Chapter 12 - String Slicing & Operations on String]]
 - [[Python Basics/Basics Chapter 13 - String Method\|Basics Chapter 13 - String Method]]
 - [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|Basics Chapter 14 - If Else Conditional Statements in Python]]
+- [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]
 
 
