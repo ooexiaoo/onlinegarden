@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-15T03:37:05.650+05:30"}
+{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-15T07:10:33.017+05:30"}
 ---
 
 # 🏡
@@ -13,6 +13,10 @@ You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You 
 
 📄 You can meet me on my [YouTube](https://youtube.com/@naamnahihai) channel, or my main site [Exia's Garden](https://exiasgarden.pages.dev). I still need to make a real site where I'll finally post all my notes, but for now these are the places where you can find me and my ideas at.
 ![happy dance sticker.gif|200](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
+
+### See What I'm Trying To Do Now!
+🚀 [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]
+
 ## How You Should Navigate This Site? 🌎
 
 You can see all the content of the site in the sidebar. Even though this is not the best way to navigate the site, I'm still building it, so for now this is one of the best ways.
@@ -40,5 +44,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![giphya.gif|200](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
 ## 〽️ Stats
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
-😵‍💫 There are quite a few notes in the vault - **Live Count: 1428** With over **12,60,000 words**.
+😵‍💫 There are quite a few notes in the vault - **Live Count: 1429** With over **12,60,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
