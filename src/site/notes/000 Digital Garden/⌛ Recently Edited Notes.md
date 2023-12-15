@@ -4,7 +4,8 @@
 
 | File                                                                                                                                         | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/Deliberate Practice\|Deliberate Practice]]                                                                   | 16.12.2023 - 04:22 |
+| [[🌍 Areas/📧  Letters To No One/The Beauty Inside\|The Beauty Inside]]                                                                   | 16.12.2023 - 04:26 |
+| [[🌍 Areas/📧 Personal Notes/Deliberate Practice\|Deliberate Practice]]                                                                   | 16.12.2023 - 04:23 |
 | [[🌍 Areas/📧 Personal Notes/Deliberate Practice copy\|Deliberate Practice copy]]                                                         | 16.12.2023 - 04:20 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                           | 16.12.2023 - 04:19 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                               | 16.12.2023 - 04:16 |
@@ -13,6 +14,5 @@
 | [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                     | 16.12.2023 - 03:43 |
 | [[Excalidraw/Building Block of Personality 2023-12-16 03.25.38.excalidraw\|Building Block of Personality 2023-12-16 03.25.38.excalidraw]] | 16.12.2023 - 03:42 |
 | [[Media DB/movies/movies\|movies]]                                                                                                        | 16.12.2023 - 03:25 |
-| [[Media DB/series/series\|series]]                                                                                                        | 16.12.2023 - 03:24 |
 
 { .block-language-dataview}
