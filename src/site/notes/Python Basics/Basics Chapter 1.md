@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-1/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-05T16:52:10.639+05:30","updated":"2023-12-10T19:54:11.596+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-1/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-05T16:52:10.639+05:30","updated":"2023-12-15T07:15:11.240+05:30"}
 ---
 
-#Python_Basics
-Down - [[Python Basics/Basics Chapter 6\|Basics Chapter 6]]
+🧶 Tags:: #Python_Basics
+Down:: [[Python Basics/Basics Chapter 6\|Basics Chapter 6]]
+🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 2023-12-05 | 16:52
 #### 1st code
 ```python
