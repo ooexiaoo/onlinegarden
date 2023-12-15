@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.116+05:30","updated":"2023-12-16T04:22:11.339+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.116+05:30","updated":"2023-12-16T04:23:02.867+05:30"}
 ---
 
-# [[🌍 Areas/📧 Personal Notes/Deliberate Practice\|🌍 Areas/📧 Personal Notes/Deliberate Practice]]
+# [[🌍 Areas/📧 Personal Notes/Deliberate Practice\|Deliberate Practice]]
 🧶 Tags:: #Personal_Notes #Personal_Growth #Fleeting_Notes #🌿
 Resources:: [Grit: The Power of Passion and Perseverance](https://g.co/kgs/tkiCzk)
 
