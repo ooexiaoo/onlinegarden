@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-15T11:40:57.117+05:30"}
+{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-15T12:25:15.942+05:30"}
 ---
 
 # 🏡
@@ -35,7 +35,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 ⚡ Feel free to click on the tags to see similar content.
 
-🎥 You can also see my [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]] and [[What I Watched/📺 Movies 2023\|📺 Movies 2023]]. 
+🎥 You can also see my [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]] and [[What I Watched/📺 Movies 2023\|📺 Movies 2023]].
 
 >[! Skip this Backstory] 😿 My Backstory
 > I know it's a mess, and I'm trying to sort it all out as much as I can.
