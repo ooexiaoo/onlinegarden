@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-14T09:26:28.499+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-15T12:20:17.377+05:30"}
 ---
 
 🧶 Tags:: #🌱 , #Fleeting_Notes 
@@ -32,7 +32,7 @@ There are topics that are better understood and learnt if you're writing about t
 
 It's on you what format you want to use to show your work. I found that writing is the best way for me express myself, but making videos is more impactful for people wanting to learn from you.
 
-You can also use social media platforms like [x](https://x.com), or [reddit](https://reddit.com), where you can post what you're learning or share the issues you're facing with a project.
+You can also use social media platforms like [x](https://twitter.com), or [reddit](https://reddit.com), where you can post what you're learning or share the issues you're facing with a project.
 
 It depends on **what you're comfortable with, how complex is the topic, how easy or hard it is to write or create a video about**. If you're going to do this seriously, you're bound to use multiple ways to share your content on different platforms.
 ### Welcome Feedback
@@ -46,6 +46,6 @@ Learning in public isn't simply about sharing what you learn. You also need to t
 
 **Join discussions, comment on other blog posts or videos that you've enjoyed, or learnt something, thank the creators and ask questions**. By doing so you open yourself up for new knowledge and can also share your own insights with others.
 ## Why You Should Learn in Public
-It's easy to feel reluctant when it comes to sharing your work. Either due to our thinking that, **we don't have enough to share or that we are not good enough**, but don't let those feels stop you. The goal is to learn, If you keep your knowledge walled off from the rest of the world, there's a big chance that you'll miss out on some amazing benefits public learning provides.
+It's easy to feel reluctant when it comes to sharing your work. Either due to our thinking that, **we don't have enough to share or that we are not good enough**, but don't let those feelings stop you. The goal is to learn, If you keep your knowledge walled off from the rest of the world, there's a big chance that you'll miss out on some amazing benefits public learning provides.
 
 **Over time, as you learn more and hone your skills, the content you share will add credibility to your work**.
