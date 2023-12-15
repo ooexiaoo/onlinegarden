@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-14-if-else-conditional-statements-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T22:59:30.967+05:30","updated":"2023-12-13T23:58:56.921+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-14-if-else-conditional-statements-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T22:59:30.967+05:30","updated":"2023-12-15T07:35:05.752+05:30"}
 ---
 
-🧶 Tags - #Python_Basics 
-Up - [[]]
-Down - [[Python Basics/Basics Chapter 13 - String Method\|Basics Chapter 13 - String Method]]
-🗃 Resources - [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+🧶 Tags:: #Python_Basics 
+Up:: [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]
+Down:: [[Python Basics/Basics Chapter 13 - String Method\|Basics Chapter 13 - String Method]]
+🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 # [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|Basics Chapter 14 - If Else Conditional Statements in Python]]
 ==2023-12-13 - 22:59==
 ## if-else Statements
