@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-13-string-method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T23:55:10.422+05:30","updated":"2023-12-13T23:00:44.568+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-13-string-method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T23:55:10.422+05:30","updated":"2023-12-15T07:18:00.508+05:30"}
 ---
 
-🧶 Tags - #Python_Basics 
-Up - [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|Basics Chapter 14 - If Else Conditional Statements in Python]]
-Down - [[Python Basics/Basics Chapter 12 - String Slicing & Operations on String\|Basics Chapter 12 - String Slicing & Operations on String]]
-🗃 Resources - [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+🧶 Tags:: #Python_Basics 
+Up:: [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|Basics Chapter 14 - If Else Conditional Statements in Python]]
+Down:: [[Python Basics/Basics Chapter 12 - String Slicing & Operations on String\|Basics Chapter 12 - String Slicing & Operations on String]]
+🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 # [[Python Basics/Basics Chapter 13 - String Method\|Basics Chapter 13 - String Method]]
 ==2023-12-12 - 23:55==
 Python provides a set of built-in methods that we can use to alter and modify the strings.
