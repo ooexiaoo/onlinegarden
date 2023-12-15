@@ -1,8 +1,7 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-13T20:45:47.001+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-15T07:09:04.089+05:30"}
 ---
 
-# [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]
 ==2023-12-12 - 20:23==
 
 ---
@@ -24,9 +23,15 @@ I just want to come out of it having a better restrain on my social media behavi
 I'm adding this to the day notes template to remind myself to come here and do daily updates.
 
 ### Day 1
+>[!success] 12-12-2023
 - This is day one so nothing much happened, I do feel the urge to watch YouTube and I think twice I instinctively opened Brave browser in my phone to open YouTube on it.
 - Other than that my mind is making up some excuses as to why the challenge is not that important and why I should not take it seriously. **"There won't be a big change anyway"**. So just fighting my own brain at this point. Reminds me of long distance running from 2017-2018.
 
 ### Day 3
+>[!success] 14-12-2023
 - I instinctively opened YT once and that was it, didn't watch anything but that happened. It's so weird that these things happen, even though we feel like we are in control maybe we are not so much in control after all.
 - This can become a good topic on how much we think we are in control but are not in many of the things.
+
+### Day 4
+>[!success] 15-12-2023
+- I'm getting so bored in free time, as there isn't much to do other than just learn more things or watch some anime. But, I don't want to just watch anime so, I'm spending that time reading things. Which is awesome!
