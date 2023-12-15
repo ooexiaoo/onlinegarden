@@ -1,14 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-7-operators/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-07T18:54:01.613+05:30","updated":"2023-12-10T19:50:34.697+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-7-operators/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-07T18:54:01.613+05:30","updated":"2023-12-15T07:16:14.982+05:30"}
 ---
 
-🧶 Tags - #Python_Basics 
-Up - [[Python Basics/Basics Chapter 1\|Basics Chapter 1]]
-Down - [[Python Basics/Basics Chapter 9 - Typecasting in Python\|Basics Chapter 9 - Typecasting in Python]]
-
----
+🧶 Tags:: #Python_Basics 
+Up:: [[Python Basics/Basics Chapter 1\|Basics Chapter 1]]
+Down:: [[Python Basics/Basics Chapter 9 - Typecasting in Python\|Basics Chapter 9 - Typecasting in Python]]
 🗃 Resources - [YouTube Video](https://www.youtube.com/watch?v=FLVqcxnJP_E&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=7) | [My Repel](https://replit.com/@wolfr13/calculator#main.py)
-
 # [[Python Basics/Basics Chapter 7 - Operators\|Basics Chapter 7 - Operators]]
 ==2023-12-07 - 18:54==
 
