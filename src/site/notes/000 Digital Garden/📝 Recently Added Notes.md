@@ -4,6 +4,8 @@
 
 | File                                                                                                                                                            | Last modified      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Media DB/series/Goblin Slayer II (2023)\|Goblin Slayer II (2023)]]                                                                                         | 15.12.2023 - 08:46 |
+| [[Media DB/series/Goblin Slayer (2018)\|Goblin Slayer (2018)]]                                                                                               | 15.12.2023 - 08:46 |
 | [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]                                                                             | 15.12.2023 - 07:20 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-15\|2023-12-15]]                                                                                         | 15.12.2023 - 04:44 |
 | [[Media DB/series/Dr Stone - New World Part 2 (2023)\|Dr Stone - New World Part 2 (2023)]]                                                                   | 15.12.2023 - 03:49 |
@@ -12,7 +14,5 @@
 | [[Media DB/series/Initial D Battle Stage (2002)\|Initial D Battle Stage (2002)]]                                                                             | 15.12.2023 - 00:09 |
 | [[Media DB/series/Initial D Extra Stage (2001)\|Initial D Extra Stage (2001)]]                                                                               | 15.12.2023 - 00:09 |
 | [[Media DB/movies/Initial D - Project D to the Next Stage - Project D e Mukete (2003)\|Initial D - Project D to the Next Stage - Project D e Mukete (2003)]] | 15.12.2023 - 00:09 |
-| [[Media DB/movies/New Initial D Movie - Legend 3 - Mugen (2016)\|New Initial D Movie - Legend 3 - Mugen (2016)]]                                             | 15.12.2023 - 00:09 |
-| [[Media DB/series/Initial D Extra Stage 2 (2008)\|Initial D Extra Stage 2 (2008)]]                                                                           | 15.12.2023 - 00:09 |
 
 { .block-language-dataview}
