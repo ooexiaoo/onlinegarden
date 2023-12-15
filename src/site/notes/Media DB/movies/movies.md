@@ -1,18 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-15T00:09:53.599+05:30"}
+{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-16T03:25:30.980+05:30"}
 ---
 
 
+- [[Media DB/movies/28 Days Later\|28 Days Later]]
 - [[Media DB/movies/April Story (1998)\|April Story (1998)]]
 - [[Media DB/movies/Bari Bari Densetsu (1987) (1987)\|Bari Bari Densetsu (1987) (1987)]]
 - [[Media DB/movies/Blade Runner 2049 (2017)\|Blade Runner 2049 (2017)]]
+- [[Media DB/movies/Born To Race 2022-06-20\|Born To Race 2022-06-20]]
 - [[Media DB/movies/Bu su (1987)\|Bu su (1987)]]
+- [[Media DB/movies/C.S.P 096\|C.S.P 096]]
+- [[Media DB/movies/Dare Devil\|Dare Devil]]
 - [[Media DB/movies/Gyakusatsu Kikan (2017)\|Gyakusatsu Kikan (2017)]]
 - [[Media DB/movies/Hera Pheri (2000)\|Hera Pheri (2000)]]
 - [[Media DB/movies/Idiocracy (2006)\|Idiocracy (2006)]]
 - [[Media DB/movies/Initial D - Project D to the Next Stage - Project D e Mukete (2003)\|Initial D - Project D to the Next Stage - Project D e Mukete (2003)]]
 - [[Media DB/movies/Jin-Roh - The Wolf Brigade (2000)\|Jin-Roh - The Wolf Brigade (2000)]]
 - [[Media DB/movies/Josee to Tora to Sakana-tachi (2020)\|Josee to Tora to Sakana-tachi (2020)]]
+- [[Media DB/movies/Justice League War 2014\|Justice League War 2014]]
 - [[Media DB/movies/Kono Subarashii Sekai ni Shukufuku wo! Spin-off - Kono Subarashii Sekai ni Bakuen wo! ()\|Kono Subarashii Sekai ni Shukufuku wo! Spin-off - Kono Subarashii Sekai ni Bakuen wo! ()]]
 - [[Media DB/movies/Kumaré (2011)\|Kumaré (2011)]]
 - [[Media DB/movies/Lady Ballers\|Lady Ballers]]
@@ -20,9 +25,13 @@
 - [[Media DB/movies/Memento (2000)\|Memento (2000)]]
 - [[Media DB/movies/New Initial D Movie - Legend 3 - Mugen (2016)\|New Initial D Movie - Legend 3 - Mugen (2016)]]
 - [[Media DB/movies/Oblivion (2013)\|Oblivion (2013)]]
+- [[Media DB/movies/Pacific Rim 1&2\|Pacific Rim 1&2]]
 - [[Media DB/movies/Pluto (2023)\|Pluto (2023)]]
 - [[Media DB/movies/Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)\|Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)]]
 - [[Media DB/movies/Tamako Love Story (2014)\|Tamako Love Story (2014)]]
+- [[Media DB/movies/The Banker 2022-05-28\|The Banker 2022-05-28]]
 - [[Media DB/movies/The Devil's Rejects (2005)\|The Devil's Rejects (2005)]]
+- [[Media DB/movies/Thor - Love & Thunder\|Thor - Love & Thunder]]
 - [[Media DB/movies/Top Gun - Maverick (2022)\|Top Gun - Maverick (2022)]]
+- [[Media DB/movies/What Women Want Movie  2022-05-28\|What Women Want Movie  2022-05-28]]
 
