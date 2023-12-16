@@ -4,6 +4,8 @@
 
 | File                                                                                                                                         | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Media DB/series/Yofukashi no Uta (2022)\|Yofukashi no Uta (2022)]]                                                                      | 16.12.2023 - 10:13 |
+| [[Media DB/movies/Paprika (2006)\|Paprika (2006)]]                                                                                        | 16.12.2023 - 09:49 |
 | [[🌍 Areas/📧 Personal Notes/Deliberate Practice copy\|Deliberate Practice copy]]                                                         | 16.12.2023 - 04:19 |
 | [[Excalidraw/Building Block of Personality 2023-12-16 03.25.38.excalidraw\|Building Block of Personality 2023-12-16 03.25.38.excalidraw]] | 16.12.2023 - 03:25 |
 | [[Media DB/Manhwa/Keep This A Secret From Mom\|Keep This A Secret From Mom]]                                                              | 15.12.2023 - 11:04 |
@@ -12,7 +14,5 @@
 | [[Media DB/series/Goblin Slayer (2018)\|Goblin Slayer (2018)]]                                                                            | 15.12.2023 - 08:46 |
 | [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]                                                          | 15.12.2023 - 07:20 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-15\|2023-12-15]]                                                                      | 15.12.2023 - 04:44 |
-| [[Media DB/series/Dr Stone - New World Part 2 (2023)\|Dr Stone - New World Part 2 (2023)]]                                                | 15.12.2023 - 03:49 |
-| [[000 Digital Garden/Permanent Notes\|Permanent Notes]]                                                                                   | 15.12.2023 - 00:25 |
 
 { .block-language-dataview}
