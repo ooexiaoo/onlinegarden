@@ -4,6 +4,7 @@
 
 | File                                                                                                                                         | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Python Basics/Basics Chapter 16 - Match Case Statements\|Basics Chapter 16 - Match Case Statements]]                                    | 16.12.2023 - 11:40 |
 | [[Media DB/series/Yofukashi no Uta (2022)\|Yofukashi no Uta (2022)]]                                                                      | 16.12.2023 - 10:13 |
 | [[Media DB/movies/Paprika (2006)\|Paprika (2006)]]                                                                                        | 16.12.2023 - 09:49 |
 | [[🌍 Areas/📧 Personal Notes/Deliberate Practice copy\|Deliberate Practice copy]]                                                         | 16.12.2023 - 04:19 |
@@ -13,6 +14,5 @@
 | [[Media DB/series/Goblin Slayer II (2023)\|Goblin Slayer II (2023)]]                                                                      | 15.12.2023 - 08:46 |
 | [[Media DB/series/Goblin Slayer (2018)\|Goblin Slayer (2018)]]                                                                            | 15.12.2023 - 08:46 |
 | [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]                                                          | 15.12.2023 - 07:20 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-15\|2023-12-15]]                                                                      | 15.12.2023 - 04:44 |
 
 { .block-language-dataview}
