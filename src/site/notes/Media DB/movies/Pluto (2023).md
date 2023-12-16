@@ -1,6 +1,10 @@
 ---
-{"type":"movie","subType":"","title":"Pluto","englishTitle":"Pluto","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/35737/Pluto","id":35737,"genres":["Action","Mystery","Sci-Fi","Suspense"],"producer":"Studio M2","duration":"1 hr 1 min per ep","onlineRating":8.61,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1021/138568.jpg","released":true,"streamingServices":["Netflix"],"premiere":"26/10/2023","watched":true,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/movie"],"dg-publish":true,"permalink":"/media-db/movies/pluto-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T11:51:51.058+05:30","updated":"2023-12-14T11:53:28.919+05:30"}
+{"type":"series","subType":"","title":"Pluto","englishTitle":"Pluto","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/35737/Pluto","id":35737,"genres":["Action","Mystery","Sci-Fi","Suspense"],"producer":"Studio M2","duration":"1 hr 1 min per ep","onlineRating":8.61,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1021/138568.jpg","released":true,"streamingServices":["Netflix"],"premiere":"26/10/2023","watched":true,"lastWatched":"2023-12-15","personalRating":0,"tags":["mediaDB/tv/movie"],"dg-publish":true,"permalink":"/media-db/movies/pluto-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T11:51:51.058+05:30","updated":"2023-12-16T10:17:03.295+05:30"}
 ---
 
+Tags:: #Anime #Anime_Show_2023 
+==2023-12-15 | 08:00==
+
 <img src="https://cdn.myanimelist.net/images/anime/1021/138568.jpg">
-Just started this series, and watched the first 15mins.
+
+Just started this series, watched the 1st episode, it was 1 hour long, had to split it in 2 parts.
