@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-16T03:24:50.161+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-16T10:13:41.571+05:30"}
 ---
 
 
@@ -72,5 +72,6 @@
 - [[Media DB/series/Urusei Yatsura (2022) (2022)\|Urusei Yatsura (2022) (2022)]]
 - [[Media DB/series/Vivy - Fluorite Eye's Song (2021)\|Vivy - Fluorite Eye's Song (2021)]]
 - [[Media DB/series/Yamada-kun to Lv999 no Koi wo Suru (2023)\|Yamada-kun to Lv999 no Koi wo Suru (2023)]]
+- [[Media DB/series/Yofukashi no Uta (2022)\|Yofukashi no Uta (2022)]]
 - [[Media DB/series/Yuusha ga Shinda! (2023)\|Yuusha ga Shinda! (2023)]]
 
