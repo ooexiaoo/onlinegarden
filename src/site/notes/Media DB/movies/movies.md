@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-16T03:25:30.980+05:30"}
+{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-16T09:49:11.921+05:30"}
 ---
 
 
@@ -26,6 +26,7 @@
 - [[Media DB/movies/New Initial D Movie - Legend 3 - Mugen (2016)\|New Initial D Movie - Legend 3 - Mugen (2016)]]
 - [[Media DB/movies/Oblivion (2013)\|Oblivion (2013)]]
 - [[Media DB/movies/Pacific Rim 1&2\|Pacific Rim 1&2]]
+- [[Media DB/movies/Paprika (2006)\|Paprika (2006)]]
 - [[Media DB/movies/Pluto (2023)\|Pluto (2023)]]
 - [[Media DB/movies/Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)\|Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)]]
 - [[Media DB/movies/Tamako Love Story (2014)\|Tamako Love Story (2014)]]
