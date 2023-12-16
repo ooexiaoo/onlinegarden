@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/if-you-don-t-have-regrets-you-re-doing-life-wrong/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.968+05:30","updated":"2023-12-12T01:13:33.074+05:30"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/if-you-don-t-have-regrets-you-re-doing-life-wrong/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.968+05:30","updated":"2023-12-16T12:20:13.933+05:30"}
 ---
 
-🧶 Tags - #Letterstonoone 
-🗃Resources - [[]]
-🔗Links -
-
-# [[🌍 Areas/📧  Letters To No One/If You Don't Have Regrets You're Doing Life Wrong\|If You Don't Have Regrets You're Doing Life Wrong]]
+🧶 Tags:: #Fleeting_Notes #🌱  
+🗃Resources:: [[]]
+🔗Links::
 ==2022-12-31 - 09:03==
-### Fleeting Notes
+
 We all are taught, **"Live a life, where you don't have any regrets"**, You subscribe to the idea and think **"OK, I'll live a life, where I don't have any regrets!"**, This sounds great from a macro perspective, but once you start to look at things from a microscopic level you start to see how difficult and punishing this kind of mindset can be.
 
 Just to be clear, I'm not going to be talking about the obvious things one must do to avoid regrets. I'm going to dive into the nuances that are often overlooked when it comes to the idea of living a life without regrets.
@@ -35,6 +33,7 @@ This is where I think we end up committing the second kind of regret. The one wh
 * Was your mindset that same 10 years ago as it is now?
 * Were you as mature back then as you're now?
 * Did you have enough time back then to try to get it, without sacrificing something of equal value or more?
+![If you don't have regrets you're doing life wrong (Forks in the road) 2023-12-16 12.14.18.excalidraw.png](/img/user/Excalidraw/If%20you%20don't%20have%20regrets%20you're%20doing%20life%20wrong%20(Forks%20in%20the%20road)%202023-12-16%2012.14.18.excalidraw.png)
 
 If **"No"**, then would you have been able to achieve your goals without **the knowledge, the mindset, the maturity, while also focusing on other things?**
 
