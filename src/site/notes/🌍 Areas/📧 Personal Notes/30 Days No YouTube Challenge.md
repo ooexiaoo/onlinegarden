@@ -1,10 +1,9 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-15T12:36:25.630+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-16T12:45:07.271+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
 
----
 I left [[🌍 Areas/📧 Personal Notes/2022-05-16 Free From Social Media\|social media]] a year ago but, I have still not gotten over my YouTube addiction. It's just that YouTube has taken the space social media had. It's very hard to not use YouTube, as it feels like I'm doing something productive even though all the things I'm learning or watching will never be applied anywhere.
 
 It's just knowledge stored in my head. It's not all that bad, I have a habit of having useless knowledge in my head for a long time.
@@ -28,7 +27,7 @@ I just want to come out of it having a better restrain on my social media behavi
 [Shwetabh](https://www.youtube.com/@ShwetabhGangwar1) once said that if you're not in the top 5% in the world at what you do, you shouldn't be sitting around and being lazy. Kaam Karo!!!
 
 ---
-I'm adding this to the day notes template to remind myself to come here and do daily updates.
+I'm adding this to the *daily notes template* to remind myself to come here and do daily updates.
 
 ### Day 1
 >[!success] 12-12-2023
@@ -43,3 +42,8 @@ I'm adding this to the day notes template to remind myself to come here and do d
 ### Day 4
 >[!success] 15-12-2023
 - I'm getting so bored in free time, as there isn't much to do other than just learn more things or watch some anime. But, I don't want to just watch anime so, I'm spending that time reading things. Which is awesome!
+
+### Day 5
+>[!success] 16-12-2023
+
+- I think, I'm getting used to this. I did visit YouTube to find a podcast, but that was it, didn't watch videos there. So far, so good.
