@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/if-you-don-t-have-regrets-you-re-doing-life-wrong/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.968+05:30","updated":"2023-12-16T12:20:13.933+05:30"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/if-you-don-t-have-regrets-you-re-doing-life-wrong/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.968+05:30","updated":"2023-12-16T12:21:15.358+05:30"}
 ---
 
 🧶 Tags:: #Fleeting_Notes #🌱  
-🗃Resources:: [[]]
-🔗Links::
+🗃 Resources:: [[]]
+🔗 Links::
 ==2022-12-31 - 09:03==
 
 We all are taught, **"Live a life, where you don't have any regrets"**, You subscribe to the idea and think **"OK, I'll live a life, where I don't have any regrets!"**, This sounds great from a macro perspective, but once you start to look at things from a microscopic level you start to see how difficult and punishing this kind of mindset can be.
