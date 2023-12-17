@@ -14,27 +14,20 @@
 # 🎨 Impressions
 ## Key Insights
 ## 1. 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-1-rule/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-# [[The 1% Rule\|The 1% Rule]]
+
+🧶 Tags::
+Resources:: [[📚 Books/Atomic Habits\|Atomic Habits]]
+Links::
 ==2021-10-14 - 11:30==
 
----
-### Fleeting Notes
 1. The power of compounding is the key. If we get better 1% every day, we can get 37 times better by the end of the year.
 2. We also have a plateau of latent potential. Our habits don't seem to make a difference until we cross a critical threshold.
 3. We expect progress to be linear, But the key aspect of any compounded effect is that the outcomes are delayed.
 ![1_iLQ89nhDmku3z3EMgIZI3A.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/1_iLQ89nhDmku3z3EMgIZI3A.png)
----
- 🧶 Tags -
-
----
- Resources - [[📚 Books/Atomic Habits\|Atomic Habits]]
- 
----
- Links -
 
 </div></div>
 
@@ -145,11 +138,9 @@ With time, you can get used to these results and be bored with it and even fall 
 
 
 
-# [[The 4 laws Of Habit Change\|The 4 laws Of Habit Change]]
+
 ==2021-10-14 - 12:23==
 
----
-# Fleeting Notes
 ## Make It Obvious
 1. Make it easy to do the good habits. Put fewer steps between you and the good habits and more steps between you and the bad one.
 2. For that, you can create an environment in which you can easily practice your good habits without taking any steps.
