@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/useful-code/responsive-embed-code-for-video/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T19:38:21.834+05:30","updated":"2023-12-13T03:45:11.510+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/useful-code/responsive-embed-code-for-video/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T19:38:21.834+05:30","updated":"2023-12-17T22:04:24.509+05:30"}
 ---
 
-🧶 Tags - #code
+🧶 Tags:: #code #Reference_Notes 
 # [[Useful Code/Responsive Embed Code For Video\|Responsive Embed Code For Video]]
 ==2023-12-13 - 03:44==
 ```HTML
