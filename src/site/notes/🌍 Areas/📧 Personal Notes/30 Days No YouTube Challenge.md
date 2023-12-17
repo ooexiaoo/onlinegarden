@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-17T09:13:47.214+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-17T09:53:27.548+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -51,4 +51,4 @@ I'm adding this to the *daily notes template* to remind myself to come here and 
 ### Day 6
 >[!success] 16-12-2023
 
-- I'm starting to forget that there's a site called YouTube, Well, joking aside, I don't have any urge to watch anything on YouTube anymore. I do visit once a day for watching *Python Course* that I'm learning right now, But other than that I don't watch anything else.
+- I'm starting to forget that there's a site called YouTube, Well, jokes aside, I don't have any urge to watch anything on YouTube anymore. I do visit it once a day for watching a [[Python Basics/Python Basics\|Python Course]] that I'm learning right now, But other than that, I don't watch anything else.
