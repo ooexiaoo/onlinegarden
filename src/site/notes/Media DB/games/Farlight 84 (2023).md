@@ -1,6 +1,8 @@
 ---
-{"type":"game","subType":null,"title":"Farlight 84","englishTitle":"Farlight 84","year":"2023","dataSource":"SteamAPI","url":"https://store.steampowered.com/app/1928420","id":1928420,"genres":["Action","Adventure","Massively Multiplayer","Free to Play"],"onlineRating":0,"image":"https://cdn.akamai.steamstatic.com/steam/apps/1928420/header.jpg?t=1695292364","released":true,"releaseDate":"21/09/2023","played":false,"personalRating":0,"tags":["mediaDB/game"],"dg-publish":true,"permalink":"/media-db/games/farlight-84-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-15T20:36:50.531+05:30","updated":"2023-12-11T00:26:44.623+05:30"}
+{"type":"game","subType":null,"title":"Farlight 84","englishTitle":"Farlight 84","year":"2023","dataSource":"SteamAPI","url":"https://store.steampowered.com/app/1928420","id":1928420,"genres":["Action","Adventure","Massively Multiplayer","Free to Play"],"onlineRating":0,"image":"https://cdn.akamai.steamstatic.com/steam/apps/1928420/header.jpg?t=1695292364","released":true,"releaseDate":"21/09/2023","played":false,"personalRating":0,"tags":["mediaDB/game"],"dg-publish":true,"permalink":"/media-db/games/farlight-84-2023/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-15T20:36:50.531+05:30","updated":"2023-12-17T21:52:27.349+05:30"}
 ---
+
+==2023-11-20==
 
 ![img](https://cdn.akamai.steamstatic.com/steam/apps/1928420/header.jpg?t=1695292364)
 
@@ -12,16 +14,17 @@ I might go back to playing it again sometime later, but will keep it at a minimu
 #### Some of the video I recorded over my time playing it
 <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
   <iframe
-    src="https://www.youtube.com/embed/FpojHn-6hrU?si=pbY6VQHUSbh02F5W"
+    src="https://www.youtube.com/embed/RbAlAq8e-7s"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     allow="autoplay; fullscreen"
     frameborder="0"
     scrolling="no"
   ></iframe>
 </div>
+
 <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
   <iframe
-    src="https://www.youtube.com/embed/k4LjvdW_syg?si=jdjVaLBwS8-G_Scn"
+    src="https://www.youtube.com/embed/q4Uo3tqlHY0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     allow="autoplay; fullscreen"
     frameborder="0"
