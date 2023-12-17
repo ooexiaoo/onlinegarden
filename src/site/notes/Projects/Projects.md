@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/projects/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T00:58:00.925+05:30","updated":"2023-12-12T00:58:24.536+05:30"}
+{"dg-publish":true,"permalink":"/projects/projects/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T00:58:00.925+05:30","updated":"2023-12-17T09:25:18.356+05:30"}
 ---
 
 
@@ -30,6 +30,7 @@
 	- [[Projects/🔥 NHNL/Traffic Spike On Yor San Post\|Traffic Spike On Yor San Post]]
 - **🖥 Website Building**
 	- [[Projects/🖥 Website Building/😵 Panic Button\|😵 Panic Button]]
+	- [[Projects/🖥 Website Building/Animexia\|Animexia]]
 	- [[Projects/🖥 Website Building/DIY Browser Homepage\|DIY Browser Homepage]]
 	- [[Projects/🖥 Website Building/One page sites made in less than a week\|One page sites made in less than a week]]
 	- [[Projects/🖥 Website Building/Resources\|Resources]]
