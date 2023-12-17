@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
-| File                                                                                         | Last modified      |
-| -------------------------------------------------------------------------------------------- | ------------------ |
-| [[Projects/🖥 Website Building/Animexia\|Animexia]]                                       | 17.12.2023 - 09:45 |
-| [[Projects/Projects\|Projects]]                                                           | 17.12.2023 - 09:25 |
-| [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                       | 17.12.2023 - 09:16 |
-| [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]] | 17.12.2023 - 09:13 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-17\|2023-12-17]]                      | 17.12.2023 - 09:11 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                           | 17.12.2023 - 09:10 |
-| [[Media DB/AVN/Eternum\|Eternum]]                                                         | 16.12.2023 - 12:49 |
-| [[Media DB/Media DB\|Media DB]]                                                           | 16.12.2023 - 12:46 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-16\|2023-12-16]]                      | 16.12.2023 - 12:42 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-15\|2023-12-15]]                      | 16.12.2023 - 12:38 |
+| File                                                              | Last modified      |
+| ----------------------------------------------------------------- | ------------------ |
+| [[Projects/Projects\|Projects]]                                | 17.12.2023 - 09:51 |
+| [[Templates/YouTube Script Template\|YouTube Script Template]] | 17.12.2023 - 09:48 |
+| [[Templates/YouTube Script\|YouTube Script]]                   | 17.12.2023 - 09:48 |
+| [[Templates/Podcast Notes\|Podcast Notes]]                     | 17.12.2023 - 09:48 |
+| [[Templates/Manwha Template\|Manwha Template]]                 | 17.12.2023 - 09:48 |
+| [[Templates/Book Review Template\|Book Review Template]]       | 17.12.2023 - 09:48 |
+| [[Templates/Blog Template\|Blog Template]]                     | 17.12.2023 - 09:47 |
+| [[Templates/Anime Template 2023\|Anime Template 2023]]         | 17.12.2023 - 09:47 |
+| [[Templates/🧈Personal Note\|🧈Personal Note]]                 | 17.12.2023 - 09:47 |
+| [[Templates/🔖Zettlekasaten Notes\|🔖Zettlekasaten Notes]]     | 17.12.2023 - 09:47 |
 
 { .block-language-dataview}
