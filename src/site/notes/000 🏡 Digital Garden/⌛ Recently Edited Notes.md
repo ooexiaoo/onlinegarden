@@ -4,7 +4,8 @@
 
 | File                                                                                                                                                                        | Last modified      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Podcast Notes/Harvard Psychiatrist on How To Get Ahead of 99.9% of People (Starting NOW)\|Harvard Psychiatrist on How To Get Ahead of 99.9% of People (Starting NOW)]] | 17.12.2023 - 20:29 |
+| [[Media DB/games/Farlight 84 (2023)\|Farlight 84 (2023)]]                                                                                                                | 17.12.2023 - 21:52 |
+| [[Podcast Notes/Harvard Psychiatrist on How To Get Ahead of 99.9% of People (Starting NOW)\|Harvard Psychiatrist on How To Get Ahead of 99.9% of People (Starting NOW)]] | 17.12.2023 - 21:42 |
 | [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]                                                                                | 17.12.2023 - 19:26 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-17\|2023-12-17]]                                                                                                     | 17.12.2023 - 19:23 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                                   | 17.12.2023 - 19:12 |
@@ -13,6 +14,5 @@
 | [[Ask basic questions\|Ask basic questions]]                                                                                                                             | 17.12.2023 - 19:09 |
 | [[Question Basic Assumptions\|Question Basic Assumptions]]                                                                                                               | 17.12.2023 - 19:08 |
 | [[Mental Processes\|Mental Processes]]                                                                                                                                   | 17.12.2023 - 19:08 |
-| [[Remember To Think For Yourself\|Remember To Think For Yourself]]                                                                                                       | 17.12.2023 - 19:07 |
 
 { .block-language-dataview}
