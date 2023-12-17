@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-16T11:41:25.293+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-17T18:30:40.382+05:30"}
 ---
 
 
@@ -14,5 +14,6 @@
 - [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|Basics Chapter 14 - If Else Conditional Statements in Python]]
 - [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]
 - [[Python Basics/Basics Chapter 16 - Match Case Statements\|Basics Chapter 16 - Match Case Statements]]
+- [[Python Basics/Basics Chapter 17 - For Loops\|Basics Chapter 17 - For Loops]]
 
 
