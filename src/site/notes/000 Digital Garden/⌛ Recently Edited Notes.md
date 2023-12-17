@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
-| File                                                                                                                                                                                                                         | Last modified      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧  Letters To No One/If You Don't Have Regrets You're Doing Life Wrong\|If You Don't Have Regrets You're Doing Life Wrong]]                                                                                   | 16.12.2023 - 12:20 |
-| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                                                                                     | 16.12.2023 - 12:20 |
-| [[Excalidraw/If you don't have regrets you're doing life wrong (Forks in the road) 2023-12-16 12.14.18.excalidraw\|If you don't have regrets you're doing life wrong (Forks in the road) 2023-12-16 12.14.18.excalidraw]] | 16.12.2023 - 12:19 |
-| [[🌍 Areas/📧  Letters To No One/😇 How To Become A Good Friend\|😇 How To Become A Good Friend]]                                                                                                                         | 16.12.2023 - 12:12 |
-| [[How Friendships Change With Time\|How Friendships Change With Time]]                                                                                                                                                    | 16.12.2023 - 12:08 |
-| [[🌍 Areas/📧  Letters To No One/How Not Watching Porn Changes Your Mind\|How Not Watching Porn Changes Your Mind]]                                                                                                       | 16.12.2023 - 12:07 |
-| [[Dopamine\|Dopamine]]                                                                                                                                                                                                    | 16.12.2023 - 12:05 |
-| [[Python Basics/Basics Chapter 16 - Match Case Statements\|Basics Chapter 16 - Match Case Statements]]                                                                                                                    | 16.12.2023 - 12:00 |
-| [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]                                                                                                                                          | 16.12.2023 - 11:55 |
-| [[Templates/Python Basics\|Python Basics]]                                                                                                                                                                                | 16.12.2023 - 11:42 |
+| File                                                                                         | Last modified      |
+| -------------------------------------------------------------------------------------------- | ------------------ |
+| [[Projects/🖥 Website Building/Animexia\|Animexia]]                                       | 17.12.2023 - 09:25 |
+| [[Projects/Projects\|Projects]]                                                           | 17.12.2023 - 09:25 |
+| [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                       | 17.12.2023 - 09:16 |
+| [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]] | 17.12.2023 - 09:13 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-17\|2023-12-17]]                      | 17.12.2023 - 09:11 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                           | 17.12.2023 - 09:10 |
+| [[Media DB/AVN/Eternum\|Eternum]]                                                         | 16.12.2023 - 12:49 |
+| [[Media DB/Media DB\|Media DB]]                                                           | 16.12.2023 - 12:46 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-16\|2023-12-16]]                      | 16.12.2023 - 12:42 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-15\|2023-12-15]]                      | 16.12.2023 - 12:38 |
 
 { .block-language-dataview}
