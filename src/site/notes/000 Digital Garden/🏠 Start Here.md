@@ -1,17 +1,16 @@
 ---
-{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-15T12:25:15.942+05:30"}
+{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-17T09:16:51.286+05:30"}
 ---
 
-# 🏡
-![blushing cat.gif|200](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/blushing%20cat.gif)
+![blushing cat.gif|300](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/blushing%20cat.gif)
 ## 🫨 Where Are You?
 You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
 
-🕸️ This is my little corner of the internet, where I publicly share my notes related to what I'm doing, what kind of content I'm consuming, etc to practice [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|learning in public]].
+🕸️ This is my little corner of the internet, where I publicly share my notes related to what I'm doing, what kind of content I'm consuming, etc. to practice [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|learning in public]].
 
 👷🏻 Everything here is a work in progress. There are very few notes that I'm happy with, the ones that I can call are complete notes. Everything else is just constantly changing.
 
-📄 You can meet me on my [YouTube](https://youtube.com/@naamnahihai) channel, or my main site [Exia's Garden](https://exiasgarden.pages.dev). I still need to make a real site where I'll finally post all my notes, but for now these are the places where you can find me and my ideas at.
+📄 You can meet me on my [YouTube](https://youtube.com/@naamnahihai) channel, or my main site, [Exia's Garden](https://exiasgarden.pages.dev). I still need to make a real site where I'll finally post all my notes, but for now these are the places where you can find me and my ideas at.
 ![happy dance sticker.gif|200](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
 
 ### 🚀 Current Challenge!
@@ -31,11 +30,13 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 ⚠️ There are some notes that I've linked to but are not published yet, if you so happen to find a note like this, it means I'm working on it
 
-👉🏻 Feel free to see my [[000 Digital Garden/⌛ Recently Edited Notes\|⌛ Recently Edited Notes]], [[000 Digital Garden/📝 Recently Added Notes\|📝 Recently Added Notes]] and [[000 Digital Garden/Permanent Notes\|Permanent Notes]]. I will organize things better as time goes on. but you can use these as a start for now.
+👉🏻 Feel free to see my [[000 Digital Garden/⌛ Recently Edited Notes\|⌛ Recently Edited Notes]], [[000 Digital Garden/📝 Recently Added Notes\|📝 Recently Added Notes]] and [[000 Digital Garden/Permanent Notes\|Permanent Notes]]. I will organize things better as time goes on. But you can use these as a start for now.
 
 ⚡ Feel free to click on the tags to see similar content.
 
 🎥 You can also see my [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]] and [[What I Watched/📺 Movies 2023\|📺 Movies 2023]].
+
+📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 
 >[! Skip this Backstory] 😿 My Backstory
 > I know it's a mess, and I'm trying to sort it all out as much as I can.
@@ -48,5 +49,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![giphya.gif|200](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
 ## 〽️ Stats
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
-😵‍💫 There are quite a few notes in the vault - **Live Count: 1441** With over **12,60,000 words**.
+😵‍💫 There are quite a few notes in the vault - **Live Count: 1445** With over **12,60,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
