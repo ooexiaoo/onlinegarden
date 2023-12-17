@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/areas/financial-notes/11-skills-millionaires-master/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.845+05:30","updated":"2023-12-15T02:51:55.146+05:30"}
+{"dg-publish":true,"permalink":"/areas/financial-notes/11-skills-millionaires-master/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.845+05:30","updated":"2023-12-17T22:25:28.753+05:30"}
 ---
 
-# [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]]
+
 ==2021-07-28 - 14:52==
 🧶 Tags:: #Personal_Growth, #Permanent_Notes 
-Resources - [[]]
-Links -
+Resources:: [[]]
+Links::
 <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
   <iframe
     src="https://www.youtube.com/embed/eJlWQ08UCyM"
@@ -23,15 +23,13 @@ Links -
 
 
 
-# [[Persuasion\|Persuasion]]
+🧶 Tags:: #Personal_Growth, #Financial_Freedom, #Fleeting_Notes, #🌱  
+Resources - [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]]
 ==2021-07-28 - 14:59==
 ### Fleeting Notes
 1. Learn to Persuade people weather it be your family, friends or other businesses. 2. Persuading businesses for getting more business and demand from them.
 3. Learn to persuade yourself as well when you're not feeling up to the mark for that day.
 4. Persuasion is a kind of [[negotiation\|negotiation]]. Learn to [[sell\|sell]] with persuasion.
-
-🧶 Tags:: #Personal_Growth, #Financial_Freedom, #Fleeting_Notes, #🌱  
-Resources - [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]]
 
 </div></div>
 
@@ -103,17 +101,15 @@ Resources - [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 
 
 
 
-# [[Recruiting\|Recruiting]]
+🧶 Tags:: #Personal_Growth, #Financial_Freedom, #🌱 , #Fleeting_Notes 
+Resources:: [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]]
 ==2021-07-28 - 15:33==
-### Fleeting Notes
-1. Recruit the right kind of people, People who want to grow this just as much as you want it. not to take advantage of them but to talk and discuss things that expands the idea base.
+
+1. Recruit the right kind of people, people who want to grow this just as much as you want it. Not to take advantage of them, but to talk and discuss things that expands the idea base.
 2. People with high caliber and understanding that help take things higher.
 3. Partners and investors who are incredible at networking and investing.
 4. Recruit the best people you can find.
 5. Not only you want to recruit people in the business but also people who can help you but are not involved in the business like mentors, friends, family, someone you can talk to, etc.
-
-🧶 Tags:: #Personal_Growth, #Financial_Freedom, #🌱 , #Fleeting_Notes 
-Resources - [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]]
 
 </div></div>
 
@@ -125,16 +121,14 @@ Resources - [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 
 
 
 
-# [[Time Management\|Time Management]]
+🧶 Tags:: #Personal_Growth, #Fleeting_Notes , #🌱 
+Resources - [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]] | [[🌍 Areas/📈 Personal Growth/How to focus on things that truly matter\|How to focus on things that truly matter]]
 ==2021-10-13 - 11:13==
-### Fleeting Notes
+
 1. Time Management can be considered a parent skill. With good time management, you can apply other skills better.  Learning to manage time better can be one of the key things that can give exponential results over time.
 2.  We all have an equal amount of time in a day but, what we do with that time is what creates all the difference. As you get better at managing time, you can learn new things or apply the things you've learned better and consistently.
 3.  > Good Time Management X Consistency = Good Results
 4.  So managing yourself is the key here. You need to create better [[Resources/🌏 WIKIs/Habits\|Habits]] and be consistent with them. It's good to analyze your daily schedule and think [[🌍 Areas/📈 Personal Growth/Critical Thinking\|critically]] on what you're spending useless amounts of time on, A habit, or a behavior that doesn't even give enough entertainment but we keep repeating it mindlessly. These kinds of behaviors can get ingrained in our minds and we might keep doing them without even realizing it.
-
-🧶 Tags:: #Personal_Growth, #Fleeting_Notes , #🌱 
-Resources - [[🌍 Areas/💸 Financial Notes/11 Skills Millionaires Master\|11 Skills Millionaires Master]], [[🌍 Areas/📈 Personal Growth/How to focus on things that truly matter\|How to focus on things that truly matter]]
 
 </div></div>
 
