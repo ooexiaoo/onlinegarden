@@ -4,6 +4,8 @@
 
 | File                                                                                                                                | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]                                        | 17.12.2023 - 19:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-17\|2023-12-17]]                                                             | 17.12.2023 - 19:23 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                           | 17.12.2023 - 19:12 |
 | [[Understanding That We can't Think Critically 100% Of The Time\|Understanding That We can't Think Critically 100% Of The Time]] | 17.12.2023 - 19:10 |
 | [[🌍 Areas/📈 Personal Growth/Critical Thinking\|Critical Thinking]]                                                             | 17.12.2023 - 19:09 |
@@ -12,7 +14,5 @@
 | [[Mental Processes\|Mental Processes]]                                                                                           | 17.12.2023 - 19:08 |
 | [[Remember To Think For Yourself\|Remember To Think For Yourself]]                                                               | 17.12.2023 - 19:07 |
 | [[Evaluate Existing Evidence\|Evaluate Existing Evidence]]                                                                       | 17.12.2023 - 19:06 |
-| [[Try Reversing Things\|Try Reversing Things]]                                                                                   | 17.12.2023 - 19:03 |
-| [[cognitive biases\|cognitive biases]]                                                                                           | 17.12.2023 - 18:58 |
 
 { .block-language-dataview}
