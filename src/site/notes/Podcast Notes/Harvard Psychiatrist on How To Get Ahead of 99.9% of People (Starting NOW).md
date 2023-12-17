@@ -1,17 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/podcast-notes/harvard-psychiatrist-on-how-to-get-ahead-of-99-9-of-people-starting-now/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-11T19:38:09.430+05:30","updated":"2023-12-11T20:26:04.120+05:30"}
+{"dg-publish":true,"permalink":"/podcast-notes/harvard-psychiatrist-on-how-to-get-ahead-of-99-9-of-people-starting-now/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-11T19:38:09.430+05:30","updated":"2023-12-17T20:09:26.048+05:30"}
 ---
 
 ==2023-12-11 - 19:44==
-📺 Podcast Name - [The Iced Coffee Hour](https://www.youtube.com/@TheIcedCoffeeHour)
-🔗 Link To Podcast - [To The Podcast](https://www.youtube.com/watch?v=u-XDOnSSUzI)
-🧶 Tags - #Podcast
-🧔🏻 People -
-- [Dr. K](https://www.youtube.com/@HealthyGamerGG)
-- Stephen Graham
-- Jack Selby
-# Harvard Psychiatrist on How To Get Ahead of 99.9% of People (Starting NOW)
-[01:48:47](https://www.youtube.com/watch?v=u-XDOnSSUzI#t=6527.565950771118) - **I Pad Babies** - Parents are using Phones/Ipads to calm their kids and it hurt the children's ability to develop. It is not helping their kids pay attention to things, develop cognitive abilities that are needed to function well in life. It's making the child's mind weaker.
+📺 Podcast Name:: [The Iced Coffee Hour](https://www.youtube.com/@TheIcedCoffeeHour)
+🔗 Link To Podcast:: [To The Podcast](https://www.youtube.com/watch?v=u-XDOnSSUzI)
+🧶 Tags:: #Podcast
+🧔🏻 People:: [Dr. K](https://www.youtube.com/@HealthyGamerGG) | Stephen Graham | Jack Selby
+
+[01:48:47](https://www.youtube.com/watch?v=u-XDOnSSUzI#t=6527.565950771118) - **iPad Babies** - Parents are using phones/iPads to calm their kids, and it hurt the children's ability to develop. It is not helping their kids pay attention to things, develop cognitive abilities that are needed to function well in life. It's making the child's mind weaker.
 
 An example Dr.K gives here is how kids nowadays prefer using elevators or escalators instead of stairs, because using stair needs more attention and probably you need to look at what's in front of you and not use your phone.
 
