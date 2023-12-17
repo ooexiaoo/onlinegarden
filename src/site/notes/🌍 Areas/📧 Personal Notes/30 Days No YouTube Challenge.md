@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-17T09:53:27.548+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-17T19:26:17.827+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -49,6 +49,7 @@ I'm adding this to the *daily notes template* to remind myself to come here and 
 - I think, I'm getting used to this. I did visit YouTube to find a podcast, but that was it, didn't watch videos there. So far, so good.
 
 ### Day 6
->[!success] 16-12-2023
+>[!success] 17-12-2023
 
 - I'm starting to forget that there's a site called YouTube, Well, jokes aside, I don't have any urge to watch anything on YouTube anymore. I do visit it once a day for watching a [[Python Basics/Python Basics\|Python Course]] that I'm learning right now, But other than that, I don't watch anything else.
+- BTW, I was looking for documentaries on long distance running, so I watched a short documentary that was embedded on a running site from YouTube.
