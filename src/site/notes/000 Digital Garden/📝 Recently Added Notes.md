@@ -4,15 +4,15 @@
 
 | File                                                                                                                                                                                                                         | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Projects/🖥 Website Building/Animexia\|Animexia]]                                                                                                                                                                       | 17.12.2023 - 09:18 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-17\|2023-12-17]]                                                                                                                                                      | 17.12.2023 - 09:10 |
+| [[Media DB/AVN/Eternum\|Eternum]]                                                                                                                                                                                         | 16.12.2023 - 12:45 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-16\|2023-12-16]]                                                                                                                                                      | 16.12.2023 - 12:38 |
 | [[Excalidraw/If you don't have regrets you're doing life wrong (Forks in the road) 2023-12-16 12.14.18.excalidraw\|If you don't have regrets you're doing life wrong (Forks in the road) 2023-12-16 12.14.18.excalidraw]] | 16.12.2023 - 12:14 |
 | [[How Friendships Change With Time\|How Friendships Change With Time]]                                                                                                                                                    | 16.12.2023 - 12:08 |
 | [[Python Basics/Basics Chapter 16 - Match Case Statements\|Basics Chapter 16 - Match Case Statements]]                                                                                                                    | 16.12.2023 - 11:40 |
 | [[Media DB/series/Yofukashi no Uta (2022)\|Yofukashi no Uta (2022)]]                                                                                                                                                      | 16.12.2023 - 10:13 |
 | [[Media DB/movies/Paprika (2006)\|Paprika (2006)]]                                                                                                                                                                        | 16.12.2023 - 09:49 |
 | [[🌍 Areas/📧 Personal Notes/Deliberate Practice copy\|Deliberate Practice copy]]                                                                                                                                         | 16.12.2023 - 04:19 |
-| [[Excalidraw/Building Block of Personality 2023-12-16 03.25.38.excalidraw\|Building Block of Personality 2023-12-16 03.25.38.excalidraw]]                                                                                 | 16.12.2023 - 03:25 |
-| [[Media DB/Manhwa/Keep This A Secret From Mom\|Keep This A Secret From Mom]]                                                                                                                                              | 15.12.2023 - 11:04 |
-| [[🌍 Areas/📧 Personal Notes/Cool Blogs I Found\|Cool Blogs I Found]]                                                                                                                                                     | 15.12.2023 - 10:29 |
-| [[Media DB/series/Goblin Slayer II (2023)\|Goblin Slayer II (2023)]]                                                                                                                                                      | 15.12.2023 - 08:46 |
 
 { .block-language-dataview}
