@@ -3,7 +3,7 @@
 ---
 
 🧶 Tags:: #🌱 , #Fleeting_Notes 
-🗃 Resources:: [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]
+🗃 Resources:: [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]
 🔗 Links:: [Grow-self](https://grow-self.com/learning-in-public/)
 # [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|🎓 Learning in Public]]
 ==2023-12-14 - 03:24==
