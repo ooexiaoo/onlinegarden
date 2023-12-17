@@ -4,7 +4,7 @@
 
 | File                                                                                         | Last modified      |
 | -------------------------------------------------------------------------------------------- | ------------------ |
-| [[Projects/🖥 Website Building/Animexia\|Animexia]]                                       | 17.12.2023 - 09:25 |
+| [[Projects/🖥 Website Building/Animexia\|Animexia]]                                       | 17.12.2023 - 09:45 |
 | [[Projects/Projects\|Projects]]                                                           | 17.12.2023 - 09:25 |
 | [[000 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                       | 17.12.2023 - 09:16 |
 | [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]] | 17.12.2023 - 09:13 |
