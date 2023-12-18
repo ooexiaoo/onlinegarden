@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-16-match-case-statements/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-16T11:40:24.432+05:30","updated":"2023-12-16T12:00:04.572+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-16-match-case-statements/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-16T11:40:24.432+05:30","updated":"2023-12-18T20:44:53.049+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/Basics Chapter 17 - For Loops\|Basics Chapter 17 - For Loops]]
 Down:: [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-16 - 11:40==
