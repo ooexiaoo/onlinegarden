@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/books/atomic-habits/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.567+05:30","updated":"2023-12-12T23:31:35.602+05:30"}
+{"dg-publish":true,"permalink":"/books/atomic-habits/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.567+05:30","updated":"2023-12-18T20:58:15.018+05:30"}
 ---
 
-# Tags - #Books 
+🧶 Tags:: #Personal_Notes #Books 
+Resources::
+Links:: <a herf="https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834">Atomic Habits</a>
 
-# [[📚 Books/Atomic Habits\|Atomic Habits]]
 # 🚀 The Book In 3 Sentences
 1. Easy to understand.
 2. Implementing is easier if you follow the points.
 3. Simplified a complex issue.
 
-----
 # 🎨 Impressions
 ## Key Insights
 ## 1. 
@@ -36,24 +36,16 @@ Links::
 
 
 
-# [[Screw Goals Create Systems\|Screw Goals Create Systems]]
+🧶 Tags::
+Resources:: [[📚 Books/Atomic Habits\|Atomic Habits]]
+Links::
 ==2021-10-14 - 11:40==
 
----
-### Fleeting Notes
 1. Winners and losers have the same goals.
 2. When we set or achieve a goal, we only change our life for a moment. These results are temporary.
 3. Instead, what you need to change is the systems that cause those results in the first place.
 4. We put off happiness for achieving a certain goal, like **"when I achieve this goal, then I'll be happy."**
 5. The score takes care of itself if, you focus on playing the game better.
----
- 🧶 Tags -
-
----
- Resources - [[📚 Books/Atomic Habits\|Atomic Habits]]
- 
----
- Links -
 
 
 
@@ -65,23 +57,15 @@ Links::
 
 
 
-# [[🌍 Areas/📧 Personal Notes/Change Your Identity\|Change Your Identity]]
+🧶 Tags:: #Fleeting_Notes #🌱 
+Resources - [[📚 Books/Atomic Habits\|Atomic Habits]]
+Links::
 ==2021-10-14 - 11:55==
 
----
-### Fleeting Notes
 ![Untitled.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Untitled.png)
 1. Most of us work from outcome to identity, but we should work to make our habits an identity of ourselves.
 2. When we solve problems for outcomes and results, we only solve them temporarily, but when we make it our identity we work beyond that and solve things on systemic level.
-3. When it's part of our identity, work for it all the time. Example - I want to get fit because I want to lose weight is an outcomes based habit, Vs I'm a person who wants to be healthy, so I'll go to the gym and take care of my body is an identity based approach. Once you reach your weight goal in the first one, you'll start doing unhealthy things again but with the second one even when you reach your ideal weight you'll continue to keep the good habits because you identity yourself as a healthy person.
----
- 🧶 Tags -
-
----
- Resources - [[📚 Books/Atomic Habits\|Atomic Habits]]
-
----
- Links -
+3. When it's part of our identity, work for it all the time. Example - I want to get fit because I want to lose weight is an outcomes based habit, Vs I'm a person who wants to be healthy, so I'll go to the gym and take care of my body is an identity based approach. Once you reach your weight goal in the first one, you'll start doing unhealthy things again but with the second one even when you reach your ideal weight you'll continue to keep the good habits because you identify yourself as a healthy person.
 
 </div></div>
 
@@ -90,17 +74,16 @@ Links::
 
 
 
-# [[How To Form A Habit\|How To Form A Habit]]
+🧶 Tags:: #Fleeting_Notes #🌱 
+Resources:: [[📚 Books/Atomic Habits\|Atomic Habits]]
+Links:: 
 ==2021-10-14 - 12:04==
 
----
-### Fleeting Notes
 1. How do we build these habits, and how do we overcome difficulty? For this, we can split up the process of building habit into 4 stages.
 	1. Cue
 	2. Craving
 	3. Response
 	4. Reward
----
 ## Cue
 Cue is when we notice that we need to change something in our life. This can be anything like weight gain, etc.
 
@@ -121,15 +104,6 @@ This is where [[2-Minutes Reset\|2-Minutes Reset]] rule can come in handy. This 
 ## Reward
 No need to explain it too much, but, this is where you start to see the results of your hard work.
 With time, you can get used to these results and be bored with it and even fall back to your old 'bad' habits but, if you stay consistent you can get used to this activity enough to call it a habit.
-
----
- 🧶 Tags -
-
----
- Resources - [[📚 Books/Atomic Habits\|Atomic Habits]]
-
----
- Links -
 
 </div></div>
 
@@ -265,12 +239,3 @@ It's better to come back to it from time to time or read the points described in
 3. *"The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game."*
 4. *"Identity change is the north star of habit change."*
 5. *"What is Immediately rewarded is repeated. What is Immediately punished is avoided."*
-
----
-🧶 Tags - #Personal_Notes, #Books 
-
----
- Resources - 
-
----
- Links - <a herf="https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834">Atomic Habits</a>
