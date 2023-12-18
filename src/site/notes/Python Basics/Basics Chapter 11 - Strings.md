@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-11-strings/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T20:14:56.363+05:30","updated":"2023-12-15T07:17:30.329+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-11-strings/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T20:14:56.363+05:30","updated":"2023-12-18T20:44:00.673+05:30"}
 ---
 
 
@@ -7,7 +7,6 @@
 Up:: [[Python Basics/Basics Chapter 12 - String Slicing & Operations on String\|Basics Chapter 12 - String Slicing & Operations on String]]
 Down:: [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 - Taking User Input]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
-# [[Python Basics/Basics Chapter 11 - Strings\|Basics Chapter 11 - Strings]]
 ==2023-12-10 - 20:15==
 In python, anything that you enclose between single or double quotation marks is considered a string.
 
