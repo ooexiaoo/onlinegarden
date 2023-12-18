@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-10-taking-user-input/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T20:48:32.218+05:30","updated":"2023-12-15T07:17:05.586+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-10-taking-user-input/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T20:48:32.218+05:30","updated":"2023-12-18T20:43:54.461+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
 Up:: [[Python Basics/Basics Chapter 11 - Strings\|Basics Chapter 11 - Strings]]
-Down:: [[Python Basics/Basics Chapter 9 - Typecasting in Python\|Basics Chapter 9 - Typecasting in Python]]
+Down:: [[Python Basics/Basics Chapter 09 - Typecasting in Python\|Basics Chapter 09 - Typecasting in Python]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
-# [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 - Taking User Input]]
 ==2023-12-09 - 20:48==
 
 In python, we can take user input directly by using input() function.This input function gives a return value as string/character hence we have to pass that into a variable
