@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/books/the-quick-and-easy-way-to-effective-speaking/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.542+05:30","updated":"2023-12-12T23:31:35.724+05:30"}
+{"dg-publish":true,"permalink":"/books/the-quick-and-easy-way-to-effective-speaking/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.542+05:30","updated":"2023-12-18T21:02:21.970+05:30"}
 ---
 
-# [[📚 Books/The Quick And Easy Way To Effective Speaking\|The Quick And Easy Way To Effective Speaking]]
+🧶 Tags:: #Books
+Resources:: [[]]
+Links:: 
 # 🚀 The Book In 3 Sentences
 1.
 2.
@@ -27,11 +29,3 @@
 1.
 2.
 3.
-
----
-# 🧶 Tags - #Books
-
----
-# Resources - [[]]
----
-# Links - 
