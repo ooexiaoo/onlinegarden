@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-12-string-slicing-and-operations-on-string/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T00:05:46.253+05:30","updated":"2023-12-15T07:17:45.110+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-12-string-slicing-and-operations-on-string/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T00:05:46.253+05:30","updated":"2023-12-18T20:44:07.120+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
 Up:: [[Python Basics/Basics Chapter 13 - String Method\|Basics Chapter 13 - String Method]]
 Down:: [[Python Basics/Basics Chapter 11 - Strings\|Basics Chapter 11 - Strings]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
-# [[Python Basics/Basics Chapter 12 - String Slicing & Operations on String\|Basics Chapter 12 - String Slicing & Operations on String]]
 ==2023-12-12 - 00:05==
 ## Length of a String
 We can find the length of a string using len() function.
