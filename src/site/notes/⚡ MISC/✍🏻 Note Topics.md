@@ -1,12 +1,10 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-16T10:03:05.630+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-18T20:48:50.915+05:30"}
 ---
 
-# [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]
+Tags:: #Topics 
 ==2022-10-16 - 14:53==
 
----
-### Fleeting Notes
 - [x] Not watching porn and it's effects on the mind - [[🌍 Areas/📧  Letters To No One/How Not Watching Porn Changes Your Mind\|How Not Watching Porn Changes Your Mind]]
 - [x] Family and friends and why it can make your life a better place - [[🌍 Areas/📧  Letters To No One/Finding Meaning With Friends And Family\|Finding Meaning With Friends And Family]]
 - [ ] levels of friendship and how it can change with time - [[How Friendships Change With Time\|How Friendships Change With Time]]
@@ -30,7 +28,7 @@
 - [ ] When comfort becomes crutches
 - [ ] What if we are imprisoned on earth
 - [ ] Frequency Illusion
-- [ ] Effects of being in constant silos and echo chambers (twitter, youtube, social media, even friends and family)
+- [ ] Effects of being in constant silos and echo chambers (twitter, YouTube, social media, even friends and family)
 - [x] [[🌍 Areas/📧  Letters To No One/Exploring Consciousness in Modern Western Culture\|Exploring Consciousness in Modern Western Culture]]
 - [ ] [[Transactional Analysis\|Transactional Analysis]]
 - [ ] https://yesterweb.org/no-to-web3/
@@ -49,8 +47,13 @@
 Fadogia Agrestis
 https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF
 
----
- 🧶 Tags - #Topics
-
- Links -
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/iMZlC3wbt2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ Links::
+ <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
+  <iframe
+    src="https://www.youtube.com/embed/iMZlC3wbt2w"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="autoplay; fullscreen"
+    frameborder="0"
+    scrolling="no"
+  ></iframe>
+</div>
