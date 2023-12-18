@@ -34,7 +34,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 ⚡ Feel free to click on the tags to see similar content.
 
-🎥 You can also see my [[My Anime List/📺 Anime List 2023\|📺 Anime List 2023]] and [[What I Watched/📺 Movies 2023\|📺 Movies 2023]].
+🎥 You can also see my [[Media DB/📺 Anime List 2023\|📺 Anime List 2023]] and [[Media DB/📺 Movies 2023\|📺 Movies 2023]].
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 
