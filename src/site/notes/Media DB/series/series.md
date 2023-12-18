@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-16T10:13:41.571+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-18T21:05:28.137+05:30"}
 ---
 
 
@@ -54,6 +54,7 @@
 - [[Media DB/series/Overlord IV (2022)\|Overlord IV (2022)]]
 - [[Media DB/series/Pantheon (2022–2023)\|Pantheon (2022–2023)]]
 - [[Media DB/series/Paripi Koumei (2022)\|Paripi Koumei (2022)]]
+- [[Media DB/series/Potion-danomi de Ikinobimasu! (2023)\|Potion-danomi de Ikinobimasu! (2023)]]
 - [[Media DB/series/Rokudou no Onna-tachi (2023)\|Rokudou no Onna-tachi (2023)]]
 - [[Media DB/series/Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu (2023)\|Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu (2023)]]
 - [[Media DB/series/Sakamichi no Apollon (2012)\|Sakamichi no Apollon (2012)]]
