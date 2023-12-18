@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Media DB/series/MF Ghost (2023)\|MF Ghost (2023)]]                                                                                                 | 18.12.2023 - 21:20 |
 | [[Media DB/movies/Pluto (2023)\|Pluto (2023)]]                                                                                                       | 18.12.2023 - 21:17 |
 | [[Media DB/series/Urusei Yatsura (2022) (2022)\|Urusei Yatsura (2022) (2022)]]                                                                       | 18.12.2023 - 21:17 |
 | [[Media DB/series/Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu (2023)\|Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu (2023)]] | 18.12.2023 - 21:16 |
@@ -13,6 +14,5 @@
 | [[Media DB/series/Potion-danomi de Ikinobimasu! (2023)\|Potion-danomi de Ikinobimasu! (2023)]]                                                       | 18.12.2023 - 21:09 |
 | [[Media DB/series/series\|series]]                                                                                                                   | 18.12.2023 - 21:05 |
 | [[📚 Books/The Quick And Easy Way To Effective Speaking\|The Quick And Easy Way To Effective Speaking]]                                              | 18.12.2023 - 21:02 |
-| [[📚 Books/Do Epic Shit\|Do Epic Shit]]                                                                                                              | 18.12.2023 - 21:01 |
 
 { .block-language-dataview}
