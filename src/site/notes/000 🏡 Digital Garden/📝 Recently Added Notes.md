@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                                                                                         | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Python Basics/Basics Chapter 18 - While Loops\|Basics Chapter 18 - While Loops]]                                                                                                                                        | 18.12.2023 - 17:42 |
 | [[🌍 Areas/💸 Financial Notes/3 Big Levers In Business 1\|3 Big Levers In Business 1]]                                                                                                                                    | 17.12.2023 - 18:47 |
 | [[Python Basics/Basics Chapter 17 - For Loops\|Basics Chapter 17 - For Loops]]                                                                                                                                            | 17.12.2023 - 18:21 |
 | [[Projects/🖥 Website Building/Animexia\|Animexia]]                                                                                                                                                                       | 17.12.2023 - 09:18 |
@@ -13,6 +14,5 @@
 | [[Excalidraw/If you don't have regrets you're doing life wrong (Forks in the road) 2023-12-16 12.14.18.excalidraw\|If you don't have regrets you're doing life wrong (Forks in the road) 2023-12-16 12.14.18.excalidraw]] | 16.12.2023 - 12:14 |
 | [[How Friendships Change With Time\|How Friendships Change With Time]]                                                                                                                                                    | 16.12.2023 - 12:08 |
 | [[Python Basics/Basics Chapter 16 - Match Case Statements\|Basics Chapter 16 - Match Case Statements]]                                                                                                                    | 16.12.2023 - 11:40 |
-| [[Media DB/series/Yofukashi no Uta (2022)\|Yofukashi no Uta (2022)]]                                                                                                                                                      | 16.12.2023 - 10:13 |
 
 { .block-language-dataview}
