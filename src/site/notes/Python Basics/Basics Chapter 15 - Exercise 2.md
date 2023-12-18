@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-15-exercise-2/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-15T07:20:14.633+05:30","updated":"2023-12-16T11:55:33.337+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-15-exercise-2/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-15T07:20:14.633+05:30","updated":"2023-12-18T20:44:26.497+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
 Up:: [[Python Basics/Basics Chapter 16 - Match Case Statements\|Basics Chapter 16 - Match Case Statements]]
 Down:: [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|Basics Chapter 14 - If Else Conditional Statements in Python]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) | [Understand Time Module in Python](https://realpython.com/python-time-module/)
-# [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]
 ==2023-12-15 - 07:20==
 ### Exercise 2: Good Morning Sir
 Create a python program capable of greeting you with Good Morning, Good Afternoon and Good Evening.
