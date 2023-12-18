@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-18T17:43:24.675+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-18T20:43:17.327+05:30"}
 ---
 
 
-- [[Python Basics/Basics Chapter 1\|Basics Chapter 1]]
-- [[Python Basics/Basics Chapter 6\|Basics Chapter 6]]
-- [[Python Basics/Basics Chapter 7 - Operators\|Basics Chapter 7 - Operators]]
-- [[Python Basics/Basics Chapter 9 - Typecasting in Python\|Basics Chapter 9 - Typecasting in Python]]
+- [[Python Basics/Basics Chapter 01\|Basics Chapter 01]]
+- [[Python Basics/Basics Chapter 06\|Basics Chapter 06]]
+- [[Python Basics/Basics Chapter 07 - Operators\|Basics Chapter 07 - Operators]]
+- [[Python Basics/Basics Chapter 09 - Typecasting in Python\|Basics Chapter 09 - Typecasting in Python]]
 - [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 - Taking User Input]]
 - [[Python Basics/Basics Chapter 11 - Strings\|Basics Chapter 11 - Strings]]
 - [[Python Basics/Basics Chapter 12 - String Slicing & Operations on String\|Basics Chapter 12 - String Slicing & Operations on String]]
