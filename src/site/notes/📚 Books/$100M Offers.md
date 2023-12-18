@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/books/100-m-offers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.555+05:30","updated":"2023-12-12T23:31:35.578+05:30"}
+{"dg-publish":true,"permalink":"/books/100-m-offers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.555+05:30","updated":"2023-12-18T20:52:13.956+05:30"}
 ---
 
-Tags - #Books 
----
+---dataview
 kindle-sync:
   bookId: '49018'
   title: '$100M Offers: How To Make Offers So Good People Feel Stupid Saying No'
@@ -13,7 +12,8 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81D50rj9jDL._SY160.jpg'
   highlightsCount: 33
 ---
-# $100M Offers
+
+Tags:: #Books
 ## Metadata
 * Author: [Alex Hormozi](https://www.amazon.com/Alex-Hormozi/e/B099H3YM3R/ref=dp_byline_cont_ebooks_1)
 * ASIN: B099QVG1H8
@@ -84,7 +84,7 @@ The degree of the pain will be proportional to the price you will be able to cha
 
 
 ---
-I have a saying I use to train sales teams “The pain is the pitch.” If you can articulate the pain a prospect is feeling accurately, they will almost always buy what you are offering. — location: [557](kindle://book?action=open&asin=B099QVG1H8&location=557)
+I have a saying I use to train sales teams, “The pain is the pitch.” If you can articulate the pain a prospect is feeling accurately, they will almost always buy what you are offering. — location: [557](kindle://book?action=open&asin=B099QVG1H8&location=557)
 { #ref-431}
 
 
