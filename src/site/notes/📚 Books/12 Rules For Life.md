@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/books/12-rules-for-life/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.548+05:30","updated":"2023-12-12T23:31:35.588+05:30"}
+{"dg-publish":true,"permalink":"/books/12-rules-for-life/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.548+05:30","updated":"2023-12-18T20:52:25.073+05:30"}
 ---
 
-# [[📚 Books/12 Rules For Life\|12 Rules For Life]]
 # 🚀 The Book In 3 Sentences
 1. 
 2.
