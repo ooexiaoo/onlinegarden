@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-17-for-loops/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T18:21:59.877+05:30","updated":"2023-12-17T18:43:00.397+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-17-for-loops/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T18:21:59.877+05:30","updated":"2023-12-18T17:43:34.933+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/Basics Chapter 18 - While Loops\|Basics Chapter 18 - While Loops]]
 Down:: [[Python Basics/Basics Chapter 16 - Match Case Statements\|Basics Chapter 16 - Match Case Statements]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-17 - 18:22==
