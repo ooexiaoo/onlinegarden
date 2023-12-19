@@ -1,10 +1,11 @@
 ---
-{"wordcount":0,"dg-publish":true,"permalink":"/useful-code/powershell-script-to-close-programs-automatically/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T03:32:57.590+05:30","updated":"2023-12-13T03:49:28.726+05:30"}
+{"wordcount":0,"dg-publish":true,"permalink":"/useful-code/powershell-script-to-close-programs-automatically/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T03:32:57.590+05:30","updated":"2023-12-19T20:23:47.374+05:30"}
 ---
 
-🧶 Tags - #Code
-# [[Useful Code/Powershell Script to Close Programs Automatically\|Powershell Script to Close Programs Automatically]]
+🧶 Tags:: #Code
 ==2023-12-13 - 03:33==
+
+## Option 1
 ```powershell
 # Set the idle time threshold in seconds (e.g., 300 seconds = 5 minutes)
 $idleThreshold = 300
@@ -38,7 +39,7 @@ while ($true) {
 > 1. Open Notepad or any text editor.
 > 2. Copy and paste the script above into the text editor.
 > 3. Save the file with a `.ps1` extension (e.g., `CloseAppsOnIdle.ps1`).
-
+## Option 2
 >[! hint] To execute the script:
 >1. Right-click on the saved PowerShell script file (`CloseAppsOnIdle.ps1`).
 >2. Choose "Run with PowerShell" from the context menu.
