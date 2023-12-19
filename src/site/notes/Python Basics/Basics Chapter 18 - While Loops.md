@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-18-while-loops/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-18T17:42:47.107+05:30","updated":"2023-12-18T17:48:28.221+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-18-while-loops/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-18T17:42:47.107+05:30","updated":"2023-12-19T11:28:24.932+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/Basics Chapter 19 - Break and Continue\|Basics Chapter 19 - Break and Continue]]
 Down:: [[Python Basics/Basics Chapter 17 - For Loops\|Basics Chapter 17 - For Loops]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-18 - 17:42==
