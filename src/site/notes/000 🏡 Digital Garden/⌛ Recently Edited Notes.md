@@ -4,11 +4,11 @@
 
 | File                                                                                                                                                          | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-19\|2023-12-19]]                                                                                       | 19.12.2023 - 19:50 |
 | [[Media DB/series/Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)\|Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)]] | 19.12.2023 - 11:58 |
 | [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]                                                                  | 19.12.2023 - 11:47 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-18\|2023-12-18]]                                                                                       | 19.12.2023 - 11:36 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                            | 19.12.2023 - 11:36 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-19\|2023-12-19]]                                                                                       | 19.12.2023 - 11:35 |
 | [[Python Basics/Basics Chapter 19 - Break and Continue\|Basics Chapter 19 - Break and Continue]]                                                           | 19.12.2023 - 11:33 |
 | [[Python Basics/Basics Chapter 18 - While Loops\|Basics Chapter 18 - While Loops]]                                                                         | 19.12.2023 - 11:28 |
 | [[Python Basics/Python Basics\|Python Basics]]                                                                                                             | 19.12.2023 - 11:28 |
