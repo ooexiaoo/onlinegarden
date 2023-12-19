@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-17T19:26:17.827+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-19T11:41:25.548+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -53,3 +53,9 @@ I'm adding this to the *daily notes template* to remind myself to come here and 
 
 - I'm starting to forget that there's a site called YouTube, Well, jokes aside, I don't have any urge to watch anything on YouTube anymore. I do visit it once a day for watching a [[Python Basics/Python Basics\|Python Course]] that I'm learning right now, But other than that, I don't watch anything else.
 - BTW, I was looking for documentaries on long distance running, so I watched a short documentary that was embedded on a running site from YouTube.
+
+### Day 7
+>[!success] 18-12-2023
+
+- Was too busy to even think about this
+- ![Teehee-War-crimes-anime.gif](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Teehee-War-crimes-anime.gif)
