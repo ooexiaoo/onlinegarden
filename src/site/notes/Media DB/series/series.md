@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-18T21:05:28.137+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-20T21:20:35.088+05:30"}
 ---
 
 
@@ -7,6 +7,7 @@
 - [[Media DB/series/Ars no Kyojuu (2023)\|Ars no Kyojuu (2023)]]
 - [[Media DB/series/Beastars (2019)\|Beastars (2019)]]
 - [[Media DB/series/Benriya Saitou-san Isekai ni Iku (2023)\|Benriya Saitou-san Isekai ni Iku (2023)]]
+- [[Media DB/series/Bocchi the Rock! (2022)\|Bocchi the Rock! (2022)]]
 - [[Media DB/series/Boku no Hero Academia 6th Season (2022)\|Boku no Hero Academia 6th Season (2022)]]
 - [[Media DB/series/Bubblegum Crisis (1987)\|Bubblegum Crisis (1987)]]
 - [[Media DB/series/Buddy Daddies (2023)\|Buddy Daddies (2023)]]
