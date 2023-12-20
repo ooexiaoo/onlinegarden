@@ -4,6 +4,7 @@
 
 | File                                                                                                              | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Python Basics/Basics Chapter 20 - Functions in Python\|Basics Chapter 20 - Functions in Python]]             | 20.12.2023 - 12:00 |
 | [[🌍 Areas/💸 Financial Notes/Investing Ideology Of Warren Buffett 1\|Investing Ideology Of Warren Buffett 1]] | 19.12.2023 - 20:14 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-18\|2023-12-18]]                                           | 19.12.2023 - 11:36 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-19\|2023-12-19]]                                           | 19.12.2023 - 11:35 |
@@ -13,6 +14,5 @@
 | [[Python Basics/Basics Chapter 18 - While Loops\|Basics Chapter 18 - While Loops]]                             | 18.12.2023 - 17:42 |
 | [[🌍 Areas/💸 Financial Notes/3 Big Levers In Business 1\|3 Big Levers In Business 1]]                         | 17.12.2023 - 18:47 |
 | [[Python Basics/Basics Chapter 17 - For Loops\|Basics Chapter 17 - For Loops]]                                 | 17.12.2023 - 18:21 |
-| [[Projects/🖥 Website Building/Animexia\|Animexia]]                                                            | 17.12.2023 - 09:18 |
 
 { .block-language-dataview}
