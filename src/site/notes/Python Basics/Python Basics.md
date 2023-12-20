@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-19T11:28:07.470+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-20T12:01:16.424+05:30"}
 ---
 
 
@@ -17,5 +17,6 @@
 - [[Python Basics/Basics Chapter 17 - For Loops\|Basics Chapter 17 - For Loops]]
 - [[Python Basics/Basics Chapter 18 - While Loops\|Basics Chapter 18 - While Loops]]
 - [[Python Basics/Basics Chapter 19 - Break and Continue\|Basics Chapter 19 - Break and Continue]]
+- [[Python Basics/Basics Chapter 20 - Functions in Python\|Basics Chapter 20 - Functions in Python]]
 
 
