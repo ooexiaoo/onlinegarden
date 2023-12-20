@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-19-break-and-continue/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-19T11:27:18.786+05:30","updated":"2023-12-19T11:33:34.100+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-19-break-and-continue/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-19T11:27:18.786+05:30","updated":"2023-12-20T12:01:32.539+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/Basics Chapter 20 - Functions in Python\|Basics Chapter 20 - Functions in Python]]
 Down:: [[Python Basics/Basics Chapter 18 - While Loops\|Basics Chapter 18 - While Loops]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-19 - 11:27==
