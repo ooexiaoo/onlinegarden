@@ -1,5 +1,5 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-18T20:48:50.915+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-20T18:29:42.150+05:30"}
 ---
 
 Tags:: #Topics 
@@ -43,6 +43,7 @@ Tags:: #Topics
 - [ ] Silent killers of dreams, inaction, not having a routine [[🌍 Areas/📧 Personal Notes/Deliberate Practice\|Deliberate Practice]]
 - [ ] [Learn Japanese](https://learnjapanesedaily.com/most-common-japanese-words.html) by learning the most used 1000 words in Japanese.
 - [ ] [Steal like an artist summary reference](https://fourminutebooks.com/steal-like-an-artist-summary/)
+- [ ] Point of diminishing returns when consuming content
 
 Fadogia Agrestis
 https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF
