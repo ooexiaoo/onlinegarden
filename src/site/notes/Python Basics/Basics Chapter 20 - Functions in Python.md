@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-20-functions-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-20T12:00:20.747+05:30","updated":"2023-12-20T12:14:59.122+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-20-functions-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-20T12:00:20.747+05:30","updated":"2023-12-20T18:14:44.000+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/Basics Chapter 21 - Function Arguments\|Basics Chapter 21 - Function Arguments]]
 Down:: [[Python Basics/Basics Chapter 19 - Break and Continue\|Basics Chapter 19 - Break and Continue]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-20 - 12:00==
