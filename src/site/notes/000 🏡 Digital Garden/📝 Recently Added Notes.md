@@ -4,6 +4,8 @@
 
 | File                                                                                                              | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Media DB/manga/MF Ghost (2017)\|MF Ghost (2017)]]                                                            | 20.12.2023 - 12:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-20\|2023-12-20]]                                           | 20.12.2023 - 12:22 |
 | [[Python Basics/Basics Chapter 20 - Functions in Python\|Basics Chapter 20 - Functions in Python]]             | 20.12.2023 - 12:00 |
 | [[🌍 Areas/💸 Financial Notes/Investing Ideology Of Warren Buffett 1\|Investing Ideology Of Warren Buffett 1]] | 19.12.2023 - 20:14 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-18\|2023-12-18]]                                           | 19.12.2023 - 11:36 |
@@ -12,7 +14,5 @@
 | [[Media DB/series/Potion-danomi de Ikinobimasu! (2023)\|Potion-danomi de Ikinobimasu! (2023)]]                 | 18.12.2023 - 21:05 |
 | [[Media DB/movies/Nakitai Watashi wa Neko wo Kaburu (2020)\|Nakitai Watashi wa Neko wo Kaburu (2020)]]         | 18.12.2023 - 18:12 |
 | [[Python Basics/Basics Chapter 18 - While Loops\|Basics Chapter 18 - While Loops]]                             | 18.12.2023 - 17:42 |
-| [[🌍 Areas/💸 Financial Notes/3 Big Levers In Business 1\|3 Big Levers In Business 1]]                         | 17.12.2023 - 18:47 |
-| [[Python Basics/Basics Chapter 17 - For Loops\|Basics Chapter 17 - For Loops]]                                 | 17.12.2023 - 18:21 |
 
 { .block-language-dataview}
