@@ -4,6 +4,7 @@
 
 | File                                                                                                              | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Python Basics/Basics Chapter 21 - Function Arguments\|Basics Chapter 21 - Function Arguments]]               | 20.12.2023 - 18:13 |
 | [[Media DB/manga/MF Ghost (2017)\|MF Ghost (2017)]]                                                            | 20.12.2023 - 12:26 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-20\|2023-12-20]]                                           | 20.12.2023 - 12:22 |
 | [[Python Basics/Basics Chapter 20 - Functions in Python\|Basics Chapter 20 - Functions in Python]]             | 20.12.2023 - 12:00 |
@@ -13,6 +14,5 @@
 | [[Python Basics/Basics Chapter 19 - Break and Continue\|Basics Chapter 19 - Break and Continue]]               | 19.12.2023 - 11:27 |
 | [[Media DB/series/Potion-danomi de Ikinobimasu! (2023)\|Potion-danomi de Ikinobimasu! (2023)]]                 | 18.12.2023 - 21:05 |
 | [[Media DB/movies/Nakitai Watashi wa Neko wo Kaburu (2020)\|Nakitai Watashi wa Neko wo Kaburu (2020)]]         | 18.12.2023 - 18:12 |
-| [[Python Basics/Basics Chapter 18 - While Loops\|Basics Chapter 18 - While Loops]]                             | 18.12.2023 - 17:42 |
 
 { .block-language-dataview}
