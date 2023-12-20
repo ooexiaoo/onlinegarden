@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/media-db/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:35.963+05:30","updated":"2023-12-18T18:44:24.037+05:30"}
+{"dg-publish":true,"permalink":"/media-db/media-db/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:35.963+05:30","updated":"2023-12-20T12:26:11.246+05:30"}
 ---
 
 
@@ -16,6 +16,8 @@
 	- [[Media DB/Documentaries/What Is A Woman\|What Is A Woman]]
 - **[[Media DB/games/games\|games]]**
 - **[[manga\|Manga]]**
+- **manga**
+	- [[Media DB/manga/MF Ghost (2017)\|MF Ghost (2017)]]
 - **[[Media DB/Manhwa/Manhwa\|Manhwa]]**
 - **[[Media DB/movies/movies\|movies]]**
 - **[[Media DB/series/series\|series]]**
