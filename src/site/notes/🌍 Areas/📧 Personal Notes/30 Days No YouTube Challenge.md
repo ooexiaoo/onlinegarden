@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-20T12:27:05.005+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-21T11:44:59.806+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -73,3 +73,8 @@ Makes me think, *"What the hell was I being recommended, with all those highly o
 >[!success] 20-12-2023
 
 Just visiting YT for python course and nothing else. In my free time, I'm reading [[Media DB/manga/MF Ghost (2017)\|MF Ghost (2017)]] manga. As [[Media DB/series/MF Ghost (2023)\|MF Ghost (2023)]] the anime season 1 just completed.
+
+### Day 10
+>[!success] 21-12-2023
+
+Course videos and, some awesome bhajan songs shared from a friend.
