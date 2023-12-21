@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-21-function-arguments/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-20T18:13:40.822+05:30","updated":"2023-12-20T18:22:25.993+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-21-function-arguments/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-20T18:13:40.822+05:30","updated":"2023-12-21T11:48:15.290+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/Basics Chapter 22 - Introduction to Lists\|Basics Chapter 22 - Introduction to Lists]]
 Down:: [[Python Basics/Basics Chapter 20 - Functions in Python\|Basics Chapter 20 - Functions in Python]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-20 - 18:13==
