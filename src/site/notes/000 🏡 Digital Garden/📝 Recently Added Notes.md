@@ -4,6 +4,7 @@
 
 | File                                                                                                              | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-21\|2023-12-21]]                                           | 21.12.2023 - 11:39 |
 | [[Media DB/series/Bocchi the Rock! (2022)\|Bocchi the Rock! (2022)]]                                           | 20.12.2023 - 21:20 |
 | [[Diminishing Returns When Consuming Media\|Diminishing Returns When Consuming Media]]                         | 20.12.2023 - 18:30 |
 | [[Python Basics/Basics Chapter 21 - Function Arguments\|Basics Chapter 21 - Function Arguments]]               | 20.12.2023 - 18:13 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/💸 Financial Notes/Investing Ideology Of Warren Buffett 1\|Investing Ideology Of Warren Buffett 1]] | 19.12.2023 - 20:14 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-18\|2023-12-18]]                                           | 19.12.2023 - 11:36 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-19\|2023-12-19]]                                           | 19.12.2023 - 11:35 |
-| [[Python Basics/Basics Chapter 19 - Break and Continue\|Basics Chapter 19 - Break and Continue]]               | 19.12.2023 - 11:27 |
 
 { .block-language-dataview}
