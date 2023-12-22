@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/compounded-relationships/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.247+05:30","updated":"2023-12-16T03:56:14.019+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/compounded-relationships/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.247+05:30","updated":"2023-12-22T22:59:32.767+05:30"}
 ---
 
 🧶 Tags:: #Personal_Notes #Personal_Growth #🌱 #Fleeting_Notes 
 Resources:: [[🌍 Areas/📈 Personal Growth/Focused Efforts On Things That Give Exponential Results\|Focused Efforts On Things That Give Exponential Results]]
 Links:: [Reddit](https://www.reddit.com/r/LifeProTips/comments/gzjlfk/lpt_relationships_like_money_compound_over_time/)
-# [[🌍 Areas/📧 Personal Notes/Compounded Relationships\|Compounded Relationships]]
 ==2021-08-03 - 13:41==
-### Fleeting Notes
+
 - Like compound interest in finance, we can also get compound interest/benefits in our relationships.
 - Imagine investing in a good relationship for a long time, this relationship will give you more benefits than if you were to start a relationship and break it in between then start it again and do the same thing.
 - With time, relationships have the potential to grow at an exponential rate.
