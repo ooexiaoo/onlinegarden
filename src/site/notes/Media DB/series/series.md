@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-20T21:20:35.088+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-22T22:47:25.136+05:30"}
 ---
 
 
@@ -40,6 +40,7 @@
 - [[Media DB/series/Kawaisugi Crisis (2023)\|Kawaisugi Crisis (2023)]]
 - [[Media DB/series/Kidou Senshi Gundam - Suisei no Majo Season 2 (2023)\|Kidou Senshi Gundam - Suisei no Majo Season 2 (2023)]]
 - [[Media DB/series/Kimi wa Houkago Insomnia (2023)\|Kimi wa Houkago Insomnia (2023)]]
+- [[Media DB/series/Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu (2023)\|Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu (2023)]]
 - [[Media DB/series/Kusuriya no Hitorigoto (2023)\|Kusuriya no Hitorigoto (2023)]]
 - [[Media DB/series/Lv1 Maou to One Room Yuusha (2023)\|Lv1 Maou to One Room Yuusha (2023)]]
 - [[Media DB/series/Mashle (2023)\|Mashle (2023)]]
