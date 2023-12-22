@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/basics-chapter-22-introduction-to-lists/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-21T11:47:23.269+05:30","updated":"2023-12-21T13:22:56.715+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/basics-chapter-22-introduction-to-lists/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-21T11:47:23.269+05:30","updated":"2023-12-22T17:09:20.319+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/Basics Chapter 23 - List Methods\|Basics Chapter 23 - List Methods]]
 Down:: [[Python Basics/Basics Chapter 21 - Function Arguments\|Basics Chapter 21 - Function Arguments]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-21 - 11:47==
