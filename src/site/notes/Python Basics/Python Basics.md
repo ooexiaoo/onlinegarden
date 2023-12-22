@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-21T11:48:06.260+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-22T17:09:01.484+05:30"}
 ---
 
 
@@ -20,5 +20,6 @@
 - [[Python Basics/Basics Chapter 20 - Functions in Python\|Basics Chapter 20 - Functions in Python]]
 - [[Python Basics/Basics Chapter 21 - Function Arguments\|Basics Chapter 21 - Function Arguments]]
 - [[Python Basics/Basics Chapter 22 - Introduction to Lists\|Basics Chapter 22 - Introduction to Lists]]
+- [[Python Basics/Basics Chapter 23 - List Methods\|Basics Chapter 23 - List Methods]]
 
 
