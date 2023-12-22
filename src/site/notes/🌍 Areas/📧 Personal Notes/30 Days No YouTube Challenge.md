@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-21T11:44:59.806+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-22T17:06:36.764+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -78,3 +78,8 @@ Just visiting YT for python course and nothing else. In my free time, I'm readin
 >[!success] 21-12-2023
 
 Course videos and, some awesome bhajan songs shared from a friend.
+
+### Day 11
+>[!success] 21-12-2023
+
+I don't think there's any need for updates if nothing is happening. So, I might skip these updates now.
