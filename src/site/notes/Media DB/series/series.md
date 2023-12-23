@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-22T22:47:25.136+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-23T14:23:25.432+05:30"}
 ---
 
 
@@ -9,6 +9,7 @@
 - [[Media DB/series/Benriya Saitou-san Isekai ni Iku (2023)\|Benriya Saitou-san Isekai ni Iku (2023)]]
 - [[Media DB/series/Bocchi the Rock! (2022)\|Bocchi the Rock! (2022)]]
 - [[Media DB/series/Boku no Hero Academia 6th Season (2022)\|Boku no Hero Academia 6th Season (2022)]]
+- [[Media DB/series/Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta (2023)\|Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta (2023)]]
 - [[Media DB/series/Bubblegum Crisis (1987)\|Bubblegum Crisis (1987)]]
 - [[Media DB/series/Buddy Daddies (2023)\|Buddy Daddies (2023)]]
 - [[Media DB/series/Cool Doji Danshi (2022)\|Cool Doji Danshi (2022)]]
