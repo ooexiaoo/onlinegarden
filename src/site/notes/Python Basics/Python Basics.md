@@ -1,25 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-22T17:09:01.484+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-23T13:59:17.327+05:30"}
 ---
 
 
-- [[Python Basics/Basics Chapter 01\|Basics Chapter 01]]
-- [[Python Basics/Basics Chapter 06\|Basics Chapter 06]]
-- [[Python Basics/Basics Chapter 07 - Operators\|Basics Chapter 07 - Operators]]
-- [[Python Basics/Basics Chapter 09 - Typecasting in Python\|Basics Chapter 09 - Typecasting in Python]]
-- [[Python Basics/Basics Chapter 10 - Taking User Input\|Basics Chapter 10 - Taking User Input]]
-- [[Python Basics/Basics Chapter 11 - Strings\|Basics Chapter 11 - Strings]]
-- [[Python Basics/Basics Chapter 12 - String Slicing & Operations on String\|Basics Chapter 12 - String Slicing & Operations on String]]
-- [[Python Basics/Basics Chapter 13 - String Method\|Basics Chapter 13 - String Method]]
-- [[Python Basics/Basics Chapter 14 - If Else Conditional Statements in Python\|Basics Chapter 14 - If Else Conditional Statements in Python]]
-- [[Python Basics/Basics Chapter 15 - Exercise 2\|Basics Chapter 15 - Exercise 2]]
-- [[Python Basics/Basics Chapter 16 - Match Case Statements\|Basics Chapter 16 - Match Case Statements]]
-- [[Python Basics/Basics Chapter 17 - For Loops\|Basics Chapter 17 - For Loops]]
-- [[Python Basics/Basics Chapter 18 - While Loops\|Basics Chapter 18 - While Loops]]
-- [[Python Basics/Basics Chapter 19 - Break and Continue\|Basics Chapter 19 - Break and Continue]]
-- [[Python Basics/Basics Chapter 20 - Functions in Python\|Basics Chapter 20 - Functions in Python]]
-- [[Python Basics/Basics Chapter 21 - Function Arguments\|Basics Chapter 21 - Function Arguments]]
-- [[Python Basics/Basics Chapter 22 - Introduction to Lists\|Basics Chapter 22 - Introduction to Lists]]
-- [[Python Basics/Basics Chapter 23 - List Methods\|Basics Chapter 23 - List Methods]]
+- [[Python Basics/01\|01]]
+- [[Python Basics/06\|06]]
+- [[Python Basics/07 - Operators\|07 - Operators]]
+- [[Python Basics/09 - Typecasting in Python\|09 - Typecasting in Python]]
+- [[Python Basics/10 - Taking User Input\|10 - Taking User Input]]
+- [[Python Basics/11 - Strings\|11 - Strings]]
+- [[Python Basics/12 - String Slicing & Operations on String\|12 - String Slicing & Operations on String]]
+- [[Python Basics/13 - String Method\|13 - String Method]]
+- [[Python Basics/14 - If Else Conditional Statements in Python\|14 - If Else Conditional Statements in Python]]
+- [[Python Basics/15 - Exercise 2\|15 - Exercise 2]]
+- [[Python Basics/16 - Match Case Statements\|16 - Match Case Statements]]
+- [[Python Basics/17 - For Loops\|17 - For Loops]]
+- [[Python Basics/18 - While Loops\|18 - While Loops]]
+- [[Python Basics/19 - Break and Continue\|19 - Break and Continue]]
+- [[Python Basics/20 - Functions in Python\|20 - Functions in Python]]
+- [[Python Basics/21 - Function Arguments\|21 - Function Arguments]]
+- [[Python Basics/22 - Introduction to Lists\|22 - Introduction to Lists]]
+- [[Python Basics/23 - List Methods\|23 - List Methods]]
+- [[Python Basics/24 - Introduction to Tuples\|24 - Introduction to Tuples]]
 
 
