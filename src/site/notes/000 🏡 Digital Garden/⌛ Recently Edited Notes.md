@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
-| File                                                                                                                                                                              | Last modified      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Media DB/series/Cross Ange - Tenshi to Ryuu no Rondo (2014)\|Cross Ange - Tenshi to Ryuu no Rondo (2014)]]                                                                   | 22.12.2023 - 23:04 |
-| [[Media DB/series/Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu (2023)\|Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu (2023)]] | 22.12.2023 - 23:03 |
-| [[🌍 Areas/📧 Personal Notes/How To Remember All The Notes You Take\|How To Remember All The Notes You Take]]                                                                  | 22.12.2023 - 23:01 |
-| [[🌍 Areas/📧 Personal Notes/Compounded Relationships\|Compounded Relationships]]                                                                                              | 22.12.2023 - 22:59 |
-| [[Media DB/series/series\|series]]                                                                                                                                             | 22.12.2023 - 22:47 |
-| [[Python Basics/Basics Chapter 23 - List Methods\|Basics Chapter 23 - List Methods]]                                                                                           | 22.12.2023 - 17:19 |
-| [[Python Basics/Basics Chapter 22 - Introduction to Lists\|Basics Chapter 22 - Introduction to Lists]]                                                                         | 22.12.2023 - 17:09 |
-| [[Python Basics/Python Basics\|Python Basics]]                                                                                                                                 | 22.12.2023 - 17:09 |
-| [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]                                                                                      | 22.12.2023 - 17:06 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-22\|2023-12-22]]                                                                                                           | 22.12.2023 - 17:05 |
+| File                                                                          | Last modified      |
+| ----------------------------------------------------------------------------- | ------------------ |
+| [[Python Basics/24 - Introduction to Tuples\|24 - Introduction to Tuples]] | 23.12.2023 - 14:13 |
+| [[Python Basics/23 - List Methods\|23 - List Methods]]                     | 23.12.2023 - 14:11 |
+| [[Python Basics/Python Basics\|Python Basics]]                             | 23.12.2023 - 13:59 |
+| [[Python Basics/22 - Introduction to Lists\|22 - Introduction to Lists]]   | 23.12.2023 - 13:38 |
+| [[Python Basics/21 - Function Arguments\|21 - Function Arguments]]         | 23.12.2023 - 13:38 |
+| [[Python Basics/20 - Functions in Python\|20 - Functions in Python]]       | 23.12.2023 - 13:37 |
+| [[Python Basics/19 - Break and Continue\|19 - Break and Continue]]         | 23.12.2023 - 13:37 |
+| [[Python Basics/18 - While Loops\|18 - While Loops]]                       | 23.12.2023 - 13:37 |
+| [[Python Basics/17 - For Loops\|17 - For Loops]]                           | 23.12.2023 - 13:37 |
+| [[Python Basics/16 - Match Case Statements\|16 - Match Case Statements]]   | 23.12.2023 - 13:37 |
 
 { .block-language-dataview}
