@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-14T02:57:07.294+05:30"}
+{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-24T21:53:48.731+05:30"}
 ---
 
-🧶 Tags:: #Letterstonoone, #🌱 
-🔗Links - [To YouTube](https://www.youtube.com/embed/Q2WBHyqRsxA)
-
+🧶 Tags:: #Letterstonoone #🌱 
+🔗Links:: [To YouTube](https://www.youtube.com/embed/Q2WBHyqRsxA)
+==2022-12-01 - 16:08==
 <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
   <iframe
     src="https://www.youtube.com/embed/Q2WBHyqRsxA"
@@ -14,9 +14,6 @@
     scrolling="no"
   ></iframe>
 </div>
-
-# [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|What Is A PKM And Why Should You Care]]
-==2022-12-01 - 16:08==
 
 PKM in its full form is known as **personal knowledge management**, is a system which helps you keep a database of all the knowledge that is important to you in your life. We all have the same problem, which is remembering things that help us make sense of the world.
 
