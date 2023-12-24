@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/24-introduction-to-tuples/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-23T13:38:15.702+05:30","updated":"2023-12-23T14:13:39.461+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/24-introduction-to-tuples/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-23T13:38:15.702+05:30","updated":"2023-12-24T21:31:04.855+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/25 - Operations on Tuples\|25 - Operations on Tuples]]
 Down:: [[Python Basics/23 - List Methods\|23 - List Methods]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-23 - 13:38==
