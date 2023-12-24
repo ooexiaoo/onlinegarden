@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-15T12:20:17.377+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-24T21:43:41.866+05:30"}
 ---
 
-🧶 Tags:: #🌱 , #Fleeting_Notes 
+🧶 Tags:: #🌱  #Fleeting_Notes 
 🗃 Resources:: [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]
 🔗 Links:: [Grow-self](https://grow-self.com/learning-in-public/)
-# [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|🎓 Learning in Public]]
 ==2023-12-14 - 03:24==
 
 We all typically learn very privately. Throughout school and college, and even as adults, you are presented with information and fact which you process on your own.
