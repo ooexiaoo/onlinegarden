@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-23T13:59:17.327+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-24T21:26:35.752+05:30"}
 ---
 
 
@@ -22,5 +22,6 @@
 - [[Python Basics/22 - Introduction to Lists\|22 - Introduction to Lists]]
 - [[Python Basics/23 - List Methods\|23 - List Methods]]
 - [[Python Basics/24 - Introduction to Tuples\|24 - Introduction to Tuples]]
+- [[Python Basics/25 - Operations on Tuples\|25 - Operations on Tuples]]
 
 
