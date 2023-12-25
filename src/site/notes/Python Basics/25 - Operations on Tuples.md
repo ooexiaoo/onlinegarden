@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/25-operations-on-tuples/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-24T21:24:56.198+05:30","updated":"2023-12-24T21:30:50.793+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/25-operations-on-tuples/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-24T21:24:56.198+05:30","updated":"2023-12-25T20:35:15.260+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/27 - Exercise 3\|27 - Exercise 3]]
 Down:: [[Python Basics/24 - Introduction to Tuples\|24 - Introduction to Tuples]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-24 - 21:25==
