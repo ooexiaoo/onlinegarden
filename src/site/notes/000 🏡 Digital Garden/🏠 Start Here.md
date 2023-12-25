@@ -1,7 +1,8 @@
 ---
-{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-21T17:00:57.614+05:30"}
+{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-25T14:40:16.817+05:30"}
 ---
 
+117
 ![blushing cat.gif|300](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/blushing%20cat.gif)
 ## 🫨 Where Are You?
 You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
@@ -17,9 +18,7 @@ You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You 
 [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]
 ### 🧑🏻‍💻 Currently Learning
 [[Python Basics/Python Basics\|Basic Python]]
-
 ## How You Should Navigate This Site? 🌎
-
 You can see all the content of the site in the sidebar. Even though this is not the best way to navigate the site, I'm still building it, so for now this is one of the best ways.
 
 ⌨️ You can also search of anything you want with the search bar or by simply using **CTRL + K**.
@@ -49,5 +48,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![giphya.gif|200](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
 ## 〽️ Stats
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
-😵‍💫 There are quite a few notes in the vault - **Live Count: 1470** With over **12,80,000 words**.
+😵‍💫 There are quite a few notes in the vault - **Live Count: 1472** With over **12,80,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
