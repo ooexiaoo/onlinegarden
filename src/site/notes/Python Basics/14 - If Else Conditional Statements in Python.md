@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/14-if-else-conditional-statements-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T22:59:30.967+05:30","updated":"2023-12-23T13:37:18.676+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/14-if-else-conditional-statements-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T22:59:30.967+05:30","updated":"2023-12-25T20:38:37.818+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
@@ -103,7 +103,7 @@ else:
 
 print("I am happy now")
 ```
-# Nested if statements
+## Nested if statements
 We can use if, if-else, elif statements inside other if statements as well.  
 ### Example:
 ```python
