@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/diy/diy-red-light-therapy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-24T14:47:55.186+05:30","updated":"2023-12-12T20:04:41.551+05:30"}
+{"dg-publish":true,"permalink":"/projects/diy/diy-red-light-therapy/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-24T14:47:55.186+05:30","updated":"2023-12-12T20:04:41.551+05:30"}
 ---
 
 🧶 Tags - #DIY
