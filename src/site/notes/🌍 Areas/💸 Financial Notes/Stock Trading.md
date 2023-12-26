@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/financial-notes/stock-trading/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.876+05:30","updated":"2023-12-19T20:12:50.003+05:30"}
+{"dg-publish":true,"permalink":"/areas/financial-notes/stock-trading/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.876+05:30","updated":"2023-12-19T20:12:50.003+05:30"}
 ---
 
 Tags:: #Financial_Management #Fleeting_Notes #🌱 
