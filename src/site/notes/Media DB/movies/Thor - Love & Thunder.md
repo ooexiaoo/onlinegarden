@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/thor-love-and-thunder/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.592+05:30","updated":"2023-12-12T23:36:19.341+05:30"}
+{"dg-publish":true,"permalink":"/media-db/movies/thor-love-and-thunder/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.592+05:30","updated":"2023-12-12T23:36:19.341+05:30"}
 ---
 
  🧶 Tags - #Movies 
