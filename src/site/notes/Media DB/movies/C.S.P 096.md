@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/c-s-p-096/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.610+05:30","updated":"2023-12-12T23:36:19.044+05:30"}
+{"dg-publish":true,"permalink":"/media-db/movies/c-s-p-096/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.610+05:30","updated":"2023-12-12T23:36:19.044+05:30"}
 ---
 
 # [[Media DB/movies/C.S.P 096\|C.S.P 096]]
