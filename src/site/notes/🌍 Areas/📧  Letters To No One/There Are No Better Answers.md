@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/there-are-no-better-answers/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.948+05:30","updated":"2023-12-12T01:10:01.549+05:30"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/there-are-no-better-answers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.948+05:30","updated":"2023-12-12T01:10:01.549+05:30"}
 ---
 
 🧶 Tags - #Letterstonoone 
