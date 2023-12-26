@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"banner":"![The BInary Philosopher.png](/img/user/Resources/%F0%9F%93%81%20Files/YouTube%20Thumbnails/The%20BInary%20Philosopher.png)","permalink":"/projects/name-unavailable/why-linux-better-than-windows/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:37.330+05:30","updated":"2023-12-12T00:53:47.877+05:30"}
+{"dg-publish":true,"banner":"![The BInary Philosopher.png](/img/user/Resources/%F0%9F%93%81%20Files/YouTube%20Thumbnails/The%20BInary%20Philosopher.png)","permalink":"/projects/name-unavailable/why-linux-better-than-windows/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.330+05:30","updated":"2023-12-12T00:53:47.877+05:30"}
 ---
 
 🧶 Tags - #The_BInary_Philosopher 
