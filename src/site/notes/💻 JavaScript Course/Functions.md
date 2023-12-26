@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/java-script-course/functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.526+05:30","updated":"2023-12-11T19:36:56.392+05:30"}
+{"dg-publish":true,"permalink":"/java-script-course/functions/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.526+05:30","updated":"2023-12-11T19:36:56.392+05:30"}
 ---
 
 🧶 Tags - #JavaScript 
