@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/random-projects/web-pages-i-ve-codded-from-scratch/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.726+05:30","updated":"2023-12-12T00:57:00.447+05:30"}
+{"dg-publish":true,"permalink":"/projects/random-projects/web-pages-i-ve-codded-from-scratch/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.726+05:30","updated":"2023-12-12T00:57:00.447+05:30"}
 ---
 
 
