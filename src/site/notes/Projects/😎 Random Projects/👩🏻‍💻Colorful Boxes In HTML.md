@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/random-projects/colorful-boxes-in-html/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.714+05:30","updated":"2023-12-12T00:56:01.404+05:30"}
+{"dg-publish":true,"permalink":"/projects/random-projects/colorful-boxes-in-html/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.714+05:30","updated":"2023-12-12T00:56:01.404+05:30"}
 ---
 
 # [[Projects/😎 Random Projects/👩🏻‍💻Colorful Boxes In HTML\|👩🏻‍💻Colorful Boxes In HTML]]
