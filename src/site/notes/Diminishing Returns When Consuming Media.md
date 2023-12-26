@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diminishing-returns-when-consuming-media/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-20T18:30:07.003+05:30","updated":"2023-12-20T18:41:49.454+05:30"}
+{"dg-publish":true,"permalink":"/diminishing-returns-when-consuming-media/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-20T18:30:07.003+05:30","updated":"2023-12-20T18:41:49.454+05:30"}
 ---
 
 🧶 Tags:: #🌱 #Fleeting_Notes 
