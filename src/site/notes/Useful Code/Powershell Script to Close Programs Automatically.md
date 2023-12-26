@@ -1,5 +1,5 @@
 ---
-{"wordcount":0,"dg-publish":true,"permalink":"/useful-code/powershell-script-to-close-programs-automatically/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-13T03:32:57.590+05:30","updated":"2023-12-19T20:23:47.374+05:30"}
+{"wordcount":0,"dg-publish":true,"permalink":"/useful-code/powershell-script-to-close-programs-automatically/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T03:32:57.590+05:30","updated":"2023-12-19T20:23:47.374+05:30"}
 ---
 
 🧶 Tags:: #Code
