@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/27-exercise-3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-25T20:31:18.781+05:30","updated":"2023-12-25T21:37:58.530+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/27-exercise-3/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-25T20:31:18.781+05:30","updated":"2023-12-26T13:46:43.477+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/28 - F Strings\|28 - F Strings]]
 Down:: [[Python Basics/25 - Operations on Tuples\|25 - Operations on Tuples]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-25 - 20:31==
