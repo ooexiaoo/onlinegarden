@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meditation/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.876+05:30","updated":"2023-12-17T22:13:04.411+05:30"}
+{"dg-publish":true,"permalink":"/meditation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.876+05:30","updated":"2023-12-17T22:13:04.411+05:30"}
 ---
 
 🧶 Tags::
