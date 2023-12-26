@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transactional-analysis/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.689+05:30","updated":"2023-12-17T09:57:12.864+05:30"}
+{"dg-publish":true,"permalink":"/transactional-analysis/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.689+05:30","updated":"2023-12-17T09:57:12.864+05:30"}
 ---
 
 🧶 Tags:: #Letterstonoone #Fleeting_Notes #🌱 
