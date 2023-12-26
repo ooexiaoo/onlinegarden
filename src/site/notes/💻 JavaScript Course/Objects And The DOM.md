@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/java-script-course/objects-and-the-dom/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.552+05:30","updated":"2023-12-12T07:34:49.424+05:30"}
+{"dg-publish":true,"permalink":"/java-script-course/objects-and-the-dom/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.552+05:30","updated":"2023-12-12T07:34:49.424+05:30"}
 ---
 
 🧶 Tags - #JavaScript 
