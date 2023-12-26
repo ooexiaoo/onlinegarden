@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/if-you-don-t-have-regrets-you-re-doing-life-wrong/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.968+05:30","updated":"2023-12-16T12:21:15.358+05:30"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/if-you-don-t-have-regrets-you-re-doing-life-wrong/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.968+05:30","updated":"2023-12-16T12:21:15.358+05:30"}
 ---
 
 🧶 Tags:: #Fleeting_Notes #🌱  
