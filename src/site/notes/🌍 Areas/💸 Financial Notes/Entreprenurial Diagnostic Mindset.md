@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/financial-notes/entreprenurial-diagnostic-mindset/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.909+05:30","updated":"2023-12-19T20:18:06.973+05:30"}
+{"dg-publish":true,"permalink":"/areas/financial-notes/entreprenurial-diagnostic-mindset/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.909+05:30","updated":"2023-12-19T20:18:06.973+05:30"}
 ---
 
 🧶 Tags:: #Financial_Freedom #8_Habits_Of_Millionaires #🌱 
