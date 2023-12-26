@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"wordcount":500,"permalink":"/projects/name-unavailable/why-majority-of-the-people-will-never-adopt-linux/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:37.341+05:30","updated":"2023-12-12T00:53:55.746+05:30"}
+{"dg-publish":true,"wordcount":500,"permalink":"/projects/name-unavailable/why-majority-of-the-people-will-never-adopt-linux/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.341+05:30","updated":"2023-12-12T00:53:55.746+05:30"}
 ---
 
 🧶 Tags - #The_BInary_Philosopher 
