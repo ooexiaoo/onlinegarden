@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/10-taking-user-input/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T20:48:32.218+05:30","updated":"2023-12-23T13:36:52.776+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/10-taking-user-input/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-09T20:48:32.218+05:30","updated":"2023-12-23T13:36:52.776+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
