@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/simplify-the-concept/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.705+05:30","updated":"2023-12-17T22:18:36.855+05:30"}
+{"dg-publish":true,"permalink":"/simplify-the-concept/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.705+05:30","updated":"2023-12-17T22:18:36.855+05:30"}
 ---
 
 🧶 Tags:: #🌱 #Fleeting_Notes  
