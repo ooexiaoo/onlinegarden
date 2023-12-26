@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/23-list-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-22T17:07:07.190+05:30","updated":"2023-12-23T14:11:49.066+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/23-list-methods/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-22T17:07:07.190+05:30","updated":"2023-12-23T14:11:49.066+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
