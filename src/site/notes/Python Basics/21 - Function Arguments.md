@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/21-function-arguments/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-20T18:13:40.822+05:30","updated":"2023-12-23T13:38:01.556+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/21-function-arguments/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-20T18:13:40.822+05:30","updated":"2023-12-23T13:38:01.556+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
