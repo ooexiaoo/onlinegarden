@@ -1,5 +1,5 @@
 ---
-{"banner":"![cropped-1920-1080-1274464.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/cropped-1920-1080-1274464.jpg)","dg-publish":true,"permalink":"/media-db/anime-watched-in-2022/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.816+05:30","updated":"2023-12-12T01:00:16.498+05:30"}
+{"banner":"![cropped-1920-1080-1274464.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/cropped-1920-1080-1274464.jpg)","dg-publish":true,"permalink":"/media-db/anime-watched-in-2022/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.816+05:30","updated":"2023-12-12T01:00:16.498+05:30"}
 ---
 
 Tags - #Shows, #Anime
