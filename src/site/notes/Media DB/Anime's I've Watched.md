@@ -1,5 +1,5 @@
 ---
-{"banner_icon":"😍","banner":"![cropped-1920-1080-1274464.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/cropped-1920-1080-1274464.jpg)","dg-publish":true,"permalink":"/media-db/anime-s-i-ve-watched/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.810+05:30","updated":"2023-12-12T01:00:06.679+05:30"}
+{"banner_icon":"😍","banner":"![cropped-1920-1080-1274464.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/cropped-1920-1080-1274464.jpg)","dg-publish":true,"permalink":"/media-db/anime-s-i-ve-watched/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.810+05:30","updated":"2023-12-12T01:00:06.679+05:30"}
 ---
 
 # Tags - #Shows 
