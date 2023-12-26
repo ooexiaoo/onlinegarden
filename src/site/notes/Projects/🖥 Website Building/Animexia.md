@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/website-building/animexia/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-17T09:18:04.892+05:30","updated":"2023-12-17T09:45:58.718+05:30"}
+{"dg-publish":true,"permalink":"/projects/website-building/animexia/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T09:18:04.892+05:30","updated":"2023-12-17T09:45:58.718+05:30"}
 ---
 
 🧶 Tags:: #Anime #Website
