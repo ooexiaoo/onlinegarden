@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.116+05:30","updated":"2023-12-16T04:33:57.710+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.116+05:30","updated":"2023-12-16T04:33:57.710+05:30"}
 ---
 
 🧶 Tags:: #Personal_Notes #Personal_Growth #Fleeting_Notes #🌿
