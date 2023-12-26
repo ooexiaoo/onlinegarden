@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/systems/freudian-slip/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.461+05:30","updated":"2023-12-12T01:03:18.872+05:30"}
+{"dg-publish":true,"permalink":"/systems/freudian-slip/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.461+05:30","updated":"2023-12-12T01:03:18.872+05:30"}
 ---
 
 🧶 Tags - #Freud, #psychology, #systems
