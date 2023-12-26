@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/11-strings/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T20:14:56.363+05:30","updated":"2023-12-23T13:36:59.472+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/11-strings/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T20:14:56.363+05:30","updated":"2023-12-26T12:28:31.110+05:30"}
 ---
-
 
 🧶 Tags:: #Python_Basics 
 Up:: [[Python Basics/12 - String Slicing & Operations on String\|12 - String Slicing & Operations on String]]
