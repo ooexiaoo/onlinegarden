@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/compounded-relationships/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.247+05:30","updated":"2023-12-22T22:59:32.767+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/compounded-relationships/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.247+05:30","updated":"2023-12-22T22:59:32.767+05:30"}
 ---
 
 🧶 Tags:: #Personal_Notes #Personal_Growth #🌱 #Fleeting_Notes 
