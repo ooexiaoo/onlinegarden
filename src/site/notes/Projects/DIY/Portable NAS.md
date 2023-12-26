@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/diy/portable-nas/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T04:07:22.994+05:30","updated":"2023-12-26T16:15:37.975+05:30"}
+{"dg-publish":true,"permalink":"/projects/diy/portable-nas/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-13T04:07:22.994+05:30","updated":"2023-12-26T16:15:37.975+05:30"}
 ---
 
 🧶 Tags:: #DIY 
