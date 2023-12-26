@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/financial-notes/how-to-spend-money/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.903+05:30","updated":"2023-12-19T20:17:51.658+05:30"}
+{"dg-publish":true,"permalink":"/areas/financial-notes/how-to-spend-money/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.903+05:30","updated":"2023-12-19T20:17:51.658+05:30"}
 ---
 
 🧶 Tags:: #Financial_Freedom #🌱 #Fleeting_Notes 
