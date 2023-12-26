@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/diy/diy-curved-treadmill/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T20:00:37.504+05:30","updated":"2023-12-12T23:28:02.876+05:30"}
+{"dg-publish":true,"permalink":"/projects/diy/diy-curved-treadmill/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:00:37.504+05:30","updated":"2023-12-12T23:28:02.876+05:30"}
 ---
 
 🧶 Tags - #DIY
