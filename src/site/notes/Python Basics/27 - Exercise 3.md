@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/27-exercise-3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-25T20:31:18.781+05:30","updated":"2023-12-25T21:37:36.555+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/27-exercise-3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-25T20:31:18.781+05:30","updated":"2023-12-25T21:37:58.530+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
@@ -45,4 +45,4 @@ def play_game(questions):
 play_game(questions)
 ```
 
-This was harder that it looked so, I took help from chatGPT to get this.
+This was harder that it looked so, I took help from ChatGPT to get this.
