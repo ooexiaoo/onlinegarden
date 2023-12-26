@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/people/kinjal-raate/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-09T00:48:26.422+05:30","updated":"2023-12-12T23:35:01.342+05:30"}
+{"dg-publish":true,"permalink":"/resources/people/kinjal-raate/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T00:48:26.422+05:30","updated":"2023-12-12T23:35:01.342+05:30"}
 ---
 
 🧶 Tags - #Friend
