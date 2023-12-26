@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/persuasion/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.783+05:30","updated":"2023-12-17T22:16:48.096+05:30"}
+{"dg-publish":true,"permalink":"/persuasion/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.783+05:30","updated":"2023-12-17T22:16:48.096+05:30"}
 ---
 
 🧶 Tags:: #Personal_Growth, #Financial_Freedom, #Fleeting_Notes, #🌱  
