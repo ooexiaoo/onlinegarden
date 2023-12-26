@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/question-basic-assumptions/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.938+05:30","updated":"2023-12-17T22:17:07.972+05:30"}
+{"dg-publish":true,"permalink":"/question-basic-assumptions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.938+05:30","updated":"2023-12-17T22:17:07.972+05:30"}
 ---
 
 🧶 Tags:: #Fleeting_Notes #🌱 
