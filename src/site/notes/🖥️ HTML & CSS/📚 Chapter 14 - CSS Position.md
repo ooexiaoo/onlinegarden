@@ -1,17 +1,11 @@
 ---
-{"banner":"![florian-olivo-4hbJ-eymZ1o-unsplash.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg)","dg-publish":true,"permalink":"/html-and-css/chapter-14-css-position/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.616+05:30","updated":"2023-12-12T07:37:04.114+05:30"}
+{"banner":"![florian-olivo-4hbJ-eymZ1o-unsplash.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg)","dg-publish":true,"permalink":"/html-and-css/chapter-14-css-position/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.616+05:30","updated":"2023-12-26T20:44:47.519+05:30"}
 ---
 
-🧶 Tags - #HTML_CSS 
-
----
-🗃Resources - [[]]
- 
----
-🔗Links -
- 
-# [[🖥️ HTML & CSS/📚 Chapter 14 - CSS Position\|📚 Chapter 14 - CSS Position]]
+🧶 Tags:: #HTML_CSS 
+🗃 Resources:: [[]]
 ==2022-11-11 - 15:24==
+
 CSS position helps us do things like keep the header or the sidebar at the top of the page as we scroll. CSS position adds another dimension to our page, it's like another layer in Photoshop.
 
 ## Position: fixed;
