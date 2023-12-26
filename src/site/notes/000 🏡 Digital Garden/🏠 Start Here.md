@@ -1,11 +1,11 @@
 ---
-{"cssclasses":["dashboard","cards","wide-page","NoProps"],"banner":"![Homepage.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Homepage.png)","banner_x":0.50375,"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-26T20:38:27.486+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-26T20:50:42.463+05:30"}
 ---
 
+![ccbanner-anime.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/ccbanner-anime.png)
 <h2><span><p><img src="https://i.pinimg.com/736x/ba/a3/55/baa355c66f0fa5996f088d662c1fe2e2.jpg" style="display: block; margin: auto; border-radius: 2em; height:250px; width:250px;" referrerpolicy="no-referrer"> </p><h2 style="text-align: center;">Good Evening...</h2><p></p></span></h2>
-
-![blushing cat.gif|300](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/blushing%20cat.gif)
 ## 🫨 Where Are You?
+![blushing cat.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/blushing%20cat.gif)
 You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
 
 🕸️ This is my little corner of the internet, where I publicly share my notes related to what I'm doing, what kind of content I'm consuming, etc. to practice [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|learning in public]].
@@ -13,7 +13,7 @@ You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You 
 👷🏻 Everything here is a work in progress. There are very few notes that I'm happy with, the ones that I can call are complete notes. Everything else is just constantly changing.
 
 📄 You can meet me on my [YouTube](https://youtube.com/@naamnahihai) channel, or my main site, [Exia's Garden](https://exiasgarden.pages.dev). I still need to make a real site where I'll finally post all my notes, but for now these are the places where you can find me and my ideas at.
-![happy dance sticker.gif|200](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
+![happy dance sticker.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
 
 ### 🚀 Current Challenge!
 [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]
@@ -44,10 +44,8 @@ The thing is, when I started writing all this, it was never my intention to publ
 So the notes are not linked together in a way that would make it easy to find related content.
 I'm also publishing directly from my obsidian vault, so there are a few limitations as to how the UI will be rendered.
 
-
-
-![giphya.gif|200](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
 ## 〽️ Stats
+![giphya.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault - **Live Count: 1474** With over **12,80,000 words**.
