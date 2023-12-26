@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcast-notes/harvard-psychiatrist-on-how-to-get-ahead-of-99-9-of-people-starting-now/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-11T19:38:09.430+05:30","updated":"2023-12-17T21:42:26.759+05:30"}
+{"dg-publish":true,"permalink":"/podcast-notes/harvard-psychiatrist-on-how-to-get-ahead-of-99-9-of-people-starting-now/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-11T19:38:09.430+05:30","updated":"2023-12-17T21:42:26.759+05:30"}
 ---
 
 ==2023-12-11 - 19:44==
