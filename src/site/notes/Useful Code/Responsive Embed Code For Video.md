@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/useful-code/responsive-embed-code-for-video/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-10T19:38:21.834+05:30","updated":"2023-12-17T22:04:24.509+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/useful-code/responsive-embed-code-for-video/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T19:38:21.834+05:30","updated":"2023-12-17T22:04:24.509+05:30"}
 ---
 
 🧶 Tags:: #code #Reference_Notes 
