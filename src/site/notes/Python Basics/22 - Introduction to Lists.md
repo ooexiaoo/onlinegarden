@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/22-introduction-to-lists/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-21T11:47:23.269+05:30","updated":"2023-12-23T13:38:08.191+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/22-introduction-to-lists/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-21T11:47:23.269+05:30","updated":"2023-12-23T13:38:08.191+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
