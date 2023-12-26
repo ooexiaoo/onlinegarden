@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/athletisism/workout-plan/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.073+05:30","updated":"2023-12-19T19:52:02.376+05:30"}
+{"dg-publish":true,"permalink":"/areas/athletisism/workout-plan/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.073+05:30","updated":"2023-12-19T19:52:02.376+05:30"}
 ---
 
 Tags:: #Atheletisism
