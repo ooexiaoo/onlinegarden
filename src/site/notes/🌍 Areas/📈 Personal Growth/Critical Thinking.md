@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-growth/critical-thinking/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.403+05:30","updated":"2023-12-17T19:09:59.681+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-growth/critical-thinking/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.403+05:30","updated":"2023-12-17T19:09:59.681+05:30"}
 ---
 
 ==2023-01-04 | 22:34==
