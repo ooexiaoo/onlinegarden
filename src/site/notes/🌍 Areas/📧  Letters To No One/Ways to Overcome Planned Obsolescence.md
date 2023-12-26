@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/ways-to-overcome-planned-obsolescence/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-23T19:02:51.022+05:30","updated":"2023-12-12T01:12:41.883+05:30"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/ways-to-overcome-planned-obsolescence/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-23T19:02:51.022+05:30","updated":"2023-12-12T01:12:41.883+05:30"}
 ---
 
 #Letterstonoone 
