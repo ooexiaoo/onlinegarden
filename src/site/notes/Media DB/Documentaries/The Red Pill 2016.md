@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"documentary","permalink":"/media-db/documentaries/the-red-pill-2016/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.604+05:30","updated":"2023-12-18T18:30:39.196+05:30"}
+{"dg-publish":true,"type":"documentary","permalink":"/media-db/documentaries/the-red-pill-2016/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.604+05:30","updated":"2023-12-18T18:30:39.196+05:30"}
 ---
 
 🧶 Tags:: #Movies #Documentary 
