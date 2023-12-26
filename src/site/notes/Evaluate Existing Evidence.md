@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evaluate-existing-evidence/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.949+05:30","updated":"2023-12-17T19:06:45.929+05:30"}
+{"dg-publish":true,"permalink":"/evaluate-existing-evidence/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.949+05:30","updated":"2023-12-17T19:06:45.929+05:30"}
 ---
 
 🧶 Tags:: #🌱 
