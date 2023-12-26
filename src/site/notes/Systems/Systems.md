@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/systems/systems/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T01:01:57.372+05:30","updated":"2023-12-12T01:02:32.641+05:30"}
+{"dg-publish":true,"permalink":"/systems/systems/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T01:01:57.372+05:30","updated":"2023-12-12T01:02:32.641+05:30"}
 ---
 
 
