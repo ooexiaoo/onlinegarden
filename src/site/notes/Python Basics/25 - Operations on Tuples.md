@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/25-operations-on-tuples/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-24T21:24:56.198+05:30","updated":"2023-12-25T20:35:15.260+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/25-operations-on-tuples/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-24T21:24:56.198+05:30","updated":"2023-12-25T20:35:15.260+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
