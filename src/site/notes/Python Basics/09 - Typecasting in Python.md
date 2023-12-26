@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/09-typecasting-in-python/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-09T00:57:52.121+05:30","updated":"2023-12-23T13:36:45.869+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/09-typecasting-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-09T00:57:52.121+05:30","updated":"2023-12-23T13:36:45.869+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
