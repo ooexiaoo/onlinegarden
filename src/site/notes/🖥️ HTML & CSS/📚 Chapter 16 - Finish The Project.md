@@ -1,16 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/html-and-css/chapter-16-finish-the-project/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.650+05:30","updated":"2023-12-12T07:37:15.363+05:30"}
+{"dg-publish":true,"permalink":"/html-and-css/chapter-16-finish-the-project/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.650+05:30","updated":"2023-12-26T20:45:06.241+05:30"}
 ---
 
-🧶 Tags - #HTML_CSS 
-
----
-🗃Resources - [[]]
- 
----
-🔗Links -
- 
-# [[🖥️ HTML & CSS/📚 Chapter 16 - Finish The Project\|📚 Chapter 16 - Finish The Project]]
+🧶 Tags:: #HTML_CSS 
+🗃 Resources:: [[]]
 ==2022-11-13 - 15:11==
 
 ## CSS Selectors -
