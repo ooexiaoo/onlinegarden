@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/understanding-that-we-can-t-think-critically-100-of-the-time/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.926+05:30","updated":"2023-12-17T21:57:25.342+05:30"}
+{"dg-publish":true,"permalink":"/understanding-that-we-can-t-think-critically-100-of-the-time/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.926+05:30","updated":"2023-12-17T21:57:25.342+05:30"}
 ---
 
 🧶 Tags:: #🌱 
