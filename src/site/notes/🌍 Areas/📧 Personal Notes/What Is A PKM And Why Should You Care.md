@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-26T22:42:55.788+05:30"}
+{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-26T22:52:33.799+05:30"}
 ---
 
 🧶 Tags:: #Letterstonoone #🌿 
@@ -9,7 +9,7 @@
 
 PKM, in its full form is known as **personal knowledge management**, is a system which helps you keep a database of all the knowledge that is important to you in your life. We all have the same problem, which is remembering things that help us make sense of the world.
 
-You can use a PKM for anything that you're into, like when you're working on your **PhD**, or just want to remember what shows you watched or want to watch, or you stumbled upon a topic and don't want to forget everything that you've learned by next week, or maybe you just want to track your habits, your workouts or your dreams and goals over time, or maybe you want to remember and cherish all the memories of your loved ones, or just and to remember how you've lived a good life.
+You can use a PKM for anything that you're into, like when you're working on your **PhD**, or just want to remember what shows you [[Media DB/📺 Anime List 2023\|watched]] or [[Media DB/Watch List\|want to watch]], or you stumbled upon a topic and [[🌍 Areas/📧 Personal Notes/How To Remember All The Notes You Take\|don't want to forget everything]] that you've learned by next week, or maybe you just want to track your habits, your [[🌍 Areas/💪🏼 Athletisism/Workout Plan\|workouts]] or your dreams and goals over time, or maybe you want to remember and cherish all the memories of [[🌍 Areas/📧  Letters To No One/Finding Meaning With Friends And Family\|your loved ones]], or just and to remember how you've lived a good life.
 
 If you do anything like that, then you're managing knowledge, and that's PKM. Knowledge management is the process of **creating, sharing, using, and managing knowledge**.
 
