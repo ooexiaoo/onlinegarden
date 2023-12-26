@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/diy/electricity-usage-and-cost-for-mini-solar/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.265+05:30","updated":"2023-12-12T20:04:53.438+05:30"}
+{"dg-publish":true,"permalink":"/projects/diy/electricity-usage-and-cost-for-mini-solar/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.265+05:30","updated":"2023-12-12T20:04:53.438+05:30"}
 ---
 
 🧶 Tags - #Personal_Notes, #DIY
