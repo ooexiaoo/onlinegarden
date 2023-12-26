@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-24T21:53:48.731+05:30"}
+{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-26T22:05:06.022+05:30"}
 ---
 
 🧶 Tags:: #Letterstonoone #🌱 
-🔗Links:: [To YouTube](https://www.youtube.com/embed/Q2WBHyqRsxA)
+🔗 Links:: [To YouTube](https://www.youtube.com/embed/Q2WBHyqRsxA) | [Taskade](https://www.taskade.com/blog/personal-knowledge-management-pkm-guide/)
 ==2022-12-01 - 16:08==
 <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
   <iframe
@@ -17,7 +17,7 @@
 
 PKM in its full form is known as **personal knowledge management**, is a system which helps you keep a database of all the knowledge that is important to you in your life. We all have the same problem, which is remembering things that help us make sense of the world.
 
-You can use a PKM for anything that you're into, like when you're working on your PhD, or just want to remember what shows you watched or want to watch, or you stumbled upon a topic and don't want to forget everything that you've learned by next week, or maybe you just want to track your habits, your workouts or your dreams and goals over time, or maybe you want to remember and cherish all the memories of your loved ones, or just and to remember how you've lived a good life.
+You can use a PKM for anything that you're into, like when you're working on your **PhD**, or just want to remember what shows you watched or want to watch, or you stumbled upon a topic and don't want to forget everything that you've learned by next week, or maybe you just want to track your habits, your workouts or your dreams and goals over time, or maybe you want to remember and cherish all the memories of your loved ones, or just and to remember how you've lived a good life.
 
 If you do anything like that, then you're managing knowledge, and that's PKM. Knowledge management is the process of creating, sharing, using, and managing knowledge. Personal knowledge management is really about making sense of the world and once you start diving deeper into this topic you'll start asking many interesting questions like, **What should I do in this world? How should I conduct myself? Where should I spend my limited amount of attention? What really matters?**
 
@@ -25,7 +25,7 @@ If we decide these existential questions are fundamental to a life worth living,
 ## So How Do We Do It?
 We need to create a framework to manage all the content that we have and create. Just like we humans have been doing it for years, we create simple frameworks that are easy to remember because even though the **"you"** of today has life figured out, how do you know you won't forget what you've learnt in the decades to come.
 
->While **life** is too short...
+>[!info] while **life** is too short...
 >...for our memories, it's too long.
 
 The "you" of today isn't the same as ten years ago, and surely the "you" of ten years later would've changed in ways, way bigger than we usually comprehend on a day-to-day basis. And in that way, we give ourselves way too much credit for what we'll remember.
@@ -43,7 +43,7 @@ As you'd write about things, you'd see that these areas overlap quite often. As 
 
 The beauty of the PKM planet is it forces the question, **where am I spending most of my time in my management of knowledge and how?** Because we only have a limited amount of time on this planet. So if we can bring more wisdom and intention to our knowledge management efforts, we can waste less time, we can bring better results and bring more joy in the process.
 
-> **All we have to do is decide what to do with the time that is given to us.**
+> [!summary] **All we have to do is decide what to do with the time that is given to us.**
 >  - Gandalf
 
 ## PKM Archetypes Overview
