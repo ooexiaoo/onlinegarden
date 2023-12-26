@@ -1,19 +1,9 @@
 ---
-{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-26T22:39:08.658+05:30"}
+{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-26T22:42:55.788+05:30"}
 ---
 
 🧶 Tags:: #Letterstonoone #🌿 
-🔗 Links:: [To YouTube](https://www.youtube.com/embed/Q2WBHyqRsxA) | [Taskade](https://www.taskade.com/blog/personal-knowledge-management-pkm-guide/)
 ==2022-12-01 - 16:08==
-<div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
-  <iframe
-    src="https://www.youtube.com/embed/Q2WBHyqRsxA"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    allow="autoplay; fullscreen"
-    frameborder="0"
-    scrolling="no"
-  ></iframe>
-</div>
 
 > [!quote] Any Fool Can Know, The Point is to Understand
 
