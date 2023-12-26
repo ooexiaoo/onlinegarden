@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/unfair-advantage/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.213+05:30","updated":"2023-12-12T01:07:26.629+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/unfair-advantage/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.213+05:30","updated":"2023-12-12T01:07:26.629+05:30"}
 ---
 
 # [[🌍 Areas/📧 Personal Notes/Unfair Advantage\|Unfair Advantage]]
