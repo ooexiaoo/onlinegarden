@@ -1,5 +1,5 @@
 ---
-{"banner":"![florian-olivo-4hbJ-eymZ1o-unsplash.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg)","dg-publish":true,"permalink":"/html-and-css/chapter-7-images-and-text-boxes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:36.610+05:30","updated":"2023-12-12T19:57:05.346+05:30"}
+{"banner":"![florian-olivo-4hbJ-eymZ1o-unsplash.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg)","dg-publish":true,"permalink":"/html-and-css/chapter-7-images-and-text-boxes/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.610+05:30","updated":"2023-12-12T19:57:05.346+05:30"}
 ---
 
  🧶 Tags - #HTML_CSS 
