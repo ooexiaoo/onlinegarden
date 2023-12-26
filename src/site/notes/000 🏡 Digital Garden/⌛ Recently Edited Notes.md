@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
+{"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
 | File                                                                                                                   | Last modified      |
