@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/foundational-skills/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.804+05:30","updated":"2023-12-17T22:09:11.060+05:30"}
+{"dg-publish":true,"permalink":"/foundational-skills/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.804+05:30","updated":"2023-12-17T22:09:11.060+05:30"}
 ---
 
 🧶 Tags:: #🌱
