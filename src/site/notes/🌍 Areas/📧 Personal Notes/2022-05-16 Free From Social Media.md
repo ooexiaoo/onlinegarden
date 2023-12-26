@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/2022-05-16-free-from-social-media/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.145+05:30","updated":"2023-12-15T12:37:00.236+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/2022-05-16-free-from-social-media/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.145+05:30","updated":"2023-12-15T12:37:00.236+05:30"}
 ---
 
 # [[🌍 Areas/📧 Personal Notes/2022-05-16 Free From Social Media\|2022-05-16 Free From Social Media]]
