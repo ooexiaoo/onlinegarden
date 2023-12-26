@@ -1,16 +1,10 @@
 ---
-{"banner":"![florian-olivo-4hbJ-eymZ1o-unsplash.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg)","dg-publish":true,"permalink":"/html-and-css/chapter-13-nested-flexbox/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.662+05:30","updated":"2023-12-12T07:36:57.724+05:30"}
+{"banner":"![florian-olivo-4hbJ-eymZ1o-unsplash.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg)","dg-publish":true,"permalink":"/html-and-css/chapter-13-nested-flexbox/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.662+05:30","updated":"2023-12-26T20:43:49.568+05:30"}
 ---
 
-🧶 Tags - #HTML_CSS 
-
----
-🗃Resources - [[]]
- 
----
-🔗Links - https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions/lesson-13
- 
-# [[🖥️ HTML & CSS/📚 Chapter 13 - Nested Flexbox\|📚 Chapter 13 - Nested Flexbox]]
+🧶 Tags:: #HTML_CSS 
+🗃 Resources:: [[]]
+🔗Links:: https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions/lesson-13
 ==2022-11-10 - 15:14==
 
 We created the youtube header using flexbox in this tutorial.
