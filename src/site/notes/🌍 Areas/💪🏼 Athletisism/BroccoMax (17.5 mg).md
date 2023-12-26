@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/athletisism/brocco-max-17-5-mg/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-13T21:19:40.766+05:30","updated":"2023-12-13T22:01:24.654+05:30"}
+{"dg-publish":true,"permalink":"/areas/athletisism/brocco-max-17-5-mg/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T21:19:40.766+05:30","updated":"2023-12-13T22:01:24.654+05:30"}
 ---
 
 🧶 Tags:: #Reference_Notes 
