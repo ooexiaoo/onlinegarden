@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/20-functions-in-python/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-20T12:00:20.747+05:30","updated":"2023-12-23T13:37:55.440+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/20-functions-in-python/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-20T12:00:20.747+05:30","updated":"2023-12-23T13:37:55.440+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
