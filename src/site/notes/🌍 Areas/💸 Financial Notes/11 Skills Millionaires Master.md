@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/financial-notes/11-skills-millionaires-master/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.845+05:30","updated":"2023-12-17T22:25:28.753+05:30"}
+{"dg-publish":true,"permalink":"/areas/financial-notes/11-skills-millionaires-master/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.845+05:30","updated":"2023-12-17T22:25:28.753+05:30"}
 ---
 
 
