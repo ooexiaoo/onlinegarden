@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-growth/reading-people/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.397+05:30","updated":"2023-12-15T03:01:20.407+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-growth/reading-people/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.397+05:30","updated":"2023-12-15T03:01:20.407+05:30"}
 ---
 
 # [[🌍 Areas/📈 Personal Growth/Reading People\|Reading People]]
