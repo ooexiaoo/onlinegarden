@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sharing-the-wealth/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.845+05:30","updated":"2023-12-15T03:00:38.212+05:30"}
+{"dg-publish":true,"permalink":"/sharing-the-wealth/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.845+05:30","updated":"2023-12-15T03:00:38.212+05:30"}
 ---
 
 # [[Sharing The Wealth\|Sharing The Wealth]]
