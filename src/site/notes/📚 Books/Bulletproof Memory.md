@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/bulletproof-memory/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.561+05:30","updated":"2023-12-18T20:58:55.715+05:30"}
+{"dg-publish":true,"permalink":"/books/bulletproof-memory/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.561+05:30","updated":"2023-12-18T20:58:55.715+05:30"}
 ---
 
 Tags:: #Books 
