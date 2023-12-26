@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"wordcount":0,"banner":"![quit-social-media-1123531903.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/quit-social-media-1123531903.jpg)","banner_y":0.87999,"permalink":"/projects/name-unavailable/8-ways-to-take-a-break-from-social-media-script/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:37.295+05:30","updated":"2023-12-12T00:52:58.700+05:30"}
+{"dg-publish":true,"wordcount":0,"banner":"![quit-social-media-1123531903.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/quit-social-media-1123531903.jpg)","banner_y":0.87999,"permalink":"/projects/name-unavailable/8-ways-to-take-a-break-from-social-media-script/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.295+05:30","updated":"2023-12-12T00:52:58.700+05:30"}
 ---
 
 🧶 Tags - #Insightfulsage 
