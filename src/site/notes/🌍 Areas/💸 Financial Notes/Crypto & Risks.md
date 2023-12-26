@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/financial-notes/crypto-and-risks/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.914+05:30","updated":"2023-12-19T20:18:16.792+05:30"}
+{"dg-publish":true,"permalink":"/areas/financial-notes/crypto-and-risks/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.914+05:30","updated":"2023-12-19T20:18:16.792+05:30"}
 ---
 
 🧶 **Tags**:: #Financial_Freedom #Cryptocurrency #🌱 #Fleeting_Notes 
