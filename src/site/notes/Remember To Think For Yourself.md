@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/remember-to-think-for-yourself/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.933+05:30","updated":"2023-12-17T19:07:30.483+05:30"}
+{"dg-publish":true,"permalink":"/remember-to-think-for-yourself/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.933+05:30","updated":"2023-12-17T19:07:30.483+05:30"}
 ---
 
 🧶 Tags:: #🌱 
