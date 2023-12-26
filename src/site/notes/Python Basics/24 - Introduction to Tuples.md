@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/24-introduction-to-tuples/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-23T13:38:15.702+05:30","updated":"2023-12-24T21:31:04.855+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/24-introduction-to-tuples/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-23T13:38:15.702+05:30","updated":"2023-12-24T21:31:04.855+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
