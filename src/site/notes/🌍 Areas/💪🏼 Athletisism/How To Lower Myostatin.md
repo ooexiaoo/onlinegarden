@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/athletisism/how-to-lower-myostatin/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.095+05:30","updated":"2023-12-26T12:50:16.738+05:30"}
+{"dg-publish":true,"permalink":"/areas/athletisism/how-to-lower-myostatin/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.095+05:30","updated":"2023-12-26T12:50:16.738+05:30"}
 ---
 
 🧶 Tags:: #Atheletisism #🌱 
