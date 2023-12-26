@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/note-taking-101-moc/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:33.954+05:30","updated":"2023-12-12T23:35:00.466+05:30"}
+{"dg-publish":true,"permalink":"/resources/note-taking-101-moc/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:33.954+05:30","updated":"2023-12-12T23:35:00.466+05:30"}
 ---
 
 # Tags - #MOC 
