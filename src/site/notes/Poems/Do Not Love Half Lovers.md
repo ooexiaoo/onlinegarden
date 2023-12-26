@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/poems/do-not-love-half-lovers/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.485+05:30","updated":"2023-12-12T00:52:26.311+05:30"}
+{"dg-publish":true,"permalink":"/poems/do-not-love-half-lovers/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.485+05:30","updated":"2023-12-12T00:52:26.311+05:30"}
 ---
 
 
