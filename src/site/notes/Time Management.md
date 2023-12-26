@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time-management/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.788+05:30","updated":"2023-12-17T22:25:46.093+05:30"}
+{"dg-publish":true,"permalink":"/time-management/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.788+05:30","updated":"2023-12-17T22:25:46.093+05:30"}
 ---
 
 🧶 Tags:: #Personal_Growth, #Fleeting_Notes , #🌱 
