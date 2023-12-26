@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/financial-notes/3-big-levers-in-business/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.930+05:30","updated":"2023-12-17T18:50:33.576+05:30"}
+{"dg-publish":true,"permalink":"/areas/financial-notes/3-big-levers-in-business/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.930+05:30","updated":"2023-12-17T18:50:33.576+05:30"}
 ---
 
 ==2021-08-08 - 15:58==
