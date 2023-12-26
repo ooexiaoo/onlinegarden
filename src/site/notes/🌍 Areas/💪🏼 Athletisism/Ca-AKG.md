@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/athletisism/ca-akg/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-13T21:31:26.067+05:30","updated":"2023-12-13T22:01:13.410+05:30"}
+{"dg-publish":true,"permalink":"/areas/athletisism/ca-akg/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T21:31:26.067+05:30","updated":"2023-12-13T22:01:13.410+05:30"}
 ---
 
 🧶 Tags:: #Reference_Notes 
