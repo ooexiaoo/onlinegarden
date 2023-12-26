@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/financial-notes/the-best-investing-books-of-all-time/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.919+05:30","updated":"2023-12-20T12:22:09.832+05:30"}
+{"dg-publish":true,"permalink":"/areas/financial-notes/the-best-investing-books-of-all-time/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.919+05:30","updated":"2023-12-20T12:22:09.832+05:30"}
 ---
 
 🧶 Tags:: #Financial_Freedom #List
