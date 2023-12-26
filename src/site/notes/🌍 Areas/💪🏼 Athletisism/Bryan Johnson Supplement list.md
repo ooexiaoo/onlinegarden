@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/athletisism/bryan-johnson-supplement-list/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-13T20:58:22.733+05:30","updated":"2023-12-13T22:01:02.838+05:30"}
+{"dg-publish":true,"permalink":"/areas/athletisism/bryan-johnson-supplement-list/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-13T20:58:22.733+05:30","updated":"2023-12-13T22:01:02.838+05:30"}
 ---
 
 🧶 Tags:: #🌱, #Reference_Notes
