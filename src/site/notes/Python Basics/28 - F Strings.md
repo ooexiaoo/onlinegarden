@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/28-f-strings/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-26T13:42:24.862+05:30","updated":"2023-12-26T13:47:07.652+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/28-f-strings/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-26T13:42:24.862+05:30","updated":"2023-12-26T13:47:07.652+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
