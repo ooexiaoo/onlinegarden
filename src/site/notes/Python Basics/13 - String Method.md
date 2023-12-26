@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/13-string-method/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T23:55:10.422+05:30","updated":"2023-12-23T13:37:13.081+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/13-string-method/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-12T23:55:10.422+05:30","updated":"2023-12-23T13:37:13.081+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
