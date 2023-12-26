@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/systems/dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.473+05:30","updated":"2023-12-14T02:56:05.638+05:30"}
+{"dg-publish":true,"permalink":"/systems/dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.473+05:30","updated":"2023-12-14T02:56:05.638+05:30"}
 ---
 
 # [[Systems/Dunning Kruger Effect\|Dunning Kruger Effect]]
