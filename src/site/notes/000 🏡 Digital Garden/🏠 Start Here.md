@@ -1,11 +1,13 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-26T20:50:42.463+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-26T20:54:07.120+05:30"}
 ---
 
 ![ccbanner-anime.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/ccbanner-anime.png)
 <h2><span><p><img src="https://i.pinimg.com/736x/ba/a3/55/baa355c66f0fa5996f088d662c1fe2e2.jpg" style="display: block; margin: auto; border-radius: 2em; height:250px; width:250px;" referrerpolicy="no-referrer"> </p><h2 style="text-align: center;">Good Evening...</h2><p></p></span></h2>
 ## 🫨 Where Are You?
+
 ![blushing cat.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/blushing%20cat.gif)
+
 You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
 
 🕸️ This is my little corner of the internet, where I publicly share my notes related to what I'm doing, what kind of content I'm consuming, etc. to practice [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|learning in public]].
