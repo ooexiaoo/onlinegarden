@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/html-and-css/html-and-css/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.575+05:30","updated":"2023-12-12T07:37:31.808+05:30"}
+{"dg-publish":true,"permalink":"/html-and-css/html-and-css/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.575+05:30","updated":"2023-12-26T20:39:40.928+05:30"}
 ---
 
 
-- [[🖥️ HTML & CSS/📚 Chapter 1 & 2 - Basic HTML & CSS\|📚 Chapter 1 & 2 - Basic HTML & CSS]]
-- [[🖥️ HTML & CSS/📚 Chapter 3 - Hovers, Transitions, Shadows\|📚 Chapter 3 - Hovers, Transitions, Shadows]]
-- [[🖥️ HTML & CSS/📚 Chapter 4 - Chrome Dev Tools & CSS Box Model\|📚 Chapter 4 - Chrome Dev Tools & CSS Box Model]]
-- [[🖥️ HTML & CSS/📚 Chapter 5 - Text\|📚 Chapter 5 - Text]]
-- [[🖥️ HTML & CSS/📚 Chapter 6 - The HTML Structure\|📚 Chapter 6 - The HTML Structure]]
-- [[🖥️ HTML & CSS/📚 Chapter 7 - Images and Text Boxes\|📚 Chapter 7 - Images and Text Boxes]]
-- [[🖥️ HTML & CSS/📚 Chapter 8 - CSS Display Property\|📚 Chapter 8 - CSS Display Property]]
-- [[🖥️ HTML & CSS/📚 Chapter 9 - The Div Element\|📚 Chapter 9 - The Div Element]]
+- [[🖥️ HTML & CSS/📚 Chapter 01 & 02 - Basic HTML & CSS\|📚 Chapter 01 & 02 - Basic HTML & CSS]]
+- [[🖥️ HTML & CSS/📚 Chapter 03 - Hovers, Transitions, Shadows\|📚 Chapter 03 - Hovers, Transitions, Shadows]]
+- [[🖥️ HTML & CSS/📚 Chapter 04 - Chrome Dev Tools & CSS Box Model\|📚 Chapter 04 - Chrome Dev Tools & CSS Box Model]]
+- [[🖥️ HTML & CSS/📚 Chapter 05 - Text\|📚 Chapter 05 - Text]]
+- [[🖥️ HTML & CSS/📚 Chapter 06 - The HTML Structure\|📚 Chapter 06 - The HTML Structure]]
+- [[🖥️ HTML & CSS/📚 Chapter 07 - Images and Text Boxes\|📚 Chapter 07 - Images and Text Boxes]]
+- [[🖥️ HTML & CSS/📚 Chapter 08 - CSS Display Property\|📚 Chapter 08 - CSS Display Property]]
+- [[🖥️ HTML & CSS/📚 Chapter 09 - The Div Element\|📚 Chapter 09 - The Div Element]]
 - [[🖥️ HTML & CSS/📚 Chapter 10 - Nested Layouts Technique\|📚 Chapter 10 - Nested Layouts Technique]]
 - [[🖥️ HTML & CSS/📚 Chapter 11 - CSS Grid\|📚 Chapter 11 - CSS Grid]]
 - [[🖥️ HTML & CSS/📚 Chapter 12 - Flexbox\|📚 Chapter 12 - Flexbox]]
