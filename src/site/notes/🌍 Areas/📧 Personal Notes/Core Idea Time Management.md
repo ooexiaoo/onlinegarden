@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/core-idea-time-management/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.158+05:30","updated":"2023-12-16T03:58:20.670+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/core-idea-time-management/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.158+05:30","updated":"2023-12-16T03:58:20.670+05:30"}
 ---
 
 # [[🌍 Areas/📧 Personal Notes/Core Idea Time Management\|Core Idea Time Management]]
