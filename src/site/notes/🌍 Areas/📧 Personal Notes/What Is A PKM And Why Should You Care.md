@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-24T21:53:48.731+05:30"}
+{"dg-publish":true,"tags":["Letterstonoone","🌱"],"_links":["https://www.youtube.com/embed/Q2WBHyqRsxA"],"permalink":"/areas/personal-notes/what-is-a-pkm-and-why-should-you-care/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.165+05:30","updated":"2023-12-24T21:53:48.731+05:30"}
 ---
 
 🧶 Tags:: #Letterstonoone #🌱 
