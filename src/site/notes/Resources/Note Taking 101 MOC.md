@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/note-taking-101-moc/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:33.954+05:30","updated":"2023-12-12T23:35:00.466+05:30"}
+{"dg-publish":true,"permalink":"/resources/note-taking-101-moc/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:33.954+05:30","updated":"2023-12-26T17:04:30.777+05:30"}
 ---
 
 # Tags - #MOC 
@@ -22,4 +22,4 @@ Here are the kind of notes I'll be using -
 
 # Helpful Resources
 * [[Resources/🌏 WIKIs/Markdown Notes Guide\|Markdown Notes Guide]]
-* [[Dataview\|Dataview]]
+* [[Dataview Basics\|Dataview Basics]]
