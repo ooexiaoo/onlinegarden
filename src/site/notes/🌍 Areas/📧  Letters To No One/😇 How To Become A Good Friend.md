@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/letters-to-no-one/how-to-become-a-good-friend/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:40.023+05:30","updated":"2023-12-16T12:12:30.604+05:30"}
+{"dg-publish":true,"permalink":"/areas/letters-to-no-one/how-to-become-a-good-friend/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.023+05:30","updated":"2023-12-16T12:12:30.604+05:30"}
 ---
 
 🧶 Tags:: #Letterstonoone, #Permanent_Notes
