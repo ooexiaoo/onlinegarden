@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-24T21:43:41.866+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-14T03:24:01.304+05:30","updated":"2023-12-24T21:43:41.866+05:30"}
 ---
 
 🧶 Tags:: #🌱  #Fleeting_Notes 
