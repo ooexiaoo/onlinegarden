@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leverage/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.840+05:30","updated":"2023-12-15T03:00:14.896+05:30"}
+{"dg-publish":true,"permalink":"/leverage/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.840+05:30","updated":"2023-12-15T03:00:14.896+05:30"}
 ---
 
 # [[Leverage\|Leverage]]
