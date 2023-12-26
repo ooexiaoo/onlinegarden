@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/financial-notes/money-saving-tricks/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.924+05:30","updated":"2023-12-19T20:13:36.670+05:30"}
+{"dg-publish":true,"permalink":"/areas/financial-notes/money-saving-tricks/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:39.924+05:30","updated":"2023-12-19T20:13:36.670+05:30"}
 ---
 
 🧶 Tags:: #Financial_Freedom #🌱 
