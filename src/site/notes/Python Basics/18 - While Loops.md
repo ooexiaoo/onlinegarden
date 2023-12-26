@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/18-while-loops/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-18T17:42:47.107+05:30","updated":"2023-12-23T13:37:43.395+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/18-while-loops/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-18T17:42:47.107+05:30","updated":"2023-12-23T13:37:43.395+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
