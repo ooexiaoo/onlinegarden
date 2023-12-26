@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/19-break-and-continue/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-19T11:27:18.786+05:30","updated":"2023-12-23T13:37:49.343+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/19-break-and-continue/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-19T11:27:18.786+05:30","updated":"2023-12-23T13:37:49.343+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
