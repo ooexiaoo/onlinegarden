@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/27-exercise-3/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-25T20:31:18.781+05:30","updated":"2023-12-26T13:46:43.477+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/27-exercise-3/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-25T20:31:18.781+05:30","updated":"2023-12-26T13:46:43.477+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
