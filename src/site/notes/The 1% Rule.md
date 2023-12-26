@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-1-rule/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-11-14T21:08:43.770+05:30","updated":"2023-12-17T22:24:17.087+05:30"}
+{"dg-publish":true,"permalink":"/the-1-rule/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:43.770+05:30","updated":"2023-12-17T22:24:17.087+05:30"}
 ---
 
 🧶 Tags::
