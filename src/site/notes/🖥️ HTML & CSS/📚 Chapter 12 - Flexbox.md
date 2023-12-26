@@ -1,16 +1,10 @@
 ---
-{"banner":"![florian-olivo-4hbJ-eymZ1o-unsplash.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg)","dg-publish":true,"permalink":"/html-and-css/chapter-12-flexbox/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.641+05:30","updated":"2023-12-12T07:38:50.009+05:30"}
+{"banner":"![florian-olivo-4hbJ-eymZ1o-unsplash.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg)","dg-publish":true,"permalink":"/html-and-css/chapter-12-flexbox/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.641+05:30","updated":"2023-12-26T20:43:56.883+05:30"}
 ---
 
-🧶 Tags - #HTML_CSS 
-
----
-Resources - [[]]
-
----
-Links - https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions/lesson-12
- 
-# [[🖥️ HTML & CSS/📚 Chapter 12 - Flexbox\|📚 Chapter 12 - Flexbox]]
+🧶 Tags:: #HTML_CSS 
+🗃 Resources:: [[]]
+Links:: https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions/lesson-12
 ==2022-11-09 - 16:46==
 
 Flexbox is similar to CSS grid but more flexible. You can use flexbox in rows and columns like this -
