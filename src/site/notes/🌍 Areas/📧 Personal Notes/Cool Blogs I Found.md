@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-notes/cool-blogs-i-found/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-15T10:29:52.924+05:30","updated":"2023-12-15T10:38:28.160+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-notes/cool-blogs-i-found/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-15T10:29:52.924+05:30","updated":"2023-12-15T10:38:28.160+05:30"}
 ---
 
 🧶 Tags:: #Reference_Notes, #Resources
