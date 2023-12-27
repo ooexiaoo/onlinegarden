@@ -1,17 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/projects/name-unavailable/random-password-generator/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.733+05:30","updated":"2023-12-12T00:56:36.383+05:30"}
+{"dg-publish":true,"permalink":"/projects/name-unavailable/random-password-generator/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.733+05:30","updated":"2023-12-27T21:23:07.863+05:30"}
 ---
 
-🧶 Tags - #Random_Projects 
-
----
-🗃 Resources - [[]]
-
-# [[Projects/Name Unavailable/Random Password Generator\|Random Password Generator]]
+🧶 Tags:: #Random_Projects 
+🗃 Resources:: [[]]
 ==2023-06-18 - 19:48==
 
----
-Wanted to try creating a random password generator so, I did!
+Wanted to try creating a random password generator, so, I did!
 
 It mainly uses Random Math Floor to come up with just random things that can be used as a password.
 
@@ -85,7 +80,6 @@ You can find the project on by clicking here - [Github.com](https://github.com/o
 </body>
 </html>
 ```
-
 ### CSS
 ```CSS
 body {
@@ -148,7 +142,6 @@ body {
     border-color: #008CBA;
   }
 ```
-
 ### POPUP.JS
 ```JS
 // popup.js
@@ -195,7 +188,6 @@ document.addEventListener('DOMContentLoaded', function () {
     document.execCommand('copy');
   }
 ```
-
 ### POPUP-EVENT.JS
 ```JS
 document.addEventListener('DOMContentLoaded', function () {
