@@ -1,16 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/projects/random-projects/password-generator/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-27T20:24:57.461+05:30","updated":"2023-12-27T21:26:39.013+05:30"}
+{"dg-publish":true,"permalink":"/projects/random-projects/password-generator/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-27T20:24:57.461+05:30","updated":"2023-12-27T21:30:26.808+05:30"}
 ---
 
 Tags:: #HTML_CSS #JavaScript 
+==2023-12-27 | 21:27==
 
 I wanted to create a simple password generator that can create long passwords and work quickly.
 
 I've already made a [[Projects/Name Unavailable/Random Password Generator\|password generating extension]], but I thought most people wouldn't really want to install an extension that just generates passwords. It's like installing an app just to see use a webpage.
-
-Generate password button **(Just for fun)** take you to the site.
-
-<center><button style="height:50px; background-color:white; color:black; font-weight:900; font-size:25px" target="_blank" onclick="https://password-generator-eo0.pages.dev/">Generate Passwords</button></center>
 
 Even though you can find all the code at GitHub, I've also provided the code here as well.
 ### Here is All the Code:
