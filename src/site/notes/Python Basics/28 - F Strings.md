@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/28-f-strings/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-26T13:42:24.862+05:30","updated":"2023-12-26T13:47:07.652+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/28-f-strings/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-26T13:42:24.862+05:30","updated":"2023-12-27T22:22:37.934+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/29 - Docstrings\|29 - Docstrings]]
 Down:: [[Python Basics/27 - Exercise 3\|27 - Exercise 3]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-26 - 13:42==
