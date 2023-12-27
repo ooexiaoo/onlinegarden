@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-26T13:42:46.644+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-27T22:22:21.325+05:30"}
 ---
 
 
@@ -25,5 +25,6 @@
 - [[Python Basics/25 - Operations on Tuples\|25 - Operations on Tuples]]
 - [[Python Basics/27 - Exercise 3\|27 - Exercise 3]]
 - [[Python Basics/28 - F Strings\|28 - F Strings]]
+- [[Python Basics/29 - Docstrings\|29 - Docstrings]]
 
 
