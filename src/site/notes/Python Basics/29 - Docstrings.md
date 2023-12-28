@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/29-docstrings/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-27T22:21:33.715+05:30","updated":"2023-12-27T22:30:39.402+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/29-docstrings/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-27T22:21:33.715+05:30","updated":"2023-12-28T15:04:30.396+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/30 - Recursion\|30 - Recursion]]
 Down:: [[Python Basics/28 - F Strings\|28 - F Strings]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-27 - 22:21==
