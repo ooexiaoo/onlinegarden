@@ -6,9 +6,9 @@
 
 ![blushing cat.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/blushing%20cat.gif)
 
-You are at my [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
+You are at my [[What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
 
-🕸️ This is my little corner of the internet, where I publicly share my notes related to what I'm doing, what kind of content I'm consuming, etc. to practice [[🌍 Areas/📧 Personal Notes/🎓 Learning in Public\|learning in public]].
+🕸️ This is my little corner of the internet, where I publicly share my notes related to what I'm doing, what kind of content I'm consuming, etc. to practice [[🎓 Learning in Public\|learning in public]].
 
 👷🏻 Everything here is a work in progress. There are very few notes that I'm happy with, the ones that I can call are complete notes. Everything else is just constantly changing.
 
@@ -36,18 +36,18 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 ### Recently Edited Files
-| File                                                                              | Last modified      |
-| --------------------------------------------------------------------------------- | ------------------ |
-| [[Python Basics/31 - Sets\|31 - Sets]]                                         | 28.12.2023 - 20:01 |
-| [[Python Basics/30 - Recursion\|30 - Recursion]]                               | 28.12.2023 - 19:58 |
-| [[Python Basics/Python Basics\|Python Basics]]                                 | 28.12.2023 - 19:58 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                         | 28.12.2023 - 18:10 |
-| [[Media DB/series/Pluto (2023)\|Pluto (2023)]]                                 | 28.12.2023 - 18:00 |
-| [[Media DB/movies/movies\|movies]]                                             | 28.12.2023 - 17:59 |
-| [[Media DB/series/series\|series]]                                             | 28.12.2023 - 17:59 |
-| [[Media DB/series/Mashle (2023)\|Mashle (2023)]]                               | 28.12.2023 - 17:58 |
-| [[Media DB/series/Dead Mount Death Play (2023)\|Dead Mount Death Play (2023)]] | 28.12.2023 - 17:58 |
-| [[🌍 Areas/📧 Personal Notes/Feminine and Masculine\|Feminine and Masculine]]  | 28.12.2023 - 17:53 |
+| File                                                                                  | Last modified      |
+| ------------------------------------------------------------------------------------- | ------------------ |
+| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                        | 28.12.2023 - 22:22 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                    | 28.12.2023 - 22:22 |
+| [[🌍 Areas/📧 Personal Notes/🎧 Music List\|🎧 Music List]]                        | 28.12.2023 - 22:21 |
+| [[Unfair Advantage\|Unfair Advantage]]                                             | 28.12.2023 - 22:20 |
+| [[The Pygmalion Effect\|The Pygmalion Effect]]                                     | 28.12.2023 - 22:19 |
+| [[How To Remember All The Notes You Take\|How To Remember All The Notes You Take]] | 28.12.2023 - 22:17 |
+| [[Feminine and Masculine\|Feminine and Masculine]]                                 | 28.12.2023 - 22:17 |
+| [[Podcast Notes/Podcast Notes\|Podcast Notes]]                                     | 28.12.2023 - 22:15 |
+| [[Deliberate Practice\|Deliberate Practice]]                                       | 28.12.2023 - 22:14 |
+| [[Resources/Note Taking 101 MOC\|Note Taking 101 MOC]]                             | 28.12.2023 - 22:13 |
 
 { .block-language-dataview}
 
@@ -56,7 +56,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 | [[Python Basics/31 - Sets\|31 - Sets]]                                                                                                                          | 28.12.2023 - 19:58 |
 | [[Excalidraw/Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw\|Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw]] | 28.12.2023 - 17:45 |
-| [[🌍 Areas/📧 Personal Notes/Don't Just Read Books, Study Them\|Don't Just Read Books, Study Them]]                                                             | 28.12.2023 - 15:57 |
+| [[Podcast Notes/Don't Just Read Books, Study Them\|Don't Just Read Books, Study Them]]                                                                          | 28.12.2023 - 15:57 |
 | [[Python Basics/30 - Recursion\|30 - Recursion]]                                                                                                                | 28.12.2023 - 15:03 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-28\|2023-12-28]]                                                                                            | 28.12.2023 - 15:00 |
 | [[Python Basics/29 - Docstrings\|29 - Docstrings]]                                                                                                              | 27.12.2023 - 22:21 |
