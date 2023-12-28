@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-27T20:21:24.171+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-28T18:10:45.451+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -30,15 +30,46 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 ⚠️ There are some notes that I've linked to but are not published yet, if you so happen to find a note like this, it means I'm working on it
 
-👉🏻 Feel free to see my [[000 🏡 Digital Garden/⌛ Recently Edited Notes\|⌛ Recently Edited Notes]], [[000 🏡 Digital Garden/📝 Recently Added Notes\|📝 Recently Added Notes]] and [[000 🏡 Digital Garden/Permanent Notes\|Permanent Notes]]. I will organize things better as time goes on. But you can use these as a start for now.
-
 ⚡ Feel free to click on the tags to see similar content.
 
 🎥 You can also see my [[Media DB/📺 Anime List 2023\|📺 Anime List 2023]] and [[Media DB/📺 Movies 2023\|📺 Movies 2023]].
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
+### Recently Edited Files
+| File                                                                                                                                                               | Last modified      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                          | 28.12.2023 - 18:10 |
+| [[Media DB/series/Pluto (2023)\|Pluto (2023)]]                                                                                                                  | 28.12.2023 - 18:00 |
+| [[Media DB/movies/movies\|movies]]                                                                                                                              | 28.12.2023 - 17:59 |
+| [[Media DB/series/series\|series]]                                                                                                                              | 28.12.2023 - 17:59 |
+| [[Media DB/series/Mashle (2023)\|Mashle (2023)]]                                                                                                                | 28.12.2023 - 17:58 |
+| [[Media DB/series/Dead Mount Death Play (2023)\|Dead Mount Death Play (2023)]]                                                                                  | 28.12.2023 - 17:58 |
+| [[🌍 Areas/📧 Personal Notes/Feminine and Masculine\|Feminine and Masculine]]                                                                                   | 28.12.2023 - 17:53 |
+| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                           | 28.12.2023 - 17:51 |
+| [[Excalidraw/Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw\|Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw]] | 28.12.2023 - 17:51 |
+| [[🌍 Areas/📧 Personal Notes/Free From Social Media\|Free From Social Media]]                                                                                   | 28.12.2023 - 17:40 |
 
->[! Skip this Backstory] 😿 My Backstory
+{ .block-language-dataview}
+
+### Recently Added Files
+| File                                                                                                                                                               | Last modified      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Excalidraw/Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw\|Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw]] | 28.12.2023 - 17:45 |
+| [[🌍 Areas/📧 Personal Notes/Don't Just Read Books, Study Them\|Don't Just Read Books, Study Them]]                                                             | 28.12.2023 - 15:57 |
+| [[Python Basics/30 - Recursion\|30 - Recursion]]                                                                                                                | 28.12.2023 - 15:03 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-28\|2023-12-28]]                                                                                            | 28.12.2023 - 15:00 |
+| [[Python Basics/29 - Docstrings\|29 - Docstrings]]                                                                                                              | 27.12.2023 - 22:21 |
+| [[Projects/😎 Random Projects/A Simple Password Generator With No Fluff!!!\|A Simple Password Generator With No Fluff!!!]]                                      | 27.12.2023 - 20:24 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-27\|2023-12-27]]                                                                                            | 27.12.2023 - 17:19 |
+| [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care 1\|What Is A PKM And Why Should You Care 1]]                                                 | 26.12.2023 - 22:37 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-26\|2023-12-26]]                                                                                            | 26.12.2023 - 20:36 |
+| [[Python Basics/28 - F Strings\|28 - F Strings]]                                                                                                                | 26.12.2023 - 13:42 |
+
+{ .block-language-dataview}
+
+If you want to see which notes I might be wanting to work on, you can see it all here - [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]
+
+>[! summary]  😿 My Super Sad Backstory
 > I know it's a mess, and I'm trying to sort it all out as much as I can.
 The thing is, when I started writing all this, it was never my intention to publish my writings to the web, as you can imagine.
 So the notes are not linked together in a way that would make it easy to find related content.
@@ -48,5 +79,6 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![giphya.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
-😵‍💫 There are quite a few notes in the vault - **Live Count: 1482** With over **12,80,000 words**.
+😵‍💫 There are quite a few notes in the vault:
+**Live Count: 1482** With over **12,90,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
