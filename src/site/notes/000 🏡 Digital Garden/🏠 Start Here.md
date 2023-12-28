@@ -36,24 +36,25 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 ### Recently Edited Files
-| File                                                                                                                                                               | Last modified      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                          | 28.12.2023 - 18:10 |
-| [[Media DB/series/Pluto (2023)\|Pluto (2023)]]                                                                                                                  | 28.12.2023 - 18:00 |
-| [[Media DB/movies/movies\|movies]]                                                                                                                              | 28.12.2023 - 17:59 |
-| [[Media DB/series/series\|series]]                                                                                                                              | 28.12.2023 - 17:59 |
-| [[Media DB/series/Mashle (2023)\|Mashle (2023)]]                                                                                                                | 28.12.2023 - 17:58 |
-| [[Media DB/series/Dead Mount Death Play (2023)\|Dead Mount Death Play (2023)]]                                                                                  | 28.12.2023 - 17:58 |
-| [[🌍 Areas/📧 Personal Notes/Feminine and Masculine\|Feminine and Masculine]]                                                                                   | 28.12.2023 - 17:53 |
-| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                           | 28.12.2023 - 17:51 |
-| [[Excalidraw/Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw\|Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw]] | 28.12.2023 - 17:51 |
-| [[🌍 Areas/📧 Personal Notes/Free From Social Media\|Free From Social Media]]                                                                                   | 28.12.2023 - 17:40 |
+| File                                                                              | Last modified      |
+| --------------------------------------------------------------------------------- | ------------------ |
+| [[Python Basics/31 - Sets\|31 - Sets]]                                         | 28.12.2023 - 20:01 |
+| [[Python Basics/30 - Recursion\|30 - Recursion]]                               | 28.12.2023 - 19:58 |
+| [[Python Basics/Python Basics\|Python Basics]]                                 | 28.12.2023 - 19:58 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                         | 28.12.2023 - 18:10 |
+| [[Media DB/series/Pluto (2023)\|Pluto (2023)]]                                 | 28.12.2023 - 18:00 |
+| [[Media DB/movies/movies\|movies]]                                             | 28.12.2023 - 17:59 |
+| [[Media DB/series/series\|series]]                                             | 28.12.2023 - 17:59 |
+| [[Media DB/series/Mashle (2023)\|Mashle (2023)]]                               | 28.12.2023 - 17:58 |
+| [[Media DB/series/Dead Mount Death Play (2023)\|Dead Mount Death Play (2023)]] | 28.12.2023 - 17:58 |
+| [[🌍 Areas/📧 Personal Notes/Feminine and Masculine\|Feminine and Masculine]]  | 28.12.2023 - 17:53 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                               | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Python Basics/31 - Sets\|31 - Sets]]                                                                                                                          | 28.12.2023 - 19:58 |
 | [[Excalidraw/Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw\|Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw]] | 28.12.2023 - 17:45 |
 | [[🌍 Areas/📧 Personal Notes/Don't Just Read Books, Study Them\|Don't Just Read Books, Study Them]]                                                             | 28.12.2023 - 15:57 |
 | [[Python Basics/30 - Recursion\|30 - Recursion]]                                                                                                                | 28.12.2023 - 15:03 |
@@ -63,7 +64,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-27\|2023-12-27]]                                                                                            | 27.12.2023 - 17:19 |
 | [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care 1\|What Is A PKM And Why Should You Care 1]]                                                 | 26.12.2023 - 22:37 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-26\|2023-12-26]]                                                                                            | 26.12.2023 - 20:36 |
-| [[Python Basics/28 - F Strings\|28 - F Strings]]                                                                                                                | 26.12.2023 - 13:42 |
 
 { .block-language-dataview}
 
@@ -80,5 +80,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1482** With over **12,90,000 words**.
+**Live Count: 1483** With over **12,90,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
