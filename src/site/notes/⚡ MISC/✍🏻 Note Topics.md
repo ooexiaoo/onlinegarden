@@ -1,5 +1,5 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-26T12:44:56.872+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2023-12-28T22:22:56.177+05:30"}
 ---
 
 Tags:: #Topics 
@@ -11,7 +11,7 @@ Tags:: #Topics
 - [ ] live a life that has positive effects beyond yourself. - [[Live A Life That Has Positive Effects Beyond You\|Live A Life That Has Positive Effects Beyond You]]
 - [ ] How to create a self improving mindset - [[How Can You Create A Self Improving Mindset\|How Can You Create A Self Improving Mindset]]
 - [ ] How to think to become a better human - [[How To Think And Become Better\|How To Think And Become Better]]
-- [x] What is A PKM and why we all should have it - [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care\|What Is A PKM And Why Should You Care]]
+- [x] What is A PKM and why we all should have it - [[What Is A PKM And Why Should You Care\|What Is A PKM And Why Should You Care]]
 - [x] [[🌍 Areas/📧  Letters To No One/😇 How To Become A Good Friend\|😇 How To Become A Good Friend]]
 - [x] What is God To Me - [[🌍 Areas/📧  Letters To No One/The Theories About God & Universe\|The Theories About God & Universe]]
 - [ ] Jordan Peterson on relationships **linked below** - [[On Relationships\|On Relationships]]
@@ -39,10 +39,11 @@ Tags:: #Topics
 - [ ] https://zachshirow.medium.com/how-i-keep-my-obsidian-vault-super-organized-with-the-auto-note-mover-plugin-12bb86ccd78b
 - [ ] Story from bhagvattam about sage Kardama (This story is found in the third canto (Skandha) of the Bhagavatam, in Chapters 21 through 24) and Sage Narada (1st Canto (Skandha) of the Bhagavatam, specifically in Chapter 6)
 - [ ] https://om.co/gigaom/uber-data-darwinism-and-the-future-of-work/
-- [ ] Silent killers of dreams, inaction, not having a routine [[🌍 Areas/📧 Personal Notes/Deliberate Practice\|Deliberate Practice]]
+- [ ] Silent killers of dreams, inaction, not having a routine [[Deliberate Practice\|Deliberate Practice]]
 - [ ] [Learn Japanese](https://learnjapanesedaily.com/most-common-japanese-words.html) by learning the most used 1000 words in Japanese.
 - [ ] [Steal like an artist summary reference](https://fourminutebooks.com/steal-like-an-artist-summary/)
 - [x] [[Diminishing Returns When Consuming Media\|Diminishing Returns When Consuming Media]]
+- [ ] Make a proper notes guide for the blog [Ref Link](https://www.aidanhelfant.com/how-should-your-classify-your-notes-in-obsidian/)
 
 Fadogia Agrestis
 https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF
