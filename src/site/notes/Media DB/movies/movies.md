@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-18T18:43:31.321+05:30"}
+{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-28T17:59:40.919+05:30"}
 ---
 
 
@@ -29,7 +29,6 @@
 - [[Media DB/movies/Oblivion (2013)\|Oblivion (2013)]]
 - [[Media DB/movies/Pacific Rim 1&2\|Pacific Rim 1&2]]
 - [[Media DB/movies/Paprika (2006)\|Paprika (2006)]]
-- [[Media DB/movies/Pluto (2023)\|Pluto (2023)]]
 - [[Media DB/movies/Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)\|Shingeki no Kyojin - The Final Season - Kanketsu-hen (2023)]]
 - [[Media DB/movies/Tamako Love Story (2014)\|Tamako Love Story (2014)]]
 - [[Media DB/movies/The Banker 2022-05-28\|The Banker 2022-05-28]]
