@@ -3,7 +3,7 @@
 ---
 
 🧶 Tags:: #🌱 #Fleeting_Notes  
-🗃 Resources:: [[🌍 Areas/📧 Personal Notes/How To Remember All The Notes You Take\|How To Remember All The Notes You Take]]
+🗃 Resources:: [[How To Remember All The Notes You Take\|How To Remember All The Notes You Take]]
 🔗 Links:: https://www.youtube.com/watch?v=loX1Sa9fH84&list=WL&index=2
 ==2023-02-08 - 07:44==
 
