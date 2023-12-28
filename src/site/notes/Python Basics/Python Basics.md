@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-28T15:04:16.327+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-28T19:58:34.184+05:30"}
 ---
 
 
@@ -27,5 +27,6 @@
 - [[Python Basics/28 - F Strings\|28 - F Strings]]
 - [[Python Basics/29 - Docstrings\|29 - Docstrings]]
 - [[Python Basics/30 - Recursion\|30 - Recursion]]
+- [[Python Basics/31 - Sets\|31 - Sets]]
 
 
