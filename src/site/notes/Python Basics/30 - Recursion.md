@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/30-recursion/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-28T15:03:55.076+05:30","updated":"2023-12-28T15:06:23.486+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/30-recursion/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-28T15:03:55.076+05:30","updated":"2023-12-28T19:58:51.282+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/31 - Sets\|31 - Sets]]
 Down:: [[Python Basics/29 - Docstrings\|29 - Docstrings]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-28 - 15:03==
