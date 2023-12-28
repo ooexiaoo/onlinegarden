@@ -1,10 +1,10 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-22T17:06:36.764+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-28T17:39:13.753+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
 
-I left [[🌍 Areas/📧 Personal Notes/2022-05-16 Free From Social Media\|social media]] a year ago but, I have still not gotten over my YouTube addiction. It's just that YouTube has taken the space social media had. It's very hard to not use YouTube, as it feels like I'm doing something productive, even though all the things I'm learning or watching will never be applied anywhere.
+I left [[🌍 Areas/📧 Personal Notes/Free From Social Media\|social media]] a year ago but, I have still not gotten over my YouTube addiction. It's just that YouTube has taken the space social media had. It's very hard to not use YouTube, as it feels like I'm doing something productive, even though all the things I'm learning or watching will never be applied anywhere.
 
 Likewise, it's just knowledge stored in my head. Not only that, but it's not all that bad, I have a habit of having useless knowledge in my head for a long time.
 
