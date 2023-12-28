@@ -3,7 +3,7 @@
 ---
 
 🧶 Tags:: #Fleeting_Notes #🌱 
-Resources::  [[🌍 Areas/📧 Personal Notes/Unfair Advantage\|Unfair Advantage]] |  [[MILES framework\|MILES framework]]
+Resources::  [[Unfair Advantage\|Unfair Advantage]] |  [[MILES framework\|MILES framework]]
 Links::
 ==2021-10-11 - 01:07==
 
