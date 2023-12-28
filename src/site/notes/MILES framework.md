@@ -3,7 +3,7 @@
 ---
 
 🧶 Tags:: #Fleeting_Notes #🌱 
-Resources:: [[🌍 Areas/📧 Personal Notes/Unfair Advantage\|Unfair Advantage]]
+Resources:: [[Unfair Advantage\|Unfair Advantage]]
 Links:: <a href="https://www.amazon.in/Unfair-Advantage-Startup-Success-Starts-ebook/dp/B07ND3V1ZS">Amazon Link To The Book</a>
 ==2021-10-11 - 01:02==
 
