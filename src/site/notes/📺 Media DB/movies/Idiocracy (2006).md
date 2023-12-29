@@ -1,0 +1,6 @@
+---
+{"type":"movie","subType":null,"title":"Idiocracy","englishTitle":"Idiocracy","year":"2006","dataSource":"OMDbAPI","url":"https://www.imdb.com/title/tt0387808/","id":"tt0387808","genres":["Adventure","Comedy","Sci-Fi"],"producer":"Mike Judge","duration":"84 min","onlineRating":6.5,"actors":["Luke Wilson","Maya Rudolph","Dax Shepard"],"image":"https://m.media-amazon.com/images/M/MV5BMWQ4MzI2ZDQtYjk3MS00ODdjLTkwN2QtOTBjYzIwM2RmNzgyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg","released":true,"streamingServices":null,"premiere":"25/01/2007","watched":true,"lastWatched":"02/09/2023","personalRating":0,"tags":["mediaDB/tv/movie","Movies_2023"],"dg-publish":true,"permalink":"/media-db/movies/idiocracy-2006/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.060+05:30","updated":"2023-12-10T20:49:19.826+05:30"}
+---
+
+<center><img style="height:300px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fj4SfOW4qPlgv8xRsmwFjV1Dqw8U.jpg&f=1&nofb=1&ipt=56f89db9c4532c94d042f0eaaf3625a91a1ae9ca96eaa9aadb6edc5032676ad6&ipo=images"></center>
+The movie was kinda fun, very simple story, but fun. Made fun of some pretty big corporations
