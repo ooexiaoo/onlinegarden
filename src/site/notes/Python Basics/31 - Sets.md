@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/31-sets/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-28T19:58:16.260+05:30","updated":"2023-12-28T20:01:46.233+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/31-sets/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-28T19:58:16.260+05:30","updated":"2023-12-29T16:32:27.692+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]
 Down:: [[Python Basics/30 - Recursion\|30 - Recursion]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-28 - 19:58==
