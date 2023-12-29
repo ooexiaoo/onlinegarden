@@ -4,6 +4,7 @@
 
 | File                                                                                                                          | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Life Graph (Stacked Area)\|Life Graph (Stacked Area)]]                                                                   | 29.12.2023 - 20:39 |
 | [[Projects/😎 Random Projects/A Simple Password Generator With No Fluff!!!\|A Simple Password Generator With No Fluff!!!]] | 29.12.2023 - 17:11 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-27\|2023-12-27]]                                                       | 29.12.2023 - 17:04 |
 | [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]                                                                     | 29.12.2023 - 17:02 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                            | 29.12.2023 - 16:30 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                | 28.12.2023 - 22:22 |
 | [[🌍 Areas/📧 Personal Notes/🎧 Music List\|🎧 Music List]]                                                                | 28.12.2023 - 22:21 |
-| [[Unfair Advantage\|Unfair Advantage]]                                                                                     | 28.12.2023 - 22:20 |
 
 { .block-language-dataview}
