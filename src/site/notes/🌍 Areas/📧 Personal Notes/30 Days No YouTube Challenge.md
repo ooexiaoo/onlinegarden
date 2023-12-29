@@ -72,7 +72,7 @@ Makes me think, *"What the hell was I being recommended, with all those highly o
 ### Day 9
 >[!success] 20-12-2023
 
-Just visiting YT for python course and nothing else. In my free time, I'm reading [[Media DB/manga/MF Ghost (2017)\|MF Ghost (2017)]] manga. As [[Media DB/series/MF Ghost (2023)\|MF Ghost (2023)]] the anime season 1 just completed.
+Just visiting YT for python course and nothing else. In my free time, I'm reading [[📺 Media DB/manga/MF Ghost (2017)\|MF Ghost (2017)]] manga. As [[📺 Media DB/series/MF Ghost (2023)\|MF Ghost (2023)]] the anime season 1 just completed.
 
 ### Day 10
 >[!success] 21-12-2023
