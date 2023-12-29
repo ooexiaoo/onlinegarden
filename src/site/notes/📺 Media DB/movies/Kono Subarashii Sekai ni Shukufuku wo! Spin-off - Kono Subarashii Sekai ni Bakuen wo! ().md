@@ -1,0 +1,4 @@
+---
+{"type":"movie","subType":"","title":"Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Subarashii Sekai ni Bakuen wo!","englishTitle":"Konosuba: An Explosion on This Wonderful World!","year":"","dataSource":"MALAPI","url":"https://myanimelist.net/anime/51961/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Spin-off__Kono_Subarashii_Sekai_ni_Bakuen_wo","id":51961,"genres":["Comedy","Fantasy"],"producer":"","duration":"Unknown","onlineRating":0,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1180/124137.jpg","released":true,"streamingServices":null,"premiere":"01/01/1970","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/movie"],"dg-publish":true,"permalink":"/media-db/movies/kono-subarashii-sekai-ni-shukufuku-wo-spin-off-kono-subarashii-sekai-ni-bakuen-wo/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:35.981+05:30","updated":"2023-12-10T20:48:49.030+05:30"}
+---
+
