@@ -1,0 +1,5 @@
+---
+{"type":"series","subType":"series","title":"Initial D Second Stage","englishTitle":"Initial D Second Stage","year":1999,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/186/Initial_D_Second_Stage","id":186,"genres":["Action","Drama"],"studios":["Pastel"],"episodes":13,"duration":"23 min per ep","onlineRating":8.17,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/8/12750.jpg","released":true,"streamingServices":["Crunchyroll","Funimation","Shahid"],"airing":false,"airedFrom":"15/10/1999","airedTo":"21/01/2000","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"dateWatched":"2016-01-01","permalink":"/media-db/series/initial-d-second-stage-1999/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-15T00:09:52.371+05:30","updated":"2023-12-15T00:16:11.473+05:30"}
+---
+
+<img src="https://cdn.myanimelist.net/images/anime/8/12750.jpg">
