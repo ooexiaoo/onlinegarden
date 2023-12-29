@@ -1,0 +1,5 @@
+---
+{"type":"series","subType":"series","title":"Yuusha ga Shinda!","englishTitle":"The Legendary Hero Is Dead!","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/51706/Yuusha_ga_Shinda","id":51706,"genres":["Action","Comedy","Fantasy","Ecchi"],"studios":["LIDENFILMS"],"episodes":12,"duration":"23 min per ep","onlineRating":6.41,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1868/133866.jpg","released":true,"streamingServices":["Crunchyroll","Aniplus TV","Bahamut Anime Crazy","Muse Asia"],"airing":true,"airedFrom":"07/04/2023","airedTo":"01/01/1970","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/yuusha-ga-shinda-2023/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.129+05:30","updated":"2023-12-10T09:55:58.214+05:30"}
+---
+
+Shonen and mindless anime, Won't recommend unless you just want to watch something after turning off your mind
