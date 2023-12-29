@@ -1,0 +1,5 @@
+---
+{"type":"series","subType":"series","title":"Initial D First Stage","englishTitle":"Initial D First Stage","year":1998,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/185/Initial_D_First_Stage","id":185,"genres":["Action","Drama"],"studios":["Gallop","Studio Comet"],"episodes":26,"duration":"25 min per ep","onlineRating":8.34,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1384/127972.jpg","released":true,"streamingServices":["Crunchyroll","Funimation","Shahid"],"airing":false,"airedFrom":"19/04/1998","airedTo":"06/12/1998","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"dateWatched":"2007-01-01","permalink":"/media-db/series/initial-d-first-stage-1998/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-15T00:09:52.279+05:30","updated":"2023-12-15T00:11:25.813+05:30"}
+---
+
+<img src="https://cdn.myanimelist.net/images/anime/1384/127972.jpg">
