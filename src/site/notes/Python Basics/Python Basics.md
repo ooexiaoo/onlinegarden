@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-28T19:58:34.184+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-29T16:32:15.360+05:30"}
 ---
 
 
@@ -28,5 +28,6 @@
 - [[Python Basics/29 - Docstrings\|29 - Docstrings]]
 - [[Python Basics/30 - Recursion\|30 - Recursion]]
 - [[Python Basics/31 - Sets\|31 - Sets]]
+- [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]
 
 
