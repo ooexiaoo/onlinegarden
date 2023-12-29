@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                               | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Life Graph (Stacked Area)\|Life Graph (Stacked Area)]]                                                                                                        | 29.12.2023 - 20:23 |
 | [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]                                                                                                          | 29.12.2023 - 16:31 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-29\|2023-12-29]]                                                                                            | 29.12.2023 - 16:30 |
 | [[Python Basics/31 - Sets\|31 - Sets]]                                                                                                                          | 28.12.2023 - 19:58 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-28\|2023-12-28]]                                                                                            | 28.12.2023 - 15:00 |
 | [[Python Basics/29 - Docstrings\|29 - Docstrings]]                                                                                                              | 27.12.2023 - 22:21 |
 | [[Projects/😎 Random Projects/A Simple Password Generator With No Fluff!!!\|A Simple Password Generator With No Fluff!!!]]                                      | 27.12.2023 - 20:24 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-27\|2023-12-27]]                                                                                            | 27.12.2023 - 17:19 |
 
 { .block-language-dataview}
