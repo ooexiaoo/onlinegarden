@@ -36,24 +36,26 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 ### Recently Edited Files
-| File                                                                                  | Last modified      |
-| ------------------------------------------------------------------------------------- | ------------------ |
-| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                        | 28.12.2023 - 22:22 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                    | 28.12.2023 - 22:22 |
-| [[🌍 Areas/📧 Personal Notes/🎧 Music List\|🎧 Music List]]                        | 28.12.2023 - 22:21 |
-| [[Unfair Advantage\|Unfair Advantage]]                                             | 28.12.2023 - 22:20 |
-| [[The Pygmalion Effect\|The Pygmalion Effect]]                                     | 28.12.2023 - 22:19 |
-| [[How To Remember All The Notes You Take\|How To Remember All The Notes You Take]] | 28.12.2023 - 22:17 |
-| [[Feminine and Masculine\|Feminine and Masculine]]                                 | 28.12.2023 - 22:17 |
-| [[Podcast Notes/Podcast Notes\|Podcast Notes]]                                     | 28.12.2023 - 22:15 |
-| [[Deliberate Practice\|Deliberate Practice]]                                       | 28.12.2023 - 22:14 |
-| [[Resources/Note Taking 101 MOC\|Note Taking 101 MOC]]                             | 28.12.2023 - 22:13 |
+| File                                                                    | Last modified      |
+| ----------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-27\|2023-12-27]] | 29.12.2023 - 17:04 |
+| [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]               | 29.12.2023 - 17:02 |
+| [[Python Basics/31 - Sets\|31 - Sets]]                               | 29.12.2023 - 16:32 |
+| [[Python Basics/Python Basics\|Python Basics]]                       | 29.12.2023 - 16:32 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-29\|2023-12-29]] | 29.12.2023 - 16:31 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 29.12.2023 - 16:30 |
+| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                          | 28.12.2023 - 22:22 |
+| [[🌍 Areas/📧 Personal Notes/🎧 Music List\|🎧 Music List]]          | 28.12.2023 - 22:21 |
+| [[Unfair Advantage\|Unfair Advantage]]                               | 28.12.2023 - 22:20 |
+| [[The Pygmalion Effect\|The Pygmalion Effect]]                       | 28.12.2023 - 22:19 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                               | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]                                                                                                          | 29.12.2023 - 16:31 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-29\|2023-12-29]]                                                                                            | 29.12.2023 - 16:30 |
 | [[Python Basics/31 - Sets\|31 - Sets]]                                                                                                                          | 28.12.2023 - 19:58 |
 | [[Excalidraw/Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw\|Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw]] | 28.12.2023 - 17:45 |
 | [[Podcast Notes/Don't Just Read Books, Study Them\|Don't Just Read Books, Study Them]]                                                                          | 28.12.2023 - 15:57 |
@@ -62,8 +64,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[Python Basics/29 - Docstrings\|29 - Docstrings]]                                                                                                              | 27.12.2023 - 22:21 |
 | [[Projects/😎 Random Projects/A Simple Password Generator With No Fluff!!!\|A Simple Password Generator With No Fluff!!!]]                                      | 27.12.2023 - 20:24 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-27\|2023-12-27]]                                                                                            | 27.12.2023 - 17:19 |
-| [[🌍 Areas/📧 Personal Notes/What Is A PKM And Why Should You Care 1\|What Is A PKM And Why Should You Care 1]]                                                 | 26.12.2023 - 22:37 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-26\|2023-12-26]]                                                                                            | 26.12.2023 - 20:36 |
 
 { .block-language-dataview}
 
@@ -80,5 +80,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1483** With over **12,90,000 words**.
+**Live Count: 1485** With over **12,90,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
