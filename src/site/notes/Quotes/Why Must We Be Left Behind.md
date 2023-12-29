@@ -7,7 +7,7 @@ Tags - #Quotes, #Thinking
 
 ---
 
-🗃Resources - [[Media DB/series/Summertime Render (2022)\|Summertime Render (2022)]]
+🗃Resources - [[📺 Media DB/series/Summertime Render (2022)\|Summertime Render (2022)]]
 
 ---
  🔗Links - https://summer-time-rendering.fandom.com/wiki/Hizuru_Minakata
