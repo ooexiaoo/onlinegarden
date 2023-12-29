@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/projects/random-projects/a-simple-password-generator-with-no-fluff/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-27T20:24:57.461+05:30","updated":"2023-12-28T16:35:05.206+05:30"}
+{"dg-publish":true,"permalink":"/projects/random-projects/a-simple-password-generator-with-no-fluff/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-27T20:24:57.461+05:30","updated":"2023-12-29T17:11:06.584+05:30"}
 ---
 
 Tags:: #HTML_CSS #JavaScript 
 ==2023-12-27 | 21:27==
 
+Check out the [password generator here](https://simplepass.pages.dev/).
 I wanted to create a simple password generator that can generate long passwords quickly.
 
 ![Simplepass.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Simplepass.webp)
