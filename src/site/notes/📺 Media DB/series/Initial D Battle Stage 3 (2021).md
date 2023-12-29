@@ -1,0 +1,5 @@
+---
+{"type":"series","subType":"ova","title":"Initial D Battle Stage 3","englishTitle":"Initial D Battle Stage 3","year":2021,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/47410/Initial_D_Battle_Stage_3","id":47410,"genres":["Action"],"studios":["SynergySP"],"episodes":1,"duration":"1 hr 33 min","onlineRating":7.43,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1236/113306.jpg","released":true,"streamingServices":null,"airing":false,"airedFrom":"05/03/2021","airedTo":"01/01/1970","watched":true,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"dateWatched":"2016-01-01","permalink":"/media-db/series/initial-d-battle-stage-3-2021/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-15T00:09:52.201+05:30","updated":"2023-12-15T00:17:26.342+05:30"}
+---
+
+<img src="https://cdn.myanimelist.net/images/anime/1236/113306.jpg">
