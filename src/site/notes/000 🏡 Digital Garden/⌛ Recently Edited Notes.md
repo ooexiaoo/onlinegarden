@@ -4,15 +4,15 @@
 
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 31.12.2023 - 00:23 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-31\|2023-12-31]] | 31.12.2023 - 00:23 |
+| [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]               | 31.12.2023 - 00:07 |
+| [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]               | 31.12.2023 - 00:02 |
+| [[Python Basics/Python Basics\|Python Basics]]                       | 31.12.2023 - 00:02 |
 | [[📺 Media DB/movies/movies\|movies]]                                | 30.12.2023 - 21:48 |
 | [[📺 Media DB/👀 What I Watched\|👀 What I Watched]]                 | 30.12.2023 - 21:48 |
 | [[📺 Media DB/movies/What Women Want\|What Women Want]]              | 30.12.2023 - 21:45 |
 | [[📺 Media DB/movies/The Banker\|The Banker]]                        | 30.12.2023 - 21:39 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-30\|2023-12-30]] | 30.12.2023 - 21:34 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 30.12.2023 - 10:29 |
-| [[📺 Media DB/📺 Anime List 2023\|📺 Anime List 2023]]               | 29.12.2023 - 21:54 |
-| [[📺 Media DB/wiki/wiki\|wiki]]                                      | 29.12.2023 - 21:47 |
-| [[📺 Media DB/series/series\|series]]                                | 29.12.2023 - 21:47 |
-| [[📺 Media DB/games/games\|games]]                                   | 29.12.2023 - 21:47 |
 
 { .block-language-dataview}
