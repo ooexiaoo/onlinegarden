@@ -1,5 +1,0 @@
----
-{"type":"series","subType":"series","title":"Kawaisugi Crisis","englishTitle":"Too Cute Crisis","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/53163/Kawaisugi_Crisis","id":53163,"genres":["Comedy","Sci-Fi"],"studios":["SynergySP"],"episodes":12,"duration":"23 min per ep","onlineRating":7.07,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1332/134658.jpg","released":true,"streamingServices":["HIDIVE","Anime Digital Network"],"airing":true,"airedFrom":"07/04/2023","airedTo":"01/01/1970","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/kawaisugi-crisis-2023/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.113+05:30","updated":"2023-12-10T09:44:56.549+05:30"}
----
-
-Funny at times but there is really no plot in the anime so gave up after a few episodes
