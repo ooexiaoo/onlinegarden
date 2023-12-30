@@ -38,22 +38,24 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 31.12.2023 - 00:23 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-31\|2023-12-31]] | 31.12.2023 - 00:23 |
+| [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]               | 31.12.2023 - 00:07 |
+| [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]               | 31.12.2023 - 00:02 |
+| [[Python Basics/Python Basics\|Python Basics]]                       | 31.12.2023 - 00:02 |
 | [[📺 Media DB/movies/movies\|movies]]                                | 30.12.2023 - 21:48 |
 | [[📺 Media DB/👀 What I Watched\|👀 What I Watched]]                 | 30.12.2023 - 21:48 |
 | [[📺 Media DB/movies/What Women Want\|What Women Want]]              | 30.12.2023 - 21:45 |
 | [[📺 Media DB/movies/The Banker\|The Banker]]                        | 30.12.2023 - 21:39 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-30\|2023-12-30]] | 30.12.2023 - 21:34 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 30.12.2023 - 10:29 |
-| [[📺 Media DB/📺 Anime List 2023\|📺 Anime List 2023]]               | 29.12.2023 - 21:54 |
-| [[📺 Media DB/wiki/wiki\|wiki]]                                      | 29.12.2023 - 21:47 |
-| [[📺 Media DB/series/series\|series]]                                | 29.12.2023 - 21:47 |
-| [[📺 Media DB/games/games\|games]]                                   | 29.12.2023 - 21:47 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                               | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-31\|2023-12-31]]                                                                                            | 31.12.2023 - 00:23 |
+| [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]                                                                                                          | 31.12.2023 - 00:01 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-30\|2023-12-30]]                                                                                            | 30.12.2023 - 10:29 |
 | [[Life Graph (Stacked Area)\|Life Graph (Stacked Area)]]                                                                                                        | 29.12.2023 - 20:23 |
 | [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]                                                                                                          | 29.12.2023 - 16:31 |
@@ -62,8 +64,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[Excalidraw/Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw\|Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw]] | 28.12.2023 - 17:45 |
 | [[Podcast Notes/Don't Just Read Books, Study Them\|Don't Just Read Books, Study Them]]                                                                          | 28.12.2023 - 15:57 |
 | [[Python Basics/30 - Recursion\|30 - Recursion]]                                                                                                                | 28.12.2023 - 15:03 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-28\|2023-12-28]]                                                                                            | 28.12.2023 - 15:00 |
-| [[Python Basics/29 - Docstrings\|29 - Docstrings]]                                                                                                              | 27.12.2023 - 22:21 |
 
 { .block-language-dataview}
 
@@ -80,5 +80,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1487** With over **12,90,000 words**.
+**Live Count: 1489** With over **12,90,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
