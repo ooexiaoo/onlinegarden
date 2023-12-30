@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/32-set-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-29T16:31:42.558+05:30","updated":"2023-12-29T17:02:44.710+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/32-set-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-29T16:31:42.558+05:30","updated":"2023-12-31T00:02:45.680+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]
 Down:: [[Python Basics/31 - Sets\|31 - Sets]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-29 - 16:31==
