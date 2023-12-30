@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-30T21:38:59.278+05:30"}
+{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-30T21:44:45.664+05:30"}
 ---
 
 
@@ -35,5 +35,5 @@
 - [[📺 Media DB/movies/The Devil's Rejects (2005)\|The Devil's Rejects (2005)]]
 - [[📺 Media DB/movies/Thor - Love & Thunder\|Thor - Love & Thunder]]
 - [[📺 Media DB/movies/Top Gun - Maverick (2022)\|Top Gun - Maverick (2022)]]
-- [[📺 Media DB/movies/What Women Want Movie  2022-05-28\|What Women Want Movie  2022-05-28]]
+- [[📺 Media DB/movies/What Women Want Movie\|What Women Want Movie]]
 
