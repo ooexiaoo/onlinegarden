@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/what-i-watched/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.641+05:30","updated":"2023-12-30T21:38:59.048+05:30"}
+{"dg-publish":true,"permalink":"/media-db/what-i-watched/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.641+05:30","updated":"2023-12-30T21:44:45.466+05:30"}
 ---
 
 
@@ -16,5 +16,5 @@
 - [[📺 Media DB/Documentaries/The Red Pill 2016\|The Red Pill 2016]]
 - [[📺 Media DB/movies/Thor - Love & Thunder\|Thor - Love & Thunder]]
 - [[📺 Media DB/Documentaries/What Is A Woman\|What Is A Woman]]
-- [[📺 Media DB/movies/What Women Want Movie  2022-05-28\|What Women Want Movie  2022-05-28]]
+- [[📺 Media DB/movies/What Women Want Movie\|What Women Want Movie]]
 
