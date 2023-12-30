@@ -1,4 +1,0 @@
----
-{"type":"series","subType":null,"title":"The Witcher","englishTitle":"The Witcher","year":"2019–","dataSource":"OMDbAPI","url":"https://www.imdb.com/title/tt5180504/","id":"tt5180504","genres":["Action","Adventure","Drama"],"studios":["Tomek Baginski"],"episodes":0,"duration":"60 min","onlineRating":8.1,"actors":["Henry Cavill","Freya Allan","Anya Chalotra"],"image":"https://m.media-amazon.com/images/M/MV5BMDEwOWVlY2EtMWI0ZC00OWVmLWJmZGItYTk3YjYzN2Y0YmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg","released":true,"streamingServices":null,"airing":false,"airedFrom":"20/12/2019","airedTo":"unknown","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/the-witcher-2019/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.332+05:30","updated":"2023-12-10T09:54:30.821+05:30"}
----
-

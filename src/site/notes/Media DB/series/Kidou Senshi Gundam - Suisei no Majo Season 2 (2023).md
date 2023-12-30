@@ -1,5 +1,0 @@
----
-{"type":"series","subType":"series","title":"Kidou Senshi Gundam: Suisei no Majo Season 2","englishTitle":"Mobile Suit Gundam: The Witch from Mercury Season 2","year":2023,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/53199/Kidou_Senshi_Gundam__Suisei_no_Majo_Season_2","id":53199,"genres":["Action","Sci-Fi"],"studios":["Sunrise"],"episodes":12,"duration":"24 min per ep","onlineRating":8.05,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/1023/134768.jpg","released":true,"streamingServices":["Crunchyroll","Netflix","Ani-One Asia","Bahamut Anime Crazy","CatchPlay","MeWatch","Sushiroll"],"airing":true,"airedFrom":"09/04/2023","airedTo":"01/01/1970","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"permalink":"/media-db/series/kidou-senshi-gundam-suisei-no-majo-season-2-2023/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.081+05:30","updated":"2023-12-10T09:45:30.330+05:30"}
----
-
-Didn't finish it yet, feels very heavy with the plot and I don't wanna give it that much mental space.

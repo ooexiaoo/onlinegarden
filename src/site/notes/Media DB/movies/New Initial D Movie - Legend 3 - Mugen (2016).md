@@ -1,5 +1,0 @@
----
-{"type":"movie","subType":"movie","title":"New Initial D Movie: Legend 3 - Mugen","englishTitle":"Initial D Legend 3: Dream","year":2016,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/30952/New_Initial_D_Movie__Legend_3_-_Mugen","id":30952,"genres":null,"producer":"SANZIGEN, LIDENFILMS","duration":"1 hr","onlineRating":7.86,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/9/76759.jpg","released":true,"streamingServices":["HIDIVE","Shahid"],"premiere":"06/02/2016","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/movie"],"dg-publish":true,"dateWatched":"2016-01-01","permalink":"/media-db/movies/new-initial-d-movie-legend-3-mugen-2016/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-15T00:09:52.560+05:30","updated":"2023-12-15T00:14:55.625+05:30"}
----
-
-<img src="https://cdn.myanimelist.net/images/anime/9/76759.jpg">

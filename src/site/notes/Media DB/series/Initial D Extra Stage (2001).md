@@ -1,5 +1,0 @@
----
-{"type":"series","subType":"ova","title":"Initial D Extra Stage","englishTitle":"Initial D Extra Stage","year":2001,"dataSource":"MALAPI","url":"https://myanimelist.net/anime/822/Initial_D_Extra_Stage","id":822,"genres":["Action","Drama"],"studios":["Pastel"],"episodes":2,"duration":"27 min per ep","onlineRating":7.31,"actors":null,"image":"https://cdn.myanimelist.net/images/anime/8/13169.jpg","released":true,"streamingServices":["Shahid"],"airing":false,"airedFrom":"22/03/2001","airedTo":"01/01/1970","watched":false,"lastWatched":"","personalRating":0,"tags":["mediaDB/tv/series"],"dg-publish":true,"dateWatched":"2007-05-01","permalink":"/media-db/series/initial-d-extra-stage-2001/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-15T00:09:52.663+05:30","updated":"2023-12-15T00:13:39.952+05:30"}
----
-
-<img src="https://cdn.myanimelist.net/images/anime/8/13169.jpg">
