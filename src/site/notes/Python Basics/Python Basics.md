@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-29T16:32:15.360+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2023-12-31T00:02:33.225+05:30"}
 ---
 
 
@@ -29,5 +29,6 @@
 - [[Python Basics/30 - Recursion\|30 - Recursion]]
 - [[Python Basics/31 - Sets\|31 - Sets]]
 - [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]
+- [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]
 
 
