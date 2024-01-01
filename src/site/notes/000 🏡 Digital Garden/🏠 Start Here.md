@@ -38,7 +38,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
-| [[Media DB/series/Blue Eye Samurai (2023)\|Blue Eye Samurai (2023)]] | 01.01.2024 - 12:11 |
+| [[Media DB/series/Blue Eye Samurai (2023)\|Blue Eye Samurai (2023)]] | 01.01.2024 - 12:15 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-01\|2024-01-01]] | 01.01.2024 - 11:59 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 01.01.2024 - 11:55 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-31\|2023-12-31]] | 01.01.2024 - 11:55 |
