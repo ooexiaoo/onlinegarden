@@ -4,6 +4,7 @@
 
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
+| [[Python Basics/34 - Dictionary Methods\|34 - Dictionary Methods]]                 | 01.01.2024 - 16:55 |
 | [[Unintended Consequences of Pushing Ads\|Unintended Consequences of Pushing Ads]] | 01.01.2024 - 12:46 |
 | [[Media DB/series/Blue Eye Samurai (2023)\|Blue Eye Samurai (2023)]]               | 01.01.2024 - 12:02 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-01\|2024-01-01]]               | 01.01.2024 - 11:55 |
@@ -13,6 +14,5 @@
 | [[Life Graph (Stacked Area)\|Life Graph (Stacked Area)]]                           | 29.12.2023 - 20:23 |
 | [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]                             | 29.12.2023 - 16:31 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-29\|2023-12-29]]               | 29.12.2023 - 16:30 |
-| [[Python Basics/31 - Sets\|31 - Sets]]                                             | 28.12.2023 - 19:58 |
 
 { .block-language-dataview}
