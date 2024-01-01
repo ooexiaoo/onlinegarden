@@ -38,6 +38,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
+| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                        | 01.01.2024 - 21:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-01\|2024-01-01]]               | 01.01.2024 - 21:50 |
 | [[Python Basics/34 - Dictionary Methods\|34 - Dictionary Methods]]                 | 01.01.2024 - 17:02 |
 | [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]                             | 01.01.2024 - 17:00 |
@@ -47,7 +48,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                    | 01.01.2024 - 11:55 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-31\|2023-12-31]]               | 01.01.2024 - 11:55 |
 | [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]                             | 31.12.2023 - 00:02 |
-| [[📺 Media DB/movies/movies\|movies]]                                              | 30.12.2023 - 21:48 |
 
 { .block-language-dataview}
 
