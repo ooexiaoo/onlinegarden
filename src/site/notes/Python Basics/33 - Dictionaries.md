@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/33-dictionaries/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-31T00:01:59.793+05:30","updated":"2023-12-31T00:07:00.157+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/33-dictionaries/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-31T00:01:59.793+05:30","updated":"2024-01-01T17:00:27.359+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/34 - Dictionary Methods\|34 - Dictionary Methods]]
 Down:: [[Python Basics/32 -  Set Methods\|32 -  Set Methods]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2023-12-31 - 00:02==
