@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2023-12-28T17:39:13.753+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2024-01-02T17:35:25.314+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -83,3 +83,8 @@ Course videos and, some awesome bhajan songs shared from a friend.
 >[!success] 21-12-2023
 
 I don't think there's any need for updates if nothing is happening. So, I might skip these updates now.
+
+### Day 22
+>[!success] 01-01-2024
+
+I was looking into hydroponic systems that can be made for home, So watched a few videos on that topic.
