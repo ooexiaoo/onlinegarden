@@ -38,22 +38,23 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                         | Last modified      |
 | -------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]]                      | 04.01.2024 - 00:32 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                           | 04.01.2024 - 00:31 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-03\|2024-01-03]]                      | 04.01.2024 - 00:31 |
 | [[Python Basics/35 - For loop with else\|35 - For loop with else]]                        | 03.01.2024 - 18:52 |
 | [[Python Basics/34 - Dictionary Methods\|34 - Dictionary Methods]]                        | 03.01.2024 - 18:50 |
 | [[Python Basics/Python Basics\|Python Basics]]                                            | 03.01.2024 - 18:50 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-02\|2024-01-02]]                      | 03.01.2024 - 18:49 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-03\|2024-01-03]]                      | 03.01.2024 - 18:45 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-01\|2024-01-01]]                      | 03.01.2024 - 02:33 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                           | 03.01.2024 - 02:31 |
 | [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]] | 02.01.2024 - 17:35 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                               | 01.01.2024 - 21:53 |
-| [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]                                    | 01.01.2024 - 17:00 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]]               | 04.01.2024 - 00:31 |
 | [[Python Basics/35 - For loop with else\|35 - For loop with else]]                 | 03.01.2024 - 18:49 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-03\|2024-01-03]]               | 03.01.2024 - 02:31 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-02\|2024-01-02]]               | 02.01.2024 - 17:32 |
@@ -63,7 +64,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-01\|2024-01-01]]               | 01.01.2024 - 11:55 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-31\|2023-12-31]]               | 31.12.2023 - 00:23 |
 | [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]                             | 31.12.2023 - 00:01 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-30\|2023-12-30]]               | 30.12.2023 - 10:29 |
 
 { .block-language-dataview}
 
@@ -80,5 +80,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1496** With over **12,90,000 words**.
+**Live Count: 1497** With over **12,90,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
