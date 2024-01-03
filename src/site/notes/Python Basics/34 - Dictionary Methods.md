@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/34-dictionary-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-01T16:55:51.521+05:30","updated":"2024-01-01T17:02:14.321+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/34-dictionary-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-01T16:55:51.521+05:30","updated":"2024-01-03T18:50:35.983+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
-Down:: [[]]
+Up:: [[Python Basics/35 - For loop with else\|35 - For loop with else]]
+Down:: [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-01 - 16:55==
 
-Dictionary uses several built-in methods for manipulation.They are listed below
+Dictionary uses several built-in methods for manipulation. They are listed below
 
 ## update()
 The update() method updates the value of the key provided to it if the item already exists in the dictionary, else it creates a new key-value pair.
