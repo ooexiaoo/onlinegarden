@@ -4,6 +4,7 @@
 
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]]               | 04.01.2024 - 00:31 |
 | [[Python Basics/35 - For loop with else\|35 - For loop with else]]                 | 03.01.2024 - 18:49 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-03\|2024-01-03]]               | 03.01.2024 - 02:31 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-02\|2024-01-02]]               | 02.01.2024 - 17:32 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-01\|2024-01-01]]               | 01.01.2024 - 11:55 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-31\|2023-12-31]]               | 31.12.2023 - 00:23 |
 | [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]                             | 31.12.2023 - 00:01 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-12-30\|2023-12-30]]               | 30.12.2023 - 10:29 |
 
 { .block-language-dataview}
