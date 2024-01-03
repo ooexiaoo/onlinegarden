@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/systems/dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.473+05:30","updated":"2023-12-14T02:56:05.638+05:30"}
+{"dg-publish":true,"permalink":"/systems/dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.473+05:30","updated":"2024-01-04T04:46:18.907+05:30"}
 ---
 
-# [[Systems/Dunning Kruger Effect\|Dunning Kruger Effect]]
+🧶 Tags:: #Fleeting_Notes #systems  #🌱 
+Resources - [[Systems/Fallacies MOC\|Fallacies MOC]]
+Links - (thedecisionlab)[https://thedecisionlab.com/biases/dunning-kruger-effect]
 ==2022-06-08 - 15:14==
 ## What is the Dunning-Kruger Effect?
 The _Dunning-Kruger effect_ effect occurs when a person’s lack of knowledge and skills in a certain area cause them to overestimate their own competence. By contrast, this effect also causes those who excel in a given area to think the task is simple for everyone, and underestimate their relative abilities as well.
@@ -16,7 +18,3 @@ Your friend, by contrast, has learned just a few words. He is amazed by his prog
 As a result of the Dunning-Kruger effect, you may not know what you’re good at, because you assume that what comes easily to you also comes easily to everyone else. You are therefore robbed of the ability to spot your own specialities and talents.
 
 Moreover, when you excel at what is challenging to you, you might accidentally fall prey to the belief that that thing is where your talents lie. In reality, you may just be a below-average performer finally approaching average levels.
-
-🧶 Tags:: #Fleeting_Notes, #systems , #🌱 
-Resources - [[Systems/Fallacies MOC\|Fallacies MOC]]
-Links - https://thedecisionlab.com/biases/dunning-kruger-effect
