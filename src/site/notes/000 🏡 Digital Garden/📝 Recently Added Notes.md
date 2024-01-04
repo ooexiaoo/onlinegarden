@@ -4,6 +4,7 @@
 
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
+| [[Python Basics/37 - Finally Clause\|37 - Finally Clause]]                         | 04.01.2024 - 22:16 |
 | [[Python Basics/36 - Exception Handling\|36 - Exception Handling]]                 | 04.01.2024 - 17:01 |
 | [[📺 Media DB/📺 Anime List 2024\|📺 Anime List 2024]]                             | 04.01.2024 - 04:42 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]]               | 04.01.2024 - 00:31 |
@@ -13,6 +14,5 @@
 | [[Python Basics/34 - Dictionary Methods\|34 - Dictionary Methods]]                 | 01.01.2024 - 16:55 |
 | [[Unintended Consequences of Pushing Ads\|Unintended Consequences of Pushing Ads]] | 01.01.2024 - 12:46 |
 | [[Media DB/series/Blue Eye Samurai (2023)\|Blue Eye Samurai (2023)]]               | 01.01.2024 - 12:02 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-01\|2024-01-01]]               | 01.01.2024 - 11:55 |
 
 { .block-language-dataview}
