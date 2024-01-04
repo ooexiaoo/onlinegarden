@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/35-for-loop-with-else/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-03T18:49:22.307+05:30","updated":"2024-01-03T18:52:37.130+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/35-for-loop-with-else/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-03T18:49:22.307+05:30","updated":"2024-01-04T17:02:04.568+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/36 - Exception Handling\|36 - Exception Handling]]
 Down:: [[Python Basics/34 - Dictionary Methods\|34 - Dictionary Methods]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-03 - 18:49==
