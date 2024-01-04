@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                        | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                   | 05.01.2024 - 01:03 |
 | [[Media DB/series/Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)\|Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)]]                             | 04.01.2024 - 22:57 |
 | [[Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]                                                                     | 04.01.2024 - 22:56 |
 | [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 04.01.2024 - 22:54 |
@@ -13,6 +14,5 @@
 | [[Python Basics/Python Basics\|Python Basics]]                                                                                                           | 04.01.2024 - 22:16 |
 | [[Systems/Dunning Kruger Effect\|Dunning Kruger Effect]]                                                                                                 | 04.01.2024 - 17:17 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]]                                                                                     | 04.01.2024 - 17:15 |
-| [[Python Basics/35 - For loop with else\|35 - For loop with else]]                                                                                       | 04.01.2024 - 17:02 |
 
 { .block-language-dataview}
