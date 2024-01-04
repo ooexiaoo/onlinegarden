@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2023-12-28T18:10:45.451+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-05T01:03:53.567+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -38,6 +38,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                        | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                   | 05.01.2024 - 01:03 |
 | [[Media DB/series/Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)\|Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)]]                             | 04.01.2024 - 22:57 |
 | [[Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]                                                                     | 04.01.2024 - 22:56 |
 | [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 04.01.2024 - 22:54 |
@@ -47,7 +48,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[Python Basics/Python Basics\|Python Basics]]                                                                                                           | 04.01.2024 - 22:16 |
 | [[Systems/Dunning Kruger Effect\|Dunning Kruger Effect]]                                                                                                 | 04.01.2024 - 17:17 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]]                                                                                     | 04.01.2024 - 17:15 |
-| [[Python Basics/35 - For loop with else\|35 - For loop with else]]                                                                                       | 04.01.2024 - 17:02 |
 
 { .block-language-dataview}
 
@@ -77,6 +77,8 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 
 ## 〽️ Stats
 ![giphya.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
+
+<iframe src="https://time-progress.pages.dev" width="100%" height="500px" frameborder="0"></iframe>
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
