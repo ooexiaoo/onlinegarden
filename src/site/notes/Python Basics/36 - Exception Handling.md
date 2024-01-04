@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/36-exception-handling/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-04T17:01:37.301+05:30","updated":"2024-01-04T17:04:35.720+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/36-exception-handling/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-04T17:01:37.301+05:30","updated":"2024-01-04T22:16:34.788+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/37 - Finally Clause\|37 - Finally Clause]]
 Down:: [[Python Basics/35 - For loop with else\|35 - For loop with else]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-04 - 17:01==
