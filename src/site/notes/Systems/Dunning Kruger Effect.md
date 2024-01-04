@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/systems/dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.473+05:30","updated":"2024-01-04T04:46:18.907+05:30"}
+{"dg-publish":true,"permalink":"/systems/dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.473+05:30","updated":"2024-01-04T17:17:13.091+05:30"}
 ---
 
 🧶 Tags:: #Fleeting_Notes #systems  #🌱 
-Resources - [[Systems/Fallacies MOC\|Fallacies MOC]]
-Links - (thedecisionlab)[https://thedecisionlab.com/biases/dunning-kruger-effect]
+Resources:: [[Systems/Fallacies MOC\|Fallacies MOC]]
+Links:: [thedecisionlab](https://thedecisionlab.com/biases/dunning-kruger-effect)
 ==2022-06-08 - 15:14==
 ## What is the Dunning-Kruger Effect?
 The _Dunning-Kruger effect_ effect occurs when a person’s lack of knowledge and skills in a certain area cause them to overestimate their own competence. By contrast, this effect also causes those who excel in a given area to think the task is simple for everyone, and underestimate their relative abilities as well.
