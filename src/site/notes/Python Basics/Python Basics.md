@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-03T18:50:05.504+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-04T17:01:53.280+05:30"}
 ---
 
 
@@ -32,5 +32,6 @@
 - [[Python Basics/33 - Dictionaries\|33 - Dictionaries]]
 - [[Python Basics/34 - Dictionary Methods\|34 - Dictionary Methods]]
 - [[Python Basics/35 - For loop with else\|35 - For loop with else]]
+- [[Python Basics/36 - Exception Handling\|36 - Exception Handling]]
 
 
