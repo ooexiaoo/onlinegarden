@@ -36,34 +36,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 ### Recently Edited Files
-| File                                                                    | Last modified      |
-| ----------------------------------------------------------------------- | ------------------ |
-| [[Python Basics/37 - Finally Clause\|37 - Finally Clause]]           | 04.01.2024 - 22:19 |
-| [[Python Basics/36 - Exception Handling\|36 - Exception Handling]]   | 04.01.2024 - 22:16 |
-| [[Python Basics/Python Basics\|Python Basics]]                       | 04.01.2024 - 22:16 |
-| [[Systems/Dunning Kruger Effect\|Dunning Kruger Effect]]             | 04.01.2024 - 17:17 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]] | 04.01.2024 - 17:15 |
-| [[Python Basics/35 - For loop with else\|35 - For loop with else]]   | 04.01.2024 - 17:02 |
-| [[Systems/The Chinese Room Argument\|The Chinese Room Argument]]     | 04.01.2024 - 04:48 |
-| [[Systems/Freudian Slip\|Freudian Slip]]                             | 04.01.2024 - 04:47 |
-| [[Systems/Fallacies MOC\|Fallacies MOC]]                             | 04.01.2024 - 04:46 |
-| [[Systems/Ad Hominem\|Ad Hominem]]                                   | 04.01.2024 - 04:45 |
+| File                                                                                                                                                        | Last modified      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Media DB/series/Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)\|Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)]]                             | 04.01.2024 - 22:57 |
+| [[Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]                                                                     | 04.01.2024 - 22:56 |
+| [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 04.01.2024 - 22:54 |
+| [[Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]                                                                             | 04.01.2024 - 22:53 |
+| [[Python Basics/37 - Finally Clause\|37 - Finally Clause]]                                                                                               | 04.01.2024 - 22:19 |
+| [[Python Basics/36 - Exception Handling\|36 - Exception Handling]]                                                                                       | 04.01.2024 - 22:16 |
+| [[Python Basics/Python Basics\|Python Basics]]                                                                                                           | 04.01.2024 - 22:16 |
+| [[Systems/Dunning Kruger Effect\|Dunning Kruger Effect]]                                                                                                 | 04.01.2024 - 17:17 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]]                                                                                     | 04.01.2024 - 17:15 |
+| [[Python Basics/35 - For loop with else\|35 - For loop with else]]                                                                                       | 04.01.2024 - 17:02 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                  | Last modified      |
-| ------------------------------------------------------------------------------------- | ------------------ |
-| [[Python Basics/37 - Finally Clause\|37 - Finally Clause]]                         | 04.01.2024 - 22:16 |
-| [[Python Basics/36 - Exception Handling\|36 - Exception Handling]]                 | 04.01.2024 - 17:01 |
-| [[📺 Media DB/📺 Anime List 2024\|📺 Anime List 2024]]                             | 04.01.2024 - 04:42 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]]               | 04.01.2024 - 00:31 |
-| [[Python Basics/35 - For loop with else\|35 - For loop with else]]                 | 03.01.2024 - 18:49 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-03\|2024-01-03]]               | 03.01.2024 - 02:31 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-02\|2024-01-02]]               | 02.01.2024 - 17:32 |
-| [[Python Basics/34 - Dictionary Methods\|34 - Dictionary Methods]]                 | 01.01.2024 - 16:55 |
-| [[Unintended Consequences of Pushing Ads\|Unintended Consequences of Pushing Ads]] | 01.01.2024 - 12:46 |
-| [[Media DB/series/Blue Eye Samurai (2023)\|Blue Eye Samurai (2023)]]               | 01.01.2024 - 12:02 |
+| File                                                                                                                                                        | Last modified      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Media DB/series/Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)\|Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)]]                             | 04.01.2024 - 22:42 |
+| [[Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]                                                                     | 04.01.2024 - 22:39 |
+| [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 04.01.2024 - 22:39 |
+| [[Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]                                                                             | 04.01.2024 - 22:38 |
+| [[Python Basics/37 - Finally Clause\|37 - Finally Clause]]                                                                                               | 04.01.2024 - 22:16 |
+| [[Python Basics/36 - Exception Handling\|36 - Exception Handling]]                                                                                       | 04.01.2024 - 17:01 |
+| [[📺 Media DB/📺 Anime List 2024\|📺 Anime List 2024]]                                                                                                   | 04.01.2024 - 04:42 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]]                                                                                     | 04.01.2024 - 00:31 |
+| [[Python Basics/35 - For loop with else\|35 - For loop with else]]                                                                                       | 03.01.2024 - 18:49 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-03\|2024-01-03]]                                                                                     | 03.01.2024 - 02:31 |
 
 { .block-language-dataview}
 
@@ -80,5 +80,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1500** With over **12,90,000 words**.
+**Live Count: 1504** With over **12,90,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
