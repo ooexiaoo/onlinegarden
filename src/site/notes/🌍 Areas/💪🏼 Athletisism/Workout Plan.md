@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/athletisism/workout-plan/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.073+05:30","updated":"2023-12-19T19:52:02.376+05:30"}
+{"dg-publish":true,"permalink":"/areas/athletisism/workout-plan/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.073+05:30","updated":"2024-01-05T21:54:53.050+05:30"}
 ---
 
 Tags:: #Atheletisism
@@ -16,6 +16,17 @@ This workout is divided into two parts -
 * ==3x15-20== Angel and Devils
 
 ----
+### Push 1 -
+* ==4x4-6== Barbell Bench Press 【Leave 1-2 reps in the tank】
+* ==3x10-12== High-to-Low Crossover
+* ==4x8-10== DB Shoulder Press
+* ==3x12-15== 1½ Side Laterals
+* ==3x10-12== Lying Triceps Extensions*
+* ==3x10-12== DB Waiter's Curls*
+* ==3x15-20== Rotator Cuff External Rotation
+
+## Week 2
+----
 ### Pull 2 -
 * ==3x5== Snatch Grip Dead-lift 【Using weight you can do for 8 reps】
 * ==3x6-8== Weight Pull-ups with dead-lifts if grip is compromised here】
@@ -25,16 +36,6 @@ This workout is divided into two parts -
 * ==3x10-12== Tricep Push downs*
 * ==3x15-20== Face Pulls
 
-## Week 2
-----
-### Push 1 -
-* ==4x4-6== Barbell Bench Press 【Leave 1-2 reps in the tank】
-* ==3x10-12== High-to-Low Crossover
-* ==4x8-10== DB Shoulder Press
-* ==3x12-15== 1½ Side Laterals
-* ==3x10-12== Lying Triceps Extensions*
-* ==3x10-12== DB Waiter's Curls*
-* ==3x15-20== Rotator Cuff External Rotation
 ----
 ### Push 2 -
 * ==4x4-6== Barbell OHP 【Leave 1-2 reps in the tank】
