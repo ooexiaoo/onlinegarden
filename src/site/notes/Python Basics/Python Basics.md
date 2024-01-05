@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-04T22:16:22.499+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-06T03:26:50.271+05:30"}
 ---
 
 
@@ -34,5 +34,6 @@
 - [[Python Basics/35 - For loop with else\|35 - For loop with else]]
 - [[Python Basics/36 - Exception Handling\|36 - Exception Handling]]
 - [[Python Basics/37 - Finally Clause\|37 - Finally Clause]]
+- [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]
 
 
