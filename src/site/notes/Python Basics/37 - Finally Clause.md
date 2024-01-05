@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/37-finally-clause/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-04T22:16:00.641+05:30","updated":"2024-01-04T22:19:38.198+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/37-finally-clause/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-04T22:16:00.641+05:30","updated":"2024-01-06T03:27:02.304+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]
 Down:: [[Python Basics/36 - Exception Handling\|36 - Exception Handling]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-04 - 22:16==
