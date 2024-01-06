@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/38-custom-errors/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-06T03:26:25.687+05:30","updated":"2024-01-06T03:28:45.735+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/38-custom-errors/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-06T03:26:25.687+05:30","updated":"2024-01-06T03:42:46.155+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
