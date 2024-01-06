@@ -38,10 +38,10 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
-| [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]             | 06.01.2024 - 03:28 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-06\|2024-01-06]] | 06.01.2024 - 21:16 |
+| [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]             | 06.01.2024 - 03:42 |
 | [[Python Basics/37 - Finally Clause\|37 - Finally Clause]]           | 06.01.2024 - 03:27 |
 | [[Python Basics/Python Basics\|Python Basics]]                       | 06.01.2024 - 03:26 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-06\|2024-01-06]] | 06.01.2024 - 03:24 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 06.01.2024 - 03:22 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-04\|2024-01-04]] | 06.01.2024 - 03:20 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                          | 05.01.2024 - 23:55 |
