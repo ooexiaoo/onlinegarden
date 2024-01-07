@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                        | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                   | 08.01.2024 - 02:36 |
 | [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]                                                                                 | 07.01.2024 - 23:15 |
 | [[Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]                                                                             | 07.01.2024 - 23:15 |
 | [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 07.01.2024 - 23:14 |
@@ -11,7 +12,6 @@
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                          | 07.01.2024 - 22:54 |
 | [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                                                                                                       | 07.01.2024 - 22:54 |
 | [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]                                                                                                 | 07.01.2024 - 22:29 |
-| [[40 -\|40 -]]                                                                                                                                           | 07.01.2024 - 22:29 |
 | [[Python Basics/Python Basics\|Python Basics]]                                                                                                           | 07.01.2024 - 22:29 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                              | 07.01.2024 - 22:28 |
 
