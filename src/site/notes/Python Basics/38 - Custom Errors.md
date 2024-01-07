@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/38-custom-errors/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-06T03:26:25.687+05:30","updated":"2024-01-06T03:42:46.155+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/38-custom-errors/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-06T03:26:25.687+05:30","updated":"2024-01-07T22:29:26.848+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]
 Down:: [[Python Basics/37 - Finally Clause\|37 - Finally Clause]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-06 - 03:26==
