@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-06T23:24:43.734+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-08T02:36:18.398+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -38,6 +38,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                        | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                   | 08.01.2024 - 02:36 |
 | [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]                                                                                 | 07.01.2024 - 23:15 |
 | [[Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]                                                                             | 07.01.2024 - 23:15 |
 | [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 07.01.2024 - 23:14 |
@@ -45,7 +46,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                          | 07.01.2024 - 22:54 |
 | [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                                                                                                       | 07.01.2024 - 22:54 |
 | [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]                                                                                                 | 07.01.2024 - 22:29 |
-| [[40 -\|40 -]]                                                                                                                                           | 07.01.2024 - 22:29 |
 | [[Python Basics/Python Basics\|Python Basics]]                                                                                                           | 07.01.2024 - 22:29 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                              | 07.01.2024 - 22:28 |
 
@@ -56,7 +56,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]                                                                                 | 07.01.2024 - 22:56 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]                                                                                     | 07.01.2024 - 22:54 |
-| [[40 -\|40 -]]                                                                                                                                           | 07.01.2024 - 22:29 |
 | [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                                                                                                       | 07.01.2024 - 22:28 |
 | [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]                                                                                                 | 06.01.2024 - 03:26 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-06\|2024-01-06]]                                                                                     | 06.01.2024 - 03:22 |
@@ -64,6 +63,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[Media DB/series/Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)\|Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)]]                             | 04.01.2024 - 22:42 |
 | [[Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]                                                                     | 04.01.2024 - 22:39 |
 | [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 04.01.2024 - 22:39 |
+| [[Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]                                                                             | 04.01.2024 - 22:38 |
 
 { .block-language-dataview}
 
@@ -75,11 +75,13 @@ The thing is, when I started writing all this, it was never my intention to publ
 So the notes are not linked together in a way that would make it easy to find related content.
 I'm also publishing directly from my obsidian vault, so there are a few limitations as to how the UI will be rendered.
 
+<img src="https://ghchart.rshah.org/1e1e2e/ooexiaoo" alt="Exia's Github Chart" />
+
 ## 〽️ Stats
 ![giphya.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
 
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1511** With over **13,00,000 words**.
+**Live Count: 1510** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
