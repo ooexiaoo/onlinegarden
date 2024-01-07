@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-08T02:36:18.398+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-08T03:16:58.006+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -38,7 +38,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                        | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                   | 08.01.2024 - 02:36 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                   | 08.01.2024 - 03:16 |
 | [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]                                                                                 | 07.01.2024 - 23:15 |
 | [[Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]                                                                             | 07.01.2024 - 23:15 |
 | [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 07.01.2024 - 23:14 |
@@ -75,7 +75,7 @@ The thing is, when I started writing all this, it was never my intention to publ
 So the notes are not linked together in a way that would make it easy to find related content.
 I'm also publishing directly from my obsidian vault, so there are a few limitations as to how the UI will be rendered.
 
-<img src="https://ghchart.rshah.org/1e1e2e/ooexiaoo" alt="Exia's Github Chart" />
+<img src="https://ghchart.rshah.org/FF0000/ooexiaoo" alt="Exia's Github Chart" />
 
 ## 〽️ Stats
 ![giphya.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
