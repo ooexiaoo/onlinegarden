@@ -4,15 +4,15 @@
 
 | File                                                                                                                                                        | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                   | 08.01.2024 - 02:36 |
+| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]                                                                                       | 09.01.2024 - 13:27 |
+| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                                                                                                       | 09.01.2024 - 13:25 |
+| [[Python Basics/Python Basics\|Python Basics]]                                                                                                           | 09.01.2024 - 13:25 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]                                                                                     | 09.01.2024 - 11:35 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                          | 09.01.2024 - 11:32 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]                                                                                     | 09.01.2024 - 11:32 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                   | 08.01.2024 - 03:16 |
 | [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]                                                                                 | 07.01.2024 - 23:15 |
 | [[Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]                                                                             | 07.01.2024 - 23:15 |
 | [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 07.01.2024 - 23:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]                                                                                     | 07.01.2024 - 22:55 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                          | 07.01.2024 - 22:54 |
-| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                                                                                                       | 07.01.2024 - 22:54 |
-| [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]                                                                                                 | 07.01.2024 - 22:29 |
-| [[Python Basics/Python Basics\|Python Basics]]                                                                                                           | 07.01.2024 - 22:29 |
-| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                              | 07.01.2024 - 22:28 |
 
 { .block-language-dataview}
