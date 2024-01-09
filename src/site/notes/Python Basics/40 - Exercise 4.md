@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/40-exercise-4/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-07T22:28:32.909+05:30","updated":"2024-01-07T22:54:50.852+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/40-exercise-4/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-07T22:28:32.909+05:30","updated":"2024-01-09T13:25:31.292+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]
 Down:: [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-07 - 22:28==
