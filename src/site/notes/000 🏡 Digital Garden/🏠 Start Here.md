@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-08T03:16:58.006+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-10T02:39:07.869+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -36,34 +36,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 ### Recently Edited Files
-| File                                                                                                                                                        | Last modified      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]                                                                                       | 09.01.2024 - 13:27 |
-| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                                                                                                       | 09.01.2024 - 13:25 |
-| [[Python Basics/Python Basics\|Python Basics]]                                                                                                           | 09.01.2024 - 13:25 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]                                                                                     | 09.01.2024 - 11:35 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                          | 09.01.2024 - 11:32 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]                                                                                     | 09.01.2024 - 11:32 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                   | 08.01.2024 - 03:16 |
-| [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]                                                                                 | 07.01.2024 - 23:15 |
-| [[Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]                                                                             | 07.01.2024 - 23:15 |
-| [[Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]] | 07.01.2024 - 23:14 |
+| File                                                                        | Last modified      |
+| --------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                   | 10.01.2024 - 02:39 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]     | 10.01.2024 - 02:24 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                          | 10.01.2024 - 02:23 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]     | 10.01.2024 - 02:23 |
+| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]       | 09.01.2024 - 13:27 |
+| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                       | 09.01.2024 - 13:25 |
+| [[Python Basics/Python Basics\|Python Basics]]                           | 09.01.2024 - 13:25 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]     | 09.01.2024 - 11:35 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]     | 09.01.2024 - 11:32 |
+| [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]] | 07.01.2024 - 23:15 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                                                            | Last modified      |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]                                                           | 09.01.2024 - 13:24 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]                                                         | 09.01.2024 - 11:32 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]                                                         | 09.01.2024 - 11:32 |
-| [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]                                                     | 07.01.2024 - 22:56 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]                                                         | 07.01.2024 - 22:54 |
-| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                                                                           | 07.01.2024 - 22:28 |
-| [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]                                                                     | 06.01.2024 - 03:26 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-06\|2024-01-06]]                                                         | 06.01.2024 - 03:22 |
-| [[Projects/🖥 Website Building/Your Time\|Your Time]]                                                                        | 05.01.2024 - 18:49 |
-| [[Media DB/series/Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)\|Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)]] | 04.01.2024 - 22:42 |
+| File                                                                        | Last modified      |
+| --------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]     | 10.01.2024 - 02:23 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]     | 10.01.2024 - 02:23 |
+| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]       | 09.01.2024 - 13:24 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]     | 09.01.2024 - 11:32 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]     | 09.01.2024 - 11:32 |
+| [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]] | 07.01.2024 - 22:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]     | 07.01.2024 - 22:54 |
+| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                       | 07.01.2024 - 22:28 |
+| [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]                 | 06.01.2024 - 03:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-06\|2024-01-06]]     | 06.01.2024 - 03:22 |
 
 { .block-language-dataview}
 
@@ -75,6 +75,10 @@ The thing is, when I started writing all this, it was never my intention to publ
 So the notes are not linked together in a way that would make it easy to find related content.
 I'm also publishing directly from my obsidian vault, so there are a few limitations as to how the UI will be rendered.
 
+## Spotify Go To
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EIYpUgYYPrm7Z?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Git Contributions
 <img src="https://ghchart.rshah.org/FF0000/ooexiaoo" alt="Exia's Github Chart" />
 
 ## 〽️ Stats
@@ -83,5 +87,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1513** With over **13,00,000 words**.
+**Live Count: 1515** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
