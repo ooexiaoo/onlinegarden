@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2023-12-29T21:47:26.264+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-01-10T11:30:08.736+05:30"}
 ---
 
 
@@ -7,6 +7,7 @@
 - [[📺 Media DB/series/Ars no Kyojuu (2023)\|Ars no Kyojuu (2023)]]
 - [[📺 Media DB/series/Beastars (2019)\|Beastars (2019)]]
 - [[📺 Media DB/series/Benriya Saitou-san Isekai ni Iku (2023)\|Benriya Saitou-san Isekai ni Iku (2023)]]
+- [[📺 Media DB/series/Blue Eye Samurai (2023)\|Blue Eye Samurai (2023)]]
 - [[📺 Media DB/series/Bocchi the Rock! (2022)\|Bocchi the Rock! (2022)]]
 - [[📺 Media DB/series/Boku no Hero Academia 6th Season (2022)\|Boku no Hero Academia 6th Season (2022)]]
 - [[📺 Media DB/series/Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta (2023)\|Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta (2023)]]
@@ -45,6 +46,7 @@
 - [[📺 Media DB/series/Kusuriya no Hitorigoto (2023)\|Kusuriya no Hitorigoto (2023)]]
 - [[📺 Media DB/series/Lv1 Maou to One Room Yuusha (2023)\|Lv1 Maou to One Room Yuusha (2023)]]
 - [[📺 Media DB/series/Mashle (2023)\|Mashle (2023)]]
+- [[📺 Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]
 - [[📺 Media DB/series/MF Ghost (2023)\|MF Ghost (2023)]]
 - [[📺 Media DB/series/Mr Robot (2015–2019)\|Mr Robot (2015–2019)]]
 - [[📺 Media DB/series/Mushoku Tensei II - Isekai Ittara Honki Dasu (2023)\|Mushoku Tensei II - Isekai Ittara Honki Dasu (2023)]]
@@ -52,6 +54,7 @@
 - [[📺 Media DB/series/Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)\|Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)]]
 - [[📺 Media DB/series/NipTuck (2003–2010)\|NipTuck (2003–2010)]]
 - [[📺 Media DB/series/Ooyukiumi no Kaina (2023)\|Ooyukiumi no Kaina (2023)]]
+- [[📺 Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]
 - [[📺 Media DB/series/Oshi no Ko (2023)\|Oshi no Ko (2023)]]
 - [[📺 Media DB/series/Otonari ni Ginga (2023)\|Otonari ni Ginga (2023)]]
 - [[📺 Media DB/series/Overlord IV (2022)\|Overlord IV (2022)]]
@@ -74,9 +77,12 @@
 - [[📺 Media DB/series/Tokyo Revengers - Seiya Kessen-hen (2023)\|Tokyo Revengers - Seiya Kessen-hen (2023)]]
 - [[📺 Media DB/series/Tomo-chan wa Onnanoko! (2023)\|Tomo-chan wa Onnanoko! (2023)]]
 - [[📺 Media DB/series/Trigun Stampede (2023)\|Trigun Stampede (2023)]]
+- [[📺 Media DB/series/Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)\|Tsuki ga Michibiku Isekai Douchuu 2nd Season (2024)]]
 - [[📺 Media DB/series/Urusei Yatsura (2022) (2022)\|Urusei Yatsura (2022) (2022)]]
 - [[📺 Media DB/series/Vivy - Fluorite Eye's Song (2021)\|Vivy - Fluorite Eye's Song (2021)]]
 - [[📺 Media DB/series/Yamada-kun to Lv999 no Koi wo Suru (2023)\|Yamada-kun to Lv999 no Koi wo Suru (2023)]]
 - [[📺 Media DB/series/Yofukashi no Uta (2022)\|Yofukashi no Uta (2022)]]
+- [[📺 Media DB/series/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)\|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (2024)]]
+- [[📺 Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]
 - [[📺 Media DB/series/Yuusha ga Shinda! (2023)\|Yuusha ga Shinda! (2023)]]
 
