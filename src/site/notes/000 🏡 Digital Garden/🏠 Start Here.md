@@ -36,34 +36,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 ### Recently Edited Files
-| File                                                                        | Last modified      |
-| --------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]     | 10.01.2024 - 09:21 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                   | 10.01.2024 - 02:39 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]     | 10.01.2024 - 02:24 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                          | 10.01.2024 - 02:23 |
-| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]       | 09.01.2024 - 13:27 |
-| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                       | 09.01.2024 - 13:25 |
-| [[Python Basics/Python Basics\|Python Basics]]                           | 09.01.2024 - 13:25 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]     | 09.01.2024 - 11:35 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]     | 09.01.2024 - 11:32 |
-| [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]] | 07.01.2024 - 23:15 |
+| File                                                                                       | Last modified      |
+| ------------------------------------------------------------------------------------------ | ------------------ |
+| [[📺 Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]         | 10.01.2024 - 11:32 |
+| [[📺 Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]] | 10.01.2024 - 11:31 |
+| [[📺 Media DB/series/series\|series]]                                                   | 10.01.2024 - 11:30 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]                    | 10.01.2024 - 09:21 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                  | 10.01.2024 - 02:39 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]                    | 10.01.2024 - 02:24 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                         | 10.01.2024 - 02:23 |
+| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]                      | 09.01.2024 - 13:27 |
+| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                                      | 09.01.2024 - 13:25 |
+| [[Python Basics/Python Basics\|Python Basics]]                                          | 09.01.2024 - 13:25 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                        | Last modified      |
-| --------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]     | 10.01.2024 - 02:23 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]     | 10.01.2024 - 02:23 |
-| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]       | 09.01.2024 - 13:24 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]     | 09.01.2024 - 11:32 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]     | 09.01.2024 - 11:32 |
-| [[Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]] | 07.01.2024 - 22:56 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]     | 07.01.2024 - 22:54 |
-| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                       | 07.01.2024 - 22:28 |
-| [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]                 | 06.01.2024 - 03:26 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-06\|2024-01-06]]     | 06.01.2024 - 03:22 |
+| File                                                                           | Last modified      |
+| ------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]        | 10.01.2024 - 02:23 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]        | 10.01.2024 - 02:23 |
+| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]          | 09.01.2024 - 13:24 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]        | 09.01.2024 - 11:32 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]        | 09.01.2024 - 11:32 |
+| [[📺 Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]] | 07.01.2024 - 22:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]        | 07.01.2024 - 22:54 |
+| [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                          | 07.01.2024 - 22:28 |
+| [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]                    | 06.01.2024 - 03:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-06\|2024-01-06]]        | 06.01.2024 - 03:22 |
 
 { .block-language-dataview}
 
