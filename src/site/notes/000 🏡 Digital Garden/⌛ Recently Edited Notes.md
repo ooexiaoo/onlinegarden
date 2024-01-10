@@ -4,10 +4,10 @@
 
 | File                                                                        | Last modified      |
 | --------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]     | 10.01.2024 - 09:21 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                   | 10.01.2024 - 02:39 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]     | 10.01.2024 - 02:24 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                          | 10.01.2024 - 02:23 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]     | 10.01.2024 - 02:23 |
 | [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]       | 09.01.2024 - 13:27 |
 | [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                       | 09.01.2024 - 13:25 |
 | [[Python Basics/Python Basics\|Python Basics]]                           | 09.01.2024 - 13:25 |
