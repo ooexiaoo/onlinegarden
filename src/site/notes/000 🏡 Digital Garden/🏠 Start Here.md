@@ -38,22 +38,23 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                       | Last modified      |
 | ------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                    | 11.01.2024 - 03:43 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                         | 11.01.2024 - 03:43 |
 | [[📺 Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]         | 10.01.2024 - 11:32 |
 | [[📺 Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]] | 10.01.2024 - 11:31 |
 | [[📺 Media DB/series/series\|series]]                                                   | 10.01.2024 - 11:30 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]                    | 10.01.2024 - 09:21 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                  | 10.01.2024 - 02:39 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]                    | 10.01.2024 - 02:24 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                         | 10.01.2024 - 02:23 |
 | [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]                      | 09.01.2024 - 13:27 |
 | [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                                      | 09.01.2024 - 13:25 |
-| [[Python Basics/Python Basics\|Python Basics]]                                          | 09.01.2024 - 13:25 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                           | Last modified      |
 | ------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]        | 11.01.2024 - 03:43 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]        | 10.01.2024 - 02:23 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]        | 10.01.2024 - 02:23 |
 | [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]          | 09.01.2024 - 13:24 |
@@ -63,7 +64,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]        | 07.01.2024 - 22:54 |
 | [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]                          | 07.01.2024 - 22:28 |
 | [[Python Basics/38 - Custom Errors\|38 - Custom Errors]]                    | 06.01.2024 - 03:26 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-06\|2024-01-06]]        | 06.01.2024 - 03:22 |
 
 { .block-language-dataview}
 
@@ -87,5 +87,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1515** With over **13,00,000 words**.
+**Live Count: 1516** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
