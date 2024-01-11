@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-14T03:24:01.304+05:30","updated":"2024-01-04T04:43:40.546+05:30"}
+{"dg-publish":true,"permalink":"/learning-in-public/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-14T03:24:01.304+05:30","updated":"2024-01-11T11:02:25.439+05:30"}
 ---
 
 🧶 Tags:: #Permanent_Notes 
-🗃 Resources:: [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]
+🗃 Resources:: [[000 🏡 START HERE - Digital Garden/01 🏠 Start Here\|01 🏠 Start Here]]
 🔗 Links:: [Grow-self](https://grow-self.com/learning-in-public/)
 ==2023-12-14 - 03:24==
 
