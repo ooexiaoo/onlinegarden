@@ -1,19 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/java-script-course/objects-and-the-dom/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.552+05:30","updated":"2023-12-12T07:34:49.424+05:30"}
+{"dg-publish":true,"permalink":"/java-script-course/objects-and-the-dom/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.552+05:30","updated":"2024-01-11T03:49:15.956+05:30"}
 ---
 
-🧶 Tags - #JavaScript 
-
----
-🗃Resources - [[]]
-
----
-🔗Links - https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
-
-# [[💻 JavaScript Course/Objects And The DOM\|Objects And The DOM]]
+🧶 Tags:: #JavaScript 
+🗃 Resources:: [[]]
+🔗 Links:: https://app.pluralsight.com/course-player?clipId=459ca21f-01aa-4b88-8d44-f37341f4069c
 ==2023-01-03 - 18:44==
 
----
 We've already seen how objects can contain multiple values or properties that are related. What a DOM stands for is a **Document Object Model**. When we wanna work with a web page in JavaScript, the key object we work with is **document** and the DOM refers to that document object, along with all it's supporting objects and other features.
 
 ## Object Properties
