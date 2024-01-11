@@ -1,19 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/java-script-course/arrays/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.545+05:30","updated":"2023-12-11T19:08:07.541+05:30"}
+{"dg-publish":true,"permalink":"/java-script-course/arrays/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.545+05:30","updated":"2024-01-11T03:46:52.231+05:30"}
 ---
 
-🧶 Tags - #JavaScript 
-
----
-🗃Resources - [[]]
-
----
-🔗Links - https://app.pluralsight.com/course-player?clipId=0109e100-b1dd-402d-a82a-1a494eb35759
-
-# [[💻 JavaScript Course/Arrays\|Arrays]]
+🧶 Tags:: #JavaScript 
+🗃Resources:: [[]]
+🔗Links:: https://app.pluralsight.com/course-player?clipId=0109e100-b1dd-402d-a82a-1a494eb35759
 ==2023-01-07 - 15:03==
 
----
 ## Creating And Initializing Arrays
 Arrays are objects that can hold multiple values or objects. To create an array, we simply use []
 
