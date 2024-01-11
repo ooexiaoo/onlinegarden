@@ -1,19 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/java-script-course/functions/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.526+05:30","updated":"2023-12-11T19:36:56.392+05:30"}
+{"dg-publish":true,"permalink":"/java-script-course/functions/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.526+05:30","updated":"2024-01-11T03:47:34.689+05:30"}
 ---
 
-🧶 Tags - #JavaScript 
-
----
-🗃Resources - [[]]
-
----
-🔗Links -
-
-# [[💻 JavaScript Course/Functions\|Functions]]
+🧶 Tags:: #JavaScript 
+🗃 Resources:: [[]]
+🔗 Links::
 ==2023-01-02 - 11:20==
 
----
+
 A function is a block of code that's named, you can use that name or a variable that points to that function.
 
 If you're not writing the code inside a function, then you're writing the code inside the global scope, which is pretty limited. Most of the code that you write, you'd want them to be reusable within functions.
