@@ -1,19 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/java-script-course/program-flow/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.540+05:30","updated":"2023-12-12T07:35:06.493+05:30"}
+{"dg-publish":true,"permalink":"/java-script-course/program-flow/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.540+05:30","updated":"2024-01-11T03:49:46.713+05:30"}
 ---
 
-🧶 Tags - #JavaScript 
-
----
-🗃Resources - [[]]
-
----
-🔗Links - https://app.pluralsight.com/course-player?clipId=9a678f6d-e96e-41dd-884f-56998b4d0993
-
-# [[💻 JavaScript Course/Program Flow\|Program Flow]]
+🧶 Tags:: #JavaScript 
+🗃 Resources:: [[]]
+🔗 Links:: https://app.pluralsight.com/course-player?clipId=9a678f6d-e96e-41dd-884f-56998b4d0993
 ==2022-12-29 - 08:37==
 
----
 In JavaScript, sometimes we have to conditionally execute some code blocks, but if the condition is not fulfilled we don't.
 
 We do this by adding **if** statement and in parentheses we put the conditions **(5 === 5)** if the condition is true we execute the code block, in this case it's the code in the parentheses **{}**.
