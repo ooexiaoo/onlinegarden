@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/java-script-course/variables-and-values/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.564+05:30","updated":"2023-12-12T07:35:15.365+05:30"}
+{"dg-publish":true,"permalink":"/java-script-course/variables-and-values/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.564+05:30","updated":"2024-01-11T11:00:22.531+05:30"}
 ---
 
-🧶 Tags - #JavaScript 
-
----
-🗃Resources - [[]]
- 
----
-🔗Links -
- 
-# [[💻 JavaScript Course/Variables & Values\|Variables & Values]]
+🧶 Tags:: #JavaScript 
+🗃 Resources:: [[]]
+🔗 Links::
 ==2022-11-19 - 22:39==
 
 Variables are like containers. You can save a value inside a variable.
@@ -35,7 +29,7 @@ todo1 is a variable, a container which will log the value inside the variable. B
 todo1 is a string which we can see by typing in the console 'typeof' which will give us the output of 'string'
 
 ---
-# Exercise 3 -
+## Exercise 3 -
 ```
 <script>
 
