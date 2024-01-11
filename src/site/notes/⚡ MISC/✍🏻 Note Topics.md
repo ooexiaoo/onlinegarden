@@ -1,5 +1,5 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2024-01-07T22:28:12.729+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2024-01-11T11:00:56.504+05:30"}
 ---
 
 Tags:: #Topics 
@@ -38,9 +38,7 @@ Tags:: #Topics
 - [ ] [Steal like an artist summary reference](https://fourminutebooks.com/steal-like-an-artist-summary/)
 - [ ] Make a proper notes guide for the blog [Ref Link](https://www.aidanhelfant.com/how-should-your-classify-your-notes-in-obsidian/)
 - [ ] [What is Brahman?](https://www.yogapedia.com/definition/5274/brahman)
-
-Fadogia Agrestis
-https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF
+- [ ] [Fadogia Agrestis](https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF)
 
  Links::
  <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
