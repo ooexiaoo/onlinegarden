@@ -4,6 +4,7 @@
 
 | File                                                                                             | Last modified      |
 | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Python Basics/42 - Enumerate\|42 - Enumerate]]                                              | 12.01.2024 - 16:00 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                          | 12.01.2024 - 05:49 |
 | [[000 🏡 START HERE - Digital Garden/Classification Of My Notes\|Classification Of My Notes]] | 11.01.2024 - 11:04 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                          | 11.01.2024 - 03:43 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]                          | 09.01.2024 - 11:32 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]                          | 09.01.2024 - 11:32 |
 | [[📺 Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]                   | 07.01.2024 - 22:56 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]                          | 07.01.2024 - 22:54 |
 
 { .block-language-dataview}
