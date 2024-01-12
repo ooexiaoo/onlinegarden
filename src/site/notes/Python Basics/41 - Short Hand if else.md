@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/41-short-hand-if-else/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-09T13:24:54.787+05:30","updated":"2024-01-09T13:27:52.200+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/41-short-hand-if-else/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-09T13:24:54.787+05:30","updated":"2024-01-12T16:10:29.087+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/42 - Enumerate\|42 - Enumerate]]
 Down:: [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-09 - 13:25==
