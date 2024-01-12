@@ -4,6 +4,9 @@
 
 | File                                                                                             | Last modified      |
 | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                          | 12.01.2024 - 05:53 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                               | 12.01.2024 - 05:49 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                          | 12.01.2024 - 05:49 |
 | [[000 🏡 START HERE - Digital Garden/Classification Of My Notes\|Classification Of My Notes]] | 11.01.2024 - 11:58 |
 | [[000 🏡 START HERE - Digital Garden/01 🏠 Start Here\|01 🏠 Start Here]]                     | 11.01.2024 - 11:03 |
 | [[🎓 Learning in Public\|🎓 Learning in Public]]                                              | 11.01.2024 - 11:02 |
@@ -11,8 +14,5 @@
 | [[💻 JavaScript Course/Variables & Values\|Variables & Values]]                               | 11.01.2024 - 11:00 |
 | [[💻 JavaScript Course/Program Flow\|Program Flow]]                                           | 11.01.2024 - 03:49 |
 | [[💻 JavaScript Course/Objects And The DOM\|Objects And The DOM]]                             | 11.01.2024 - 03:49 |
-| [[💻 JavaScript Course/JS Function Terminology\|JS Function Terminology]]                     | 11.01.2024 - 03:48 |
-| [[💻 JavaScript Course/Intro To JavaScript\|Intro To JavaScript]]                             | 11.01.2024 - 03:48 |
-| [[💻 JavaScript Course/Functions\|Functions]]                                                 | 11.01.2024 - 03:47 |
 
 { .block-language-dataview}
