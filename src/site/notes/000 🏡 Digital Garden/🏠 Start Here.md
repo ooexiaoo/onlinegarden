@@ -36,34 +36,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 ### Recently Edited Files
-| File                                                                                | Last modified      |
-| ----------------------------------------------------------------------------------- | ------------------ |
-| [[🎓 Learning in Public\|🎓 Learning in Public]]                                 | 12.01.2024 - 17:20 |
-| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]               | 12.01.2024 - 16:10 |
-| [[Python Basics/42 - Enumerate\|42 - Enumerate]]                                 | 12.01.2024 - 16:10 |
-| [[Python Basics/Python Basics\|Python Basics]]                                   | 12.01.2024 - 16:00 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]             | 12.01.2024 - 10:10 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                  | 12.01.2024 - 05:49 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]             | 12.01.2024 - 05:49 |
-| [[000 🏡 Digital Garden/Classification Of My Notes\|Classification Of My Notes]] | 11.01.2024 - 11:58 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                           | 11.01.2024 - 11:03 |
-| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                      | 11.01.2024 - 11:00 |
+| File                                                                                               | Last modified      |
+| -------------------------------------------------------------------------------------------------- | ------------------ |
+| [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                   | 12.01.2024 - 17:40 |
+| [[📺 Media DB/series/series\|series]]                                                           | 12.01.2024 - 17:36 |
+| [[📺 Media DB/series/Dosanko Gal wa Namara Menkoi (2024)\|Dosanko Gal wa Namara Menkoi (2024)]] | 12.01.2024 - 17:35 |
+| [[🎓 Learning in Public\|🎓 Learning in Public]]                                                | 12.01.2024 - 17:20 |
+| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]                              | 12.01.2024 - 16:10 |
+| [[Python Basics/42 - Enumerate\|42 - Enumerate]]                                                | 12.01.2024 - 16:10 |
+| [[Python Basics/Python Basics\|Python Basics]]                                                  | 12.01.2024 - 16:00 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                            | 12.01.2024 - 10:10 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                 | 12.01.2024 - 05:49 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                            | 12.01.2024 - 05:49 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                | Last modified      |
-| ----------------------------------------------------------------------------------- | ------------------ |
-| [[Python Basics/42 - Enumerate\|42 - Enumerate]]                                 | 12.01.2024 - 16:00 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]             | 12.01.2024 - 05:49 |
-| [[000 🏡 Digital Garden/Classification Of My Notes\|Classification Of My Notes]] | 11.01.2024 - 11:04 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]             | 11.01.2024 - 03:43 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]             | 10.01.2024 - 02:23 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]             | 10.01.2024 - 02:23 |
-| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]               | 09.01.2024 - 13:24 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]             | 09.01.2024 - 11:32 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]             | 09.01.2024 - 11:32 |
-| [[📺 Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]      | 07.01.2024 - 22:56 |
+| File                                                                                               | Last modified      |
+| -------------------------------------------------------------------------------------------------- | ------------------ |
+| [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                   | 12.01.2024 - 17:36 |
+| [[📺 Media DB/series/Dosanko Gal wa Namara Menkoi (2024)\|Dosanko Gal wa Namara Menkoi (2024)]] | 12.01.2024 - 17:31 |
+| [[Python Basics/42 - Enumerate\|42 - Enumerate]]                                                | 12.01.2024 - 16:00 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                            | 12.01.2024 - 05:49 |
+| [[000 🏡 Digital Garden/Classification Of My Notes\|Classification Of My Notes]]                | 11.01.2024 - 11:04 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                            | 11.01.2024 - 03:43 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]                            | 10.01.2024 - 02:23 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]                            | 10.01.2024 - 02:23 |
+| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]                              | 09.01.2024 - 13:24 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]                            | 09.01.2024 - 11:32 |
 
 { .block-language-dataview}
 
@@ -87,5 +87,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1519** With over **13,00,000 words**.
+**Live Count: 1521** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
