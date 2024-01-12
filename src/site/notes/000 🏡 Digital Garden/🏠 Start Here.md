@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-11T11:03:54.655+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-12T17:57:09.282+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -32,12 +32,13 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 ⚡ Feel free to click on the tags to see similar content.
 
-🎥 You can also see my [[📺 Media DB/📺 Anime List 2023\|📺 Anime List 2023]] and [[📺 Media DB/📺 Movies 2023\|📺 Movies 2023]].
+🎥 You can also see my [[📺 Media DB/📺 Anime List 2024\|📺 Anime List 2024]] and [[📺 Media DB/📺 Movies 2023\|📺 Movies 2023]].
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 ### Recently Edited Files
 | File                                                                                               | Last modified      |
 | -------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                          | 12.01.2024 - 17:57 |
 | [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                   | 12.01.2024 - 17:40 |
 | [[📺 Media DB/series/series\|series]]                                                           | 12.01.2024 - 17:36 |
 | [[📺 Media DB/series/Dosanko Gal wa Namara Menkoi (2024)\|Dosanko Gal wa Namara Menkoi (2024)]] | 12.01.2024 - 17:35 |
@@ -47,7 +48,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[Python Basics/Python Basics\|Python Basics]]                                                  | 12.01.2024 - 16:00 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                            | 12.01.2024 - 10:10 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                 | 12.01.2024 - 05:49 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                            | 12.01.2024 - 05:49 |
 
 { .block-language-dataview}
 
