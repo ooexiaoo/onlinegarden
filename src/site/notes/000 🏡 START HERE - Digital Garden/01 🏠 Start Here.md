@@ -38,6 +38,9 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                             | Last modified      |
 | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]                            | 12.01.2024 - 16:10 |
+| [[Python Basics/42 - Enumerate\|42 - Enumerate]]                                              | 12.01.2024 - 16:10 |
+| [[Python Basics/Python Basics\|Python Basics]]                                                | 12.01.2024 - 16:00 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                          | 12.01.2024 - 10:10 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                               | 12.01.2024 - 05:49 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                          | 12.01.2024 - 05:49 |
@@ -45,15 +48,13 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[000 🏡 START HERE - Digital Garden/01 🏠 Start Here\|01 🏠 Start Here]]                     | 11.01.2024 - 11:03 |
 | [[🎓 Learning in Public\|🎓 Learning in Public]]                                              | 11.01.2024 - 11:02 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                   | 11.01.2024 - 11:00 |
-| [[💻 JavaScript Course/Variables & Values\|Variables & Values]]                               | 11.01.2024 - 11:00 |
-| [[💻 JavaScript Course/Program Flow\|Program Flow]]                                           | 11.01.2024 - 03:49 |
-| [[💻 JavaScript Course/Objects And The DOM\|Objects And The DOM]]                             | 11.01.2024 - 03:49 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                             | Last modified      |
 | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Python Basics/42 - Enumerate\|42 - Enumerate]]                                              | 12.01.2024 - 16:00 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                          | 12.01.2024 - 05:49 |
 | [[000 🏡 START HERE - Digital Garden/Classification Of My Notes\|Classification Of My Notes]] | 11.01.2024 - 11:04 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                          | 11.01.2024 - 03:43 |
@@ -63,7 +64,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]                          | 09.01.2024 - 11:32 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-05\|2024-01-05]]                          | 09.01.2024 - 11:32 |
 | [[📺 Media DB/series/Yubisaki to Renren (2024)\|Yubisaki to Renren (2024)]]                   | 07.01.2024 - 22:56 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]                          | 07.01.2024 - 22:54 |
 
 { .block-language-dataview}
 
@@ -87,5 +87,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1518** With over **13,00,000 words**.
+**Live Count: 1519** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
