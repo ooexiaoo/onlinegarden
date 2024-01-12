@@ -1,16 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/100-m-offers/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.555+05:30","updated":"2023-12-18T20:52:13.956+05:30"}
----
-
----dataview
-kindle-sync:
-  bookId: '49018'
-  title: '$100M Offers: How To Make Offers So Good People Feel Stupid Saying No'
-  author: Alex Hormozi
-  asin: B099QVG1H8
-  lastAnnotatedDate: '2022-03-01'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81D50rj9jDL._SY160.jpg'
-  highlightsCount: 33
+{"dg-publish":true,"bookId":"49018","title":"$100M Offers: How To Make Offers So Good People Feel Stupid Saying No","Author":["Alex Hormozi"],"asin":"B099QVG1H8","lastAnnotatedDate":"2022-03-01","bookImageUrl":"https://m.media-amazon.com/images/I/81D50rj9jDL._SY160.jpg","highlightsCount":"33","permalink":"/books/100-m-offers/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.555+05:30","updated":"2024-01-12T18:08:45.419+05:30"}
 ---
 
 Tags:: #Books
