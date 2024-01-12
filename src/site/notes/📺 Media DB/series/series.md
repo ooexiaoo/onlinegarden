@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-01-10T11:30:08.736+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-01-12T17:36:48.214+05:30"}
 ---
 
 
@@ -19,11 +19,13 @@
 - [[📺 Media DB/series/Dead Mount Death Play (2023)\|Dead Mount Death Play (2023)]]
 - [[📺 Media DB/series/Do It Yourself!! (2022–)\|Do It Yourself!! (2022–)]]
 - [[📺 Media DB/series/Dolls' Frontline (2022)\|Dolls' Frontline (2022)]]
+- [[📺 Media DB/series/Dosanko Gal wa Namara Menkoi (2024)\|Dosanko Gal wa Namara Menkoi (2024)]]
 - [[📺 Media DB/series/Dr Stone - New World (2023)\|Dr Stone - New World (2023)]]
 - [[📺 Media DB/series/Dr Stone - New World Part 2 (2023)\|Dr Stone - New World Part 2 (2023)]]
 - [[📺 Media DB/series/Edomae Elf (2023)\|Edomae Elf (2023)]]
 - [[📺 Media DB/series/Eikoku Koi Monogatari Emma (2005)\|Eikoku Koi Monogatari Emma (2005)]]
 - [[📺 Media DB/series/Eiyuu-ou Bu wo Kiwameru Tame Tenseisu - Soshite Sekai Saikyou no Minarai Kishi♀ (2023)\|Eiyuu-ou Bu wo Kiwameru Tame Tenseisu - Soshite Sekai Saikyou no Minarai Kishi♀ (2023)]]
+- [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]
 - [[📺 Media DB/series/Goblin Slayer (2018)\|Goblin Slayer (2018)]]
 - [[📺 Media DB/series/Goblin Slayer II (2023)\|Goblin Slayer II (2023)]]
 - [[📺 Media DB/series/Helck (2023)\|Helck (2023)]]
