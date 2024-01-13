@@ -1,0 +1,43 @@
+---
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-13T13:15:15.608+05:30"}
+---
+
+
+- [[Coding/Python Basics/01\|01]]
+- [[Coding/Python Basics/06\|06]]
+- [[Coding/Python Basics/07 - Operators\|07 - Operators]]
+- [[Coding/Python Basics/09 - Typecasting in Python\|09 - Typecasting in Python]]
+- [[Coding/Python Basics/10 - Taking User Input\|10 - Taking User Input]]
+- [[Coding/Python Basics/11 - Strings\|11 - Strings]]
+- [[Coding/Python Basics/12 - String Slicing & Operations on String\|12 - String Slicing & Operations on String]]
+- [[Coding/Python Basics/13 - String Method\|13 - String Method]]
+- [[Coding/Python Basics/14 - If Else Conditional Statements in Python\|14 - If Else Conditional Statements in Python]]
+- [[Coding/Python Basics/15 - Exercise 2\|15 - Exercise 2]]
+- [[Coding/Python Basics/16 - Match Case Statements\|16 - Match Case Statements]]
+- [[Coding/Python Basics/17 - For Loops\|17 - For Loops]]
+- [[Coding/Python Basics/18 - While Loops\|18 - While Loops]]
+- [[Coding/Python Basics/19 - Break and Continue\|19 - Break and Continue]]
+- [[Coding/Python Basics/20 - Functions in Python\|20 - Functions in Python]]
+- [[Coding/Python Basics/21 - Function Arguments\|21 - Function Arguments]]
+- [[Coding/Python Basics/22 - Introduction to Lists\|22 - Introduction to Lists]]
+- [[Coding/Python Basics/23 - List Methods\|23 - List Methods]]
+- [[Coding/Python Basics/24 - Introduction to Tuples\|24 - Introduction to Tuples]]
+- [[Coding/Python Basics/25 - Operations on Tuples\|25 - Operations on Tuples]]
+- [[Coding/Python Basics/27 - Exercise 3\|27 - Exercise 3]]
+- [[Coding/Python Basics/28 - F Strings\|28 - F Strings]]
+- [[Coding/Python Basics/29 - Docstrings\|29 - Docstrings]]
+- [[Coding/Python Basics/30 - Recursion\|30 - Recursion]]
+- [[Coding/Python Basics/31 - Sets\|31 - Sets]]
+- [[Coding/Python Basics/32 -  Set Methods\|32 -  Set Methods]]
+- [[Coding/Python Basics/33 - Dictionaries\|33 - Dictionaries]]
+- [[Coding/Python Basics/34 - Dictionary Methods\|34 - Dictionary Methods]]
+- [[Coding/Python Basics/35 - For loop with else\|35 - For loop with else]]
+- [[Coding/Python Basics/36 - Exception Handling\|36 - Exception Handling]]
+- [[Coding/Python Basics/37 - Finally Clause\|37 - Finally Clause]]
+- [[Coding/Python Basics/38 - Custom Errors\|38 - Custom Errors]]
+- [[Coding/Python Basics/40 - Exercise 4\|40 - Exercise 4]]
+- [[Coding/Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]
+- [[Coding/Python Basics/42 - Enumerate\|42 - Enumerate]]
+- [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]
+
+
