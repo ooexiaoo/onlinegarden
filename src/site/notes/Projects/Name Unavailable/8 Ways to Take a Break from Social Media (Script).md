@@ -1,16 +1,11 @@
 ---
-{"dg-publish":true,"wordcount":0,"banner":"![quit-social-media-1123531903.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/quit-social-media-1123531903.jpg)","banner_y":0.87999,"permalink":"/projects/name-unavailable/8-ways-to-take-a-break-from-social-media-script/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.295+05:30","updated":"2023-12-12T00:52:58.700+05:30"}
+{"dg-publish":true,"wordcount":0,"banner":"![quit-social-media-1123531903.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/quit-social-media-1123531903.jpg)","banner_y":0.87999,"permalink":"/projects/name-unavailable/8-ways-to-take-a-break-from-social-media-script/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.295+05:30","updated":"2024-01-13T12:27:01.979+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - https://insightfulsage.com/8-ways-to-take-a-break-from-social-media/
-
-# [[Projects/Name Unavailable/8 Ways to Take a Break from Social Media (Script)\|8 Ways to Take a Break from Social Media (Script)]]
+🧶 Tags:: #Insightfulsage 
+🗃 Resources:: https://insightfulsage.com/8-ways-to-take-a-break-from-social-media/#
 ==2023-08-19 - 14:04==
 
----
 ## Intro
 - Here are 8 reasons why you should take a break / or stop using social media.
 - Opening up Instagram of something similar as you wake up. / Need to check the notification.
