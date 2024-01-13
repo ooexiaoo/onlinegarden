@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-12T17:57:09.282+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-13T13:15:15.067+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -18,7 +18,7 @@ You are at my [[What Is A PKM And Why Should You Care\|Personal Knowledge Manage
 ### 🚀 Current Challenge!
 [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]
 ### 🧑🏻‍💻 Currently Learning
-[[Python Basics/Python Basics\|Basic Python]]
+[[Coding/Python Basics/Python Basics\|Basic Python]]
 ## How You Should Navigate This Site? 🌎
 You can see all the content of the site in the sidebar. Even though this is not the best way to navigate the site, I'm still building it, so for now this is one of the best ways.
 
@@ -54,11 +54,11 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Added Files
 | File                                                                                               | Last modified      |
 | -------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]                            | 13.01.2024 - 11:38 |
+| [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]                     | 13.01.2024 - 11:38 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-13\|2024-01-13]]                            | 13.01.2024 - 11:37 |
 | [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                   | 12.01.2024 - 17:36 |
 | [[📺 Media DB/series/Dosanko Gal wa Namara Menkoi (2024)\|Dosanko Gal wa Namara Menkoi (2024)]] | 12.01.2024 - 17:31 |
-| [[Python Basics/42 - Enumerate\|42 - Enumerate]]                                                | 12.01.2024 - 16:00 |
+| [[Coding/Python Basics/42 - Enumerate\|42 - Enumerate]]                                         | 12.01.2024 - 16:00 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                            | 12.01.2024 - 05:49 |
 | [[000 🏡 Digital Garden/Classification Of My Notes\|Classification Of My Notes]]                | 11.01.2024 - 11:04 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                            | 11.01.2024 - 03:43 |
