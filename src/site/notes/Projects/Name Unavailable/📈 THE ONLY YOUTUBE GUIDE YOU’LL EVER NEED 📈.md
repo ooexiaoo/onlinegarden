@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/projects/name-unavailable/the-only-youtube-guide-you-ll-ever-need/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-28T17:20:45.224+05:30","updated":"2023-12-12T00:52:44.723+05:30"}
+{"dg-publish":true,"permalink":"/projects/name-unavailable/the-only-youtube-guide-you-ll-ever-need/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-28T17:20:45.224+05:30","updated":"2024-01-13T12:26:21.251+05:30"}
 ---
 
 
-Resource - https://www.youtube.com/watch?v=GiI5-N0Ryqo&t=0s
+Resource:: https://www.youtube.com/watch?v=GiI5-N0Ryqo&t=0s
 ## 🔥 Step 1: Getting Started (24 Hours)
 #### ✅ Picking Your Niche
 🧨 Every Niche Sucks
