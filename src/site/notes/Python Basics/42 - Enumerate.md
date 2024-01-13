@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/42-enumerate/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-12T16:00:15.896+05:30","updated":"2024-01-12T16:10:20.570+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/42-enumerate/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-12T16:00:15.896+05:30","updated":"2024-01-13T11:39:43.405+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]
 Down:: [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-12 - 16:00==
