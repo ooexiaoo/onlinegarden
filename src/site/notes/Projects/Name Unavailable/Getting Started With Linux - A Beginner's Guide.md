@@ -1,16 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/projects/name-unavailable/getting-started-with-linux-a-beginner-s-guide/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.324+05:30","updated":"2023-12-12T00:53:27.184+05:30"}
+{"dg-publish":true,"permalink":"/projects/name-unavailable/getting-started-with-linux-a-beginner-s-guide/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.324+05:30","updated":"2024-01-13T12:27:42.756+05:30"}
 ---
 
-🧶 Tags - #The_BInary_Philosopher 
-
----
-🗃 Resources - [[]]
-
-# [[Projects/Name Unavailable/Getting Started With Linux - A Beginner's Guide\|Getting Started With Linux - A Beginner's Guide]]
+🧶 Tags:: #The_Binary_Philosopher 
+🗃 Resources:: [[]]
 ==2023-09-02 - 00:12==
 
----
 I. Introduction
 
 - Briefly explain what Linux is and its significance in the world of operating systems.
