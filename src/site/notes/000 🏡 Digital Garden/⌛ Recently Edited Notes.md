@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
-| File                                                                                               | Last modified      |
-| -------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]                            | 13.01.2024 - 11:42 |
-| [[Python Basics/42 - Enumerate\|42 - Enumerate]]                                                | 13.01.2024 - 11:39 |
-| [[Python Basics/Python Basics\|Python Basics]]                                                  | 13.01.2024 - 11:39 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-13\|2024-01-13]]                            | 13.01.2024 - 11:38 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                 | 13.01.2024 - 11:37 |
-| [[📚 Books/$100M Offers\|$100M Offers]]                                                         | 12.01.2024 - 18:08 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                          | 12.01.2024 - 17:57 |
-| [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                   | 12.01.2024 - 17:40 |
-| [[📺 Media DB/series/series\|series]]                                                           | 12.01.2024 - 17:36 |
-| [[📺 Media DB/series/Dosanko Gal wa Namara Menkoi (2024)\|Dosanko Gal wa Namara Menkoi (2024)]] | 12.01.2024 - 17:35 |
+| File                                                                                                                                  | Last modified      |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Projects/Name Unavailable/YouTube Video Ideas\|YouTube Video Ideas]]                                                             | 13.01.2024 - 12:32 |
+| [[Projects/Name Unavailable/Why majority of the people will never adopt Linux\|Why majority of the people will never adopt Linux]] | 13.01.2024 - 12:31 |
+| [[Projects/Name Unavailable/Why Linux Better Than Windows\|Why Linux Better Than Windows]]                                         | 13.01.2024 - 12:31 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-13\|2024-01-13]]                                                               | 13.01.2024 - 12:30 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                                                               | 13.01.2024 - 12:30 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                                                               | 13.01.2024 - 12:30 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]                                                               | 13.01.2024 - 12:30 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]                                                               | 13.01.2024 - 12:30 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]                                                               | 13.01.2024 - 12:30 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]                                                               | 13.01.2024 - 12:30 |
 
 { .block-language-dataview}
