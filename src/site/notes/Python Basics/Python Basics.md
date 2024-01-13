@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-12T16:00:51.910+05:30"}
+{"dg-publish":true,"permalink":"/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-13T11:39:27.408+05:30"}
 ---
 
 
@@ -38,5 +38,6 @@
 - [[Python Basics/40 - Exercise 4\|40 - Exercise 4]]
 - [[Python Basics/41 - Short Hand if else\|41 - Short Hand if else]]
 - [[Python Basics/42 - Enumerate\|42 - Enumerate]]
+- [[Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]
 
 
