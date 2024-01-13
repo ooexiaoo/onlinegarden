@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2024-01-02T17:35:25.314+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2024-01-13T13:15:15.447+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -54,7 +54,7 @@ I'm getting so bored in free time, as there isn't much to do other than just lea
 ### Day 6
 >[!success] 17-12-2023
 
-I'm starting to forget that there's a site called YouTube, Well, jokes aside, I don't have any urge to watch anything on YouTube anymore. I do visit it once a day for watching a [[Python Basics/Python Basics\|Python Course]] that I'm learning right now, But other than that, I don't watch anything else.
+I'm starting to forget that there's a site called YouTube, Well, jokes aside, I don't have any urge to watch anything on YouTube anymore. I do visit it once a day for watching a [[Coding/Python Basics/Python Basics\|Python Course]] that I'm learning right now, But other than that, I don't watch anything else.
 BTW, I was looking for documentaries on long distance running, so I watched a short documentary that was embedded on a running site from YouTube.
 
 ### Day 7
