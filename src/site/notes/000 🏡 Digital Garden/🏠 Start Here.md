@@ -36,18 +36,18 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
 ### Recently Edited Files
-| File                                                                                                                                  | Last modified      |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Projects/Name Unavailable/YouTube Video Ideas\|YouTube Video Ideas]]                                                             | 13.01.2024 - 12:32 |
-| [[Projects/Name Unavailable/Why majority of the people will never adopt Linux\|Why majority of the people will never adopt Linux]] | 13.01.2024 - 12:31 |
-| [[Projects/Name Unavailable/Why Linux Better Than Windows\|Why Linux Better Than Windows]]                                         | 13.01.2024 - 12:31 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-13\|2024-01-13]]                                                               | 13.01.2024 - 12:30 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                                                               | 13.01.2024 - 12:30 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                                                               | 13.01.2024 - 12:30 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]                                                               | 13.01.2024 - 12:30 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]                                                               | 13.01.2024 - 12:30 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-08\|2024-01-08]]                                                               | 13.01.2024 - 12:30 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-07\|2024-01-07]]                                                               | 13.01.2024 - 12:30 |
+| File                                                                                                                   | Last modified      |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Resources/Note Taking 101 MOC\|Note Taking 101 MOC]]                                                              | 13.01.2024 - 13:30 |
+| [[Resources/Literature Notes\|Literature Notes]]                                                                    | 13.01.2024 - 13:30 |
+| [[Resources/Fleeting Notes\|Fleeting Notes]]                                                                        | 13.01.2024 - 13:30 |
+| [[Systems/Systems\|Systems]]                                                                                        | 13.01.2024 - 13:29 |
+| [[Systems/Fallacies MOC\|Fallacies MOC]]                                                                            | 13.01.2024 - 13:28 |
+| [[Systems/Dunning Kruger Effect\|Dunning Kruger Effect]]                                                            | 13.01.2024 - 13:28 |
+| [[🌍 Areas/📧 Personal Notes/29-06-2021 - Prediction Letter For K chan\|29-06-2021 - Prediction Letter For K chan]] | 13.01.2024 - 13:26 |
+| [[🌍 Areas/📧 Personal Notes/Letters To a Friend 20-06-2021\|Letters To a Friend 20-06-2021]]                       | 13.01.2024 - 13:24 |
+| [[Resources/🤼‍♂️ People/Kinjal Raate\|Kinjal Raate]]                                                               | 13.01.2024 - 13:21 |
+| [[Resources/🤼‍♂️ People/Inori Minase\|Inori Minase]]                                                               | 13.01.2024 - 13:20 |
 
 { .block-language-dataview}
 
@@ -87,5 +87,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1523** With over **13,00,000 words**.
+**Live Count: 1521** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
