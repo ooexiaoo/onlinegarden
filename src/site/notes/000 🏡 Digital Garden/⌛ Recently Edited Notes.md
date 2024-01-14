@@ -4,6 +4,9 @@
 
 | File                                                                                                               | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-14\|2024-01-14]]                                            | 14.01.2024 - 12:43 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                 | 14.01.2024 - 12:42 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-13\|2024-01-13]]                                            | 13.01.2024 - 18:56 |
 | [[Coding/🖥 Website Building/Resources\|Resources]]                                                             | 13.01.2024 - 18:49 |
 | [[Coding/🖥 Website Building/One page sites made in less than a week\|One page sites made in less than a week]] | 13.01.2024 - 18:49 |
 | [[Coding/🖥 Website Building/DIY Browser Homepage\|DIY Browser Homepage]]                                       | 13.01.2024 - 18:49 |
@@ -11,8 +14,5 @@
 | [[Projects/Projects\|Projects]]                                                                                 | 13.01.2024 - 18:47 |
 | [[Resources/Note Taking 101 MOC\|Note Taking 101 MOC]]                                                          | 13.01.2024 - 13:30 |
 | [[Resources/Literature Notes\|Literature Notes]]                                                                | 13.01.2024 - 13:30 |
-| [[Resources/Fleeting Notes\|Fleeting Notes]]                                                                    | 13.01.2024 - 13:30 |
-| [[Systems/Systems\|Systems]]                                                                                    | 13.01.2024 - 13:29 |
-| [[Systems/Fallacies MOC\|Fallacies MOC]]                                                                        | 13.01.2024 - 13:28 |
 
 { .block-language-dataview}
