@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-01-12T17:36:48.214+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-01-14T17:08:15.692+05:30"}
 ---
 
 
@@ -55,6 +55,7 @@
 - [[📺 Media DB/series/My Home Hero (2023)\|My Home Hero (2023)]]
 - [[📺 Media DB/series/Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)\|Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)]]
 - [[📺 Media DB/series/NipTuck (2003–2010)\|NipTuck (2003–2010)]]
+- [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]]
 - [[📺 Media DB/series/Ooyukiumi no Kaina (2023)\|Ooyukiumi no Kaina (2023)]]
 - [[📺 Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]
 - [[📺 Media DB/series/Oshi no Ko (2023)\|Oshi no Ko (2023)]]
