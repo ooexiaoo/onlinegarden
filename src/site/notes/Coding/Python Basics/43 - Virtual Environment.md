@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/43-virtual-environment/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-13T11:38:56.815+05:30","updated":"2024-01-13T11:42:24.048+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/43-virtual-environment/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-13T11:38:56.815+05:30","updated":"2024-01-14T14:18:02.543+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/44 - How import works\|44 - How import works]]
 Down:: [[Coding/Python Basics/42 - Enumerate\|42 - Enumerate]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-13 - 11:39==
