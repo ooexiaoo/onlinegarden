@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T09:58:56.823+05:30","updated":"2023-12-30T21:48:18.518+05:30"}
+{"dg-publish":true,"permalink":"/media-db/movies/movies/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T09:58:56.823+05:30","updated":"2024-01-14T17:16:27.195+05:30"}
 ---
 
 
@@ -8,7 +8,7 @@
 - [[📺 Media DB/movies/April Story (1998)\|April Story (1998)]]
 - [[📺 Media DB/movies/Bari Bari Densetsu (1987) (1987)\|Bari Bari Densetsu (1987) (1987)]]
 - [[📺 Media DB/movies/Blade Runner 2049 (2017)\|Blade Runner 2049 (2017)]]
-- [[📺 Media DB/movies/Born To Race 2022-06-20\|Born To Race 2022-06-20]]
+- [[📺 Media DB/movies/Born To Race\|Born To Race]]
 - [[📺 Media DB/movies/Bu su (1987)\|Bu su (1987)]]
 - [[📺 Media DB/movies/C.S.P 096\|C.S.P 096]]
 - [[📺 Media DB/movies/Dare Devil\|Dare Devil]]
