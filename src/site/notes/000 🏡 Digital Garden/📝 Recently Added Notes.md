@@ -4,6 +4,7 @@
 
 | File                                                                                               | Last modified      |
 | -------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-14\|2024-01-14]]                            | 14.01.2024 - 12:42 |
 | [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]                     | 13.01.2024 - 11:38 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-13\|2024-01-13]]                            | 13.01.2024 - 11:37 |
 | [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                   | 12.01.2024 - 17:36 |
@@ -13,6 +14,5 @@
 | [[000 🏡 Digital Garden/Classification Of My Notes\|Classification Of My Notes]]                | 11.01.2024 - 11:04 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-11\|2024-01-11]]                            | 11.01.2024 - 03:43 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-09\|2024-01-09]]                            | 10.01.2024 - 02:23 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-10\|2024-01-10]]                            | 10.01.2024 - 02:23 |
 
 { .block-language-dataview}
