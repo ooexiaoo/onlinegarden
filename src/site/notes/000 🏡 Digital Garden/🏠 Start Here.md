@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-13T13:15:15.067+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-15T14:11:52.876+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -14,9 +14,6 @@ You are at my [[What Is A PKM And Why Should You Care\|Personal Knowledge Manage
 
 📄 You can meet me on my [YouTube](https://youtube.com/@naamnahihai) channel, or my main site, [Exia's Garden](https://exiasgarden.pages.dev). I still need to make a real site where I'll finally post all my notes, but for now these are the places where you can find me and my ideas at.
 ![happy dance sticker.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
-
-### 🚀 Current Challenge!
-[[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]
 ### 🧑🏻‍💻 Currently Learning
 [[Coding/Python Basics/Python Basics\|Basic Python]]
 ## How You Should Navigate This Site? 🌎
@@ -38,6 +35,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                             | Last modified      |
 | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                        | 15.01.2024 - 14:11 |
 | [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]]     | 15.01.2024 - 11:49 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-15\|2024-01-15]]                          | 15.01.2024 - 11:44 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                               | 15.01.2024 - 11:44 |
@@ -47,7 +45,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[📺 Media DB/👀 What I Watched\|👀 What I Watched]]                                          | 14.01.2024 - 17:16 |
 | [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]] | 14.01.2024 - 17:11 |
 | [[📺 Media DB/series/series\|series]]                                                         | 14.01.2024 - 17:08 |
-| [[Coding/Python Basics/44 - How import works\|44 - How import works]]                         | 14.01.2024 - 14:23 |
 
 { .block-language-dataview}
 
