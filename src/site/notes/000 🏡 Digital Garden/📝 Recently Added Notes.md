@@ -4,6 +4,7 @@
 
 | File                                                                                               | Last modified      |
 | -------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]         | 15.01.2024 - 18:44 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-15\|2024-01-15]]                            | 15.01.2024 - 11:44 |
 | [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]]   | 14.01.2024 - 17:08 |
 | [[Coding/Python Basics/44 - How import works\|44 - How import works]]                           | 14.01.2024 - 14:16 |
@@ -13,6 +14,5 @@
 | [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                   | 12.01.2024 - 17:36 |
 | [[📺 Media DB/series/Dosanko Gal wa Namara Menkoi (2024)\|Dosanko Gal wa Namara Menkoi (2024)]] | 12.01.2024 - 17:31 |
 | [[Coding/Python Basics/42 - Enumerate\|42 - Enumerate]]                                         | 12.01.2024 - 16:00 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-12\|2024-01-12]]                            | 12.01.2024 - 05:49 |
 
 { .block-language-dataview}
