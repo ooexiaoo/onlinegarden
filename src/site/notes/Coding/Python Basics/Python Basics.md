@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-14T14:17:48.351+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-15T18:47:20.321+05:30"}
 ---
 
 
@@ -40,5 +40,6 @@
 - [[Coding/Python Basics/42 - Enumerate\|42 - Enumerate]]
 - [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]
 - [[Coding/Python Basics/44 - How import works\|44 - How import works]]
+- [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]
 
 
