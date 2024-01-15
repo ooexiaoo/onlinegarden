@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/44-how-import-works/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-14T14:16:26.254+05:30","updated":"2024-01-14T14:23:21.775+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/44-how-import-works/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-14T14:16:26.254+05:30","updated":"2024-01-15T18:50:04.099+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]
 Down:: [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-14 - 14:16==
