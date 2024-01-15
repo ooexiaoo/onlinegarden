@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2024-01-13T13:15:15.447+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2024-01-15T11:49:10.155+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -88,3 +88,8 @@ I don't think there's any need for updates if nothing is happening. So, I might 
 >[!success] 01-01-2024
 
 I was looking into hydroponic systems that can be made for home, So watched a few videos on that topic.
+
+### Day 30
+>[!success] 11-01-2024
+
+After a while, I did forget about YouTube, and it was pretty awesome to know that I can just stop watching if I want to. I have a lot more control over the things I'm consuming now. Going forward, I don't think I'll just stop watch YouTube completely because for me, it's a good source of inspiration. I get a lot of information and overall it's good for me, only if I'm in control. And after not using it for 30 days, I think I have a good idea of how I should use YouTube overall.
