@@ -4,6 +4,7 @@
 
 | File                                                                                             | Last modified      |
 | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Acquiring The Basic Skills\|Acquiring The Basic Skills]]                                    | 15.01.2024 - 11:40 |
 | [[📺 Media DB/movies/Born To Race\|Born To Race]]                                             | 15.01.2024 - 11:25 |
 | [[📺 Media DB/movies/movies\|movies]]                                                         | 14.01.2024 - 17:16 |
 | [[📺 Media DB/👀 What I Watched\|👀 What I Watched]]                                          | 14.01.2024 - 17:16 |
@@ -13,6 +14,5 @@
 | [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]                   | 14.01.2024 - 14:18 |
 | [[Coding/Python Basics/Python Basics\|Python Basics]]                                         | 14.01.2024 - 14:17 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-14\|2024-01-14]]                          | 14.01.2024 - 12:43 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                               | 14.01.2024 - 12:42 |
 
 { .block-language-dataview}
