@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-15T14:11:52.876+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-01-15T21:43:38.780+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -31,20 +31,22 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 🎥 You can also see my [[📺 Media DB/📺 Anime List 2024\|📺 Anime List 2024]] and [[📺 Media DB/📺 Movies 2023\|📺 Movies 2023]].
 
-📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://animexia.pages.dev/)
+📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://anime.insightfulsage.com/)
+
+⏳ Here is also a pomodoro timer made by me - [Kawaiidoro](https://pomodoro.insightfulsage.com)
 ### Recently Edited Files
 | File                                                                                         | Last modified      |
 | -------------------------------------------------------------------------------------------- | ------------------ |
+| [[⚡ MISC/To Dos\|To Dos]]                                                                 | 15.01.2024 - 21:53 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2023-01\|2023-01]]                          | 15.01.2024 - 21:48 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Yearly Notes/2023\|2023]]                                 | 15.01.2024 - 21:47 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                    | 15.01.2024 - 21:43 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-15\|2024-01-15]]                      | 15.01.2024 - 19:02 |
 | [[Coding/Python Basics/44 - How import works\|44 - How import works]]                     | 15.01.2024 - 18:50 |
 | [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]   | 15.01.2024 - 18:49 |
 | [[Coding/Python Basics/Python Basics\|Python Basics]]                                     | 15.01.2024 - 18:47 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                    | 15.01.2024 - 14:11 |
 | [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]] | 15.01.2024 - 11:49 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                           | 15.01.2024 - 11:44 |
-| [[Acquiring The Basic Skills\|Acquiring The Basic Skills]]                                | 15.01.2024 - 11:40 |
-| [[📺 Media DB/movies/Born To Race\|Born To Race]]                                         | 15.01.2024 - 11:25 |
-| [[📺 Media DB/movies/movies\|movies]]                                                     | 14.01.2024 - 17:16 |
 
 { .block-language-dataview}
 
