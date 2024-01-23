@@ -4,6 +4,8 @@
 
 | File                                                                                             | Last modified      |
 | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Coding/Python Basics/46 - os Module\|46 - os Module]]                                       | 23.01.2024 - 22:47 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-01\|2024-01]]                              | 23.01.2024 - 21:39 |
 | [[करौली सरकार (Karauli Sarkar)\|करौली सरकार (Karauli Sarkar)]]                                | 23.01.2024 - 18:15 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-23\|2024-01-23]]                          | 23.01.2024 - 18:10 |
 | [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]       | 15.01.2024 - 18:44 |
@@ -12,7 +14,5 @@
 | [[Coding/Python Basics/44 - How import works\|44 - How import works]]                         | 14.01.2024 - 14:16 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-14\|2024-01-14]]                          | 14.01.2024 - 12:42 |
 | [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]                   | 13.01.2024 - 11:38 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-13\|2024-01-13]]                          | 13.01.2024 - 11:37 |
-| [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                 | 12.01.2024 - 17:36 |
 
 { .block-language-dataview}
