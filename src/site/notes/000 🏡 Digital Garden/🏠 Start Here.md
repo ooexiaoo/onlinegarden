@@ -35,34 +35,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 ⏳ Here is also a pomodoro timer made by me - [Kawaiidoro](https://pomodoro.insightfulsage.com)
 ### Recently Edited Files
-| File                                                                                         | Last modified      |
-| -------------------------------------------------------------------------------------------- | ------------------ |
-| [[⚡ MISC/To Dos\|To Dos]]                                                                 | 15.01.2024 - 21:53 |
-| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2023-01\|2023-01]]                          | 15.01.2024 - 21:48 |
-| [[🌍 Areas/📧 Personal Notes/🗓 Yearly Notes/2023\|2023]]                                 | 15.01.2024 - 21:47 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                    | 15.01.2024 - 21:43 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-15\|2024-01-15]]                      | 15.01.2024 - 19:02 |
-| [[Coding/Python Basics/44 - How import works\|44 - How import works]]                     | 15.01.2024 - 18:50 |
-| [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]   | 15.01.2024 - 18:49 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                     | 15.01.2024 - 18:47 |
-| [[🌍 Areas/📧 Personal Notes/30 Days No YouTube Challenge\|30 Days No YouTube Challenge]] | 15.01.2024 - 11:49 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                           | 15.01.2024 - 11:44 |
+| File                                                                     | Last modified      |
+| ------------------------------------------------------------------------ | ------------------ |
+| [[⚡ MISC/To Dos\|To Dos]]                                             | 23.01.2024 - 20:23 |
+| [[करौली सरकार (Karauli Sarkar)\|करौली सरकार (Karauli Sarkar)]]        | 23.01.2024 - 19:02 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-23\|2024-01-23]]  | 23.01.2024 - 18:15 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                       | 23.01.2024 - 18:10 |
+| [[Templates/✍🏻 Daily Notes\|✍🏻 Daily Notes]]                        | 23.01.2024 - 18:10 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2023-01\|2023-01]]      | 15.01.2024 - 21:48 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Yearly Notes/2023\|2023]]             | 15.01.2024 - 21:47 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                | 15.01.2024 - 21:43 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-15\|2024-01-15]]  | 15.01.2024 - 19:02 |
+| [[Coding/Python Basics/44 - How import works\|44 - How import works]] | 15.01.2024 - 18:50 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                               | Last modified      |
-| -------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]         | 15.01.2024 - 18:44 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-15\|2024-01-15]]                            | 15.01.2024 - 11:44 |
-| [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]]   | 14.01.2024 - 17:08 |
-| [[Coding/Python Basics/44 - How import works\|44 - How import works]]                           | 14.01.2024 - 14:16 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-14\|2024-01-14]]                            | 14.01.2024 - 12:42 |
-| [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]                     | 13.01.2024 - 11:38 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-13\|2024-01-13]]                            | 13.01.2024 - 11:37 |
-| [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                   | 12.01.2024 - 17:36 |
-| [[📺 Media DB/series/Dosanko Gal wa Namara Menkoi (2024)\|Dosanko Gal wa Namara Menkoi (2024)]] | 12.01.2024 - 17:31 |
-| [[Coding/Python Basics/42 - Enumerate\|42 - Enumerate]]                                         | 12.01.2024 - 16:00 |
+| File                                                                                             | Last modified      |
+| ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[करौली सरकार (Karauli Sarkar)\|करौली सरकार (Karauli Sarkar)]]                                | 23.01.2024 - 18:15 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-23\|2024-01-23]]                          | 23.01.2024 - 18:10 |
+| [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]       | 15.01.2024 - 18:44 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-15\|2024-01-15]]                          | 15.01.2024 - 11:44 |
+| [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]] | 14.01.2024 - 17:08 |
+| [[Coding/Python Basics/44 - How import works\|44 - How import works]]                         | 14.01.2024 - 14:16 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-14\|2024-01-14]]                          | 14.01.2024 - 12:42 |
+| [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]                   | 13.01.2024 - 11:38 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-13\|2024-01-13]]                          | 13.01.2024 - 11:37 |
+| [[📺 Media DB/series/Gekai Elise (2024)\|Gekai Elise (2024)]]                                 | 12.01.2024 - 17:36 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1526** With over **13,00,000 words**.
+**Live Count: 1528** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
