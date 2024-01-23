@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/45-if-name-main-in-python/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-15T18:44:33.767+05:30","updated":"2024-01-15T18:49:57.016+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/45-if-name-main-in-python/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-15T18:44:33.767+05:30","updated":"2024-01-23T22:54:30.156+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/46 - os Module\|46 - os Module]]
 Down:: [[Coding/Python Basics/44 - How import works\|44 - How import works]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-15 - 18:47==
