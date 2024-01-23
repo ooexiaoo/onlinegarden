@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/46-os-module/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-23T22:47:59.138+05:30","updated":"2024-01-23T23:12:11.621+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/46-os-module/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-23T22:47:59.138+05:30","updated":"2024-01-23T23:14:01.134+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
 Up:: [[]]
 Down:: [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]
-🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) | [os Modules](https://docs.python.org/3/library/os.html)
 ==2024-01-23 - 22:48==
 
 The os module in Python is a built-in library that provides functions for interacting with the operating system. It allows you to perform a wide variety of tasks, such as reading and writing files, interacting with the file system, and running system commands.
