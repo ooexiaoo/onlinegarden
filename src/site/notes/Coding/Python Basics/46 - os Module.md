@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/46-os-module/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-23T22:47:59.138+05:30","updated":"2024-01-23T22:54:55.813+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/46-os-module/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-23T22:47:59.138+05:30","updated":"2024-01-23T23:12:11.621+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
@@ -97,4 +97,28 @@ if(not os.path.exists("data")):
 
 for i in range(0, 100):
     os.mkdir(f"data/Day{i+1}")
+```
+
+## Oslist
+```python
+import os 
+folders = os.listdir("data")
+
+print(os.getcwd())
+os.chdir("/Users")
+print(os.getcwd())
+
+for folder in folders:
+    print(folder)
+    print(os.listdir(f"data/{folder}"))
+```
+
+## Rename
+```python
+import os
+ 
+
+for i in range(0, 100):
+    os.rename(f"data/Tutorial{i+1}", f"data/Tutorial {i+1}")
+    
 ```
