@@ -37,22 +37,24 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                       | Last modified      |
 | ------------------------------------------------------------------------------------------ | ------------------ |
-| [[Coding/Python Basics/46 - os Module\|46 - os Module]]                                 | 23.01.2024 - 22:54 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-24\|2024-01-24]]                    | 24.01.2024 - 17:43 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-23\|2024-01-23]]                    | 24.01.2024 - 17:39 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                         | 24.01.2024 - 17:39 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Yearly Notes/2024\|2024]]                               | 24.01.2024 - 17:39 |
+| [[Templates/🗓 Yearly Note\|🗓 Yearly Note]]                                            | 24.01.2024 - 17:30 |
+| [[⚡ MISC/To Dos\|To Dos]]                                                               | 24.01.2024 - 17:29 |
+| [[Coding/Python Basics/46 - os Module\|46 - os Module]]                                 | 23.01.2024 - 23:14 |
 | [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]] | 23.01.2024 - 22:54 |
 | [[Coding/Python Basics/Python Basics\|Python Basics]]                                   | 23.01.2024 - 22:48 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                               | 23.01.2024 - 21:59 |
 | [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-01\|2024-01]]                        | 23.01.2024 - 21:58 |
-| [[Templates/🗓 Monthly Notes\|🗓 Monthly Notes]]                                        | 23.01.2024 - 21:39 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                         | 23.01.2024 - 21:39 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-23\|2024-01-23]]                    | 23.01.2024 - 21:38 |
-| [[करौली सरकार (Karauli Sarkar)\|करौली सरकार (Karauli Sarkar)]]                          | 23.01.2024 - 19:02 |
-| [[Templates/✍🏻 Daily Notes\|✍🏻 Daily Notes]]                                          | 23.01.2024 - 18:10 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                             | Last modified      |
 | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-24\|2024-01-24]]                          | 24.01.2024 - 17:39 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Yearly Notes/2024\|2024]]                                     | 24.01.2024 - 17:29 |
 | [[Coding/Python Basics/46 - os Module\|46 - os Module]]                                       | 23.01.2024 - 22:47 |
 | [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-01\|2024-01]]                              | 23.01.2024 - 21:39 |
 | [[करौली सरकार (Karauli Sarkar)\|करौली सरकार (Karauli Sarkar)]]                                | 23.01.2024 - 18:15 |
@@ -61,8 +63,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-15\|2024-01-15]]                          | 15.01.2024 - 11:44 |
 | [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]] | 14.01.2024 - 17:08 |
 | [[Coding/Python Basics/44 - How import works\|44 - How import works]]                         | 14.01.2024 - 14:16 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-14\|2024-01-14]]                          | 14.01.2024 - 12:42 |
-| [[Coding/Python Basics/43 - Virtual Environment\|43 - Virtual Environment]]                   | 13.01.2024 - 11:38 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1530** With over **13,00,000 words**.
+**Live Count: 1532** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
