@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/46-os-module/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-23T22:47:59.138+05:30","updated":"2024-01-23T23:14:01.134+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/46-os-module/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-23T22:47:59.138+05:30","updated":"2024-01-25T20:44:23.597+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/48 - Local vs Global Variables\|48 - Local vs Global Variables]]
 Down:: [[Coding/Python Basics/45 - if name == main in Python\|45 - if name == main in Python]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) | [os Modules](https://docs.python.org/3/library/os.html)
 ==2024-01-23 - 22:48==
