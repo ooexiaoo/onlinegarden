@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/48-local-vs-global-variables/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-25T20:43:47.281+05:30","updated":"2024-01-25T20:47:10.873+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/48-local-vs-global-variables/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-25T20:43:47.281+05:30","updated":"2024-01-26T23:30:30.056+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/49 - File IO\|49 - File IO]]
 Down:: [[Coding/Python Basics/46 - os Module\|46 - os Module]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-25 - 20:43==
