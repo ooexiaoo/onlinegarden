@@ -35,34 +35,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 ⏳ Here is also a pomodoro timer made by me - [Kawaiidoro](https://pomodoro.insightfulsage.com)
 ### Recently Edited Files
-| File                                                                                       | Last modified      |
-| ------------------------------------------------------------------------------------------ | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-26\|2024-01-26]]                    | 27.01.2024 - 22:33 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-27\|2024-01-27]]                    | 27.01.2024 - 22:32 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                         | 27.01.2024 - 22:24 |
-| [[Projects/KawaiiDoro/Pomodoro Technique 101\|Pomodoro Technique 101]]                  | 26.01.2024 - 23:49 |
-| [[Projects/Projects\|Projects]]                                                         | 26.01.2024 - 23:49 |
-| [[Coding/Python Basics/49 - File IO\|49 - File IO]]                                     | 26.01.2024 - 23:34 |
-| [[Coding/Python Basics/48 - Local vs Global Variables\|48 - Local vs Global Variables]] | 26.01.2024 - 23:30 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                   | 26.01.2024 - 23:30 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                               | 26.01.2024 - 12:08 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-25\|2024-01-25]]                    | 25.01.2024 - 22:33 |
+| File                                                                                                                                | Last modified      |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Coding/Python Basics/49 - File IO\|49 - File IO]]                                                                              | 28.01.2024 - 23:28 |
+| [[Coding/Python Basics/50 - read, readlines and other methods\|50 - read, readlines and other methods]]                          | 28.01.2024 - 23:28 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                            | 28.01.2024 - 23:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-28\|2024-01-28]]                                                             | 28.01.2024 - 22:41 |
+| [[Projects/KawaiiDoro/The History and Evolution of the Pomodoro Technique\|The History and Evolution of the Pomodoro Technique]] | 28.01.2024 - 22:40 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                  | 28.01.2024 - 20:48 |
+| [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                                                     | 28.01.2024 - 20:47 |
+| [[Projects/Projects\|Projects]]                                                                                                  | 28.01.2024 - 20:43 |
+| [[Projects/KawaiiDoro/Pomodoro Technique 101\|Pomodoro Technique 101]]                                                           | 28.01.2024 - 20:41 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-26\|2024-01-26]]                                                             | 27.01.2024 - 22:33 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                       | Last modified      |
-| ------------------------------------------------------------------------------------------ | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-27\|2024-01-27]]                    | 27.01.2024 - 22:24 |
-| [[Coding/Python Basics/49 - File IO\|49 - File IO]]                                     | 26.01.2024 - 23:29 |
-| [[Projects/KawaiiDoro/Pomodoro Technique 101\|Pomodoro Technique 101]]                  | 26.01.2024 - 18:46 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-26\|2024-01-26]]                    | 26.01.2024 - 12:12 |
-| [[Coding/Python Basics/48 - Local vs Global Variables\|48 - Local vs Global Variables]] | 25.01.2024 - 20:43 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-25\|2024-01-25]]                    | 25.01.2024 - 20:39 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-24\|2024-01-24]]                    | 24.01.2024 - 17:39 |
-| [[🌍 Areas/📧 Personal Notes/🗓 Yearly Notes/2024\|2024]]                               | 24.01.2024 - 17:29 |
-| [[Coding/Python Basics/46 - os Module\|46 - os Module]]                                 | 23.01.2024 - 22:47 |
-| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-01\|2024-01]]                        | 23.01.2024 - 21:39 |
+| File                                                                                                                                | Last modified      |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Coding/Python Basics/50 - read, readlines and other methods\|50 - read, readlines and other methods]]                          | 28.01.2024 - 23:25 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-28\|2024-01-28]]                                                             | 28.01.2024 - 20:48 |
+| [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                                                     | 28.01.2024 - 20:43 |
+| [[Projects/KawaiiDoro/The History and Evolution of the Pomodoro Technique\|The History and Evolution of the Pomodoro Technique]] | 28.01.2024 - 20:40 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-27\|2024-01-27]]                                                             | 27.01.2024 - 22:24 |
+| [[Coding/Python Basics/49 - File IO\|49 - File IO]]                                                                              | 26.01.2024 - 23:29 |
+| [[Projects/KawaiiDoro/Pomodoro Technique 101\|Pomodoro Technique 101]]                                                           | 26.01.2024 - 18:46 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-26\|2024-01-26]]                                                             | 26.01.2024 - 12:12 |
+| [[Coding/Python Basics/48 - Local vs Global Variables\|48 - Local vs Global Variables]]                                          | 25.01.2024 - 20:43 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-25\|2024-01-25]]                                                             | 25.01.2024 - 20:39 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1538** With over **13,00,000 words**.
+**Live Count: 1542** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
