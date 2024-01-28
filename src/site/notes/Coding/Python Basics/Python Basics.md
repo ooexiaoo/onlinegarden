@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-26T23:30:27.332+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-28T23:26:42.372+05:30"}
 ---
 
 
@@ -44,5 +44,6 @@
 - [[Coding/Python Basics/46 - os Module\|46 - os Module]]
 - [[Coding/Python Basics/48 - Local vs Global Variables\|48 - Local vs Global Variables]]
 - [[Coding/Python Basics/49 - File IO\|49 - File IO]]
+- [[Coding/Python Basics/50 - read, readlines and other methods\|50 - read, readlines and other methods]]
 
 
