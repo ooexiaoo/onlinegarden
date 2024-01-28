@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/49-file-io/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-26T23:29:24.543+05:30","updated":"2024-01-26T23:34:11.682+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/49-file-io/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-26T23:29:24.543+05:30","updated":"2024-01-28T23:28:59.854+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/50 - read, readlines and other methods\|50 - read, readlines and other methods]]
 Down:: [[Coding/Python Basics/48 - Local vs Global Variables\|48 - Local vs Global Variables]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-26 - 23:29==
