@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/50-read-readlines-and-other-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-28T23:25:58.348+05:30","updated":"2024-01-28T23:28:47.216+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/50-read-readlines-and-other-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-28T23:25:58.348+05:30","updated":"2024-01-29T16:53:03.249+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/51 - seek() and tell() functions\|51 - seek() and tell() functions]]
 Down:: [[Coding/Python Basics/49 - File IO\|49 - File IO]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-28 - 23:26==
