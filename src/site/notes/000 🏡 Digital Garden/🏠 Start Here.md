@@ -37,22 +37,25 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                                                                       | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Coding/Python Basics/51 - seek() and tell() functions\|51 - seek() and tell() functions]]                                                                                                                             | 30.01.2024 - 21:19 |
+| [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]                                                                                                                                                   | 30.01.2024 - 21:19 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                                                                                                                   | 30.01.2024 - 21:11 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]]                                                                                                                                                    | 30.01.2024 - 20:59 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                         | 30.01.2024 - 20:57 |
+| [[Projects/KawaiiDoro/KawaiiDoro.com\|KawaiiDoro.com]]                                                                                                                                                                  | 30.01.2024 - 20:57 |
+| [[Projects/Projects\|Projects]]                                                                                                                                                                                         | 30.01.2024 - 20:49 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-29\|2024-01-29]]                                                                                                                                                    | 29.01.2024 - 22:17 |
 | [[Projects/🧓🏻 Insightful Sage/📄 Posts/Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique\|Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique]] | 29.01.2024 - 22:14 |
 | [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                                                                                                                                            | 29.01.2024 - 21:59 |
-| [[📺 Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]                                                                                                                                 | 29.01.2024 - 17:00 |
-| [[Coding/Python Basics/51 - seek() and tell() functions\|51 - seek() and tell() functions]]                                                                                                                             | 29.01.2024 - 16:55 |
-| [[Coding/Python Basics/50 - read, readlines and other methods\|50 - read, readlines and other methods]]                                                                                                                 | 29.01.2024 - 16:53 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                                                                                                                   | 29.01.2024 - 16:52 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-27\|2024-01-27]]                                                                                                                                                    | 29.01.2024 - 16:27 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-28\|2024-01-28]]                                                                                                                                                    | 29.01.2024 - 16:27 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                         | 29.01.2024 - 16:26 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]                                                            | 30.01.2024 - 20:59 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]]                                                             | 30.01.2024 - 20:57 |
+| [[Projects/KawaiiDoro/KawaiiDoro.com\|KawaiiDoro.com]]                                                                           | 30.01.2024 - 20:48 |
 | [[Coding/Python Basics/51 - seek() and tell() functions\|51 - seek() and tell() functions]]                                      | 29.01.2024 - 16:52 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-29\|2024-01-29]]                                                             | 29.01.2024 - 16:26 |
 | [[Projects/KawaiiDoro/Getting Started with Pomodoro\|Getting Started with Pomodoro]]                                             | 29.01.2024 - 14:58 |
@@ -60,9 +63,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-28\|2024-01-28]]                                                             | 28.01.2024 - 20:48 |
 | [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                                                     | 28.01.2024 - 20:43 |
 | [[Projects/KawaiiDoro/The History and Evolution of the Pomodoro Technique\|The History and Evolution of the Pomodoro Technique]] | 28.01.2024 - 20:40 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-27\|2024-01-27]]                                                             | 27.01.2024 - 22:24 |
-| [[Coding/Python Basics/49 - File IO\|49 - File IO]]                                                                              | 26.01.2024 - 23:29 |
-| [[Projects/KawaiiDoro/Pomodoro Technique 101\|Pomodoro Technique 101]]                                                           | 26.01.2024 - 18:46 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1545** With over **13,00,000 words**.
+**Live Count: 1548** With over **13,00,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
