@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/51-seek-and-tell-functions/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-29T16:52:44.119+05:30","updated":"2024-01-29T16:55:50.949+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/51-seek-and-tell-functions/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-29T16:52:44.119+05:30","updated":"2024-01-30T21:19:49.635+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]
 Down:: [[Coding/Python Basics/50 - read, readlines and other methods\|50 - read, readlines and other methods]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-29 - 16:52==
