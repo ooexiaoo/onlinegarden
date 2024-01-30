@@ -6,7 +6,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]                                                            | 30.01.2024 - 20:59 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]]                                                             | 30.01.2024 - 20:57 |
-| [[Projects/KawaiiDoro/KawaiiDoro.com\|KawaiiDoro.com]]                                                                           | 30.01.2024 - 20:48 |
+| [[Projects/KawaiiDoro/KawaiiDoro\|KawaiiDoro]]                                                                                   | 30.01.2024 - 20:48 |
 | [[Coding/Python Basics/51 - seek() and tell() functions\|51 - seek() and tell() functions]]                                      | 29.01.2024 - 16:52 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-29\|2024-01-29]]                                                             | 29.01.2024 - 16:26 |
 | [[Projects/KawaiiDoro/Getting Started with Pomodoro\|Getting Started with Pomodoro]]                                             | 29.01.2024 - 14:58 |
