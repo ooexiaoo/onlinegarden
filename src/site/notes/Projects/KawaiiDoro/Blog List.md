@@ -1,5 +1,5 @@
 ---
-{"wordcount":0,"dg-publish":true,"permalink":"/projects/kawaii-doro/blog-list/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-28T20:43:08.642+05:30","updated":"2024-01-29T21:59:10.536+05:30"}
+{"wordcount":0,"dg-publish":true,"permalink":"/projects/kawaii-doro/blog-list/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-28T20:43:08.642+05:30","updated":"2024-01-30T22:17:11.575+05:30"}
 ---
 
 🧶 Tags:: #Pomodoro #KawaiiDoro 
@@ -9,7 +9,7 @@
 - [x] "Unlocking Productivity: A Comprehensive Guide to the Pomodoro Technique" [[Projects/KawaiiDoro/Pomodoro Technique 101\|Pomodoro Technique 101]]
 - [x] "The History and Evolution of the Pomodoro Technique" [[Projects/KawaiiDoro/The History and Evolution of the Pomodoro Technique\|The History and Evolution of the Pomodoro Technique]]
 - [x] "Pomodoro for Beginners: Getting Started with Time Management" [[Projects/KawaiiDoro/Getting Started with Pomodoro\|Getting Started with Pomodoro]]
-- [ ] "How the Pomodoro Technique Can Transform Your Workday" [[Projects/🧓🏻 Insightful Sage/📄 Posts/Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique\|Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique]]
+- [x] "How the Pomodoro Technique Can Transform Your Workday" [[Projects/🧓🏻 Insightful Sage/📄 Posts/Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique\|Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique]]
 - [ ] "The Science Behind Pomodoro: Boosting Focus and Efficiency"
 - [ ] "Common Mistakes to Avoid When Using the Pomodoro Technique"
 - [ ] "Pomodoro vs. Other Time Management Methods: A Comparison"
