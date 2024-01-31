@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/52-lambda-functions/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-30T20:59:20.605+05:30","updated":"2024-01-30T21:19:44.261+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/52-lambda-functions/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-30T20:59:20.605+05:30","updated":"2024-01-31T20:04:12.104+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/53 - Map, Filter & Reduce\|53 - Map, Filter & Reduce]]
 Down:: [[Coding/Python Basics/51 - seek() and tell() functions\|51 - seek() and tell() functions]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-30 - 20:59==
