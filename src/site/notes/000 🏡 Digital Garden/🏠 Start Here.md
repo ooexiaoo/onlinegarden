@@ -35,24 +35,26 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 ⏳ Here is also a pomodoro timer made by me - [Kawaiidoro](https://pomodoro.insightfulsage.com)
 ### Recently Edited Files
-| File                                                                                           | Last modified      |
-| ---------------------------------------------------------------------------------------------- | ------------------ |
-| [[Coding/Python Basics/53 - Map, Filter & Reduce\|53 - Map, Filter & Reduce]]               | 31.01.2024 - 20:04 |
-| [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]                       | 31.01.2024 - 20:04 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                       | 31.01.2024 - 20:00 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                      | 30.01.2024 - 23:15 |
-| [[Projects/Projects\|Projects]]                                                             | 30.01.2024 - 23:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]]                        | 30.01.2024 - 23:14 |
-| [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                | 30.01.2024 - 22:17 |
-| [[Coding/Python Basics/51 - seek() and tell() functions\|51 - seek() and tell() functions]] | 30.01.2024 - 21:19 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                             | 30.01.2024 - 20:57 |
-| [[Projects/KawaiiDoro/KawaiiDoro\|KawaiiDoro]]                                              | 30.01.2024 - 20:57 |
+| File                                                                                | Last modified      |
+| ----------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-31\|2024-01-31]]             | 31.01.2024 - 22:08 |
+| [[Projects/KawaiiDoro/The Science Behind Pomodoro\|The Science Behind Pomodoro]] | 31.01.2024 - 22:04 |
+| [[Projects/Projects\|Projects]]                                                  | 31.01.2024 - 21:54 |
+| [[Templates/✍🏻 Daily Notes\|✍🏻 Daily Notes]]                                   | 31.01.2024 - 21:43 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                  | 31.01.2024 - 20:18 |
+| [[Coding/Python Basics/53 - Map, Filter & Reduce\|53 - Map, Filter & Reduce]]    | 31.01.2024 - 20:04 |
+| [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]            | 31.01.2024 - 20:04 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                            | 31.01.2024 - 20:00 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                           | 30.01.2024 - 23:15 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]]             | 30.01.2024 - 23:14 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                       | Last modified      |
 | ---------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Projects/KawaiiDoro/The Science Behind Pomodoro\|The Science Behind Pomodoro]]                        | 31.01.2024 - 21:53 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-31\|2024-01-31]]                                    | 31.01.2024 - 20:18 |
 | [[Coding/Python Basics/53 - Map, Filter & Reduce\|53 - Map, Filter & Reduce]]                           | 31.01.2024 - 19:59 |
 | [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]                                   | 30.01.2024 - 20:59 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]]                                    | 30.01.2024 - 20:57 |
@@ -61,8 +63,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-29\|2024-01-29]]                                    | 29.01.2024 - 16:26 |
 | [[Projects/KawaiiDoro/Getting Started with Pomodoro\|Getting Started with Pomodoro]]                    | 29.01.2024 - 14:58 |
 | [[Coding/Python Basics/50 - read, readlines and other methods\|50 - read, readlines and other methods]] | 28.01.2024 - 23:25 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-28\|2024-01-28]]                                    | 28.01.2024 - 20:48 |
-| [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                            | 28.01.2024 - 20:43 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1549** With over **13,22,000 words**.
+**Live Count: 1551** With over **13,22,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
