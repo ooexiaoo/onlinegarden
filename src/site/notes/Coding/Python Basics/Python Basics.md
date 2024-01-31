@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-30T21:11:33.247+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-31T20:00:36.422+05:30"}
 ---
 
 
@@ -47,5 +47,6 @@
 - [[Coding/Python Basics/50 - read, readlines and other methods\|50 - read, readlines and other methods]]
 - [[Coding/Python Basics/51 - seek() and tell() functions\|51 - seek() and tell() functions]]
 - [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]
+- [[Coding/Python Basics/53 - Map, Filter & Reduce\|53 - Map, Filter & Reduce]]
 
 
