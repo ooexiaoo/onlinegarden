@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-01-31T20:00:36.422+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-01T22:45:32.649+05:30"}
 ---
 
 
@@ -48,5 +48,6 @@
 - [[Coding/Python Basics/51 - seek() and tell() functions\|51 - seek() and tell() functions]]
 - [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]
 - [[Coding/Python Basics/53 - Map, Filter & Reduce\|53 - Map, Filter & Reduce]]
+- [[Coding/Python Basics/54 - is vs == in Python\|54 - is vs == in Python]]
 
 
