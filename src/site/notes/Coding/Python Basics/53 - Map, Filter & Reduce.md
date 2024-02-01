@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/53-map-filter-and-reduce/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-31T19:59:11.900+05:30","updated":"2024-01-31T20:04:44.596+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/53-map-filter-and-reduce/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-31T19:59:11.900+05:30","updated":"2024-02-01T22:45:44.879+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/54 - is vs == in Python\|54 - is vs == in Python]]
 Down:: [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-01-31 - 19:59==
