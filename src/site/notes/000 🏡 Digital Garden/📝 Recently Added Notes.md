@@ -4,6 +4,8 @@
 
 | File                                                                                | Last modified      |
 | ----------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-02\|2024-02]]                 | 04.02.2024 - 03:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]]             | 04.02.2024 - 03:26 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]             | 03.02.2024 - 20:55 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-02\|2024-02-02]]             | 02.02.2024 - 17:10 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-01\|2024-02-01]]             | 01.02.2024 - 22:55 |
@@ -12,7 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-31\|2024-01-31]]             | 31.01.2024 - 20:18 |
 | [[Coding/Python Basics/53 - Map, Filter & Reduce\|53 - Map, Filter & Reduce]]    | 31.01.2024 - 19:59 |
 | [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]            | 30.01.2024 - 20:59 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]]             | 30.01.2024 - 20:57 |
-| [[Projects/KawaiiDoro/KawaiiDoro\|KawaiiDoro]]                                   | 30.01.2024 - 20:48 |
 
 { .block-language-dataview}
