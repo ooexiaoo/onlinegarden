@@ -4,8 +4,8 @@
 
 | File                                                                                                                                       | Tags                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| [[Change Your Identity\|Change Your Identity]]                                                                                          | #Fleeting_Notes #🌿                                                                               |
 | [[Chunking\|Chunking]]                                                                                                                  | #Personal_Notes #🌱 #Fleeting_Notes                                                               |
+| [[Change Your Identity\|Change Your Identity]]                                                                                          | #Fleeting_Notes #🌿                                                                               |
 | [[Ask basic questions\|Ask basic questions]]                                                                                            | #Fleeting_Notes #🌱 #Fleeting_Notes                                                               |
 | [[2-Minutes Reset\|2-Minutes Reset]]                                                                                                    | #Fleeting_Notes                                                                                   |
 | [[000 🏡 Digital Garden/Classification Of My Notes\|Classification Of My Notes]]                                                        | #Basics                                                                                           |
@@ -71,8 +71,8 @@
 | [[🌍 Areas/💸 Financial Notes/Taxes\|Taxes]]                                                                                            | <ul><li>#Financial_Freedom</li><li>#WIP</li></ul>                                                 |
 | [[🌍 Areas/📈 Personal Growth/Game Theory\|Game Theory]]                                                                                | #WIP                                                                                              |
 | [[🌍 Areas/📈 Personal Growth/How to focus on things that truly matter\|How to focus on things that truly matter]]                      | #WIP                                                                                              |
-| [[🌍 Areas/📈 Personal Growth/Manifesting\|Manifesting]]                                                                                | #WIP #Personal_Growth                                                                             |
 | [[🌍 Areas/📈 Personal Growth/Mental Models\|Mental Models]]                                                                            | #WIP                                                                                              |
+| [[🌍 Areas/📈 Personal Growth/Manifesting\|Manifesting]]                                                                                | #WIP #Personal_Growth                                                                             |
 | [[🌍 Areas/📧 Personal Notes/Masturbation And Porn\|Masturbation And Porn]]                                                             | #Personal_Notes #WIP                                                                              |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                             | <ul><li>Favorite</li></ul>                                                                        |
 
