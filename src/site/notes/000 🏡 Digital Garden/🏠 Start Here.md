@@ -35,24 +35,26 @@ You can see all the content of the site in the sidebar. Even though this is not 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://anime.insightfulsage.com/)
 
 ### Recently Edited Files
-| File                                                                         | Last modified      |
-| ---------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-02\|2024-02-02]]      | 03.02.2024 - 20:59 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]      | 03.02.2024 - 20:58 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                 | 03.02.2024 - 20:56 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                           | 03.02.2024 - 20:56 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                    | 02.02.2024 - 17:59 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-29\|2024-01-29]]      | 01.02.2024 - 22:57 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]]      | 01.02.2024 - 22:57 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-31\|2024-01-31]]      | 01.02.2024 - 22:56 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-01\|2024-02-01]]      | 01.02.2024 - 22:56 |
-| [[Coding/Python Basics/54 - is vs == in Python\|54 - is vs == in Python]] | 01.02.2024 - 22:47 |
+| File                                                                    | Last modified      |
+| ----------------------------------------------------------------------- | ------------------ |
+| [[⚡ MISC/To Dos\|To Dos]]                                            | 04.02.2024 - 03:38 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-02\|2024-02]]     | 04.02.2024 - 03:35 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 04.02.2024 - 03:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]] | 04.02.2024 - 03:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-02\|2024-02-02]] | 04.02.2024 - 03:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]] | 03.02.2024 - 20:58 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 02.02.2024 - 17:59 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-29\|2024-01-29]] | 01.02.2024 - 22:57 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]] | 01.02.2024 - 22:57 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-31\|2024-01-31]] | 01.02.2024 - 22:56 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                | Last modified      |
 | ----------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-02\|2024-02]]                 | 04.02.2024 - 03:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]]             | 04.02.2024 - 03:26 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]             | 03.02.2024 - 20:55 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-02\|2024-02-02]]             | 02.02.2024 - 17:10 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-01\|2024-02-01]]             | 01.02.2024 - 22:55 |
@@ -61,8 +63,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-31\|2024-01-31]]             | 31.01.2024 - 20:18 |
 | [[Coding/Python Basics/53 - Map, Filter & Reduce\|53 - Map, Filter & Reduce]]    | 31.01.2024 - 19:59 |
 | [[Coding/Python Basics/52 - Lambda Functions\|52 - Lambda Functions]]            | 30.01.2024 - 20:59 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-01-30\|2024-01-30]]             | 30.01.2024 - 20:57 |
-| [[Projects/KawaiiDoro/KawaiiDoro\|KawaiiDoro]]                                   | 30.01.2024 - 20:48 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1555** With over **13,22,000 words**.
+**Live Count: 1557** With over **13,22,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
