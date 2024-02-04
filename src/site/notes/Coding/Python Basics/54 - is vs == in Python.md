@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/54-is-vs-in-python/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-01T22:45:06.147+05:30","updated":"2024-02-01T22:47:23.129+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/54-is-vs-in-python/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-01T22:45:06.147+05:30","updated":"2024-02-04T22:01:33.195+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]
 Down:: [[Coding/Python Basics/53 - Map, Filter & Reduce\|53 - Map, Filter & Reduce]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-01 - 22:45==
