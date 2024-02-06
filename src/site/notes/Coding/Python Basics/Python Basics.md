@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-04T22:02:39.713+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-06T23:28:06.131+05:30"}
 ---
 
 
@@ -51,5 +51,6 @@
 - [[Coding/Python Basics/54 - is vs == in Python\|54 - is vs == in Python]]
 - [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]
 - [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]
+- [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]]
 
 
