@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/56-intro-to-oops/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-04T22:02:05.410+05:30","updated":"2024-02-04T22:19:38.068+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/56-intro-to-oops/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-04T22:02:05.410+05:30","updated":"2024-02-06T23:28:15.516+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]]
 Down:: [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-04 - 22:02==
