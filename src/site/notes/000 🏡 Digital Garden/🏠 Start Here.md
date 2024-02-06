@@ -35,34 +35,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://anime.insightfulsage.com/)
 
 ### Recently Edited Files
-| File                                                                         | Last modified      |
-| ---------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]      | 06.02.2024 - 21:24 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]      | 06.02.2024 - 21:23 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                           | 06.02.2024 - 21:22 |
-| [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]           | 04.02.2024 - 22:19 |
-| [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                 | 04.02.2024 - 22:02 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                     | 04.02.2024 - 22:02 |
-| [[Coding/Python Basics/54 - is vs == in Python\|54 - is vs == in Python]] | 04.02.2024 - 22:01 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]      | 04.02.2024 - 21:52 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]]      | 04.02.2024 - 21:52 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                 | 04.02.2024 - 03:38 |
+| File                                                                           | Last modified      |
+| ------------------------------------------------------------------------------ | ------------------ |
+| [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]] | 06.02.2024 - 23:33 |
+| [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]             | 06.02.2024 - 23:28 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                       | 06.02.2024 - 23:28 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]        | 06.02.2024 - 21:24 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]        | 06.02.2024 - 21:23 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                             | 06.02.2024 - 21:22 |
+| [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                   | 04.02.2024 - 22:02 |
+| [[Coding/Python Basics/54 - is vs == in Python\|54 - is vs == in Python]]   | 04.02.2024 - 22:01 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]        | 04.02.2024 - 21:52 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]]        | 04.02.2024 - 21:52 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                         | Last modified      |
-| ---------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]      | 06.02.2024 - 21:22 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]      | 05.02.2024 - 22:04 |
-| [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]           | 04.02.2024 - 22:02 |
-| [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                 | 04.02.2024 - 22:00 |
-| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-02\|2024-02]]          | 04.02.2024 - 03:26 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]]      | 04.02.2024 - 03:26 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]      | 03.02.2024 - 20:55 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-02\|2024-02-02]]      | 02.02.2024 - 17:10 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-01\|2024-02-01]]      | 01.02.2024 - 22:55 |
-| [[Coding/Python Basics/54 - is vs == in Python\|54 - is vs == in Python]] | 01.02.2024 - 22:45 |
+| File                                                                           | Last modified      |
+| ------------------------------------------------------------------------------ | ------------------ |
+| [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]] | 06.02.2024 - 23:27 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]        | 06.02.2024 - 21:22 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]        | 05.02.2024 - 22:04 |
+| [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]             | 04.02.2024 - 22:02 |
+| [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                   | 04.02.2024 - 22:00 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-02\|2024-02]]            | 04.02.2024 - 03:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]]        | 04.02.2024 - 03:26 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]        | 03.02.2024 - 20:55 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-02\|2024-02-02]]        | 02.02.2024 - 17:10 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-01\|2024-02-01]]        | 01.02.2024 - 22:55 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1561** With over **13,22,000 words**.
+**Live Count: 1562** With over **13,22,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
