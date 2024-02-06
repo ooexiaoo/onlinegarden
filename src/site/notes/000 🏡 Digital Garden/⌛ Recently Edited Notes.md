@@ -4,6 +4,9 @@
 
 | File                                                                         | Last modified      |
 | ---------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]      | 06.02.2024 - 21:24 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]      | 06.02.2024 - 21:23 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                           | 06.02.2024 - 21:22 |
 | [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]           | 04.02.2024 - 22:19 |
 | [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                 | 04.02.2024 - 22:02 |
 | [[Coding/Python Basics/Python Basics\|Python Basics]]                     | 04.02.2024 - 22:02 |
@@ -11,8 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]      | 04.02.2024 - 21:52 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]]      | 04.02.2024 - 21:52 |
 | [[⚡ MISC/To Dos\|To Dos]]                                                 | 04.02.2024 - 03:38 |
-| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-02\|2024-02]]          | 04.02.2024 - 03:35 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                           | 04.02.2024 - 03:26 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-02\|2024-02-02]]      | 04.02.2024 - 03:26 |
 
 { .block-language-dataview}
