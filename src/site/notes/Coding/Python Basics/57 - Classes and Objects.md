@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/57-classes-and-objects/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-06T23:27:48.242+05:30","updated":"2024-02-06T23:33:16.399+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/57-classes-and-objects/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-06T23:27:48.242+05:30","updated":"2024-02-08T00:15:03.462+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]
 Down:: [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-06 - 23:27==
