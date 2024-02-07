@@ -4,6 +4,7 @@
 
 | File                                                                           | Last modified      |
 | ------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-07\|2024-02-07]]        | 07.02.2024 - 22:02 |
 | [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]] | 06.02.2024 - 23:27 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]        | 06.02.2024 - 21:22 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]        | 05.02.2024 - 22:04 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]]        | 04.02.2024 - 03:26 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]        | 03.02.2024 - 20:55 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-02\|2024-02-02]]        | 02.02.2024 - 17:10 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-01\|2024-02-01]]        | 01.02.2024 - 22:55 |
 
 { .block-language-dataview}
