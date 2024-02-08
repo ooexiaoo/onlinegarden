@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-01-14T17:08:15.692+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-02-08T22:51:28.717+05:30"}
 ---
 
 
@@ -37,6 +37,7 @@
 - [[📺 Media DB/series/Initial D Extra Stage 2 (2008)\|Initial D Extra Stage 2 (2008)]]
 - [[📺 Media DB/series/Initial D First Stage (1998)\|Initial D First Stage (1998)]]
 - [[📺 Media DB/series/Initial D Second Stage (1999)\|Initial D Second Stage (1999)]]
+- [[📺 Media DB/series/Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)\|Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)]]
 - [[📺 Media DB/series/Isekai Nonbiri Nouka (2023)\|Isekai Nonbiri Nouka (2023)]]
 - [[📺 Media DB/series/Kage no Jitsuryokusha ni Naritakute! (2022)\|Kage no Jitsuryokusha ni Naritakute! (2022)]]
 - [[📺 Media DB/series/Kage no Jitsuryokusha ni Naritakute! 2nd Season (2023)\|Kage no Jitsuryokusha ni Naritakute! 2nd Season (2023)]]
