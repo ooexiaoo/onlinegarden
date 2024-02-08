@@ -35,34 +35,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://anime.insightfulsage.com/)
 
 ### Recently Edited Files
-| File                                                                           | Last modified      |
-| ------------------------------------------------------------------------------ | ------------------ |
-| [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]               | 08.02.2024 - 00:17 |
-| [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]] | 08.02.2024 - 00:15 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                       | 08.02.2024 - 00:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-07\|2024-02-07]]        | 07.02.2024 - 22:06 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                             | 07.02.2024 - 22:03 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                   | 07.02.2024 - 22:02 |
-| [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]             | 06.02.2024 - 23:28 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]        | 06.02.2024 - 21:24 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]        | 06.02.2024 - 21:23 |
-| [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                   | 04.02.2024 - 22:02 |
+| File                                                                                                                                                                                                                                                         | Last modified      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[📺 Media DB/series/Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)\|Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)]] | 08.02.2024 - 23:02 |
+| [[📺 Media DB/series/series\|series]]                                                                                                                                                                                                                     | 08.02.2024 - 22:51 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-08\|2024-02-08]]                                                                                                                                                                                      | 08.02.2024 - 22:36 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-07\|2024-02-07]]                                                                                                                                                                                      | 08.02.2024 - 21:13 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                           | 08.02.2024 - 21:12 |
+| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                                                                                                                                 | 08.02.2024 - 21:12 |
+| [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]                                                                                                                                                                                             | 08.02.2024 - 00:17 |
+| [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]]                                                                                                                                                                               | 08.02.2024 - 00:15 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                                                                                                                                                     | 08.02.2024 - 00:14 |
+| [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]                                                                                                                                                                                           | 06.02.2024 - 23:28 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                           | Last modified      |
-| ------------------------------------------------------------------------------ | ------------------ |
-| [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]               | 08.02.2024 - 00:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-07\|2024-02-07]]        | 07.02.2024 - 22:02 |
-| [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]] | 06.02.2024 - 23:27 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]        | 06.02.2024 - 21:22 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]        | 05.02.2024 - 22:04 |
-| [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]             | 04.02.2024 - 22:02 |
-| [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                   | 04.02.2024 - 22:00 |
-| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-02\|2024-02]]            | 04.02.2024 - 03:26 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-04\|2024-02-04]]        | 04.02.2024 - 03:26 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-03\|2024-02-03]]        | 03.02.2024 - 20:55 |
+| File                                                                                                                                                                                                                                                         | Last modified      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[📺 Media DB/series/Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)\|Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)]] | 08.02.2024 - 22:51 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-08\|2024-02-08]]                                                                                                                                                                                      | 08.02.2024 - 21:12 |
+| [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]                                                                                                                                                                                             | 08.02.2024 - 00:14 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-07\|2024-02-07]]                                                                                                                                                                                      | 07.02.2024 - 22:02 |
+| [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]]                                                                                                                                                                               | 06.02.2024 - 23:27 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]                                                                                                                                                                                      | 06.02.2024 - 21:22 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]                                                                                                                                                                                      | 05.02.2024 - 22:04 |
+| [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]                                                                                                                                                                                           | 04.02.2024 - 22:02 |
+| [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                                                                                                                                                                                                 | 04.02.2024 - 22:00 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-02\|2024-02]]                                                                                                                                                                                          | 04.02.2024 - 03:26 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1564** With over **13,22,000 words**.
+**Live Count: 1566** With over **13,22,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
