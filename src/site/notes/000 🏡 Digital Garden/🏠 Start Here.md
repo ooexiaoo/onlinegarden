@@ -37,6 +37,8 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                                                                                                         | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                                      | 10.02.2024 - 02:04 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                           | 10.02.2024 - 01:58 |
 | [[Projects/KawaiiDoro/KawaiiDoro\|KawaiiDoro]]                                                                                                                                                                                                            | 09.02.2024 - 22:41 |
 | [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                                                                                                                     | 09.02.2024 - 22:23 |
 | [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                                   | 09.02.2024 - 22:22 |
@@ -45,14 +47,13 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[📺 Media DB/series/series\|series]]                                                                                                                                                                                                                     | 08.02.2024 - 22:51 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-08\|2024-02-08]]                                                                                                                                                                                      | 08.02.2024 - 22:36 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-07\|2024-02-07]]                                                                                                                                                                                      | 08.02.2024 - 21:13 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                           | 08.02.2024 - 21:12 |
-| [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]                                                                                                                                                                                             | 08.02.2024 - 00:17 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                                                                                                                         | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                                      | 10.02.2024 - 01:58 |
 | [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                                   | 09.02.2024 - 22:12 |
 | [[📺 Media DB/series/Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)\|Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)]] | 08.02.2024 - 22:51 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-08\|2024-02-08]]                                                                                                                                                                                      | 08.02.2024 - 21:12 |
@@ -62,7 +63,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]                                                                                                                                                                                      | 06.02.2024 - 21:22 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]                                                                                                                                                                                      | 05.02.2024 - 22:04 |
 | [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]                                                                                                                                                                                           | 04.02.2024 - 22:02 |
-| [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                                                                                                                                                                                                 | 04.02.2024 - 22:00 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1567** With over **13,22,000 words**.
+**Live Count: 1568** With over **13,22,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
