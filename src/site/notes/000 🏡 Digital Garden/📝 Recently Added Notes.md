@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                                                                                                                         | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                                      | 10.02.2024 - 01:58 |
 | [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                                   | 09.02.2024 - 22:12 |
 | [[📺 Media DB/series/Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)\|Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)]] | 08.02.2024 - 22:51 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-08\|2024-02-08]]                                                                                                                                                                                      | 08.02.2024 - 21:12 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]                                                                                                                                                                                      | 06.02.2024 - 21:22 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]                                                                                                                                                                                      | 05.02.2024 - 22:04 |
 | [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]                                                                                                                                                                                           | 04.02.2024 - 22:02 |
-| [[Coding/Python Basics/55 - Exercise 5\|55 - Exercise 5]]                                                                                                                                                                                                 | 04.02.2024 - 22:00 |
 
 { .block-language-dataview}
