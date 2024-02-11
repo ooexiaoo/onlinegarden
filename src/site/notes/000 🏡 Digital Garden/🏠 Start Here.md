@@ -37,22 +37,23 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                                                                                                         | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                                      | 12.02.2024 - 05:08 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                           | 12.02.2024 - 05:06 |
+| [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                                                                                                                                                                              | 11.02.2024 - 12:12 |
 | [[⚡ MISC/To Dos\|To Dos]]                                                                                                                                                                                                                                 | 11.02.2024 - 02:09 |
 | [[📺 Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]                                                                                                                                                                   | 10.02.2024 - 11:29 |
 | [[📺 Media DB/series/Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)\|Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)]] | 10.02.2024 - 11:27 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                                      | 10.02.2024 - 11:26 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                           | 10.02.2024 - 01:58 |
 | [[Projects/KawaiiDoro/KawaiiDoro\|KawaiiDoro]]                                                                                                                                                                                                            | 09.02.2024 - 22:41 |
 | [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                                                                                                                     | 09.02.2024 - 22:23 |
 | [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                                   | 09.02.2024 - 22:22 |
-| [[📺 Media DB/series/series\|series]]                                                                                                                                                                                                                     | 08.02.2024 - 22:51 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-08\|2024-02-08]]                                                                                                                                                                                      | 08.02.2024 - 22:36 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                                                                                                                         | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                                      | 12.02.2024 - 05:06 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                                      | 10.02.2024 - 01:58 |
 | [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                                   | 09.02.2024 - 22:12 |
 | [[📺 Media DB/series/Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)\|Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)]] | 08.02.2024 - 22:51 |
@@ -62,7 +63,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]]                                                                                                                                                                               | 06.02.2024 - 23:27 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]                                                                                                                                                                                      | 06.02.2024 - 21:22 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]                                                                                                                                                                                      | 05.02.2024 - 22:04 |
-| [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]                                                                                                                                                                                           | 04.02.2024 - 22:02 |
 
 { .block-language-dataview}
 
@@ -86,5 +86,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1568** With over **13,22,000 words**.
+**Live Count: 1569** With over **13,22,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
