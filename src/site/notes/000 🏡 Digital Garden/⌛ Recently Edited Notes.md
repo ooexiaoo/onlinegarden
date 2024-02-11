@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                                                                                                                         | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                                                                                                                    | 12.02.2024 - 05:14 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                                      | 12.02.2024 - 05:08 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                           | 12.02.2024 - 05:06 |
 | [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                                                                                                                                                                              | 11.02.2024 - 12:12 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                                      | 10.02.2024 - 11:26 |
 | [[Projects/KawaiiDoro/KawaiiDoro\|KawaiiDoro]]                                                                                                                                                                                                            | 09.02.2024 - 22:41 |
 | [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                                                                                                                     | 09.02.2024 - 22:23 |
-| [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                                   | 09.02.2024 - 22:22 |
 
 { .block-language-dataview}
