@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-02T17:59:00.230+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-12T05:14:57.221+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -32,11 +32,16 @@ You can see all the content of the site in the sidebar. Even though this is not 
 
 🎥 You can also see my [[📺 Media DB/📺 Anime List 2024\|📺 Anime List 2024]] and [[📺 Media DB/📺 Movies 2023\|📺 Movies 2023]].
 
-📺 I've deployed an anime site, if you want to watch some anime without ads - [Animexia](https://anime.insightfulsage.com/)
+### List of subdomains -
+| Name | Site |
+| ---- | ---- |
+| Password Generator | https://password.insightfulsage.com |
+| Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
 | File                                                                                                                                                                                                                                                         | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                                                                                                                    | 12.02.2024 - 05:14 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                                      | 12.02.2024 - 05:08 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                           | 12.02.2024 - 05:06 |
 | [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                                                                                                                                                                              | 11.02.2024 - 12:12 |
@@ -46,7 +51,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                                      | 10.02.2024 - 11:26 |
 | [[Projects/KawaiiDoro/KawaiiDoro\|KawaiiDoro]]                                                                                                                                                                                                            | 09.02.2024 - 22:41 |
 | [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                                                                                                                     | 09.02.2024 - 22:23 |
-| [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                                   | 09.02.2024 - 22:22 |
 
 { .block-language-dataview}
 
@@ -86,5 +90,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1569** With over **13,22,000 words**.
+**Live Count: 1569** With over **13,35,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
