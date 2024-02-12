@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-08T00:14:52.550+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-12T11:29:47.711+05:30"}
 ---
 
 
@@ -53,5 +53,6 @@
 - [[Coding/Python Basics/56 - Intro to oops\|56 - Intro to oops]]
 - [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]]
 - [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]
+- [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]
 
 
