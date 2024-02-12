@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-02-08T22:51:28.717+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-02-12T12:10:06.007+05:30"}
 ---
 
 
@@ -13,6 +13,7 @@
 - [[📺 Media DB/series/Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta (2023)\|Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta (2023)]]
 - [[📺 Media DB/series/Bubblegum Crisis (1987)\|Bubblegum Crisis (1987)]]
 - [[📺 Media DB/series/Buddy Daddies (2023)\|Buddy Daddies (2023)]]
+- [[📺 Media DB/series/Chiyu Mahou no Machigatta Tsukaikata (2024)\|Chiyu Mahou no Machigatta Tsukaikata (2024)]]
 - [[📺 Media DB/series/Cool Doji Danshi (2022)\|Cool Doji Danshi (2022)]]
 - [[📺 Media DB/series/Cross Ange - Tenshi to Ryuu no Rondo (2014)\|Cross Ange - Tenshi to Ryuu no Rondo (2014)]]
 - [[📺 Media DB/series/Cyberpunk - Edgerunners (2022)\|Cyberpunk - Edgerunners (2022)]]
@@ -47,7 +48,9 @@
 - [[📺 Media DB/series/Kimi wa Houkago Insomnia (2023)\|Kimi wa Houkago Insomnia (2023)]]
 - [[📺 Media DB/series/Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu (2023)\|Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu (2023)]]
 - [[📺 Media DB/series/Kusuriya no Hitorigoto (2023)\|Kusuriya no Hitorigoto (2023)]]
+- [[📺 Media DB/series/Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)\|Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)]]
 - [[📺 Media DB/series/Lv1 Maou to One Room Yuusha (2023)\|Lv1 Maou to One Room Yuusha (2023)]]
+- [[📺 Media DB/series/Mahou Shoujo ni Akogarete (2024)\|Mahou Shoujo ni Akogarete (2024)]]
 - [[📺 Media DB/series/Mashle (2023)\|Mashle (2023)]]
 - [[📺 Media DB/series/Mato Seihei no Slave (2024)\|Mato Seihei no Slave (2024)]]
 - [[📺 Media DB/series/MF Ghost (2023)\|MF Ghost (2023)]]
@@ -55,6 +58,7 @@
 - [[📺 Media DB/series/Mushoku Tensei II - Isekai Ittara Honki Dasu (2023)\|Mushoku Tensei II - Isekai Ittara Honki Dasu (2023)]]
 - [[📺 Media DB/series/My Home Hero (2023)\|My Home Hero (2023)]]
 - [[📺 Media DB/series/Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)\|Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu (2023)]]
+- [[📺 Media DB/series/Ninja Kamui (2024)\|Ninja Kamui (2024)]]
 - [[📺 Media DB/series/NipTuck (2003–2010)\|NipTuck (2003–2010)]]
 - [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]]
 - [[📺 Media DB/series/Ooyukiumi no Kaina (2023)\|Ooyukiumi no Kaina (2023)]]
