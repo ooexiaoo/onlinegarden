@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                                                                                                                         | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]                                                                                                                                                                             | 12.02.2024 - 11:29 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                                      | 12.02.2024 - 05:06 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                                      | 10.02.2024 - 01:58 |
 | [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                                   | 09.02.2024 - 22:12 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-07\|2024-02-07]]                                                                                                                                                                                      | 07.02.2024 - 22:02 |
 | [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]]                                                                                                                                                                               | 06.02.2024 - 23:27 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-06\|2024-02-06]]                                                                                                                                                                                      | 06.02.2024 - 21:22 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-05\|2024-02-05]]                                                                                                                                                                                      | 05.02.2024 - 22:04 |
 
 { .block-language-dataview}
