@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/58-constructors/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-08T00:14:39.548+05:30","updated":"2024-02-08T00:17:42.734+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/58-constructors/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-08T00:14:39.548+05:30","updated":"2024-02-12T11:29:57.173+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]
 Down:: [[Coding/Python Basics/57 - Classes and Objects\|57 - Classes and Objects]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-08 - 00:14==
