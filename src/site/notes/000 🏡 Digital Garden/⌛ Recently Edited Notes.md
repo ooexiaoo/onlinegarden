@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
-| File                                                                               | Last modified      |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| [[Coding/Python Basics/60 - Getters and Setters\|60 - Getters and Setters]]     | 12.02.2024 - 11:43 |
-| [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]   | 12.02.2024 - 11:39 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                           | 12.02.2024 - 11:39 |
-| [[📺 Media DB/AVN/Eternum\|Eternum]]                                            | 12.02.2024 - 11:37 |
-| [[📺 Media DB/Manhwa/Staying with Ajumma\|Staying with Ajumma]]                 | 12.02.2024 - 11:37 |
-| [[📺 Media DB/Manhwa/Manhwa\|Manhwa]]                                           | 12.02.2024 - 11:37 |
-| [[📺 Media DB/Manhwa/Keep This A Secret From Mom\|Keep This A Secret From Mom]] | 12.02.2024 - 11:37 |
-| [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]                   | 12.02.2024 - 11:29 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                          | 12.02.2024 - 05:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]            | 12.02.2024 - 05:08 |
+| File                                                                                                                                                                                                                                                 | Last modified      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]]                                                                                                                                                     | 12.02.2024 - 12:14 |
+| [[📺 Media DB/series/Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)\|Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)]] | 12.02.2024 - 12:13 |
+| [[📺 Media DB/series/series\|series]]                                                                                                                                                                                                             | 12.02.2024 - 12:10 |
+| [[📺 Media DB/series/Chiyu Mahou no Machigatta Tsukaikata (2024)\|Chiyu Mahou no Machigatta Tsukaikata (2024)]]                                                                                                                                   | 12.02.2024 - 12:09 |
+| [[📺 Media DB/series/Mahou Shoujo ni Akogarete (2024)\|Mahou Shoujo ni Akogarete (2024)]]                                                                                                                                                         | 12.02.2024 - 12:05 |
+| [[📺 Media DB/series/Ninja Kamui (2024)\|Ninja Kamui (2024)]]                                                                                                                                                                                     | 12.02.2024 - 12:01 |
+| [[Coding/Python Basics/60 - Getters and Setters\|60 - Getters and Setters]]                                                                                                                                                                       | 12.02.2024 - 11:43 |
+| [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]                                                                                                                                                                     | 12.02.2024 - 11:39 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                                                                                                                                             | 12.02.2024 - 11:39 |
+| [[📺 Media DB/AVN/Eternum\|Eternum]]                                                                                                                                                                                                              | 12.02.2024 - 11:37 |
 
 { .block-language-dataview}
