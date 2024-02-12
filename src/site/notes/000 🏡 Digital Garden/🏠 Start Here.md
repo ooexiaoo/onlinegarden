@@ -39,18 +39,18 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                                                                                                                                                         | Last modified      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]                                                                                                                                                                             | 12.02.2024 - 11:34 |
-| [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]                                                                                                                                                                                             | 12.02.2024 - 11:29 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                                                                                                                                                     | 12.02.2024 - 11:29 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                                                                                                                    | 12.02.2024 - 05:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                                      | 12.02.2024 - 05:08 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                           | 12.02.2024 - 05:06 |
-| [[Projects/KawaiiDoro/Blog List\|Blog List]]                                                                                                                                                                                                              | 11.02.2024 - 12:12 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                                                                                                                                 | 11.02.2024 - 02:09 |
-| [[📺 Media DB/series/Ore dake Level Up na Ken (2024)\|Ore dake Level Up na Ken (2024)]]                                                                                                                                                                   | 10.02.2024 - 11:29 |
-| [[📺 Media DB/series/Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)\|Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta (2023)]] | 10.02.2024 - 11:27 |
+| File                                                                               | Last modified      |
+| ---------------------------------------------------------------------------------- | ------------------ |
+| [[📺 Media DB/AVN/Eternum\|Eternum]]                                            | 12.02.2024 - 11:37 |
+| [[📺 Media DB/Manhwa/Staying with Ajumma\|Staying with Ajumma]]                 | 12.02.2024 - 11:37 |
+| [[📺 Media DB/Manhwa/Manhwa\|Manhwa]]                                           | 12.02.2024 - 11:37 |
+| [[📺 Media DB/Manhwa/Keep This A Secret From Mom\|Keep This A Secret From Mom]] | 12.02.2024 - 11:37 |
+| [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]   | 12.02.2024 - 11:34 |
+| [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]                   | 12.02.2024 - 11:29 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                           | 12.02.2024 - 11:29 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                          | 12.02.2024 - 05:14 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]            | 12.02.2024 - 05:08 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                 | 12.02.2024 - 05:06 |
 
 { .block-language-dataview}
 
