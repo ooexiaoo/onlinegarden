@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/61-inheritance-in-python/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-13T17:53:28.615+05:30","updated":"2024-02-13T18:09:38.546+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/61-inheritance-in-python/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-13T17:53:28.615+05:30","updated":"2024-02-13T20:10:36.952+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/62 - Access Specifiers\|62 - Access Specifiers]]
 Down:: [[Coding/Python Basics/60 - Getters and Setters\|60 - Getters and Setters]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-13 - 17:53==
