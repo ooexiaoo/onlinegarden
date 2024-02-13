@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Coding/Python Basics/61 - Inheritance in Python\|61 - Inheritance in Python]]                                                                                                                                                                   | 13.02.2024 - 17:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-13\|2024-02-13]]                                                                                                                                                                              | 13.02.2024 - 15:07 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-11\|2024-02-11]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
 | [[📺 Media DB/series/Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)\|Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)]] | 12.02.2024 - 12:10 |
@@ -13,6 +14,5 @@
 | [[Coding/Python Basics/60 - Getters and Setters\|60 - Getters and Setters]]                                                                                                                                                                       | 12.02.2024 - 11:38 |
 | [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]                                                                                                                                                                     | 12.02.2024 - 11:29 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                              | 12.02.2024 - 05:06 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                              | 10.02.2024 - 01:58 |
 
 { .block-language-dataview}
