@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-12T11:39:12.758+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-13T17:53:36.820+05:30"}
 ---
 
 
@@ -55,5 +55,6 @@
 - [[Coding/Python Basics/58 - Constructors\|58 - Constructors]]
 - [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]
 - [[Coding/Python Basics/60 - Getters and Setters\|60 - Getters and Setters]]
+- [[Coding/Python Basics/61 - Inheritance in Python\|61 - Inheritance in Python]]
 
 
