@@ -41,22 +41,23 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-13\|2024-02-13]]                                                                                                                                                                              | 13.02.2024 - 15:08 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                   | 13.02.2024 - 15:07 |
 | [[⚡ MISC/To Dos\|To Dos]]                                                                                                                                                                                                                         | 13.02.2024 - 14:44 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-11\|2024-02-11]]                                                                                                                                                                              | 12.02.2024 - 17:54 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                   | 12.02.2024 - 17:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-08\|2024-02-08]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
 | [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]]                                                                                                                                                     | 12.02.2024 - 12:14 |
 | [[📺 Media DB/series/Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)\|Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)]] | 12.02.2024 - 12:13 |
 | [[📺 Media DB/series/series\|series]]                                                                                                                                                                                                             | 12.02.2024 - 12:10 |
-| [[📺 Media DB/series/Chiyu Mahou no Machigatta Tsukaikata (2024)\|Chiyu Mahou no Machigatta Tsukaikata (2024)]]                                                                                                                                   | 12.02.2024 - 12:09 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-13\|2024-02-13]]                                                                                                                                                                              | 13.02.2024 - 15:07 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-11\|2024-02-11]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
 | [[📺 Media DB/series/Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)\|Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)]] | 12.02.2024 - 12:10 |
 | [[📺 Media DB/series/Chiyu Mahou no Machigatta Tsukaikata (2024)\|Chiyu Mahou no Machigatta Tsukaikata (2024)]]                                                                                                                                   | 12.02.2024 - 12:06 |
@@ -66,7 +67,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]                                                                                                                                                                     | 12.02.2024 - 11:29 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                              | 12.02.2024 - 05:06 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                              | 10.02.2024 - 01:58 |
-| [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                           | 09.02.2024 - 22:12 |
 
 { .block-language-dataview}
 
@@ -90,5 +90,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1576** With over **13,35,000 words**.
+**Live Count: 1577** With over **13,35,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
