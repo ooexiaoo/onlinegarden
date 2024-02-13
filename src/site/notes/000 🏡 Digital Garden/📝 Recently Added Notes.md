@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-13\|2024-02-13]]                                                                                                                                                                              | 13.02.2024 - 15:07 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-11\|2024-02-11]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
 | [[📺 Media DB/series/Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)\|Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)]] | 12.02.2024 - 12:10 |
 | [[📺 Media DB/series/Chiyu Mahou no Machigatta Tsukaikata (2024)\|Chiyu Mahou no Machigatta Tsukaikata (2024)]]                                                                                                                                   | 12.02.2024 - 12:06 |
@@ -13,6 +14,5 @@
 | [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]                                                                                                                                                                     | 12.02.2024 - 11:29 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                              | 12.02.2024 - 05:06 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                              | 10.02.2024 - 01:58 |
-| [[Excalidraw/Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw\|Pomodoro Concentration Graph 2024-02-09 22.12.18.excalidraw]]                                                                                                           | 09.02.2024 - 22:12 |
 
 { .block-language-dataview}
