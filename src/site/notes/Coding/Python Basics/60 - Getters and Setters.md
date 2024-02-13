@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/60-getters-and-setters/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-12T11:38:50.444+05:30","updated":"2024-02-12T11:43:33.690+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/60-getters-and-setters/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-12T11:38:50.444+05:30","updated":"2024-02-13T17:59:12.575+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/61 - Inheritance in Python\|61 - Inheritance in Python]]
 Down:: [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-12 - 11:38==
