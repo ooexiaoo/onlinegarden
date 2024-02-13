@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
-| File                                                                                                                                                                                                                                                 | Last modified      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-13\|2024-02-13]]                                                                                                                                                                              | 13.02.2024 - 15:08 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                   | 13.02.2024 - 15:07 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                                                                                                                         | 13.02.2024 - 14:44 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-11\|2024-02-11]]                                                                                                                                                                              | 12.02.2024 - 17:54 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-08\|2024-02-08]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
-| [[📺 Media DB/series/Nozomanu Fushi no Boukensha (2024)\|Nozomanu Fushi no Boukensha (2024)]]                                                                                                                                                     | 12.02.2024 - 12:14 |
-| [[📺 Media DB/series/Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)\|Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)]] | 12.02.2024 - 12:13 |
-| [[📺 Media DB/series/series\|series]]                                                                                                                                                                                                             | 12.02.2024 - 12:10 |
+| File                                                                               | Last modified      |
+| ---------------------------------------------------------------------------------- | ------------------ |
+| [[Coding/Python Basics/61 - Inheritance in Python\|61 - Inheritance in Python]] | 13.02.2024 - 18:09 |
+| [[Coding/Python Basics/60 - Getters and Setters\|60 - Getters and Setters]]     | 13.02.2024 - 17:59 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                           | 13.02.2024 - 17:53 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-13\|2024-02-13]]            | 13.02.2024 - 15:08 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                 | 13.02.2024 - 15:07 |
+| [[⚡ MISC/To Dos\|To Dos]]                                                       | 13.02.2024 - 14:44 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-11\|2024-02-11]]            | 12.02.2024 - 17:54 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]            | 12.02.2024 - 17:53 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-09\|2024-02-09]]            | 12.02.2024 - 17:53 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-08\|2024-02-08]]            | 12.02.2024 - 17:53 |
 
 { .block-language-dataview}
