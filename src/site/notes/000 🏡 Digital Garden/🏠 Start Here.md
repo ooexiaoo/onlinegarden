@@ -41,6 +41,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                                                                                                                         | 13.02.2024 - 14:44 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-11\|2024-02-11]]                                                                                                                                                                              | 12.02.2024 - 17:54 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                   | 12.02.2024 - 17:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-10\|2024-02-10]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
@@ -50,7 +51,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[📺 Media DB/series/Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)\|Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)]] | 12.02.2024 - 12:13 |
 | [[📺 Media DB/series/series\|series]]                                                                                                                                                                                                             | 12.02.2024 - 12:10 |
 | [[📺 Media DB/series/Chiyu Mahou no Machigatta Tsukaikata (2024)\|Chiyu Mahou no Machigatta Tsukaikata (2024)]]                                                                                                                                   | 12.02.2024 - 12:09 |
-| [[📺 Media DB/series/Mahou Shoujo ni Akogarete (2024)\|Mahou Shoujo ni Akogarete (2024)]]                                                                                                                                                         | 12.02.2024 - 12:05 |
 
 { .block-language-dataview}
 
