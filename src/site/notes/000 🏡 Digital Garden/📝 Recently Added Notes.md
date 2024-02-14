@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Projects/KawaiiDoro/How Concentration Levels With Go Down With & Without Pomodoro\|How Concentration Levels With Go Down With & Without Pomodoro]]                                                                                              | 14.02.2024 - 08:29 |
 | [[Coding/Python Basics/62 - Access Specifiers\|62 - Access Specifiers]]                                                                                                                                                                           | 13.02.2024 - 20:10 |
 | [[Coding/Python Basics/61 - Inheritance in Python\|61 - Inheritance in Python]]                                                                                                                                                                   | 13.02.2024 - 17:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-13\|2024-02-13]]                                                                                                                                                                              | 13.02.2024 - 15:07 |
@@ -13,6 +14,5 @@
 | [[📺 Media DB/series/Mahou Shoujo ni Akogarete (2024)\|Mahou Shoujo ni Akogarete (2024)]]                                                                                                                                                         | 12.02.2024 - 12:03 |
 | [[📺 Media DB/series/Ninja Kamui (2024)\|Ninja Kamui (2024)]]                                                                                                                                                                                     | 12.02.2024 - 11:58 |
 | [[Coding/Python Basics/60 - Getters and Setters\|60 - Getters and Setters]]                                                                                                                                                                       | 12.02.2024 - 11:38 |
-| [[Coding/Python Basics/59 - Decorators in Python\|59 - Decorators in Python]]                                                                                                                                                                     | 12.02.2024 - 11:29 |
 
 { .block-language-dataview}
