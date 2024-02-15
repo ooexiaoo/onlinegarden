@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/62-access-specifiers/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-13T20:10:08.587+05:30","updated":"2024-02-13T20:19:56.453+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/62-access-specifiers/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-13T20:10:08.587+05:30","updated":"2024-02-15T18:30:38.714+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/63 Exercise 5 - Solution\|63 Exercise 5 - Solution]]
 Down:: [[Coding/Python Basics/61 - Inheritance in Python\|61 - Inheritance in Python]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-13 - 20:10==
