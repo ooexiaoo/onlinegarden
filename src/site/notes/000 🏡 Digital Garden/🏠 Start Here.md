@@ -41,22 +41,25 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                            | 14.02.2024 - 17:41 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-15\|2024-02-15]]                                                                                 | 15.02.2024 - 12:16 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-14\|2024-02-14]]                                                                                 | 15.02.2024 - 12:15 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                      | 15.02.2024 - 12:14 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-13\|2024-02-13]]                                                                                 | 15.02.2024 - 12:14 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-12\|2024-02-12]]                                                                                 | 15.02.2024 - 12:14 |
+| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                | 15.02.2024 - 12:13 |
+| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                            | 15.02.2024 - 12:12 |
 | [[Projects/Projects\|Projects]]                                                                                                                      | 14.02.2024 - 08:30 |
 | [[Projects/KawaiiDoro/How Concentration Levels With Go Down With & Without Pomodoro\|How Concentration Levels With Go Down With & Without Pomodoro]] | 14.02.2024 - 08:30 |
 | [[Coding/Python Basics/62 - Access Specifiers\|62 - Access Specifiers]]                                                                              | 13.02.2024 - 20:19 |
-| [[Coding/Python Basics/61 - Inheritance in Python\|61 - Inheritance in Python]]                                                                      | 13.02.2024 - 20:10 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                                                | 13.02.2024 - 20:10 |
-| [[Coding/Python Basics/60 - Getters and Setters\|60 - Getters and Setters]]                                                                          | 13.02.2024 - 17:59 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-13\|2024-02-13]]                                                                                 | 13.02.2024 - 15:08 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                      | 13.02.2024 - 15:07 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-11\|2024-02-11]]                                                                                 | 12.02.2024 - 17:54 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-14\|2024-02-14]]                                                                                                                                                                              | 15.02.2024 - 12:14 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-12\|2024-02-12]]                                                                                                                                                                              | 15.02.2024 - 12:13 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-15\|2024-02-15]]                                                                                                                                                                              | 15.02.2024 - 12:13 |
 | [[Projects/KawaiiDoro/How Concentration Levels With Go Down With & Without Pomodoro\|How Concentration Levels With Go Down With & Without Pomodoro]]                                                                                              | 14.02.2024 - 08:29 |
 | [[Coding/Python Basics/62 - Access Specifiers\|62 - Access Specifiers]]                                                                                                                                                                           | 13.02.2024 - 20:10 |
 | [[Coding/Python Basics/61 - Inheritance in Python\|61 - Inheritance in Python]]                                                                                                                                                                   | 13.02.2024 - 17:53 |
@@ -64,9 +67,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-11\|2024-02-11]]                                                                                                                                                                              | 12.02.2024 - 17:53 |
 | [[📺 Media DB/series/Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)\|Loop 7-kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru (2024)]] | 12.02.2024 - 12:10 |
 | [[📺 Media DB/series/Chiyu Mahou no Machigatta Tsukaikata (2024)\|Chiyu Mahou no Machigatta Tsukaikata (2024)]]                                                                                                                                   | 12.02.2024 - 12:06 |
-| [[📺 Media DB/series/Mahou Shoujo ni Akogarete (2024)\|Mahou Shoujo ni Akogarete (2024)]]                                                                                                                                                         | 12.02.2024 - 12:03 |
-| [[📺 Media DB/series/Ninja Kamui (2024)\|Ninja Kamui (2024)]]                                                                                                                                                                                     | 12.02.2024 - 11:58 |
-| [[Coding/Python Basics/60 - Getters and Setters\|60 - Getters and Setters]]                                                                                                                                                                       | 12.02.2024 - 11:38 |
 
 { .block-language-dataview}
 
@@ -90,5 +90,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1580** With over **13,35,000 words**.
+**Live Count: 1583** With over **13,35,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
