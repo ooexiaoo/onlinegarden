@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/66-instance-vs-class-variables/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-16T16:53:15.694+05:30","updated":"2024-02-16T16:56:21.163+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/66-instance-vs-class-variables/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-16T16:53:15.694+05:30","updated":"2024-02-16T20:19:17.422+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]
 Down:: [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-16 - 16:53==
