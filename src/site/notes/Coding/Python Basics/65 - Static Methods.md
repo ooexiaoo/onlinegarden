@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/65-static-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-15T18:33:29.546+05:30","updated":"2024-02-15T18:43:16.460+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/65-static-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-15T18:33:29.546+05:30","updated":"2024-02-16T16:53:37.921+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]
 Down:: [[Coding/Python Basics/64 - Exercise 6\|64 - Exercise 6]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-15 - 18:33==
