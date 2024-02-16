@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-16T16:53:27.837+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-16T20:19:08.798+05:30"}
 ---
 
 
@@ -61,5 +61,6 @@
 - [[Coding/Python Basics/64 - Exercise 6\|64 - Exercise 6]]
 - [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]
 - [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]
+- [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]
 
 
