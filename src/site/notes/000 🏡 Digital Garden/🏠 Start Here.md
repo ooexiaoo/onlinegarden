@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-12T05:14:57.221+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-16T17:50:55.241+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -12,7 +12,7 @@ You are at my [[What Is A PKM And Why Should You Care\|Personal Knowledge Manage
 
 👷🏻 Everything here is a work in progress. There are very few notes that I'm happy with, the ones that I can call are complete notes. Everything else is just constantly changing.
 
-📄 You can meet me on my [YouTube](https://youtube.com/@naamnahihai) channel, or my main site, [Exia's Garden](https://exiasgarden.pages.dev). I still need to make a real site where I'll finally post all my notes, but for now these are the places where you can find me and my ideas at.
+📺 You can meet me on my [YouTube](https://youtube.com/@varunpaherwar) channel.
 ![happy dance sticker.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
 ### 🧑🏻‍💻 Newest Site I've Made
 [KawaiiDoro](https://kawaiidoro.com)
@@ -41,6 +41,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                           | 16.02.2024 - 17:50 |
 | [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                      | 16.02.2024 - 16:56 |
 | [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]                                                | 16.02.2024 - 16:53 |
 | [[Coding/Python Basics/Python Basics\|Python Basics]]                                                            | 16.02.2024 - 16:53 |
@@ -50,7 +51,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                  | 16.02.2024 - 11:44 |
 | [[Projects/KawaiiDoro/How Breaks Affect Your Concentration Levels\|How Breaks Affect Your Concentration Levels]] | 16.02.2024 - 11:34 |
 | [[Projects/Projects\|Projects]]                                                                                  | 16.02.2024 - 11:13 |
-| [[Coding/Python Basics/64 - Exercise 6\|64 - Exercise 6]]                                                        | 15.02.2024 - 18:33 |
 
 { .block-language-dataview}
 
@@ -90,5 +90,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1589** With over **13,35,000 words**.
+**Live Count: 1589** With over **13,44,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
