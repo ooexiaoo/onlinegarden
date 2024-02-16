@@ -41,6 +41,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                            | 16.02.2024 - 13:36 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                                             | 16.02.2024 - 11:45 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-15\|2024-02-15]]                                             | 16.02.2024 - 11:45 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                  | 16.02.2024 - 11:44 |
@@ -50,7 +51,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[Coding/Python Basics/64 - Exercise 6\|64 - Exercise 6]]                                                        | 15.02.2024 - 18:33 |
 | [[Coding/Python Basics/Python Basics\|Python Basics]]                                                            | 15.02.2024 - 18:33 |
 | [[Coding/Python Basics/63 Exercise 5 - Solution\|63 Exercise 5 - Solution]]                                      | 15.02.2024 - 18:33 |
-| [[Coding/Python Basics/62 - Access Specifiers\|62 - Access Specifiers]]                                          | 15.02.2024 - 18:30 |
 
 { .block-language-dataview}
 
