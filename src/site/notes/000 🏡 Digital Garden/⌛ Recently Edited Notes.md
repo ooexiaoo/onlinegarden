@@ -4,6 +4,7 @@
 
 | File                                                                                                                | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                           | 16.02.2024 - 17:50 |
 | [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                      | 16.02.2024 - 16:56 |
 | [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]                                                | 16.02.2024 - 16:53 |
 | [[Coding/Python Basics/Python Basics\|Python Basics]]                                                            | 16.02.2024 - 16:53 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                  | 16.02.2024 - 11:44 |
 | [[Projects/KawaiiDoro/How Breaks Affect Your Concentration Levels\|How Breaks Affect Your Concentration Levels]] | 16.02.2024 - 11:34 |
 | [[Projects/Projects\|Projects]]                                                                                  | 16.02.2024 - 11:13 |
-| [[Coding/Python Basics/64 - Exercise 6\|64 - Exercise 6]]                                                        | 15.02.2024 - 18:33 |
 
 { .block-language-dataview}
