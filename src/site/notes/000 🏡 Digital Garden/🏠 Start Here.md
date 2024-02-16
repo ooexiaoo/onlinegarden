@@ -41,22 +41,23 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                      | 16.02.2024 - 16:56 |
+| [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]                                                | 16.02.2024 - 16:53 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                            | 16.02.2024 - 16:53 |
 | [[Excalidraw/Excalidraw\|Excalidraw]]                                                                            | 16.02.2024 - 13:36 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                                             | 16.02.2024 - 11:45 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-15\|2024-02-15]]                                             | 16.02.2024 - 11:45 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                  | 16.02.2024 - 11:44 |
 | [[Projects/KawaiiDoro/How Breaks Affect Your Concentration Levels\|How Breaks Affect Your Concentration Levels]] | 16.02.2024 - 11:34 |
 | [[Projects/Projects\|Projects]]                                                                                  | 16.02.2024 - 11:13 |
-| [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]                                                | 15.02.2024 - 18:43 |
 | [[Coding/Python Basics/64 - Exercise 6\|64 - Exercise 6]]                                                        | 15.02.2024 - 18:33 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                            | 15.02.2024 - 18:33 |
-| [[Coding/Python Basics/63 Exercise 5 - Solution\|63 Exercise 5 - Solution]]                                      | 15.02.2024 - 18:33 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                                                          | 16.02.2024 - 16:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                                                                                 | 16.02.2024 - 11:44 |
 | [[Projects/KawaiiDoro/How Breaks Affect Your Concentration Levels\|How Breaks Affect Your Concentration Levels]]                                     | 16.02.2024 - 11:13 |
 | [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]                                                                                    | 15.02.2024 - 18:33 |
@@ -66,7 +67,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-12\|2024-02-12]]                                                                                 | 15.02.2024 - 12:13 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-15\|2024-02-15]]                                                                                 | 15.02.2024 - 12:13 |
 | [[Projects/KawaiiDoro/How Concentration Levels With Go Down With & Without Pomodoro\|How Concentration Levels With Go Down With & Without Pomodoro]] | 14.02.2024 - 08:29 |
-| [[Coding/Python Basics/62 - Access Specifiers\|62 - Access Specifiers]]                                                                              | 13.02.2024 - 20:10 |
 
 { .block-language-dataview}
 
@@ -90,5 +90,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1588** With over **13,35,000 words**.
+**Live Count: 1589** With over **13,35,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
