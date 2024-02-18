@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
-| File                                                                                                                | Last modified      |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]                                      | 16.02.2024 - 20:19 |
-| [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                      | 16.02.2024 - 20:19 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                            | 16.02.2024 - 20:19 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                           | 16.02.2024 - 17:50 |
-| [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]                                                | 16.02.2024 - 16:53 |
-| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                            | 16.02.2024 - 13:36 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                                             | 16.02.2024 - 11:45 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-15\|2024-02-15]]                                             | 16.02.2024 - 11:45 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                  | 16.02.2024 - 11:44 |
-| [[Projects/KawaiiDoro/How Breaks Affect Your Concentration Levels\|How Breaks Affect Your Concentration Levels]] | 16.02.2024 - 11:34 |
+| File                                                                                           | Last modified      |
+| ---------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]]                        | 18.02.2024 - 14:06 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-17\|2024-02-17]]                        | 18.02.2024 - 14:03 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                             | 18.02.2024 - 14:01 |
+| [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]                                   | 17.02.2024 - 15:29 |
+| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                             | 17.02.2024 - 15:29 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                                       | 17.02.2024 - 15:26 |
+| [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]                 | 17.02.2024 - 15:11 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                        | 17.02.2024 - 15:06 |
+| [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]] | 16.02.2024 - 20:19 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                      | 16.02.2024 - 17:50 |
 
 { .block-language-dataview}
