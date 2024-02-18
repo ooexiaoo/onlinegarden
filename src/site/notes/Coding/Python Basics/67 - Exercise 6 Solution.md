@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/67-exercise-6-solution/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-16T20:18:26.299+05:30","updated":"2024-02-16T20:19:56.023+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/67-exercise-6-solution/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-16T20:18:26.299+05:30","updated":"2024-02-17T15:11:25.502+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]
 Down:: [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-16 - 20:18==
