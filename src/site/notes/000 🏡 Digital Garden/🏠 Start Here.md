@@ -39,34 +39,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                | Last modified      |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]                                      | 16.02.2024 - 20:19 |
-| [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                      | 16.02.2024 - 20:19 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                            | 16.02.2024 - 20:19 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                           | 16.02.2024 - 17:50 |
-| [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]                                                | 16.02.2024 - 16:53 |
-| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                            | 16.02.2024 - 13:36 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                                             | 16.02.2024 - 11:45 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-15\|2024-02-15]]                                             | 16.02.2024 - 11:45 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                  | 16.02.2024 - 11:44 |
-| [[Projects/KawaiiDoro/How Breaks Affect Your Concentration Levels\|How Breaks Affect Your Concentration Levels]] | 16.02.2024 - 11:34 |
+| File                                                                                           | Last modified      |
+| ---------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]]                        | 18.02.2024 - 14:06 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-17\|2024-02-17]]                        | 18.02.2024 - 14:03 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                             | 18.02.2024 - 14:01 |
+| [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]                                   | 17.02.2024 - 15:29 |
+| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                             | 17.02.2024 - 15:29 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                                       | 17.02.2024 - 15:26 |
+| [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]                 | 17.02.2024 - 15:11 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                        | 17.02.2024 - 15:06 |
+| [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]] | 16.02.2024 - 20:19 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                      | 16.02.2024 - 17:50 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]]                                             | 18.02.2024 - 14:01 |
+| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                                                  | 17.02.2024 - 15:25 |
+| [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]                                                        | 17.02.2024 - 15:10 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-17\|2024-02-17]]                                             | 17.02.2024 - 15:04 |
 | [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]                                      | 16.02.2024 - 20:18 |
 | [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                      | 16.02.2024 - 16:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                                             | 16.02.2024 - 11:44 |
 | [[Projects/KawaiiDoro/How Breaks Affect Your Concentration Levels\|How Breaks Affect Your Concentration Levels]] | 16.02.2024 - 11:13 |
 | [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]                                                | 15.02.2024 - 18:33 |
 | [[Coding/Python Basics/64 - Exercise 6\|64 - Exercise 6]]                                                        | 15.02.2024 - 18:31 |
-| [[Coding/Python Basics/63 Exercise 5 - Solution\|63 Exercise 5 - Solution]]                                      | 15.02.2024 - 18:29 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-14\|2024-02-14]]                                             | 15.02.2024 - 12:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-12\|2024-02-12]]                                             | 15.02.2024 - 12:13 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-15\|2024-02-15]]                                             | 15.02.2024 - 12:13 |
 
 { .block-language-dataview}
 
@@ -90,5 +90,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1590** With over **13,44,000 words**.
+**Live Count: 1594** With over **13,44,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
