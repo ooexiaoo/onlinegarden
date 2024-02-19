@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-16T17:50:55.241+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-19T10:52:47.706+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -39,18 +39,18 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                           | Last modified      |
-| ------------------------------------------------------------------------------ | ------------------ |
-| [[Templates/✍🏻 Daily Notes\|✍🏻 Daily Notes]]                              | 19.02.2024 - 10:23 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]]        | 19.02.2024 - 10:15 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                             | 19.02.2024 - 09:14 |
-| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                 | 18.02.2024 - 16:46 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]]        | 18.02.2024 - 16:44 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-17\|2024-02-17]]        | 18.02.2024 - 14:03 |
-| [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]                   | 17.02.2024 - 15:29 |
-| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]             | 17.02.2024 - 15:29 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                       | 17.02.2024 - 15:26 |
-| [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]] | 17.02.2024 - 15:11 |
+| File                                                                    | Last modified      |
+| ----------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 19.02.2024 - 10:52 |
+| [[Templates/✍🏻 Daily Notes\|✍🏻 Daily Notes]]                       | 19.02.2024 - 10:23 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]] | 19.02.2024 - 10:15 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 19.02.2024 - 09:14 |
+| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                          | 18.02.2024 - 16:46 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]] | 18.02.2024 - 16:44 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-17\|2024-02-17]] | 18.02.2024 - 14:03 |
+| [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]            | 17.02.2024 - 15:29 |
+| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]      | 17.02.2024 - 15:29 |
+| [[Coding/Python Basics/Python Basics\|Python Basics]]                | 17.02.2024 - 15:26 |
 
 { .block-language-dataview}
 
@@ -87,8 +87,8 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ## 〽️ Stats
 ![giphya.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
 
-![graph view 15-12-2023.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%20view%2015-12-2023.webp)
+![graph 19-02-2024.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1595** With over **13,44,000 words**.
+**Live Count: 1595** With over **13,47,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
