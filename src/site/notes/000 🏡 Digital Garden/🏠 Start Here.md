@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-19T10:52:47.706+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-19T18:00:08.661+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -41,7 +41,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 19.02.2024 - 10:52 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 19.02.2024 - 18:00 |
 | [[Templates/✍🏻 Daily Notes\|✍🏻 Daily Notes]]                       | 19.02.2024 - 10:23 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]] | 19.02.2024 - 10:15 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 19.02.2024 - 09:14 |
@@ -78,9 +78,6 @@ The thing is, when I started writing all this, it was never my intention to publ
 So the notes are not linked together in a way that would make it easy to find related content.
 I'm also publishing directly from my obsidian vault, so there are a few limitations as to how the UI will be rendered.
 
-## Spotify Go To
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EIYpUgYYPrm7Z?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ## Git Contributions
 <img src="https://ghchart.rshah.org/A020F0/ooexiaoo" alt="Exia's Github Chart" />
 
@@ -92,3 +89,6 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 😵‍💫 There are quite a few notes in the vault:
 **Live Count: 1595** With over **13,47,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
+
+## Spotify Go To
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EIYpUgYYPrm7Z?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
