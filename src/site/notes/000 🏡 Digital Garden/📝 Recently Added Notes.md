@@ -4,6 +4,7 @@
 
 | File                                                                                                                | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                             | 20.02.2024 - 09:47 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]]                                             | 19.02.2024 - 09:14 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]]                                             | 18.02.2024 - 14:01 |
 | [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                                                  | 17.02.2024 - 15:25 |
@@ -13,6 +14,5 @@
 | [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                      | 16.02.2024 - 16:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                                             | 16.02.2024 - 11:44 |
 | [[Projects/KawaiiDoro/How Breaks Affect Your Concentration Levels\|How Breaks Affect Your Concentration Levels]] | 16.02.2024 - 11:13 |
-| [[Coding/Python Basics/65 - Static Methods\|65 - Static Methods]]                                                | 15.02.2024 - 18:33 |
 
 { .block-language-dataview}
