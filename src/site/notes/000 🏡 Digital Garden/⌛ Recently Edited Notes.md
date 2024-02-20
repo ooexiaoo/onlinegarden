@@ -4,8 +4,8 @@
 
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 20.02.2024 - 09:38 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]] | 19.02.2024 - 21:13 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 19.02.2024 - 18:00 |
 | [[Templates/✍🏻 Daily Notes\|✍🏻 Daily Notes]]                       | 19.02.2024 - 10:23 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 19.02.2024 - 09:14 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                          | 18.02.2024 - 16:46 |
