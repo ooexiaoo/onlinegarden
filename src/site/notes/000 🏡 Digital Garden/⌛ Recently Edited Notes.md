@@ -4,10 +4,10 @@
 
 | File                                                                                                                       | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                                                    | 21.02.2024 - 20:09 |
 | [[Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]] | 21.02.2024 - 20:07 |
 | [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                                                         | 21.02.2024 - 20:04 |
 | [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                   | 21.02.2024 - 20:04 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                                                    | 21.02.2024 - 10:33 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                                    | 21.02.2024 - 10:33 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                         | 21.02.2024 - 10:33 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                  | 20.02.2024 - 09:51 |
