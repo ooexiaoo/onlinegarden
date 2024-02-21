@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/69-class-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-17T15:25:57.669+05:30","updated":"2024-02-17T15:29:08.355+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/69-class-methods/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-17T15:25:57.669+05:30","updated":"2024-02-21T20:04:14.422+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]]
 Down:: [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-17 - 15:26==
