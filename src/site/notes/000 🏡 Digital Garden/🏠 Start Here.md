@@ -41,32 +41,32 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]] | 21.02.2024 - 10:33 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]] | 21.02.2024 - 10:33 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 21.02.2024 - 10:33 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 20.02.2024 - 09:51 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]] | 20.02.2024 - 09:48 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 20.02.2024 - 09:47 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]] | 19.02.2024 - 21:13 |
 | [[Templates/✍🏻 Daily Notes\|✍🏻 Daily Notes]]                       | 19.02.2024 - 10:23 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                          | 18.02.2024 - 16:46 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]] | 18.02.2024 - 16:44 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-17\|2024-02-17]] | 18.02.2024 - 14:03 |
 | [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]            | 17.02.2024 - 15:29 |
-| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]      | 17.02.2024 - 15:29 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                                                | Last modified      |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                             | 20.02.2024 - 09:47 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]]                                             | 19.02.2024 - 09:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]]                                             | 18.02.2024 - 14:01 |
-| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                                                  | 17.02.2024 - 15:25 |
-| [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]                                                        | 17.02.2024 - 15:10 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-17\|2024-02-17]]                                             | 17.02.2024 - 15:04 |
-| [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]                                      | 16.02.2024 - 20:18 |
-| [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                      | 16.02.2024 - 16:53 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                                             | 16.02.2024 - 11:44 |
-| [[Projects/KawaiiDoro/How Breaks Affect Your Concentration Levels\|How Breaks Affect Your Concentration Levels]] | 16.02.2024 - 11:13 |
+| File                                                                                           | Last modified      |
+| ---------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                        | 21.02.2024 - 10:33 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                        | 20.02.2024 - 09:47 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]]                        | 19.02.2024 - 09:14 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]]                        | 18.02.2024 - 14:01 |
+| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                             | 17.02.2024 - 15:25 |
+| [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]                                   | 17.02.2024 - 15:10 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-17\|2024-02-17]]                        | 17.02.2024 - 15:04 |
+| [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]                 | 16.02.2024 - 20:18 |
+| [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]] | 16.02.2024 - 16:53 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-16\|2024-02-16]]                        | 16.02.2024 - 11:44 |
 
 { .block-language-dataview}
 
@@ -87,7 +87,7 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1596** With over **13,47,000 words**.
+**Live Count: 1597** With over **13,47,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
 
 ## Spotify Go To
