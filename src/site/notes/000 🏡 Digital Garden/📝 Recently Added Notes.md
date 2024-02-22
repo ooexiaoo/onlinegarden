@@ -4,6 +4,7 @@
 
 | File                                                                                                                       | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-22\|2024-02-22]]                                                    | 22.02.2024 - 14:43 |
 | [[Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]] | 21.02.2024 - 20:03 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                                                    | 21.02.2024 - 10:33 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                                    | 20.02.2024 - 09:47 |
@@ -13,6 +14,5 @@
 | [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]                                                               | 17.02.2024 - 15:10 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-17\|2024-02-17]]                                                    | 17.02.2024 - 15:04 |
 | [[Coding/Python Basics/67 - Exercise 6 Solution\|67 - Exercise 6 Solution]]                                             | 16.02.2024 - 20:18 |
-| [[Coding/Python Basics/66 - Instance vs Class variables\|66 - Instance vs Class variables]]                             | 16.02.2024 - 16:53 |
 
 { .block-language-dataview}
