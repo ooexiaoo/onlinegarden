@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.116+05:30","updated":"2023-12-28T22:14:35.854+05:30"}
+{"dg-publish":true,"permalink":"/deliberate-practice/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.116+05:30","updated":"2024-02-23T16:55:20.919+05:30"}
 ---
 
 🧶 Tags:: #Permanent_Notes  #🌿
@@ -54,7 +54,7 @@ The second most important part of deliberate practice is to work on a specific t
 
 E.g., if you find that while writing your paper you get stuck on a specific topic or equation then, this is something that needs improvement. After identifying what is holding you back, you can try to work on the same thing again and again until it becomes easier for you to do it.
 
-At first, it won’t be fun to work on something that feels really hard. You’d feel lost and might think of giving up but, this is what exactly deliberate practice is trying to solve for you. You won't be finding any [[Projects/🧓🏻 Insightful Sage/📄 Posts/How to Achieve Flow State and Find Happiness in Your Work\|Flow State]] here.
+At first, it won’t be fun to work on something that feels really hard. You’d feel lost and might think of giving up but, this is what exactly deliberate practice is trying to solve for you. You won't be finding any [[👷🏻 Projects/🧓🏻 Insightful Sage/📄 Posts/How to Achieve Flow State and Find Happiness in Your Work\|Flow State]] here.
 
 It's trying to make you better at things that might be poor at. So you can push your limits and move to the next level of performance, recognizing what holds you back and working on it will make you better at it.
 
