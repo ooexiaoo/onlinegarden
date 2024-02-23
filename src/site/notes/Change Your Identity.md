@@ -7,7 +7,7 @@ Resources:: [[📚 Books/Atomic Habits\|Atomic Habits]]
 Links::
 ==2021-10-14 - 11:55==
 
-![Untitled.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Untitled.png)
+![Untitled.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Untitled.png)
 
 Most of us work from outcome to identity, but we should work to make our habits an identity of ourselves.
 
