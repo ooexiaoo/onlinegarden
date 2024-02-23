@@ -12,7 +12,7 @@ Tags:: #🌱 #Fleeting_Notes
 	3. As others believes change, it causes their actions to change.
 	4. These actions again reinforce our beliefs about the other person. Which repeats the cycle.
 
-![Pasted image 20210819025203.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020210819025203.png)
+![Pasted image 20210819025203.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020210819025203.png)
 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/4aN5TbGW5JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
