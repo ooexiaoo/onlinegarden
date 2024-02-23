@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/000-digital-garden/recently-edited-notes/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-14T09:05:52.599+05:30","updated":"2023-12-14T09:12:44.868+05:30"}
 ---
 
-| File                                                                                                                       | Last modified      |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-23\|2024-02-23]]                                                    | 23.02.2024 - 16:51 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-22\|2024-02-22]]                                                    | 23.02.2024 - 16:50 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                         | 23.02.2024 - 16:50 |
-| [[Coding/Python Basics/71 - dir, dict and help methods\|71 - dir, dict and help methods]]                               | 23.02.2024 - 16:49 |
-| [[Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]] | 23.02.2024 - 16:46 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                   | 23.02.2024 - 16:46 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                                    | 22.02.2024 - 14:43 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                                                    | 22.02.2024 - 14:43 |
-| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                                                         | 21.02.2024 - 20:04 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                  | 20.02.2024 - 09:51 |
+| File                                                                                                         | Last modified      |
+| ------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[👷🏻 Projects/Mohak Herbs/Bottle Measurements For Stickers\|Bottle Measurements For Stickers]]          | 23.02.2024 - 16:57 |
+| [[💻 Coding/🖥️ HTML & CSS/📚 Chapter 01 & 02 - Basic HTML & CSS\|📚 Chapter 01 & 02 - Basic HTML & CSS]] | 23.02.2024 - 16:57 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/25-11-2022\|25-11-2022]]                                      | 23.02.2024 - 16:57 |
+| [[📺 Media DB/wiki/wiki\|wiki]]                                                                           | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-08-15\|2023-08-15]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-08-13\|2023-08-13]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-06-11\|2023-06-11]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-06-09\|2023-06-09]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-06-08\|2023-06-08]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-06-07\|2023-06-07]]                                      | 23.02.2024 - 16:56 |
 
 { .block-language-dataview}
