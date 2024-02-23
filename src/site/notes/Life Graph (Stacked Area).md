@@ -28,4 +28,4 @@ We can say the same about intelligence as well. All we can do is keep working ou
 
 I'll add more things here as I think about some more points
 
-![Life Graph stacked are.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Life%20Graph%20stacked%20are.webp)
+![Life Graph stacked are.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Life%20Graph%20stacked%20are.webp)
