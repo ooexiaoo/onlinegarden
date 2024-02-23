@@ -1,5 +1,5 @@
 ---
-{"banner":"![cropped-1920-1080-1274464.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/cropped-1920-1080-1274464.jpg)","dg-publish":true,"permalink":"/media-db/watch-list/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.796+05:30","updated":"2023-12-26T22:57:21.775+05:30"}
+{"banner":"![cropped-1920-1080-1274464.jpg](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/cropped-1920-1080-1274464.jpg)","dg-publish":true,"permalink":"/media-db/watch-list/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:39.796+05:30","updated":"2023-12-26T22:57:21.775+05:30"}
 ---
 
 Tags:: #Anime 
@@ -40,7 +40,7 @@ Tags:: #Anime
 |<input type="checkbox"/> fukuto no guild| |
 |<input type="checkbox"/> shin no nakama ja nai to yuusha no party  wo oidasareta node, henkyou de slow life suru koto ni shimashita| |
 |<input type="checkbox"/> re:creators| |
-![cropped-1920-1080-1274464.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/cropped-1920-1080-1274464.jpg)
+![cropped-1920-1080-1274464.jpg](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/cropped-1920-1080-1274464.jpg)
 🧶 Tags - #Shows 
 
 ---
