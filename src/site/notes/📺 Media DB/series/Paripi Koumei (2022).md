@@ -11,7 +11,7 @@ Hours = duration * episodes / 60
 ```
 <img src="https://cdn.myanimelist.net/images/anime/1970/122297.jpg">
 
-Absolutely banger opening. The anime is pretty entertaining, I don't think it's an exceptional anime, but the songs and the relation to [[Resources/🤼‍♂️ People/Zhuge Liang\|kongming]] will definitely make you remember some of it.
+Absolutely banger opening. The anime is pretty entertaining, I don't think it's an exceptional anime, but the songs and the relation to [[🛢️ Resources/🤼‍♂️ People/Zhuge Liang\|kongming]] will definitely make you remember some of it.
 
 ## Chan chan  
 ## Ai chikichiki banban  
