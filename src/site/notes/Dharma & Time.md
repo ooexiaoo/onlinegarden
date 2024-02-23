@@ -34,4 +34,4 @@ So here are a few good videos that can help you understand what your dharma is a
 
 Dharma is also related to karma, once you understand the link between the two you can then see why following your dharma is important in your life, why it will be helpful to you and the world.
 
-![Pasted image 20221127075838.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020221127075838.png)
+![Pasted image 20221127075838.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020221127075838.png)
