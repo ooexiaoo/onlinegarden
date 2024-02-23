@@ -1,5 +1,5 @@
 ---
-{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2024-01-15T11:49:10.155+05:30"}
+{"wordcount":443,"dg-publish":true,"banner_icon":"💪","permalink":"/areas/personal-notes/30-days-no-you-tube-challenge/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T20:23:48.109+05:30","updated":"2024-02-23T16:56:00.009+05:30"}
 ---
 
 ==2023-12-12 - 20:23==
@@ -16,11 +16,11 @@ Like this -
 
 The problem is that by investing this time just watching things, I'm not able to apply any of the things.
 
-So I'll never find what I really like or [[Projects/🧓🏻 Insightful Sage/Posts/Discovering Your Ikigai - A Guide to Finding Your Purpose and Living a Fulfilled Life\|what I want to do in life]]. I'll never commit, even if I find it in a certain way. Of course there will always be doubts in life but getting good at something is an important part of a fulfilling life.
+So I'll never find what I really like or [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discovering Your Ikigai - A Guide to Finding Your Purpose and Living a Fulfilled Life\|what I want to do in life]]. I'll never commit, even if I find it in a certain way. Of course there will always be doubts in life but getting good at something is an important part of a fulfilling life.
 
-So I've decided to quit watching YouTube from **2023-12-12** until 12th of Jan. The rules are simple, don't watch it unless you really need to learn something and need [[Projects/DIY/DIY Curved Treadmill\|reference video]].
+So I've decided to quit watching YouTube from **2023-12-12** until 12th of Jan. The rules are simple, don't watch it unless you really need to learn something and need [[👷🏻 Projects/DIY/DIY Curved Treadmill\|reference video]].
 
-I listen to podcasts so, I'll just use Spotify to listen, and also take proper notes of it [[Podcast Notes/Harvard Psychiatrist on How To Get Ahead of 99.9% of People (Starting NOW)\|like I did here]].
+I listen to podcasts so, I'll just use Spotify to listen, and also take proper notes of it [[🎧 Podcast Notes/Harvard Psychiatrist on How To Get Ahead of 99.9% of People (Starting NOW)\|like I did here]].
 
 I just want to come out of it having a better restrain on my social media behavior and spending that time doing something better than just binge-watching YouTube in the name of **"Learning something, or being productive"**.
 
@@ -54,14 +54,14 @@ I'm getting so bored in free time, as there isn't much to do other than just lea
 ### Day 6
 >[!success] 17-12-2023
 
-I'm starting to forget that there's a site called YouTube, Well, jokes aside, I don't have any urge to watch anything on YouTube anymore. I do visit it once a day for watching a [[Coding/Python Basics/Python Basics\|Python Course]] that I'm learning right now, But other than that, I don't watch anything else.
+I'm starting to forget that there's a site called YouTube, Well, jokes aside, I don't have any urge to watch anything on YouTube anymore. I do visit it once a day for watching a [[💻 Coding/Python Basics/Python Basics\|Python Course]] that I'm learning right now, But other than that, I don't watch anything else.
 BTW, I was looking for documentaries on long distance running, so I watched a short documentary that was embedded on a running site from YouTube.
 
 ### Day 7
 >[!success] 18-12-2023
 
 - Was too busy to even think about YouTube today
-- ![Teehee-War-crimes-anime.gif](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Teehee-War-crimes-anime.gif)
+- ![Teehee-War-crimes-anime.gif](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Teehee-War-crimes-anime.gif)
 
 ### Day 8
 >[!success] 19-12-2023
