@@ -13,12 +13,12 @@
 - Messes up protein synthesis
 - Messes up insulin sensitivity
 - increases protein breakdown _(muscle loss)_
-- prevents [[Resources/🌏 WIKIs/Hyperplasia\|Hyperplasia]]
+- prevents [[🛢️ Resources/🌏 WIKIs/Hyperplasia\|Hyperplasia]]
 - The 3 gram rule (If your body synthesizes 3 grams of protein you'll gain 1 pound of muscle a month)
 
 ## Examples Of Low Myostatin
-![Pasted image 20230210003452.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020230210003452.jpg)
-![Pasted image 20230210010601.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020230210010601.jpg)
+![Pasted image 20230210003452.jpg](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020230210003452.jpg)
+![Pasted image 20230210010601.jpg](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020230210010601.jpg)
 
 ## High Levels Of Myostatin
 - Women _(Women have up to twice as many myostatin receptors as Men)_
