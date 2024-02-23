@@ -46,7 +46,7 @@ This makes me feel that hell is nothing more than yet another existence of some 
 ## The Timeline Of Karma Or The Cycle Of Karma
 People often say, especially atheists, that, *'If God is a peace loving being, why would he give innocent children cancer?'* or something similar, but according to the above points on rebirth we only see people from their one life, we do not get to see their previous lives and the kinds of acts/karma they have committed in their previous life/lives.
 
-![Pasted image 20221127075838.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020221127075838.png)
+![Pasted image 20221127075838.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020221127075838.png)
 
 Now, this example can be very triggering to some people, but this is just and ideology and as we'll discuss more about how the universe operates we'll understand that it's not all that bad when we see things from that kind of higher perspective.
 
