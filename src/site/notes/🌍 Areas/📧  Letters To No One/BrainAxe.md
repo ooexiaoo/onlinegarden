@@ -6,5 +6,5 @@
 🔗 Links - discord.com
 # [[🌍 Areas/📧  Letters To No One/BrainAxe\|BrainAxe]]
 ==2023-12-10 - 09:33==
-![BrainAxe.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/BrainAxe.webp)
+![BrainAxe.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/BrainAxe.webp)
 Sometimes you find some of the best people in the most unexpected places. Just makes you feel good.
