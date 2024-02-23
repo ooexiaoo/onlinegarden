@@ -32,4 +32,4 @@ There are three things that act as big levers in business -
 1. Learn the marketing skills, the better your ability to persuade people into doing business with you the higher your chances for becoming successful.
 2. Persuasion is an ability that anyone can learn, don't limit yourself with the idea that you can't sell anything to people. The more you practice your skills the better you become at it. (Coming from an introvert who use to think he couldn't sell.)
 
-![Screenshot_20210808_130947.jpg](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Screenshot_20210808_130947.jpg)
+![Screenshot_20210808_130947.jpg](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Screenshot_20210808_130947.jpg)
