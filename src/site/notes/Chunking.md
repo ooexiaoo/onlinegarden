@@ -35,6 +35,6 @@ You can do that by making [[Associations\|Associations]] that are easier to reme
 Maybe you have a long list of dates to remember, you can just use basic maths to keep all of them in mind.
 
 If you want to remember key dates of battles in a notable war, you can group them.
-![Pasted image 20230208073306.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020230208073306.png)
+![Pasted image 20230208073306.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020230208073306.png)
 
 You can also find pattern in number. We are good at finding patterns which can help us remember more.
