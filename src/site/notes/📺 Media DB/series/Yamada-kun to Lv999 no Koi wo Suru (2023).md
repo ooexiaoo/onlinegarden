@@ -19,11 +19,11 @@ This anime is focused on our main character Akane Kinoshita, as this is a [josei
 
 There are moments in the anime that many might overlook as they are so subtle but, some of the moments are very beautiful and romantic. Girls would enjoying watching this show if they are into rom-coms.
 
-Also a shoutout to the Akane's voice actor [Minase Inori](https://myanimelist.net/people/11297/Inori_Minase) (also [[Resources/🤼‍♂️ People/Inori Minase\|Inori Minase]]) for doing an outstanding job with her voice acting, now that I think about it everyone in the show did an amazing job, but she just stands above the rest as she has the most dialogues.
+Also a shoutout to the Akane's voice actor [Minase Inori](https://myanimelist.net/people/11297/Inori_Minase) (also [[🛢️ Resources/🤼‍♂️ People/Inori Minase\|Inori Minase]]) for doing an outstanding job with her voice acting, now that I think about it everyone in the show did an amazing job, but she just stands above the rest as she has the most dialogues.
 
 I loved it, worth watching again with your partner or something when you're chilling together(depends on the guy though, most guys aren't into rom-coms).
 
 One more thing, The name of the anime doesn't do justice to the story, it can be easily misinterpreted as yet another stupid rom-com that has a long ass name to it.
 
-![Yamada-Kun.jpg](/img/user/Resources/%F0%9F%93%81%20Files/Anime%20Images/Yamada-Kun.jpg)
+![Yamada-Kun.jpg](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/Anime%20Images/Yamada-Kun.jpg)
 One of the best moments of the anime. Very subtle yet powerful...
