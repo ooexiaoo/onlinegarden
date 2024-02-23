@@ -8,10 +8,10 @@
 ==2022-12-08 - 09:40==
 
 ## Gold Prices Over The Years (International)
-![historical-gold-prices-100-year-chart-2022-12-07-macrotrends.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/historical-gold-prices-100-year-chart-2022-12-07-macrotrends.png)
+![historical-gold-prices-100-year-chart-2022-12-07-macrotrends.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/historical-gold-prices-100-year-chart-2022-12-07-macrotrends.png)
 
 ## Inflation Rate In India
-![inflation-rate-in-india-2027.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/inflation-rate-in-india-2027.png)
+![inflation-rate-in-india-2027.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/inflation-rate-in-india-2027.png)
 
 #### Embedded Chart
 <a href="https://www.statista.com/statistics/271322/inflation-rate-in-india/" rel="nofollow"><img src="https://www.statista.com/graphic/1/271322/inflation-rate-in-india.jpg" alt="Statistic: India: Inflation rate from 1987 to 2027 (compared to the previous year) | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a>Find more statistics at <a href="https://www.statista.com" rel="nofollow">Statista</a>
