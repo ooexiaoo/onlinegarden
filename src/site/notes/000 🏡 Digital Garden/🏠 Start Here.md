@@ -4,7 +4,7 @@
 
 ## 🫨 Where Are You?
 
-![blushing cat.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/blushing%20cat.gif)
+![blushing cat.gif|100](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/blushing%20cat.gif)
 
 You are at my [[What Is A PKM And Why Should You Care\|Personal Knowledge Management Vault]] a place where I keep my notes and ideas.
 
@@ -13,7 +13,7 @@ You are at my [[What Is A PKM And Why Should You Care\|Personal Knowledge Manage
 👷🏻 Everything here is a work in progress. There are very few notes that I'm happy with, the ones that I can call are complete notes. Everything else is just constantly changing.
 
 📺 You can meet me on my [YouTube](https://youtube.com/@varunpaherwar) channel.
-![happy dance sticker.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
+![happy dance sticker.gif|100](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
 ### 🧑🏻‍💻 Newest Site I've Made
 [KawaiiDoro](https://kawaiidoro.com)
 
@@ -39,34 +39,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                       | Last modified      |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-23\|2024-02-23]]                                                    | 23.02.2024 - 16:51 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-22\|2024-02-22]]                                                    | 23.02.2024 - 16:50 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                         | 23.02.2024 - 16:50 |
-| [[Coding/Python Basics/71 - dir, dict and help methods\|71 - dir, dict and help methods]]                               | 23.02.2024 - 16:49 |
-| [[Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]] | 23.02.2024 - 16:46 |
-| [[Coding/Python Basics/Python Basics\|Python Basics]]                                                                   | 23.02.2024 - 16:46 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                                    | 22.02.2024 - 14:43 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                                                    | 22.02.2024 - 14:43 |
-| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                                                         | 21.02.2024 - 20:04 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                  | 20.02.2024 - 09:51 |
+| File                                                                                                         | Last modified      |
+| ------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[👷🏻 Projects/Mohak Herbs/Bottle Measurements For Stickers\|Bottle Measurements For Stickers]]          | 23.02.2024 - 16:57 |
+| [[💻 Coding/🖥️ HTML & CSS/📚 Chapter 01 & 02 - Basic HTML & CSS\|📚 Chapter 01 & 02 - Basic HTML & CSS]] | 23.02.2024 - 16:57 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/25-11-2022\|25-11-2022]]                                      | 23.02.2024 - 16:57 |
+| [[📺 Media DB/wiki/wiki\|wiki]]                                                                           | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-08-15\|2023-08-15]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-08-13\|2023-08-13]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-06-11\|2023-06-11]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-06-09\|2023-06-09]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-06-08\|2023-06-08]]                                      | 23.02.2024 - 16:56 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-06-07\|2023-06-07]]                                      | 23.02.2024 - 16:56 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                                                       | Last modified      |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-23\|2024-02-23]]                                                    | 23.02.2024 - 16:50 |
-| [[Coding/Python Basics/71 - dir, dict and help methods\|71 - dir, dict and help methods]]                               | 23.02.2024 - 16:44 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-22\|2024-02-22]]                                                    | 22.02.2024 - 14:43 |
-| [[Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]] | 21.02.2024 - 20:03 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                                                    | 21.02.2024 - 10:33 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                                    | 20.02.2024 - 09:47 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]]                                                    | 19.02.2024 - 09:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]]                                                    | 18.02.2024 - 14:01 |
-| [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                                                         | 17.02.2024 - 15:25 |
-| [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]                                                               | 17.02.2024 - 15:10 |
+| File                                                                                                                          | Last modified      |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-23\|2024-02-23]]                                                       | 23.02.2024 - 16:50 |
+| [[💻 Coding/Python Basics/71 - dir, dict and help methods\|71 - dir, dict and help methods]]                               | 23.02.2024 - 16:44 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-22\|2024-02-22]]                                                       | 22.02.2024 - 14:43 |
+| [[💻 Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]] | 21.02.2024 - 20:03 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                                                       | 21.02.2024 - 10:33 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                                       | 20.02.2024 - 09:47 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]]                                                       | 19.02.2024 - 09:14 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-18\|2024-02-18]]                                                       | 18.02.2024 - 14:01 |
+| [[💻 Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]                                                         | 17.02.2024 - 15:25 |
+| [[💻 Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]                                                               | 17.02.2024 - 15:10 |
 
 { .block-language-dataview}
 
@@ -82,9 +82,9 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 <img src="https://ghchart.rshah.org/A020F0/ooexiaoo" alt="Exia's Github Chart" />
 
 ## 〽️ Stats
-![giphya.gif|100](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
+![giphya.gif|100](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/giphya.gif)
 
-![graph 19-02-2024.webp](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
+![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
 **Live Count: 1601** With over **13,47,000 words**.
