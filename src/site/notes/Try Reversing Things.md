@@ -17,4 +17,4 @@ This can not always work, but it's a good idea to keep it in mind.
 
 ### Example
 
-![dig10.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/dig10.png)
+![dig10.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/dig10.png)
