@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-21T20:04:04.199+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/python-basics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:54:08.076+05:30","updated":"2024-02-23T16:46:12.884+05:30"}
 ---
 
 
@@ -65,5 +65,6 @@
 - [[Coding/Python Basics/68 - Exercise 7\|68 - Exercise 7]]
 - [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]
 - [[Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]]
+- [[Coding/Python Basics/71 - dir, dict and help methods\|71 - dir, dict and help methods]]
 
 
