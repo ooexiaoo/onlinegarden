@@ -23,7 +23,7 @@ This is why I say notice the people who remember. Because if they genuinely care
 
 Yes, they might still be selfish and narcissistic by nature, but you'd be above those things if you're a friend to that person. You can say the hierarchy would be different when it comes to you.
 
-![Pasted image 20221020191114.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020221020191114.png)
+![Pasted image 20221020191114.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020221020191114.png)
 
 ## Someone Who Tries To Offer You The Best Help They Can
 A Friend can be different when it comes to opinions, just as we all are different. Some really think about what they should say, some just don't, but one thing is common among the people you might call **'best friends'** even though they might not think, if they are giving valuable opinions or not, they tend to really give it from their heart.
@@ -46,7 +46,7 @@ If you're going to make a life-long friend, there are most likely going to be so
 
 So what I mean when I say **'you don't find them compatible'?** We all have a few world views that are too important to us. We can't hang out for long with people who have the opposite world view to us in those particular things. These can be anything from your perspective on God, Religion, Sex, Etc... or it can be something totally insignificant to others but to you, it might be a big thing.
 
-![Pasted image 20221026131316.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020221026131316.png)
+![Pasted image 20221026131316.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020221026131316.png)
 
 When we find someone with the potential of being a true friend, but there's can be this one thing that you don't agree with, which really matters to you. You might think about keeping them at a distance and this might now be a conscious decision, but because we see them differently now, it does stick in our minds.
 
