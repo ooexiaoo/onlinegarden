@@ -27,7 +27,7 @@ Links::
 1. The power of compounding is the key. If we get better 1% every day, we can get 37 times better by the end of the year.
 2. We also have a plateau of latent potential. Our habits don't seem to make a difference until we cross a critical threshold.
 3. We expect progress to be linear, But the key aspect of any compounded effect is that the outcomes are delayed.
-![1_iLQ89nhDmku3z3EMgIZI3A.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/1_iLQ89nhDmku3z3EMgIZI3A.png)
+![1_iLQ89nhDmku3z3EMgIZI3A.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/1_iLQ89nhDmku3z3EMgIZI3A.png)
 
 </div></div>
 
@@ -62,7 +62,7 @@ Resources:: [[📚 Books/Atomic Habits\|Atomic Habits]]
 Links::
 ==2021-10-14 - 11:55==
 
-![Untitled.png](/img/user/Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Untitled.png)
+![Untitled.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Untitled.png)
 
 Most of us work from outcome to identity, but we should work to make our habits an identity of ourselves.
 
