@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/coding/python-basics/70-class-methods-as-alternative-constructors/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-21T20:03:55.892+05:30","updated":"2024-02-21T20:07:36.889+05:30"}
+{"dg-publish":true,"permalink":"/coding/python-basics/70-class-methods-as-alternative-constructors/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-21T20:03:55.892+05:30","updated":"2024-02-23T16:46:21.212+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[Coding/Python Basics/71 - dir, dict and help methods\|71 - dir, dict and help methods]]
 Down:: [[Coding/Python Basics/69 - Class Methods\|69 - Class Methods]]
 🗃 Resources:: [Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 ==2024-02-21 - 20:04==
