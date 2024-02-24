@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-02-12T12:10:06.007+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-02-24T17:04:00.211+05:30"}
 ---
 
 
+- [[📺 Media DB/series/Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)\|Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)]]
 - [[📺 Media DB/series/Arcane (2021)\|Arcane (2021)]]
 - [[📺 Media DB/series/Ars no Kyojuu (2023)\|Ars no Kyojuu (2023)]]
 - [[📺 Media DB/series/Beastars (2019)\|Beastars (2019)]]
