@@ -1,5 +1,5 @@
 ---
-{"wordcount":0,"dg-publish":true,"permalink":"/areas/athletisism/vo-2-max/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-24T16:48:06.365+05:30","updated":"2024-02-24T17:02:29.559+05:30"}
+{"wordcount":0,"dg-publish":true,"permalink":"/areas/athletisism/vo-2-max/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-24T16:48:06.365+05:30","updated":"2024-02-24T20:22:34.784+05:30"}
 ---
 
 🧶 Tags:: #Atheletisism #🌱 
@@ -14,7 +14,7 @@
 Other exercise routines can stay the same, as **cardio, weight lifting, etc**.
 
 ## Some Supplements That Can Help
-- NMN - 500 mg liposomal
-- CaAKG - 500 mg liposomal
-- Creatine - 5g
-- Pea Protein - 20-25g
+- **NMN - 500 mg liposomal**
+- **CaAKG - 500 mg liposomal**
+- **Creatine - 5g**
+- **Pea Protein - 20-25g**
