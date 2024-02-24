@@ -39,34 +39,34 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                         | Last modified      |
-| ------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [[🌍 Areas/💪🏼 Athletisism/VO2 Max\|VO2 Max]]                                                            | 24.02.2024 - 17:02 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                           | 24.02.2024 - 16:55 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                                                 | 24.02.2024 - 16:45 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-24\|2024-02-24]]                                      | 24.02.2024 - 16:44 |
-| [[Formula 1 Links\|Formula 1 Links]]                                                                      | 23.02.2024 - 17:53 |
-| [[👷🏻 Projects/Mohak Herbs/Bottle Measurements For Stickers\|Bottle Measurements For Stickers]]          | 23.02.2024 - 16:57 |
-| [[💻 Coding/🖥️ HTML & CSS/📚 Chapter 01 & 02 - Basic HTML & CSS\|📚 Chapter 01 & 02 - Basic HTML & CSS]] | 23.02.2024 - 16:57 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/25-11-2022\|25-11-2022]]                                      | 23.02.2024 - 16:57 |
-| [[📺 Media DB/wiki/wiki\|wiki]]                                                                           | 23.02.2024 - 16:56 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2023-08-15\|2023-08-15]]                                      | 23.02.2024 - 16:56 |
+| File                                                                                                                                                                                       | Last modified      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[📺 Media DB/series/Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)\|Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)]] | 24.02.2024 - 17:07 |
+| [[📺 Media DB/series/series\|series]]                                                                                                                                                   | 24.02.2024 - 17:04 |
+| [[🌍 Areas/💪🏼 Athletisism/VO2 Max\|VO2 Max]]                                                                                                                                          | 24.02.2024 - 17:02 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                         | 24.02.2024 - 16:55 |
+| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                                                               | 24.02.2024 - 16:45 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-24\|2024-02-24]]                                                                                                                    | 24.02.2024 - 16:44 |
+| [[Formula 1 Links\|Formula 1 Links]]                                                                                                                                                    | 23.02.2024 - 17:53 |
+| [[👷🏻 Projects/Mohak Herbs/Bottle Measurements For Stickers\|Bottle Measurements For Stickers]]                                                                                        | 23.02.2024 - 16:57 |
+| [[💻 Coding/🖥️ HTML & CSS/📚 Chapter 01 & 02 - Basic HTML & CSS\|📚 Chapter 01 & 02 - Basic HTML & CSS]]                                                                               | 23.02.2024 - 16:57 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/25-11-2022\|25-11-2022]]                                                                                                                    | 23.02.2024 - 16:57 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                                                          | Last modified      |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/💪🏼 Athletisism/VO2 Max\|VO2 Max]]                                                                             | 24.02.2024 - 16:48 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-24\|2024-02-24]]                                                       | 24.02.2024 - 16:44 |
-| [[Formula 1 Links\|Formula 1 Links]]                                                                                       | 23.02.2024 - 17:34 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-23\|2024-02-23]]                                                       | 23.02.2024 - 16:50 |
-| [[💻 Coding/Python Basics/71 - dir, dict and help methods\|71 - dir, dict and help methods]]                               | 23.02.2024 - 16:44 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-22\|2024-02-22]]                                                       | 22.02.2024 - 14:43 |
-| [[💻 Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]] | 21.02.2024 - 20:03 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                                                       | 21.02.2024 - 10:33 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                                       | 20.02.2024 - 09:47 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-19\|2024-02-19]]                                                       | 19.02.2024 - 09:14 |
+| File                                                                                                                                                                                       | Last modified      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[📺 Media DB/series/Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)\|Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)]] | 24.02.2024 - 17:03 |
+| [[🌍 Areas/💪🏼 Athletisism/VO2 Max\|VO2 Max]]                                                                                                                                          | 24.02.2024 - 16:48 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-24\|2024-02-24]]                                                                                                                    | 24.02.2024 - 16:44 |
+| [[Formula 1 Links\|Formula 1 Links]]                                                                                                                                                    | 23.02.2024 - 17:34 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-23\|2024-02-23]]                                                                                                                    | 23.02.2024 - 16:50 |
+| [[💻 Coding/Python Basics/71 - dir, dict and help methods\|71 - dir, dict and help methods]]                                                                                            | 23.02.2024 - 16:44 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-22\|2024-02-22]]                                                                                                                    | 22.02.2024 - 14:43 |
+| [[💻 Coding/Python Basics/70 - Class methods as alternative constructors\|70 - Class methods as alternative constructors]]                                                              | 21.02.2024 - 20:03 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-21\|2024-02-21]]                                                                                                                    | 21.02.2024 - 10:33 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-20\|2024-02-20]]                                                                                                                    | 20.02.2024 - 09:47 |
 
 { .block-language-dataview}
 
@@ -87,7 +87,7 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1604** With over **13,47,000 words**.
+**Live Count: 1605** With over **13,47,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
 
 ## Spotify Go To
