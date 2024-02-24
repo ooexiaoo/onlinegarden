@@ -41,12 +41,12 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                                       | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [[📺 Media DB/series/Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)\|Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)]] | 24.02.2024 - 17:07 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-24\|2024-02-24]]                                                                                                                    | 24.02.2024 - 23:23 |
+| [[🌍 Areas/💪🏼 Athletisism/VO2 Max\|VO2 Max]]                                                                                                                                          | 24.02.2024 - 20:22 |
+| [[📺 Media DB/series/Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)\|Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)]] | 24.02.2024 - 20:22 |
 | [[📺 Media DB/series/series\|series]]                                                                                                                                                   | 24.02.2024 - 17:04 |
-| [[🌍 Areas/💪🏼 Athletisism/VO2 Max\|VO2 Max]]                                                                                                                                          | 24.02.2024 - 17:02 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                         | 24.02.2024 - 16:55 |
 | [[⚡ MISC/To Dos\|To Dos]]                                                                                                                                                               | 24.02.2024 - 16:45 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-24\|2024-02-24]]                                                                                                                    | 24.02.2024 - 16:44 |
 | [[Formula 1 Links\|Formula 1 Links]]                                                                                                                                                    | 23.02.2024 - 17:53 |
 | [[👷🏻 Projects/Mohak Herbs/Bottle Measurements For Stickers\|Bottle Measurements For Stickers]]                                                                                        | 23.02.2024 - 16:57 |
 | [[💻 Coding/🖥️ HTML & CSS/📚 Chapter 01 & 02 - Basic HTML & CSS\|📚 Chapter 01 & 02 - Basic HTML & CSS]]                                                                               | 23.02.2024 - 16:57 |
