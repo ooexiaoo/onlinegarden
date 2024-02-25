@@ -41,7 +41,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                                       | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-25\|2024-02-25]]                                                                                                                    | 25.02.2024 - 16:23 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-25\|2024-02-25]]                                                                                                                    | 26.02.2024 - 02:26 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-24\|2024-02-24]]                                                                                                                    | 25.02.2024 - 16:23 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                         | 25.02.2024 - 16:22 |
 | [[🌍 Areas/💪🏼 Athletisism/VO2 Max\|VO2 Max]]                                                                                                                                          | 24.02.2024 - 20:22 |
