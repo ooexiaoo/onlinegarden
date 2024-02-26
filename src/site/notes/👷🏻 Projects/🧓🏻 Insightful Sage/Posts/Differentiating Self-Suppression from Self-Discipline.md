@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/differentiating-self-suppression-from-self-discipline/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.202+05:30","updated":"2024-02-26T02:42:25.095+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/differentiating-self-suppression-from-self-discipline/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.202+05:30","updated":"2024-02-26T20:38:54.199+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Differentiating Self-Suppression from Self-Discipline\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Differentiating Self-Suppression from Self-Discipline]]
+🧶 Tags:: #Insightfulsage 
 ==2023-05-30 - 22:07==
 
----
 Have you ever found yourself caught between self-suppression and self-discipline, unsure of where to draw the line? It's a common struggle that many of us face on our personal growth journey. Self-suppression involves resisting and burying our desires, while self-discipline allows our highest desires to guide us through compassionate action. Understanding the difference between these two concepts is crucial for our well-being and growth.
 
 As David Deida aptly put it, **"Self-suppression is when you resist and fight against your desires, keeping them as buried and unexpressed as possible. Self-discipline is when your highest desires rule your lesser desires, not through resistance, but through loving action grounded in understanding and compassion."** This quote beautifully captures the essence of the fine line we navigate between the two.
