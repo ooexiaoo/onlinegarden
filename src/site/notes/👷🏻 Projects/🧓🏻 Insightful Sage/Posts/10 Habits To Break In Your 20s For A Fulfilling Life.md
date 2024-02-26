@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/10-habits-to-break-in-your-20s-for-a-fulfilling-life/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.784+05:30","updated":"2024-02-26T02:42:24.159+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/10-habits-to-break-in-your-20s-for-a-fulfilling-life/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.784+05:30","updated":"2024-02-26T20:26:25.992+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/10 Habits To Break In Your 20s For A Fulfilling Life\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/10 Habits To Break In Your 20s For A Fulfilling Life]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-28 - 22:09==
 
----
 What's up, guys? Your 20s can be a pretty wild ride full of ups and downs, but it's also a time of great potential and possibilities. In this blog post, we're going to talk about the top 10 things you should stop doing in your 20s if you want to live a more fulfilling life.
 
 First things first, taking care of your health is crucial. Sure, junk food might taste good in the moment, but it's not worth the long-term effects it can have on your body. And let's face it, your 20s are when you have the most energy, so don't waste it on feeling sluggish and sick.
