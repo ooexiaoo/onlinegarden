@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/discipline-the-key-to-true-freedom-in-life/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.221+05:30","updated":"2024-02-26T02:42:25.105+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/discipline-the-key-to-true-freedom-in-life/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.221+05:30","updated":"2024-02-26T20:39:07.783+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discipline - The Key to True Freedom in Life\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discipline - The Key to True Freedom in Life]]
+🧶 Tags:: #Insightfulsage 
 ==2023-06-05 - 14:24==
 
----
 Have you ever found yourself yearning for more freedom in your life? I mean, who hasn't, right? Well, guess what? I've got some exciting news for you. The key to unlocking that freedom you desire lies in something seemingly paradoxical: discipline. Yes, discipline! In this blog post, we're going to dive deep into the concept of discipline and explore how it can empower you to live a life of true freedom.
 
 Now, before we get started, let's address something important. You might be thinking, "Wait, isn't 'Discipline Equals Freedom' the title of Jacko Willink's book?" Well, I want to make it clear right off the bat that this blog post has nothing to do with that book. Although you might fine some similarities with the book. We're exploring the broader idea of discipline and how it relates to freedom in our own unique way. So, let's set aside any preconceptions and embark on this journey together.
