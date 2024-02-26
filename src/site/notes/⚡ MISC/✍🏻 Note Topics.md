@@ -1,5 +1,5 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2024-02-18T16:46:52.748+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2024-02-27T02:50:07.823+05:30"}
 ---
 
 Tags:: #Topics 
@@ -40,6 +40,7 @@ Tags:: #Topics
 - [ ] [What is Brahman?](https://www.yogapedia.com/definition/5274/brahman)
 - [ ] [Fadogia Agrestis](https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF)
 - [ ] A website that shares business related ideas and business case studies with as much information as it can
+- [ ] [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]
 
  Links::
  <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
