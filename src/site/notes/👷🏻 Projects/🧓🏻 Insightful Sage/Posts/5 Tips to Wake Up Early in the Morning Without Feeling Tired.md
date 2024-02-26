@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-tips-to-wake-up-early-in-the-morning-without-feeling-tired/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.811+05:30","updated":"2024-02-26T02:42:23.870+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-tips-to-wake-up-early-in-the-morning-without-feeling-tired/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.811+05:30","updated":"2024-02-26T20:25:16.324+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Tips to Wake Up Early in the Morning Without Feeling Tired\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Tips to Wake Up Early in the Morning Without Feeling Tired]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-29 - 21:33==
 
----
 We've all been there, hitting snooze repeatedly, struggling to get out of bed in the morning, and reaching for a cup of coffee to jump-start the day. Meet Sam, a regular guy who, like many of us, has trouble waking up early in the morning. Despite his best efforts, he always found himself feeling groggy and unproductive throughout the day.
 
 But what if we told you that waking up early can have tremendous benefits on your overall health and productivity? Research suggests that waking up early can lead to better mental and physical health, improved focus, and higher productivity throughout the day.
