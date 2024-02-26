@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-key-habits-of-highly-independent-and-observant-sigma-males/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.034+05:30","updated":"2024-02-26T02:42:23.791+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-key-habits-of-highly-independent-and-observant-sigma-males/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.034+05:30","updated":"2024-02-26T20:24:24.895+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Key Habits of Highly Independent and Observant Sigma Males\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Key Habits of Highly Independent and Observant Sigma Males]]
+🧶 Tags: #Insightfulsage 
 ==2023-05-03 - 21:57==
 
----
 Have you ever heard of this unique personality type before? If not, you're in for a treat!
 
 Sigma Males are often misunderstood, but they possess a set of distinct qualities that set them apart from other personality types. In this article, we'll be diving into the world of Sigma Males and exploring five key habits that define them.
