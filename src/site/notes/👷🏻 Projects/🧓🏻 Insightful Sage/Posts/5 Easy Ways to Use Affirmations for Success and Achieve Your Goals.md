@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-easy-ways-to-use-affirmations-for-success-and-achieve-your-goals/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.690+05:30","updated":"2024-02-26T02:42:23.709+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-easy-ways-to-use-affirmations-for-success-and-achieve-your-goals/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.690+05:30","updated":"2024-02-26T20:23:51.290+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Easy Ways to Use Affirmations for Success and Achieve Your Goals\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Easy Ways to Use Affirmations for Success and Achieve Your Goals]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-27 - 17:12==
 
----
 Have you ever found yourself feeling stuck, afraid, or doubtful? Maybe you've had a big dream or goal that you've been wanting to achieve, but you just can't seem to get there. Well, guess what? You're not alone. We've all been there at some point in our lives. But here's the thing, the most important words you say are the ones you say to yourself.
 
 What if I told you that you have the power to transform your thoughts and beliefs by using a simple yet powerful tool? That's right; I'm talking about affirmations. Affirmations are positive statements that you can repeat to yourself daily to change your mindset and outlook on life.
