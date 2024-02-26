@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/beyond-the-first-success-why-taking-a-break-can-stifle-your-potential/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.258+05:30","updated":"2024-02-26T02:42:24.866+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/beyond-the-first-success-why-taking-a-break-can-stifle-your-potential/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.258+05:30","updated":"2024-02-26T20:32:57.751+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Beyond the First Success - Why Taking a Break Can Stifle Your Potential\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Beyond the First Success - Why Taking a Break Can Stifle Your Potential]]
+🧶 Tags:: #Insightfulsage 
 ==2023-06-08 - 20:17==
 
----
 You all have that inherent desire to achieve greatness, don't you? Success is like a magnetic force that pulls you in, promising fulfillment and recognition. It's that feeling of accomplishment when you conquer your goals, surpass your own expectations, and make your dreams a reality. Whether it's acing a test, landing a dream job, or receiving accolades for your work, success has an irresistible allure.
 
 But, let me warn you about the treacherous path of complacency. It's a sneaky foe that creeps in when you least expect it, tempting you to settle for mediocrity. Picture this: you've reached a certain level of success, and it feels like you've made it. The danger lies in becoming too comfortable, too satisfied with your achievements.
