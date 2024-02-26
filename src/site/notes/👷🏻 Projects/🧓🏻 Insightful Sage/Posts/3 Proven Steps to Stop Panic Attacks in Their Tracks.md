@@ -1,16 +1,11 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/3-proven-steps-to-stop-panic-attacks-in-their-tracks/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.007+05:30","updated":"2024-02-26T02:42:23.539+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/3-proven-steps-to-stop-panic-attacks-in-their-tracks/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.007+05:30","updated":"2024-02-26T20:22:43.131+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/3 Proven Steps to Stop Panic Attacks in Their Tracks\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/3 Proven Steps to Stop Panic Attacks in Their Tracks]]
+🧶 Tags:: #Insightfulsage 
+🗃 Resources:: [[]]
 ==2023-05-03 - 01:10==
 
----
 Panic attacks can be a terrifying experience. They can strike at any time, without warning, and can leave you feeling helpless and vulnerable. They can cause you to feel like you're losing control, as if you're having a heart attack, and even make you feel like you're going to die. The good news is that you can learn how to handle them. In this article, we'll provide you with three simple steps that you can take to help you manage your panic attacks.
 
 Panic attacks are more common than you might think. **According to the Anxiety and Depression Association of America (ADAA), approximately 2.7 percent of the US population experience panic attacks each year**. Panic attacks can happen to anyone, regardless of their age, gender, or background.
