@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/30-life-lessons-every-teen-should-learn/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.264+05:30","updated":"2024-02-26T02:42:24.642+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/30-life-lessons-every-teen-should-learn/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.264+05:30","updated":"2024-02-26T20:30:00.501+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/30 Life Lessons Every Teen Should Learn\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/30 Life Lessons Every Teen Should Learn]]
+🧶 Tags:: #Insightfulsage 
 ==2023-06-09 - 18:07==
 
----
 Being a teenager is an exciting and transformative phase of life. It's a time when you begin to discover who you are, make choices that shape your future, and embark on new adventures. One crucial aspect of this journey is learning valuable life lessons that can guide you towards personal growth and success.
 
 Why are these life lessons so important during your teenage years? Well, think of it this way: imagine you're building a strong foundation for a house. The stronger and more sturdy the foundation, the better the house will withstand any storms that come its way. The same goes for your life. The lessons you learn now will provide you with a solid base to navigate the challenges and uncertainties that lie ahead.
