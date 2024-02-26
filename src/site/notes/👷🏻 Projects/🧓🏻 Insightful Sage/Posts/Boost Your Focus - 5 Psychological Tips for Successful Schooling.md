@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boost-your-focus-5-psychological-tips-for-successful-schooling/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.701+05:30","updated":"2024-02-26T02:42:24.907+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boost-your-focus-5-psychological-tips-for-successful-schooling/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.701+05:30","updated":"2024-02-26T20:34:25.563+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Focus - 5 Psychological Tips for Successful Schooling\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Focus - 5 Psychological Tips for Successful Schooling]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-27 - 23:02==
 
----
 Hey everyone! Have you ever found yourself struggling to focus in school? You know, those times when your mind starts to wander, and you can't seem to pay attention to what your teacher is saying? We've all been there, and it's a problem that can really affect your academic performance.
 
 That's why today we're going to talk about the importance of focus in school. It's a crucial skill that can help you not only in your studies but also in your personal and professional life.
