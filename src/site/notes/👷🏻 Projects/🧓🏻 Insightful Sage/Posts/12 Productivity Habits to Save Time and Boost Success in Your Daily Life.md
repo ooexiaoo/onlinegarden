@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/12-productivity-habits-to-save-time-and-boost-success-in-your-daily-life/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.696+05:30","updated":"2024-02-26T02:42:24.555+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/12-productivity-habits-to-save-time-and-boost-success-in-your-daily-life/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.696+05:30","updated":"2024-02-26T20:29:28.014+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/12 Productivity Habits to Save Time and Boost Success in Your Daily Life\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/12 Productivity Habits to Save Time and Boost Success in Your Daily Life]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-27 - 18:43==
 
----
 Let's talk about habits today! They're the things we do every day that eventually become a routine, and they can either be beneficial or harmful to our lives. That's why it's crucial to develop smart habits that can help us become more productive and efficient with our time.
 
 In this blog post, we're going to dive into 12 smart habits that can save you time and help you achieve your goals. Whether you're looking to improve your work performance or simply want to be more productive in your personal life, these habits will surely come in handy.
