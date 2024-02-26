@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/100-things-every-teenager-should-know/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.270+05:30","updated":"2024-02-26T02:42:24.655+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/100-things-every-teenager-should-know/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.270+05:30","updated":"2024-02-26T20:30:11.719+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/100 Things Every Teenager Should Know\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/100 Things Every Teenager Should Know]]
+🧶 Tags:: #Insightfulsage 
 ==2023-06-10 - 00:01==
 
----
 Ready to unlock the secrets to teenage success? Get ready to dive into an incredible journey of self-discovery and growth. This is your ultimate guide, equipping you with 100 crucial life lessons that will shape you into the superhero of your own life story.
 
 Think about it: your teenage years are like a captivating origin tale. It's a time of discovering your unique powers, honing your skills, and preparing to conquer the challenges that lie ahead. That's why this blog post exists – to provide you with a vault of wisdom and knowledge, setting you up for a future filled with triumph.
