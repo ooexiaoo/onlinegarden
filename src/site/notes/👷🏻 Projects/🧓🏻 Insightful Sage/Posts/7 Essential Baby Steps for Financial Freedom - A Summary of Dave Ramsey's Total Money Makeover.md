@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/7-essential-baby-steps-for-financial-freedom-a-summary-of-dave-ramsey-s-total-money-makeover/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.969+05:30","updated":"2024-02-26T02:42:23.918+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/7-essential-baby-steps-for-financial-freedom-a-summary-of-dave-ramsey-s-total-money-makeover/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.969+05:30","updated":"2024-02-26T20:25:25.813+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/7 Essential Baby Steps for Financial Freedom - A Summary of Dave Ramsey's Total Money Makeover\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/7 Essential Baby Steps for Financial Freedom - A Summary of Dave Ramsey's Total Money Makeover]]
+🧶 Tags:: #Insightfulsage 
 ==2023-05-02 - 19:51==
 
----
 If you're like most people, you've probably had moments when you've struggled to get a handle on your finances. It can be tough to know where to start when you're trying to get out of debt or build up your savings. That's where the Total Money Makeover by Dave Ramsey comes in.
 
 Dave Ramsey is a financial guru who has helped millions of people get their finances in order. His book, The Total Money Makeover, is a step-by-step guide that outlines seven baby steps to achieve financial freedom. These steps are designed to help you get out of debt, save money, and build wealth.
