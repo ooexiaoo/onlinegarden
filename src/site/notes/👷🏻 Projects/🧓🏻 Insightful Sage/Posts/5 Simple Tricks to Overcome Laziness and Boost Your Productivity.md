@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-simple-tricks-to-overcome-laziness-and-boost-your-productivity/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.958+05:30","updated":"2024-02-26T02:42:23.857+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-simple-tricks-to-overcome-laziness-and-boost-your-productivity/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.958+05:30","updated":"2024-02-26T20:25:01.702+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Simple Tricks to Overcome Laziness and Boost Your Productivity\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Simple Tricks to Overcome Laziness and Boost Your Productivity]]
+🧶 Tags:: #Insightfulsage 
 ==2023-05-02 - 01:18==
 
----
 Do you ever find yourself sitting on the couch, scrolling mindlessly through social media, feeling like you have a million things to do but zero motivation to do them? It's a common feeling and one that can quickly spiral into a pattern of laziness and procrastination.
 
 But here's the thing - being lazy is not just a harmless habit. It can have serious consequences for your health and overall well-being. The less you move and the more you stay sedentary, the more likely you are to experience issues like obesity, heart disease, and poor mental health.
