@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boost-your-confidence-with-these-5-simple-tricks/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.847+05:30","updated":"2024-02-26T02:42:24.900+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boost-your-confidence-with-these-5-simple-tricks/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.847+05:30","updated":"2024-02-26T20:34:14.806+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Confidence with These 5 Simple Tricks\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Confidence with These 5 Simple Tricks]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-29 - 23:51==
 
----
 Hey everyone! Let's talk about confidence. We all know how important it is for personal and professional growth. It's that magical quality that makes us feel like we can conquer the world, achieve our dreams, and overcome obstacles. But let's be real, not everyone is born confident. In fact, many of us struggle with a lack of confidence that can be a major hindrance to our success.
 
 **Whether it's fear of failure, self-doubt, or imposter syndrome, confidence issues can hold us back from reaching our full potential**. But don't worry, there are simple tricks that you can incorporate into your daily routine to boost your confidence and become the best version of yourself.
