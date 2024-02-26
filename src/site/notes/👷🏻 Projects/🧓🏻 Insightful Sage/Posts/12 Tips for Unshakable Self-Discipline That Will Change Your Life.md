@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/12-tips-for-unshakable-self-discipline-that-will-change-your-life/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.764+05:30","updated":"2024-02-26T02:42:24.579+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/12-tips-for-unshakable-self-discipline-that-will-change-your-life/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.764+05:30","updated":"2024-02-26T20:29:50.455+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/12 Tips for Unshakable Self-Discipline That Will Change Your Life\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/12 Tips for Unshakable Self-Discipline That Will Change Your Life]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-28 - 20:20==
 
----
 What's up, folks! We all have goals and dreams we want to achieve, whether it's losing weight, learning a new skill, or starting a business. However, it's easy to get sidetracked and lose focus when distractions and obstacles come our way. That's where self-discipline comes in. It's the ability to stay committed and focused on our goals despite any challenges that come our way.
 
 Now, I know what you might be thinking, **"I'm not disciplined enough,"** or **"I've tried to be disciplined before, but it never works."** Well, I'm here to tell you that self-discipline is not something you're born with; it's a skill you can develop and strengthen with practice. In fact, the more you practice it, the stronger it becomes, like a muscle.
