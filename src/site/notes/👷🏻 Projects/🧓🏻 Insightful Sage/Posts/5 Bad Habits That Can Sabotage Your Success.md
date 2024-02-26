@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-bad-habits-that-can-sabotage-your-success/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.906+05:30","updated":"2024-02-26T02:42:23.696+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-bad-habits-that-can-sabotage-your-success/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.906+05:30","updated":"2024-02-26T20:23:37.289+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Bad Habits That Can Sabotage Your Success\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Bad Habits That Can Sabotage Your Success]]
+🧶 Tags:: #Insightfulsage 
 ==2023-05-01 - 00:39==
 
----
 Hey everyone! Today, we're going to talk about something that's near and dear to all of us: bad habits. We all have them, whether it's biting our nails, procrastinating on work, or spending too much time on our phones. But did you know that identifying and eliminating these bad habits can greatly improve our quality of life?
 
 That's right. Bad habits can hold us back from reaching our full potential, both personally and professionally. They can make us feel stressed, anxious, and unproductive. And worst of all, they can be incredibly difficult to break. But don't worry, because today we're going to discuss five common bad habits and how to overcome them.
