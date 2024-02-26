@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boost-your-productivity-5-easy-steps-to-get-things-done-with-the-pomodoro-technique/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.737+05:30","updated":"2024-02-26T02:42:24.964+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boost-your-productivity-5-easy-steps-to-get-things-done-with-the-pomodoro-technique/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.737+05:30","updated":"2024-02-26T20:34:40.693+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-28 - 16:42==
 
----
 Hello there, let's talk about one of the most important things that can change your life for the better: **time management**. Managing your time effectively is crucial for producing your best quality of work while minimizing your stress levels. Trust me, I know this from personal experience.
 
 Have you ever had a deadline to meet and wasted time in the beginning because you procrastinated on the task? I’ve been there too! It’s easy to get distracted by more interesting things when you know the deadline is still a ways off. But then, as the deadline approaches, you end up feeling stressed and anxious, which leads to consuming more caffeine than you need and skipping sleep.
