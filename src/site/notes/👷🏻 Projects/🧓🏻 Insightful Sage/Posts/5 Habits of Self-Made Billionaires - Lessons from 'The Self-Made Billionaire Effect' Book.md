@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-habits-of-self-made-billionaires-lessons-from-the-self-made-billionaire-effect-book/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.675+05:30","updated":"2024-02-26T02:42:23.779+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-habits-of-self-made-billionaires-lessons-from-the-self-made-billionaire-effect-book/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.675+05:30","updated":"2024-02-26T20:24:07.633+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Habits of Self-Made Billionaires - Lessons from 'The Self-Made Billionaire Effect' Book\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Habits of Self-Made Billionaires - Lessons from 'The Self-Made Billionaire Effect' Book]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-27 - 15:54==
 
----
 Are you someone who dreams of becoming a billionaire someday? Or are you simply fascinated by the lives of the ultra-wealthy? Whatever your reasons, I'm excited to introduce you to a book that delves into the minds of self-made billionaires.
 
 "The Self-Made Billionaire Effect" is a book that uncovers the secrets of extreme producers and how they create massive value. It's a case study of 120 self-made billionaires, who have earned their millions and billions in highly competitive markets. The authors, John Sviokla and Mitch Cohen, wanted to study these niche people and understand what makes them so successful.
