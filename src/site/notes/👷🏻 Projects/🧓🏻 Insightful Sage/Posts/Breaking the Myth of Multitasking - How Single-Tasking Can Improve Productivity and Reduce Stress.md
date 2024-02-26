@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/breaking-the-myth-of-multitasking-how-single-tasking-can-improve-productivity-and-reduce-stress/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.076+05:30","updated":"2024-02-26T02:42:25.010+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/breaking-the-myth-of-multitasking-how-single-tasking-can-improve-productivity-and-reduce-stress/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.076+05:30","updated":"2024-02-26T20:35:19.404+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking the Myth of Multitasking - How Single-Tasking Can Improve Productivity and Reduce Stress\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking the Myth of Multitasking - How Single-Tasking Can Improve Productivity and Reduce Stress]]
+🧶 Tags: #Insightfulsage 
 ==2023-05-04 - 22:27==
 
----
 Multitasking is a term that has become increasingly popular in our fast-paced world. It is often used to describe the act of performing multiple tasks simultaneously. **However, multitasking is a myth. It is physically impossible for the brain to focus on multiple tasks at once**. In reality, what we are doing when we multitask is quickly switching our attention between tasks, which ultimately leads to a decrease in productivity and an increase in stress levels.
 
 Despite the evidence against multitasking, it remains a common practice in our daily lives. Whether it's responding to emails while on a conference call or watching a video while working on a project, we often find ourselves trying to juggle multiple tasks at once.
