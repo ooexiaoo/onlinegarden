@@ -4,6 +4,8 @@
 
 | File                                                                                                                                                                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                                                                                                              | 27.02.2024 - 02:42 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                   | 27.02.2024 - 02:41 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discovering Inner Harmony - A Guide to Finding Peace in Life\|Discovering Inner Harmony - A Guide to Finding Peace in Life]]                                                                           | 26.02.2024 - 20:39 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discipline - The Key to True Freedom in Life\|Discipline - The Key to True Freedom in Life]]                                                                                                           | 26.02.2024 - 20:39 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Differentiating Self-Suppression from Self-Discipline\|Differentiating Self-Suppression from Self-Discipline]]                                                                                         | 26.02.2024 - 20:38 |
@@ -12,7 +14,5 @@
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking Free from the Most Common Limiting Beliefs About Money\|Breaking Free from the Most Common Limiting Beliefs About Money]]                                                                     | 26.02.2024 - 20:34 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boosting Your Confidence - Overcoming Assumptions and Self-Doubt\|Boosting Your Confidence - Overcoming Assumptions and Self-Doubt]]                                                                   | 26.02.2024 - 20:34 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique\|Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique]]                         | 26.02.2024 - 20:34 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Focus - 5 Psychological Tips for Successful Schooling\|Boost Your Focus - 5 Psychological Tips for Successful Schooling]]                                                                   | 26.02.2024 - 20:34 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Confidence with These 5 Simple Tricks\|Boost Your Confidence with These 5 Simple Tricks]]                                                                                                   | 26.02.2024 - 20:34 |
 
 { .block-language-dataview}
