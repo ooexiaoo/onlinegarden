@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boosting-your-confidence-overcoming-assumptions-and-self-doubt/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.777+05:30","updated":"2024-02-26T02:42:24.969+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boosting-your-confidence-overcoming-assumptions-and-self-doubt/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.777+05:30","updated":"2024-02-26T20:34:49.460+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boosting Your Confidence - Overcoming Assumptions and Self-Doubt\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boosting Your Confidence - Overcoming Assumptions and Self-Doubt]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-28 - 22:01==
 
----
 Confidence - something we all need to function well and progress in life. When we feel confident, we're more likely to take risks, speak our minds, and pursue our goals. On the other hand, when we lack confidence, we might hold ourselves back, doubt our abilities, and struggle to connect with others.
 
 If you're reading this blog, chances are you want to learn how to be confident around everyone. Whether you're heading to a job interview, meeting new people, or simply want to feel more comfortable in your own skin, there are plenty of strategies you can use to boost your confidence.
