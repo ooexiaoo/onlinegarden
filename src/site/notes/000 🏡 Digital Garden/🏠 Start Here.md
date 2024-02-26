@@ -39,18 +39,18 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                                                                    | Last modified      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[👷🏻 Projects/🌵 Veganomist/💡 Veganomist Blog Ideas\|💡 Veganomist Blog Ideas]]                                                                                   | 26.02.2024 - 02:52 |
-| [[👷🏻 Projects/🌵 Veganomist/🌵 Veganomist\|🌵 Veganomist]]                                                                                                         | 26.02.2024 - 02:52 |
-| [[👷🏻 Projects/🌵 Veganomist/Why ethical textiles are necessary in Fashion Industry\|Why ethical textiles are necessary in Fashion Industry]]                       | 26.02.2024 - 02:52 |
-| [[👷🏻 Projects/🌵 Veganomist/Why Is Amul Needs To Rethink Plant-based Milk\|Why Is Amul Needs To Rethink Plant-based Milk]]                                         | 26.02.2024 - 02:52 |
-| [[👷🏻 Projects/🌵 Veganomist/Why I Went Vegan And So Can You\|Why I Went Vegan And So Can You]]                                                                     | 26.02.2024 - 02:52 |
-| [[👷🏻 Projects/🌵 Veganomist/What Will Happen If We All Went Vegan\|What Will Happen If We All Went Vegan]]                                                         | 26.02.2024 - 02:52 |
-| [[👷🏻 Projects/🌵 Veganomist/What Is Speciesism And How Can We Improve\|What Is Speciesism And How Can We Improve]]                                                 | 26.02.2024 - 02:52 |
-| [[👷🏻 Projects/🌵 Veganomist/Vegans And Alcohol 101\|Vegans And Alcohol 101]]                                                                                       | 26.02.2024 - 02:52 |
-| [[👷🏻 Projects/🌵 Veganomist/Veganism and Mental Health - Exploring the Plant-Based Connection\|Veganism and Mental Health - Exploring the Plant-Based Connection]] | 26.02.2024 - 02:52 |
-| [[👷🏻 Projects/🌵 Veganomist/Vegan Food List For Beginners\|Vegan Food List For Beginners]]                                                                         | 26.02.2024 - 02:52 |
+| File                                                                                                                                                                                                                                                 | Last modified      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discovering Inner Harmony - A Guide to Finding Peace in Life\|Discovering Inner Harmony - A Guide to Finding Peace in Life]]                                                                           | 26.02.2024 - 20:39 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discipline - The Key to True Freedom in Life\|Discipline - The Key to True Freedom in Life]]                                                                                                           | 26.02.2024 - 20:39 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Differentiating Self-Suppression from Self-Discipline\|Differentiating Self-Suppression from Self-Discipline]]                                                                                         | 26.02.2024 - 20:38 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Deliberate Practice\|Deliberate Practice]]                                                                                                                                                             | 26.02.2024 - 20:38 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking the Myth of Multitasking - How Single-Tasking Can Improve Productivity and Reduce Stress\|Breaking the Myth of Multitasking - How Single-Tasking Can Improve Productivity and Reduce Stress]] | 26.02.2024 - 20:35 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking Free from the Most Common Limiting Beliefs About Money\|Breaking Free from the Most Common Limiting Beliefs About Money]]                                                                     | 26.02.2024 - 20:34 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boosting Your Confidence - Overcoming Assumptions and Self-Doubt\|Boosting Your Confidence - Overcoming Assumptions and Self-Doubt]]                                                                   | 26.02.2024 - 20:34 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique\|Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique]]                         | 26.02.2024 - 20:34 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Focus - 5 Psychological Tips for Successful Schooling\|Boost Your Focus - 5 Psychological Tips for Successful Schooling]]                                                                   | 26.02.2024 - 20:34 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Confidence with These 5 Simple Tricks\|Boost Your Confidence with These 5 Simple Tricks]]                                                                                                   | 26.02.2024 - 20:34 |
 
 { .block-language-dataview}
 
