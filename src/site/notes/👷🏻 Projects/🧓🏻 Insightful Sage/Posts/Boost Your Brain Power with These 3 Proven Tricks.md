@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boost-your-brain-power-with-these-3-proven-tricks/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.895+05:30","updated":"2024-02-26T02:42:24.882+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/boost-your-brain-power-with-these-3-proven-tricks/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.895+05:30","updated":"2024-02-26T20:33:14.549+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Brain Power with These 3 Proven Tricks\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Brain Power with These 3 Proven Tricks]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-30 - 23:09==
 
----
 Welcome, my dear reader! Today we are going to talk about one of the most important things in our life - our brain. Our brain is the control center of our body, and it's essential to keep it healthy and strong. As we age, our brain starts to lose its power, and we may experience memory loss, difficulty concentrating, and decreased cognitive abilities.
 
 But don't worry, my friend! There are many ways to boost your brain power, and in this article, we are going to share with you three proven tricks that can help you improve your brain's performance.
