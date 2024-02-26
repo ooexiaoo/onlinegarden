@@ -1,58 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/projects/insightful-sage/posts/10-tips-to-be-more-creative/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.553+05:30","updated":"2024-02-26T02:42:24.351+05:30"}
+{"dg-publish":true,"permalink":"/projects/insightful-sage/posts/10-tips-to-be-more-creative/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.553+05:30","updated":"2024-02-26T20:28:57.549+05:30"}
 ---
 
-Actors, artists, rock stars, and writers have the ability to touch us on not only a personal scale but a global scale as well. We see these people on TV and on our bookshelves, in the movie theaters, and in the grocery stores. But what makes them so special is creativity, creative people rule the world. Whether it's being media icons or designing the sleek new products we see and use every day.
-
-  
-
-We love creative people, and we want to know all their secrets. If you want to produce music like Kanye or paint like Picasso, here are 10 Psychological tips from creative people.
-
-  
-
-## Integrate Art
-
-creative people are very vocal about the importance of exposing oneself to art. By integrating art into your life, your brain starts to reflect on it. This trains you to look for meaningful messages, metaphors, and other important information everywhere. Another benefit to looking at art is that you gain inspiration for your own art. Although watching music videos might not seem beneficial, it can give you many ideas to work from.
-
-## Ask Questions
-
-Creative people ask a lot of questions. What if and why is create a climate of curiosity? It's through this curiosity that creative people are able to make connections, gather more information, and develop opinions. Go ahead, ask more questions and watch the creative ideas flow.
-
-## Work With Your Productivity
-
-Most people get stuck in a routine. But is this the routine that's most effective for you? Creative people know when they're most productive and they work with it, not against themselves. By embracing the schedules their bodies want to follow. They're able to increase their productivity. You might even find you'll get more leisure time out of it too. Did you know that how you get your energy can also affect your creativity?
-
-## Express Your Ideas
-
-even if they seem silly at first, creative people follow their ideas. They don't judge a piece until after it's complete or after it's been discussed. The more you express your ideas, the easier you'll have access to them in the future. ideas will come more naturally and you'll be quick on the draw for any brainstorming sessions at work.
-
-## Go On Adventures
-
-You miss out on life if you don't go on adventures and see the world. Creative people embrace the new. They love different experiences and sensations because thrill-seeking allows them to explore and create possibilities for themselves and others. Being open is such an important factor. Creativity has to be free in order to sustain not boxed up and shut away.
-
-## Be An Observer
-
-It's important to also step back and observe the adventures you have. Observers get to take in everything through that receptivity. They develop unique and rich opinions. observe your surroundings in everyday life too. Because plenty of opportunities in the world. Only through observation do we find them though?
-
-## Practice Mindfulness
-
-Mindfulness might sound like a buzzword nowadays, but it's actually really good for you. When you're being mindful of yourself and the world around you. You can bring more positive energy and calm into your life. Honesty becomes easier, and so does breaking old unwanted habits. Mindfulness also helps you achieve a greater attunement to yourself, which means you'll be able to play your strengths more.
-
-## Embrace Risk
-
-Risk is the driving force of a creative person, and it gets great results. Often people who risk a lot fail a lot too. However, the more desensitized a person gets to fail, the more they're willing to risk. This gives them the courage to explore their ideas. And express the things they want to say. Creative people learned this long ago and embrace the risk equals reward scale.
-
-## Daydream
-
-Just because you're not on task doesn't mean your brain is inactive. By daydreaming. You're engaging different parts of your consciousness. While letting your subconscious deal with the real problems. Daydreaming is also a great way to come up with creative ideas in situations that you might not otherwise give yourself permission to think about. It's like going on an adventure but in your mind.
-
-## Create
-
-when you get right down to it, creative people create. They create experimental work, successful work, and a lot of failed work. But they keep going. They know that the only way to go farther in their work is to create more of that work. And that's a lesson we all can learn. The more we do, the further we'll go. Who knows? Maybe you'll be the next research scientist making big breakthroughs and saving lives. So what are you waiting for?
-
-# Tags - Personal Growth,Habit,Creativity,Tips, #Post 
-
-# Re-written
+Tags:: #Personal_Growth #Habit #Creativity #Tips #Post 
 
 Welcome to the world of creativity! Actors, artists, rock stars, and writers have the power to touch us on a personal and global scale. Their art has the ability to transcend boundaries and bring people together from all walks of life. We see these creative people everywhere, from TV screens to bookshelves, and even in the grocery store. They are the ones who make our lives more beautiful, meaningful, and exciting.
 
