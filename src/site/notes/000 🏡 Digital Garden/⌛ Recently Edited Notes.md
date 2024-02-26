@@ -4,6 +4,8 @@
 
 | File                                                                                                                                                                                                                                                 | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                                                                                                                | 27.02.2024 - 03:04 |
+| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                                                                                                                       | 27.02.2024 - 02:50 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                                                                                                              | 27.02.2024 - 02:42 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                   | 27.02.2024 - 02:41 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discovering Inner Harmony - A Guide to Finding Peace in Life\|Discovering Inner Harmony - A Guide to Finding Peace in Life]]                                                                           | 26.02.2024 - 20:39 |
@@ -12,7 +14,5 @@
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Deliberate Practice\|Deliberate Practice]]                                                                                                                                                             | 26.02.2024 - 20:38 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking the Myth of Multitasking - How Single-Tasking Can Improve Productivity and Reduce Stress\|Breaking the Myth of Multitasking - How Single-Tasking Can Improve Productivity and Reduce Stress]] | 26.02.2024 - 20:35 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking Free from the Most Common Limiting Beliefs About Money\|Breaking Free from the Most Common Limiting Beliefs About Money]]                                                                     | 26.02.2024 - 20:34 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boosting Your Confidence - Overcoming Assumptions and Self-Doubt\|Boosting Your Confidence - Overcoming Assumptions and Self-Doubt]]                                                                   | 26.02.2024 - 20:34 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique\|Boost Your Productivity - 5 Easy Steps to Get Things Done with the Pomodoro Technique]]                         | 26.02.2024 - 20:34 |
 
 { .block-language-dataview}
