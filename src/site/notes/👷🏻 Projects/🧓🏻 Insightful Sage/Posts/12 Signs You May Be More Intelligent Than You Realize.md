@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/12-signs-you-may-be-more-intelligent-than-you-realize/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.990+05:30","updated":"2024-02-26T02:42:24.569+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/12-signs-you-may-be-more-intelligent-than-you-realize/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.990+05:30","updated":"2024-02-26T20:29:39.114+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/12 Signs You May Be More Intelligent Than You Realize\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/12 Signs You May Be More Intelligent Than You Realize]]
+🧶 Tags:: #Insightfulsage 
 ==2023-05-02 - 23:58==
 
----
 Are you someone who thinks they're not very smart? Do you feel like you're constantly struggling to keep up with the people around you? Well, it's time to throw those limiting beliefs out the window! Intelligence isn't just about acing exams or having a high IQ score. In fact, intelligence can manifest in many different ways that we often overlook.
 
 That's why in this blog post, we'll be highlighting 12 signs that may indicate you are more intelligent than you think. From being curious about the world around you to having a great sense of humor, these signs will show you that intelligence comes in many different shapes and sizes.
