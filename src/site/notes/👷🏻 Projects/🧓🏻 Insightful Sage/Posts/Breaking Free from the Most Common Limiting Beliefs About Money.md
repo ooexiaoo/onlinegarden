@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/breaking-free-from-the-most-common-limiting-beliefs-about-money/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.718+05:30","updated":"2024-02-26T02:42:24.976+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/breaking-free-from-the-most-common-limiting-beliefs-about-money/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.718+05:30","updated":"2024-02-26T20:34:59.999+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking Free from the Most Common Limiting Beliefs About Money\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking Free from the Most Common Limiting Beliefs About Money]]
+🧶 Tags:: #Insightfulsage
 ==2023-04-27 - 23:49==
 
----
 Hey, have you ever noticed that some people just seem to have a knack for making money while others struggle to make ends meet? Well, it turns out that our beliefs about money play a huge role in our financial success.
 
 Think about it, if you believe that money is hard to come by and that you'll never be wealthy, you're more likely to struggle financially. On the other hand, if you believe that there are endless opportunities to make money and that you deserve to be wealthy, you're more likely to experience financial abundance.
