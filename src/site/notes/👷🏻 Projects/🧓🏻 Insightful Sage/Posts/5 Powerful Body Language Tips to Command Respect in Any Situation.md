@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-powerful-body-language-tips-to-command-respect-in-any-situation/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.757+05:30","updated":"2024-02-26T02:42:23.841+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/5-powerful-body-language-tips-to-command-respect-in-any-situation/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.757+05:30","updated":"2024-02-26T20:24:36.303+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Powerful Body Language Tips to Command Respect in Any Situation\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/5 Powerful Body Language Tips to Command Respect in Any Situation]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-28 - 20:08==
 
----
 Respect is a fundamental human need that everyone craves. It's something that we all want to earn from others, but it's not always easy to come by. Whether you're in a personal or professional setting, respect is crucial for building healthy relationships.
 
 When we talk about respect, most people assume that it's all about what you say or how you act. However, what you don't say or how you don't act can be just as important. That's where body language comes in. Body language is a nonverbal form of communication that can convey a lot of information about how you feel, what you're thinking, and even how confident you are. In fact, studies show that up to 93% of our communication is nonverbal!
