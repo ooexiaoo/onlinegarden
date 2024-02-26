@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/7-wealth-building-principles-from-the-richest-man-in-babylon/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.706+05:30","updated":"2024-02-26T02:42:24.026+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/7-wealth-building-principles-from-the-richest-man-in-babylon/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.706+05:30","updated":"2024-02-26T20:25:49.093+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/7 Wealth-Building Principles From The Richest Man in Babylon\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/7 Wealth-Building Principles From The Richest Man in Babylon]]
+🧶 Tags:: #Insightfulsage 
 ==2023-04-27 - 23:18==
 
----
 Building wealth is something that many of us aspire to, but it can often feel overwhelming and out of reach. The good news is that the principles of wealth-building have been studied and practiced for centuries, and we can learn from those who have come before us.
 
 One such person is the Richest Man in Babylon, a character from a book of the same name by George S. Clason. Set in ancient Babylon, the book follows the story of Arkad, a man who becomes the wealthiest person in the city by following a set of timeless principles.
