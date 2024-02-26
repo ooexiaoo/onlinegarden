@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/8-ways-to-take-a-break-from-social-media/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.277+05:30","updated":"2024-02-26T02:42:24.111+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/8-ways-to-take-a-break-from-social-media/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.277+05:30","updated":"2024-02-26T20:26:14.984+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/8 Ways to Take a Break from Social Media\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/8 Ways to Take a Break from Social Media]]
+🧶 Tags:: #Insightfulsage 
 ==2023-06-11 - 16:07==
 
----
 Are you exhausted from the omnipresence of social media? It feels like an ever-present hum that never fades away. But have you ever considered the impact of this digital phenomenon on our lives? Excessive social media use can have detrimental effects on our well-being. It leaves us drained, anxious, and disconnected from reality. But fear not! There's a simple remedy to restore balance: taking a break from social media.
 
 Imagine waking up in the morning and resisting the urge to grab your phone instantly. Instead, you take a moment to breathe, immersing yourself in the tranquility of the present. No more endless notifications or mindless scrolling. Just pure serenity. By disconnecting from the virtual realm, we open doors to self-care and self-discovery.
