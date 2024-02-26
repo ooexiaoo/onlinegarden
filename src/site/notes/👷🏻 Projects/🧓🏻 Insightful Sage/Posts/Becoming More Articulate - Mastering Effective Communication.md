@@ -1,13 +1,8 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/becoming-more-articulate-mastering-effective-communication/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.178+05:30","updated":"2024-02-26T02:42:24.802+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/becoming-more-articulate-mastering-effective-communication/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.178+05:30","updated":"2024-02-26T20:31:58.340+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Becoming More Articulate - Mastering Effective Communication\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Becoming More Articulate - Mastering Effective Communication]]
+🧶 Tags:: #Insightfulsage 
 ==2023-05-26 - 15:38==
 
 ---
