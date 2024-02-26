@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/a-practical-guide-to-the-time-management-matrix/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.196+05:30","updated":"2024-02-26T02:42:24.729+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/a-practical-guide-to-the-time-management-matrix/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.196+05:30","updated":"2024-02-26T20:30:51.467+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/A Practical Guide to the Time Management Matrix\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/A Practical Guide to the Time Management Matrix]]
+🧶 Tags:: #Insightfulsage 
 ==2023-05-30 - 18:50==
 
----
 Hey, busy bees! Are you looking to make the most of your time and boost your productivity? Well, you're in luck! Today, we're diving into the world of time management and introducing you to a powerful tool called the Time Management Matrix. Trust me, this is a game-changer!
 
 Time management is a skill we all strive to master, as it can make a world of difference in our personal and professional lives. It's about maximizing productivity, reducing stress, and finding that elusive work-life balance. But how do we go about it? That's where the Time Management Matrix comes in.
