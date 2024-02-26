@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                                                       | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                                                    | 27.02.2024 - 02:41 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Posts\|Posts]]                                                                                                                               | 26.02.2024 - 02:38 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-26\|2024-02-26]]                                                                                                                    | 26.02.2024 - 02:27 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-25\|2024-02-25]]                                                                                                                    | 25.02.2024 - 16:22 |
@@ -13,6 +14,5 @@
 | [[Formula 1 Links\|Formula 1 Links]]                                                                                                                                                    | 23.02.2024 - 17:34 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-23\|2024-02-23]]                                                                                                                    | 23.02.2024 - 16:50 |
 | [[💻 Coding/Python Basics/71 - dir, dict and help methods\|71 - dir, dict and help methods]]                                                                                            | 23.02.2024 - 16:44 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-22\|2024-02-22]]                                                                                                                    | 22.02.2024 - 14:43 |
 
 { .block-language-dataview}
