@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/200-articles-and-counting-tips-for-consistently-writing-and-publishing-on-your-website/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.234+05:30","updated":"2024-02-26T02:42:24.720+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/200-articles-and-counting-tips-for-consistently-writing-and-publishing-on-your-website/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.234+05:30","updated":"2024-02-26T20:30:36.124+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/200 Articles and Counting - Tips for Consistently Writing and Publishing on Your Website\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/200 Articles and Counting - Tips for Consistently Writing and Publishing on Your Website]]
+🧶 Tags:: #Insightfulsage 
 ==2023-05-09 - 11:21==
 
----
 Yo, what's up fellow writer? Are you struggling to consistently write and publish articles on your website? Do you feel like you're shouting into the void of the internet, wondering if anyone is even reading your content? Trust me, I've been there too.
 
 But guess what? I recently hit a huge milestone of publishing 200 articles on my website and I'm here to share some tips on how I did it. And no, I'm not some fancy expert in the field of writing - I'm just a regular person who loves to write and share my thoughts with the world.
