@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/achieving-your-goals-in-2023-how-to-stay-on-track-and-overcome-obstacles/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.112+05:30","updated":"2024-02-26T02:42:24.788+05:30"}
+{"dg-publish":true,"wordcount":0,"permalink":"/projects/insightful-sage/posts/achieving-your-goals-in-2023-how-to-stay-on-track-and-overcome-obstacles/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:38.112+05:30","updated":"2024-02-26T20:31:12.816+05:30"}
 ---
 
-🧶 Tags - #Insightfulsage 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Achieving Your Goals in 2023 - How to Stay on Track and Overcome Obstacles\|👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Achieving Your Goals in 2023 - How to Stay on Track and Overcome Obstacles]]
+🧶 Tags:: #Insightfulsage 
 ==2023-05-05 - 12:27==
 
----
 Happy New Year, readers! As we start a new year, many of us set New Year's resolutions with the hope of making positive changes in our lives. Unfortunately, statistics show that the majority of these resolutions fail within the first few weeks of the year. So why do we struggle so much with following through on our goals? And how can we stay motivated and on track throughout the year?
 
 In this article, we will explore the reasons behind the high failure rate of New Year's resolutions and offer practical tips on how to set achievable goals and stay motivated. We believe that it's important to approach resolutions with a realistic and sustainable mindset, rather than a short-lived burst of enthusiasm.
