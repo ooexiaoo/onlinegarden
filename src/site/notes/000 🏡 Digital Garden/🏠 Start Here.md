@@ -39,24 +39,25 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                                                                                                                                                 | Last modified      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                                                                                                                | 27.02.2024 - 03:04 |
-| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                                                                                                                       | 27.02.2024 - 02:50 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                                                                                                              | 27.02.2024 - 02:42 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                                                                   | 27.02.2024 - 02:41 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discovering Inner Harmony - A Guide to Finding Peace in Life\|Discovering Inner Harmony - A Guide to Finding Peace in Life]]                                                                           | 26.02.2024 - 20:39 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discipline - The Key to True Freedom in Life\|Discipline - The Key to True Freedom in Life]]                                                                                                           | 26.02.2024 - 20:39 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Differentiating Self-Suppression from Self-Discipline\|Differentiating Self-Suppression from Self-Discipline]]                                                                                         | 26.02.2024 - 20:38 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Deliberate Practice\|Deliberate Practice]]                                                                                                                                                             | 26.02.2024 - 20:38 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking the Myth of Multitasking - How Single-Tasking Can Improve Productivity and Reduce Stress\|Breaking the Myth of Multitasking - How Single-Tasking Can Improve Productivity and Reduce Stress]] | 26.02.2024 - 20:35 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Breaking Free from the Most Common Limiting Beliefs About Money\|Breaking Free from the Most Common Limiting Beliefs About Money]]                                                                     | 26.02.2024 - 20:34 |
+| File                                                                                                                                                                       | Last modified      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]                                                                                                    | 28.02.2024 - 02:49 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-26\|2024-02-26]]                                                                                                    | 28.02.2024 - 02:47 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                         | 28.02.2024 - 02:47 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                                    | 27.02.2024 - 17:43 |
+| [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                                      | 27.02.2024 - 03:32 |
+| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                                             | 27.02.2024 - 02:50 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discovering Inner Harmony - A Guide to Finding Peace in Life\|Discovering Inner Harmony - A Guide to Finding Peace in Life]] | 26.02.2024 - 20:39 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discipline - The Key to True Freedom in Life\|Discipline - The Key to True Freedom in Life]]                                 | 26.02.2024 - 20:39 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Differentiating Self-Suppression from Self-Discipline\|Differentiating Self-Suppression from Self-Discipline]]               | 26.02.2024 - 20:38 |
+| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Deliberate Practice\|Deliberate Practice]]                                                                                   | 26.02.2024 - 20:38 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                                                       | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]                                                                                                                    | 28.02.2024 - 02:47 |
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                                                      | 27.02.2024 - 02:50 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                                                    | 27.02.2024 - 02:41 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Posts\|Posts]]                                                                                                                               | 26.02.2024 - 02:38 |
@@ -66,7 +67,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[🌍 Areas/💪🏼 Athletisism/VO2 Max\|VO2 Max]]                                                                                                                                          | 24.02.2024 - 16:48 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-24\|2024-02-24]]                                                                                                                    | 24.02.2024 - 16:44 |
 | [[Formula 1 Links\|Formula 1 Links]]                                                                                                                                                    | 23.02.2024 - 17:34 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-23\|2024-02-23]]                                                                                                                    | 23.02.2024 - 16:50 |
 
 { .block-language-dataview}
 
@@ -87,7 +87,7 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1610** With over **13,47,000 words**.
+**Live Count: 1611** With over **13,47,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
 
 ## Spotify Go To
