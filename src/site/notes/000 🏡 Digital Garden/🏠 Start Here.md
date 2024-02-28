@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-20T09:51:46.986+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-28T02:53:42.240+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -41,6 +41,8 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                       | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[💻 Coding/ReactJs Notes/React Component Lifecycle\|React Component Lifecycle]]                                                                                        | 28.02.2024 - 17:24 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                                  | 28.02.2024 - 02:53 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]                                                                                                    | 28.02.2024 - 02:49 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-26\|2024-02-26]]                                                                                                    | 28.02.2024 - 02:47 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                         | 28.02.2024 - 02:47 |
@@ -49,14 +51,13 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                                             | 27.02.2024 - 02:50 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discovering Inner Harmony - A Guide to Finding Peace in Life\|Discovering Inner Harmony - A Guide to Finding Peace in Life]] | 26.02.2024 - 20:39 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discipline - The Key to True Freedom in Life\|Discipline - The Key to True Freedom in Life]]                                 | 26.02.2024 - 20:39 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Differentiating Self-Suppression from Self-Discipline\|Differentiating Self-Suppression from Self-Discipline]]               | 26.02.2024 - 20:38 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Deliberate Practice\|Deliberate Practice]]                                                                                   | 26.02.2024 - 20:38 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                                                       | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[💻 Coding/ReactJs Notes/React Component Lifecycle\|React Component Lifecycle]]                                                                                                        | 28.02.2024 - 17:03 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]                                                                                                                    | 28.02.2024 - 02:47 |
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                                                      | 27.02.2024 - 02:50 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                                                    | 27.02.2024 - 02:41 |
@@ -66,7 +67,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[📺 Media DB/series/Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)\|Akuyaku Reijou Level 99 - Watashi wa Ura-Boss desu ga Maou dewa Arimasen (2024)]] | 24.02.2024 - 17:03 |
 | [[🌍 Areas/💪🏼 Athletisism/VO2 Max\|VO2 Max]]                                                                                                                                          | 24.02.2024 - 16:48 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-24\|2024-02-24]]                                                                                                                    | 24.02.2024 - 16:44 |
-| [[Formula 1 Links\|Formula 1 Links]]                                                                                                                                                    | 23.02.2024 - 17:34 |
 
 { .block-language-dataview}
 
@@ -87,7 +87,7 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1611** With over **13,47,000 words**.
+**Live Count: 1612** With over **13,47,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
 
 ## Spotify Go To
