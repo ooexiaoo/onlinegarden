@@ -4,7 +4,7 @@
 
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
-| [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]] | 29.02.2024 - 23:05 |
+| [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]] | 01.03.2024 - 01:32 |
 | [[🏡 Homepage\|🏡 Homepage]]                                                       | 29.02.2024 - 22:52 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-29\|2024-02-29]]               | 29.02.2024 - 18:29 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]               | 29.02.2024 - 02:44 |
