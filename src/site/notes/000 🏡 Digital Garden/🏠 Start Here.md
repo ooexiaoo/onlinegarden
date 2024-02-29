@@ -39,18 +39,18 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                                                                       | Last modified      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-29\|2024-02-29]]                                                                                                    | 29.02.2024 - 18:29 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]                                                                                                    | 29.02.2024 - 02:44 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                         | 29.02.2024 - 02:44 |
-| [[💻 Coding/ReactJs Notes/React Component Lifecycle\|React Component Lifecycle]]                                                                                        | 28.02.2024 - 17:24 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                                  | 28.02.2024 - 02:53 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-26\|2024-02-26]]                                                                                                    | 28.02.2024 - 02:47 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                                    | 27.02.2024 - 17:43 |
-| [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                                      | 27.02.2024 - 03:32 |
-| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                                             | 27.02.2024 - 02:50 |
-| [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Discovering Inner Harmony - A Guide to Finding Peace in Life\|Discovering Inner Harmony - A Guide to Finding Peace in Life]] | 26.02.2024 - 20:39 |
+| File                                                                                  | Last modified      |
+| ------------------------------------------------------------------------------------- | ------------------ |
+| [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]] | 29.02.2024 - 23:05 |
+| [[🏡 Homepage\|🏡 Homepage]]                                                       | 29.02.2024 - 22:52 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-29\|2024-02-29]]               | 29.02.2024 - 18:29 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]               | 29.02.2024 - 02:44 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                    | 29.02.2024 - 02:44 |
+| [[💻 Coding/ReactJs Notes/React Component Lifecycle\|React Component Lifecycle]]   | 28.02.2024 - 17:24 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                             | 28.02.2024 - 02:53 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-26\|2024-02-26]]               | 28.02.2024 - 02:47 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]               | 27.02.2024 - 17:43 |
+| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                        | 27.02.2024 - 02:50 |
 
 { .block-language-dataview}
 
