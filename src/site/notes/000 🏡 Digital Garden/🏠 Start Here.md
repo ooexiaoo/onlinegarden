@@ -41,22 +41,23 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-02\|2024-03-02]]                                                                                 | 02.03.2024 - 19:28 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                            | 02.03.2024 - 19:27 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                      | 02.03.2024 - 19:27 |
+| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                            | 03.03.2024 - 03:17 |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-03\|2024-03]]                                                                                     | 03.03.2024 - 03:16 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-29\|2024-02-29]]                                                                                 | 03.03.2024 - 03:04 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                      | 03.03.2024 - 03:03 |
+| [[The Flaws Of Human Growth\|The Flaws Of Human Growth]]                                                                                             | 02.03.2024 - 21:32 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-02\|2024-03-02]]                                                                                 | 02.03.2024 - 21:29 |
 | [[📺 Media DB/manga/Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)\|Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)]] | 02.03.2024 - 01:33 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-01\|2024-03-01]]                                                                                 | 02.03.2024 - 01:27 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                          | 01.03.2024 - 22:54 |
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                   | 01.03.2024 - 01:32 |
-| [[🏡 Homepage\|🏡 Homepage]]                                                                                                                         | 29.02.2024 - 22:52 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-29\|2024-02-29]]                                                                                 | 29.02.2024 - 18:29 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]                                                                                 | 29.02.2024 - 02:44 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-03\|2024-03]]                                                                                     | 03.03.2024 - 03:03 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-02\|2024-03-02]]                                                                                 | 02.03.2024 - 19:27 |
 | [[📺 Media DB/manga/Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)\|Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)]] | 02.03.2024 - 01:30 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-01\|2024-03-01]]                                                                                 | 01.03.2024 - 22:54 |
@@ -66,7 +67,6 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                   | 27.02.2024 - 02:50 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                 | 27.02.2024 - 02:41 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Posts\|Posts]]                                                                                            | 26.02.2024 - 02:38 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-26\|2024-02-26]]                                                                                 | 26.02.2024 - 02:27 |
 
 { .block-language-dataview}
 
@@ -87,7 +87,7 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1616** With over **13,47,000 words**.
+**Live Count: 1617** With over **13,47,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
 
 ## Spotify Go To
