@@ -4,15 +4,15 @@
 
 | File                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-02\|2024-03-02]]                                                                                 | 02.03.2024 - 19:28 |
+| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                            | 02.03.2024 - 19:27 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                      | 02.03.2024 - 19:27 |
 | [[📺 Media DB/manga/Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)\|Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)]] | 02.03.2024 - 01:33 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-01\|2024-03-01]]                                                                                 | 02.03.2024 - 01:27 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                      | 01.03.2024 - 22:54 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                          | 01.03.2024 - 22:54 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                                                                                            | 01.03.2024 - 22:54 |
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                   | 01.03.2024 - 01:32 |
 | [[🏡 Homepage\|🏡 Homepage]]                                                                                                                         | 29.02.2024 - 22:52 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-29\|2024-02-29]]                                                                                 | 29.02.2024 - 18:29 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]                                                                                 | 29.02.2024 - 02:44 |
-| [[💻 Coding/ReactJs Notes/React Component Lifecycle\|React Component Lifecycle]]                                                                     | 28.02.2024 - 17:24 |
 
 { .block-language-dataview}
