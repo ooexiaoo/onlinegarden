@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-03\|2024-03]]                                                                                     | 03.03.2024 - 03:03 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-02\|2024-03-02]]                                                                                 | 02.03.2024 - 19:27 |
 | [[📺 Media DB/manga/Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)\|Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)]] | 02.03.2024 - 01:30 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-01\|2024-03-01]]                                                                                 | 01.03.2024 - 22:54 |
@@ -13,6 +14,5 @@
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                   | 27.02.2024 - 02:50 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                 | 27.02.2024 - 02:41 |
 | [[👷🏻 Projects/🧓🏻 Insightful Sage/Posts/Posts\|Posts]]                                                                                            | 26.02.2024 - 02:38 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-26\|2024-02-26]]                                                                                 | 26.02.2024 - 02:27 |
 
 { .block-language-dataview}
