@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-03\|2024-03-03]]                                                                                 | 03.03.2024 - 20:11 |
 | [[Will It Make Me Filthy Rich?\|Will It Make Me Filthy Rich?]]                                                                                       | 03.03.2024 - 03:51 |
 | [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-03\|2024-03]]                                                                                     | 03.03.2024 - 03:03 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-02\|2024-03-02]]                                                                                 | 02.03.2024 - 19:27 |
@@ -13,6 +14,5 @@
 | [[💻 Coding/ReactJs Notes/React Component Lifecycle\|React Component Lifecycle]]                                                                     | 28.02.2024 - 17:03 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-28\|2024-02-28]]                                                                                 | 28.02.2024 - 02:47 |
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                                   | 27.02.2024 - 02:50 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-27\|2024-02-27]]                                                                                 | 27.02.2024 - 02:41 |
 
 { .block-language-dataview}
