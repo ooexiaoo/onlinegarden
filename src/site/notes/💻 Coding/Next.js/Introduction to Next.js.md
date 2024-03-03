@@ -1,9 +1,9 @@
 ---
-{"wordcount":0,"dg-publish":true,"permalink":"/coding/next-js/introduction-to-next-js/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-03-03T20:24:04.019+05:30","updated":"2024-03-03T20:37:57.355+05:30"}
+{"wordcount":0,"dg-publish":true,"permalink":"/coding/next-js/introduction-to-next-js/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-03-03T20:24:04.019+05:30","updated":"2024-03-03T21:33:47.341+05:30"}
 ---
 
 🧶 Tags:: #Python_Basics 
-Up:: [[]]
+Up:: [[💻 Coding/Next.js/React Server Components (RSC)\|React Server Components (RSC)]]
 🗃 Resources:: [Playlist](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI&index=1)
 ==2024-03-03 - 20:24==
 
