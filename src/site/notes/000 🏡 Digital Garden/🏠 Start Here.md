@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-02-28T02:53:42.240+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-04T01:10:06.708+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -16,6 +16,7 @@ You are at my [[What Is A PKM And Why Should You Care\|Personal Knowledge Manage
 ![happy dance sticker.gif|100](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
 ### 🧑🏻‍💻 Newest Site I've Made
 [KawaiiDoro](https://kawaiidoro.com)
+![[kawaiidorogirl]]
 
 ## How You Should Navigate This Site? 🌎
 You can see all the content of the site in the sidebar. Even though this is not the best way to navigate the site, I'm still building it, so for now this is one of the best ways.
@@ -41,32 +42,22 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                             | 04.03.2024 - 01:10 |
+| [[🛢️ Resources/🌏 WIKIs/Bad Apple!!\|Bad Apple!!]]                                | 03.03.2024 - 22:16 |
 | [[💻 Coding/Next.js/Routing\|Routing]]                                             | 03.03.2024 - 21:55 |
 | [[💻 Coding/Next.js/React Server Components (RSC)\|React Server Components (RSC)]] | 03.03.2024 - 21:41 |
 | [[💻 Coding/Next.js/Introduction to Next.js\|Introduction to Next.js]]             | 03.03.2024 - 21:33 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-02\|2024-03-02]]               | 03.03.2024 - 20:13 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-03\|2024-03-03]]               | 03.03.2024 - 20:13 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                    | 03.03.2024 - 20:11 |
-| [[Will It Make Me Filthy Rich?\|Will It Make Me Filthy Rich?]]                     | 03.03.2024 - 04:01 |
-| [[Excalidraw/Excalidraw\|Excalidraw]]                                              | 03.03.2024 - 03:30 |
-| [[⚡ MISC/To Dos\|To Dos]]                                                          | 03.03.2024 - 03:17 |
-| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-03\|2024-03]]                   | 03.03.2024 - 03:16 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                                                                                    | Last modified      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[💻 Coding/Next.js/Routing\|Routing]]                                                                                                               | 03.03.2024 - 21:41 |
-| [[💻 Coding/Next.js/React Server Components (RSC)\|React Server Components (RSC)]]                                                                   | 03.03.2024 - 21:32 |
-| [[💻 Coding/Next.js/Introduction to Next.js\|Introduction to Next.js]]                                                                               | 03.03.2024 - 20:24 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-03\|2024-03-03]]                                                                                 | 03.03.2024 - 20:11 |
-| [[Will It Make Me Filthy Rich?\|Will It Make Me Filthy Rich?]]                                                                                       | 03.03.2024 - 03:51 |
-| [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-03\|2024-03]]                                                                                     | 03.03.2024 - 03:03 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-02\|2024-03-02]]                                                                                 | 02.03.2024 - 19:27 |
-| [[📺 Media DB/manga/Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)\|Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)]] | 02.03.2024 - 01:30 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-01\|2024-03-01]]                                                                                 | 01.03.2024 - 22:54 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-02-29\|2024-02-29]]                                                                                 | 29.02.2024 - 02:44 |
+| File                                                                                  | Last modified      |
+| ------------------------------------------------------------------------------------- | ------------------ |
+| [[💻 Coding/Next.js/Routing\|Routing]]                                             | 03.03.2024 - 21:41 |
+| [[💻 Coding/Next.js/React Server Components (RSC)\|React Server Components (RSC)]] | 03.03.2024 - 21:32 |
+| [[💻 Coding/Next.js/Introduction to Next.js\|Introduction to Next.js]]             | 03.03.2024 - 20:24 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-03\|2024-03-03]]               | 03.03.2024 - 20:11 |
+| [[Will It Make Me Filthy Rich?\|Will It Make Me Filthy Rich?]]                     | 03.03.2024 - 03:51 |
 
 { .block-language-dataview}
 
@@ -87,8 +78,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1622** With over **13,47,000 words**.
+**Live Count: 1622** With over **13,58,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
-
-## Spotify Go To
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EIYpUgYYPrm7Z?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
