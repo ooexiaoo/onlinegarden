@@ -4,6 +4,8 @@
 
 | File                                                                                                                                                                         | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Excalidraw/Willpower 2024-03-05 03.01.00.excalidraw\|Willpower 2024-03-05 03.01.00.excalidraw]]                                                                         | 05.03.2024 - 03:01 |
+| [[🌍 Areas/📈 Personal Growth/Activation Energy 1\|Activation Energy 1]]                                                                                                  | 05.03.2024 - 02:32 |
 | [[Excalidraw/Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw\|Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw]] | 04.03.2024 - 09:56 |
 | [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]]                                      | 04.03.2024 - 09:40 |
 | [[💻 Coding/Next.js/Routing\|Routing]]                                                                                                                                    | 03.03.2024 - 21:41 |
@@ -12,7 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-03\|2024-03-03]]                                                                                                      | 03.03.2024 - 20:11 |
 | [[Will It Make Me Filthy Rich?\|Will It Make Me Filthy Rich?]]                                                                                                            | 03.03.2024 - 03:51 |
 | [[🌍 Areas/📧 Personal Notes/🗓 Monthly Notes/2024-03\|2024-03]]                                                                                                          | 03.03.2024 - 03:03 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-02\|2024-03-02]]                                                                                                      | 02.03.2024 - 19:27 |
-| [[📺 Media DB/manga/Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)\|Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha (2020)]]                      | 02.03.2024 - 01:30 |
 
 { .block-language-dataview}
