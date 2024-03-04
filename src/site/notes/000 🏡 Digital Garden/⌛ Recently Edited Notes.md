@@ -4,9 +4,9 @@
 
 | File                                                                                                                                    | Last modified      |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                               | 04.03.2024 - 09:48 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                          | 04.03.2024 - 09:46 |
 | [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]] | 04.03.2024 - 09:45 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                               | 04.03.2024 - 06:07 |
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                   | 04.03.2024 - 06:01 |
 | [[🛢️ Resources/🌏 WIKIs/Bad Apple!!\|Bad Apple!!]]                                                                                  | 03.03.2024 - 22:16 |
 | [[💻 Coding/Next.js/Routing\|Routing]]                                                                                               | 03.03.2024 - 21:55 |
