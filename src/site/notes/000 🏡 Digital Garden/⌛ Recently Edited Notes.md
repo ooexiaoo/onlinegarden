@@ -4,8 +4,8 @@
 
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                             | 04.03.2024 - 06:07 |
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]] | 04.03.2024 - 06:01 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                             | 04.03.2024 - 05:55 |
 | [[🛢️ Resources/🌏 WIKIs/Bad Apple!!\|Bad Apple!!]]                                | 03.03.2024 - 22:16 |
 | [[💻 Coding/Next.js/Routing\|Routing]]                                             | 03.03.2024 - 21:55 |
 | [[💻 Coding/Next.js/React Server Components (RSC)\|React Server Components (RSC)]] | 03.03.2024 - 21:41 |
