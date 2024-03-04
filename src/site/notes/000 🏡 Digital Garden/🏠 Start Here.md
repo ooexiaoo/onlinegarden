@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-04T05:32:43.936+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-04T05:55:29.341+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -42,11 +42,11 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                             | 04.03.2024 - 05:32 |
+| [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]] | 04.03.2024 - 06:01 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                             | 04.03.2024 - 05:55 |
 | [[🛢️ Resources/🌏 WIKIs/Bad Apple!!\|Bad Apple!!]]                                | 03.03.2024 - 22:16 |
 | [[💻 Coding/Next.js/Routing\|Routing]]                                             | 03.03.2024 - 21:55 |
 | [[💻 Coding/Next.js/React Server Components (RSC)\|React Server Components (RSC)]] | 03.03.2024 - 21:41 |
-| [[💻 Coding/Next.js/Introduction to Next.js\|Introduction to Next.js]]             | 03.03.2024 - 21:33 |
 
 { .block-language-dataview}
 
