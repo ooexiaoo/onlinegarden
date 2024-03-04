@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-04T09:48:51.077+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-04T09:49:54.595+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -39,24 +39,24 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                                    | Last modified      |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                               | 04.03.2024 - 09:48 |
-| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                          | 04.03.2024 - 09:46 |
-| [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]] | 04.03.2024 - 09:45 |
-| [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                   | 04.03.2024 - 06:01 |
-| [[🛢️ Resources/🌏 WIKIs/Bad Apple!!\|Bad Apple!!]]                                                                                  | 03.03.2024 - 22:16 |
+| File                                                                                                                                                                         | Last modified      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                                     | 04.03.2024 - 10:10 |
+| [[Diminishing Returns When Consuming Media\|Diminishing Returns When Consuming Media]]                                                                                    | 04.03.2024 - 10:09 |
+| [[Excalidraw/Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw\|Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw]] | 04.03.2024 - 10:09 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                                    | 04.03.2024 - 09:49 |
+| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                                               | 04.03.2024 - 09:46 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                                                                                    | Last modified      |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]] | 04.03.2024 - 09:40 |
-| [[💻 Coding/Next.js/Routing\|Routing]]                                                                                               | 03.03.2024 - 21:41 |
-| [[💻 Coding/Next.js/React Server Components (RSC)\|React Server Components (RSC)]]                                                   | 03.03.2024 - 21:32 |
-| [[💻 Coding/Next.js/Introduction to Next.js\|Introduction to Next.js]]                                                               | 03.03.2024 - 20:24 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-03\|2024-03-03]]                                                                 | 03.03.2024 - 20:11 |
+| File                                                                                                                                                                         | Last modified      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Excalidraw/Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw\|Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw]] | 04.03.2024 - 09:56 |
+| [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]]                                      | 04.03.2024 - 09:40 |
+| [[💻 Coding/Next.js/Routing\|Routing]]                                                                                                                                    | 03.03.2024 - 21:41 |
+| [[💻 Coding/Next.js/React Server Components (RSC)\|React Server Components (RSC)]]                                                                                        | 03.03.2024 - 21:32 |
+| [[💻 Coding/Next.js/Introduction to Next.js\|Introduction to Next.js]]                                                                                                    | 03.03.2024 - 20:24 |
 
 { .block-language-dataview}
 
@@ -78,5 +78,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1623** With over **13,58,000 words**.
+**Live Count: 1624** With over **13,60,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
