@@ -1,5 +1,5 @@
 ---
-{"wordcount":0,"dg-publish":true,"permalink":"/laszlo-polgar-on-how-geniuses-are-made/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-27T02:50:08.684+05:30","updated":"2024-03-01T01:32:56.470+05:30"}
+{"wordcount":0,"dg-publish":true,"permalink":"/laszlo-polgar-on-how-geniuses-are-made/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-02-27T02:50:08.684+05:30","updated":"2024-03-04T06:01:15.878+05:30"}
 ---
 
 🧶 Tags:: #🌱 
@@ -18,4 +18,6 @@ Psychologist Laszlo Polgar ran the most bizarre experiment on his kids. After st
 
 > [!quote] The man who moves a mountain begins by carrying away small stones”.  Confucius
 
-So even though you might have missed out on becoming a genius in your childhood, don't let that stop you from following this advice.
+So even though you might have missed out on becoming a genius in your childhood, don't let that stop you from following this advice. Even an hour of specialty training in any field can help you increase your performance.
+
+We already know that [[👷🏻 Projects/🧓🏻 Insightful Sage/📄 Posts/Deliberate Practice\|Deliberate Practice]] is necessary for growth, so that is something that must be kept in mind. The next thing is in the puzzle is volume, which is why adding even an hour of training a day can make wonders in a year.
