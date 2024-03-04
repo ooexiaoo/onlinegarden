@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-04T01:14:06.082+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-04T05:32:43.936+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -16,8 +16,8 @@ You are at my [[What Is A PKM And Why Should You Care\|Personal Knowledge Manage
 ![happy dance sticker.gif|100](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/happy%20dance%20sticker.gif)
 ### 🧑🏻‍💻 Newest Site I've Made
 [KawaiiDoro](https://kawaiidoro.com)
-![kawaiidorogirl.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/KawaiiDoro/kawaiidorogirl.webp)
 
+[![kawaiidoro Girl](/img/user/🛢️ Resources/📁 Files/KawaiiDoro/kawaiidorogirl.webp)](https://kawaiidoro.com)
 ## How You Should Navigate This Site? 🌎
 You can see all the content of the site in the sidebar. Even though this is not the best way to navigate the site, I'm still building it, so for now this is one of the best ways.
 
@@ -42,7 +42,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                  | Last modified      |
 | ------------------------------------------------------------------------------------- | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                             | 04.03.2024 - 01:14 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                             | 04.03.2024 - 05:32 |
 | [[🛢️ Resources/🌏 WIKIs/Bad Apple!!\|Bad Apple!!]]                                | 03.03.2024 - 22:16 |
 | [[💻 Coding/Next.js/Routing\|Routing]]                                             | 03.03.2024 - 21:55 |
 | [[💻 Coding/Next.js/React Server Components (RSC)\|React Server Components (RSC)]] | 03.03.2024 - 21:41 |
