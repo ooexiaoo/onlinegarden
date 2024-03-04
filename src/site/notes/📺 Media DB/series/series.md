@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-02-24T17:04:00.211+05:30"}
+{"dg-publish":true,"permalink":"/media-db/series/series/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-12T19:56:06.519+05:30","updated":"2024-03-05T03:23:22.247+05:30"}
 ---
 
 
@@ -45,6 +45,7 @@
 - [[📺 Media DB/series/Kage no Jitsuryokusha ni Naritakute! 2nd Season (2023)\|Kage no Jitsuryokusha ni Naritakute! 2nd Season (2023)]]
 - [[📺 Media DB/series/Kaminaki Sekai no Kamisama Katsudou (2023)\|Kaminaki Sekai no Kamisama Katsudou (2023)]]
 - [[📺 Media DB/series/Kawaisugi Crisis (2023)\|Kawaisugi Crisis (2023)]]
+- [[📺 Media DB/series/Kekkon Yubiwa Monogatari (2024)\|Kekkon Yubiwa Monogatari (2024)]]
 - [[📺 Media DB/series/Kidou Senshi Gundam - Suisei no Majo Season 2 (2023)\|Kidou Senshi Gundam - Suisei no Majo Season 2 (2023)]]
 - [[📺 Media DB/series/Kimi wa Houkago Insomnia (2023)\|Kimi wa Houkago Insomnia (2023)]]
 - [[📺 Media DB/series/Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu (2023)\|Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu (2023)]]
