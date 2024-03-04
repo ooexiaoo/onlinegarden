@@ -1,11 +1,11 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2024-03-01T22:54:30.719+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2024-03-04T09:46:32.649+05:30"}
 ---
 
 Tags:: #Topics 
 ==2022-10-16 - 14:53==
 
-- [ ] levels of friendship and how it can change with time - [[How Friendships Change With Time\|How Friendships Change With Time]]
+- [ ] Levels of friendship and how it can change with time - [[How Friendships Change With Time\|How Friendships Change With Time]]
 - [ ] Hard work over anything else is important in life (otherwise you'll give up every time) - [[Why You Should Learn To Work Hard In Life\|Why You Should Learn To Work Hard In Life]]
 - [ ] live a life that has positive effects beyond yourself. - [[Live A Life That Has Positive Effects Beyond You\|Live A Life That Has Positive Effects Beyond You]]
 - [ ] How to create a self improving mindset - [[How Can You Create A Self Improving Mindset\|How Can You Create A Self Improving Mindset]]
@@ -42,6 +42,7 @@ Tags:: #Topics
 - [ ] A website that shares business related ideas and business case studies with as much information as it can
 - [x] [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]
 - [ ] https://danielkarim.com/domino-habits-the-building-blocks-of-identity/
+- [ ] [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]]
 
  Links::
  <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
