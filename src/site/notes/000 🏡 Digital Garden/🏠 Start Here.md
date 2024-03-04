@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-04T06:07:06.694+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-04T09:48:51.077+05:30"}
 ---
 
 ## 🫨 Where Are You?
@@ -41,9 +41,9 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                    | Last modified      |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                               | 04.03.2024 - 09:48 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                          | 04.03.2024 - 09:46 |
 | [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]] | 04.03.2024 - 09:45 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                               | 04.03.2024 - 06:07 |
 | [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]                                                   | 04.03.2024 - 06:01 |
 | [[🛢️ Resources/🌏 WIKIs/Bad Apple!!\|Bad Apple!!]]                                                                                  | 03.03.2024 - 22:16 |
 
@@ -67,6 +67,7 @@ If you want to see which notes I might be wanting to work on, you can see it all
 The thing is, when I started writing all this, it was never my intention to publish my writings to the web, as you can imagine.
 So the notes are not linked together in a way that would make it easy to find related content.
 I'm also publishing directly from my obsidian vault, so there are a few limitations as to how the UI will be rendered.
+> ![questionmark.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/questionmark.webp)
 
 ## Git Contributions
 <img src="https://ghchart.rshah.org/A020F0/ooexiaoo" alt="Exia's Github Chart" />
@@ -79,5 +80,3 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 😵‍💫 There are quite a few notes in the vault:
 **Live Count: 1623** With over **13,58,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
-
-![questionmark.webp|200](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/questionmark.webp)
