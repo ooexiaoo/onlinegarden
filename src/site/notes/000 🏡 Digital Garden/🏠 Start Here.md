@@ -41,11 +41,11 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                         | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📈 Personal Growth/Activation Energy\|Activation Energy]]                                                                                                      | 04.03.2024 - 10:12 |
 | [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                                     | 04.03.2024 - 10:10 |
 | [[Diminishing Returns When Consuming Media\|Diminishing Returns When Consuming Media]]                                                                                    | 04.03.2024 - 10:09 |
 | [[Excalidraw/Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw\|Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw]] | 04.03.2024 - 10:09 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                                    | 04.03.2024 - 09:49 |
-| [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                                                               | 04.03.2024 - 09:46 |
 
 { .block-language-dataview}
 
