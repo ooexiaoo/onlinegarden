@@ -8,7 +8,7 @@ Tags:: #🌱 #Thinking #Fleeting_Notes
 We have a finite amount of willpower every day. Think of it like a muscle, the more you use it, the weaker it gets. As you'd need to time and rest to regain your strength, the same goes for your willpower.
 
 Imagine you have 10 points of willpower, and you use 5 points on work, 3 points on chores, and 2 points on homework. After spending all your points, you'll likely have to wait until the next day to use your willpower again.
-![Pasted image 20240305031636.png](/img/user/Pasted%20image%2020240305031636.png)
+![Pasted image 20240305031636.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020240305031636.png)
 
 Willpower can't be used continuously throughout the day. Let's continue with the same example as above, but with more variables.
 
