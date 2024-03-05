@@ -15,7 +15,7 @@ Addiction to media consumption is prevalent in today's society. To reduce that k
 | 1st hour | Feeling pretty good                   |
 | 2nd hour | This is kinda boring                  |
 | 4th hour | What the hell am I doing with my life |
-![Pasted image 20240304100933.png](/img/user/Pasted%20image%2020240304100933.png)
+![Pasted image 20240304100933.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020240304100933.png)
 
 When you put conscious effort and think about how you're feeling at the moment, instead of drowning out your feelings. You can see how bad your habits are. This is one of the easiest ways to realize that what you're doing is actually not even feeling good, but still you continue to do the same thing.
 
