@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/areas/personal-growth/critical-thinking/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.403+05:30","updated":"2023-12-17T19:09:59.681+05:30"}
+{"dg-publish":true,"permalink":"/areas/personal-growth/critical-thinking/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.403+05:30","updated":"2024-03-07T05:55:10.375+05:30"}
 ---
 
-==2023-01-04 | 22:34==
 🧶 Tags:: #Personal_Notes #🌱 #Fleeting_Notes 
 Resources:: [The Ladders](https://www.theladders.com/career-advice/thinking-shallow-and-deep) [collegeinfogeek](https://collegeinfogeek.com/improve-critical-thinking-skills/)
+==2023-01-04 | 22:34==
 
 We often do not think about this topic much but, it is one of the important ones that people forget. How Depth of knowledge can help a person? How thinking deeply can solve problems, show us new ways, and even save a lot of useless effort.
 
@@ -14,17 +14,17 @@ So how does one have to become a deep thinker and what all problems lay ahead fo
 **Critical thinking is nothing more than systematically and deliberately processing information so that you can make better decisions and understand things better.**
 
 A few ways one can think critically:
-* Conceptualizing
-* Analyzing
-* Synthesizing
-* Evaluating
+* *Conceptualizing*
+* *Analyzing*
+* *Synthesizing*
+* *Evaluating*
 
 This information can come from sources such as:
-* Observation
-* Experience
-* Reflection
-* Reasoning
-* Communication
+* *Observation*
+* *Experience*
+* *Reflection*
+* *Reasoning*
+* *Communication*
 
 ### How to think more critically?
 1. [[Ask basic questions\|Ask basic questions]]
@@ -49,6 +49,6 @@ Making a strong concept can be really beneficial for making good points when it 
 Similar to Conceptualizing, Synthesizing mostly deals with ideas and thoughts. We can use Synthesizing to create a situation in our head that can help us understand other things better.
 
 ## Closed Mindset
-To think critically it's important to have an open mindset, as said above we often fall into the traps of biases and heuristics have make it hard for us to look at the situation with an open mind. Many times these biases are so ingrained in our mentality that we don't even realize that we are falling for it.
+To think critically it's important to have an open mindset, as said above we often fall into the traps of biases and heuristics have made it hard for us to look at the situation with an open mind. Many times these biases are so ingrained in our mentality that we don't even realize that we are falling for it.
 
-It's good to note down any of the closed minded thoughts that you might have, this is not just for critical thinking but also for general mindset growth.
+It's good to note down any of the closed-minded thoughts that you might have, this is not just for critical thinking but also for general mindset growth.
