@@ -39,24 +39,24 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                        | Last modified      |
-| ------------------------------------------------------------------------------------------- | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                   | 07.03.2024 - 05:58 |
-| [[🌍 Areas/📈 Personal Growth/Expectations And Happiness\|Expectations And Happiness]]   | 07.03.2024 - 05:56 |
-| [[🌍 Areas/📈 Personal Growth/Critical Thinking\|Critical Thinking]]                     | 07.03.2024 - 05:55 |
-| [[🌍 Areas/📈 Personal Growth/Cognitive Offloading\|Cognitive Offloading]]               | 07.03.2024 - 05:54 |
-| [[🌍 Areas/📈 Personal Growth/5 Things To Stop Being Lazy\|5 Things To Stop Being Lazy]] | 07.03.2024 - 05:53 |
+| File                                                                                      | Last modified      |
+| ----------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-08\|2024-03-08]]                   | 08.03.2024 - 07:48 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                        | 08.03.2024 - 07:47 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                 | 07.03.2024 - 05:58 |
+| [[🌍 Areas/📈 Personal Growth/Expectations And Happiness\|Expectations And Happiness]] | 07.03.2024 - 05:56 |
+| [[🌍 Areas/📈 Personal Growth/Critical Thinking\|Critical Thinking]]                   | 07.03.2024 - 05:55 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                     | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-08\|2024-03-08]]                                                                  | 08.03.2024 - 07:47 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-07\|2024-03-07]]                                                                  | 07.03.2024 - 00:28 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-05\|2024-03-05]]                                                                  | 06.03.2024 - 10:10 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-06\|2024-03-06]]                                                                  | 06.03.2024 - 10:10 |
 | [[Excalidraw/Pomodoro sessions explained 2024-03-05 09.34.15.excalidraw\|Pomodoro sessions explained 2024-03-05 09.34.15.excalidraw]] | 05.03.2024 - 09:34 |
-| [[📺 Media DB/series/Kekkon Yubiwa Monogatari (2024)\|Kekkon Yubiwa Monogatari (2024)]]                                               | 05.03.2024 - 03:23 |
 
 { .block-language-dataview}
 
@@ -78,5 +78,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1632** With over **13,66,000 words**.
+**Live Count: 1633** With over **13,66,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
