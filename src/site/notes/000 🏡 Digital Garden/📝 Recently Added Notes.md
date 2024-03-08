@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                                         | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-08\|2024-03-08]]                                                                                                      | 08.03.2024 - 07:47 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-07\|2024-03-07]]                                                                                                      | 07.03.2024 - 00:28 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-05\|2024-03-05]]                                                                                                      | 06.03.2024 - 10:10 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-06\|2024-03-06]]                                                                                                      | 06.03.2024 - 10:10 |
@@ -13,6 +14,5 @@
 | [[Excalidraw/Willpower 2024-03-05 03.01.00.excalidraw\|Willpower 2024-03-05 03.01.00.excalidraw]]                                                                         | 05.03.2024 - 03:01 |
 | [[🌍 Areas/📈 Personal Growth/Activation Energy 1\|Activation Energy 1]]                                                                                                  | 05.03.2024 - 02:32 |
 | [[Excalidraw/Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw\|Diminishing returns of consuming social media 2024-03-04 09.56.06.excalidraw]] | 04.03.2024 - 09:56 |
-| [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]]                                      | 04.03.2024 - 09:40 |
 
 { .block-language-dataview}
