@@ -4,6 +4,8 @@
 
 | File                                                                                        | Last modified      |
 | ------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-08\|2024-03-08]]                     | 08.03.2024 - 07:48 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                          | 08.03.2024 - 07:47 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                   | 07.03.2024 - 05:58 |
 | [[🌍 Areas/📈 Personal Growth/Expectations And Happiness\|Expectations And Happiness]]   | 07.03.2024 - 05:56 |
 | [[🌍 Areas/📈 Personal Growth/Critical Thinking\|Critical Thinking]]                     | 07.03.2024 - 05:55 |
@@ -12,7 +14,5 @@
 | [[🌍 Areas/📈 Personal Growth/5-second rule\|5-second rule]]                             | 07.03.2024 - 05:52 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-07\|2024-03-07]]                     | 07.03.2024 - 05:49 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-06\|2024-03-06]]                     | 07.03.2024 - 00:29 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                          | 07.03.2024 - 00:28 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-05\|2024-03-05]]                     | 06.03.2024 - 10:11 |
 
 { .block-language-dataview}
