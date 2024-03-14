@@ -41,22 +41,22 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]] | 14.03.2024 - 11:18 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 14.03.2024 - 11:18 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-13\|2024-03-13]] | 13.03.2024 - 14:49 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 13.03.2024 - 14:48 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-12\|2024-03-12]] | 12.03.2024 - 21:28 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-08\|2024-03-08]] | 08.03.2024 - 07:48 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 07.03.2024 - 05:58 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]] | 14.03.2024 - 11:18 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-13\|2024-03-13]] | 13.03.2024 - 14:48 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-12\|2024-03-12]] | 12.03.2024 - 11:00 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-08\|2024-03-08]] | 08.03.2024 - 07:47 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-07\|2024-03-07]] | 07.03.2024 - 00:28 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-05\|2024-03-05]] | 06.03.2024 - 10:10 |
 
 { .block-language-dataview}
 
@@ -78,5 +78,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1635** With over **13,66,000 words**.
+**Live Count: 1636** With over **13,66,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
