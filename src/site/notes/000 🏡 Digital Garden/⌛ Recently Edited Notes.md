@@ -4,8 +4,9 @@
 
 | File                                                                                        | Last modified      |
 | ------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]]                     | 14.03.2024 - 11:18 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                          | 14.03.2024 - 11:18 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-13\|2024-03-13]]                     | 13.03.2024 - 14:49 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                          | 13.03.2024 - 14:48 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-12\|2024-03-12]]                     | 12.03.2024 - 21:28 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-08\|2024-03-08]]                     | 08.03.2024 - 07:48 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                   | 07.03.2024 - 05:58 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/📈 Personal Growth/Critical Thinking\|Critical Thinking]]                     | 07.03.2024 - 05:55 |
 | [[🌍 Areas/📈 Personal Growth/Cognitive Offloading\|Cognitive Offloading]]               | 07.03.2024 - 05:54 |
 | [[🌍 Areas/📈 Personal Growth/5 Things To Stop Being Lazy\|5 Things To Stop Being Lazy]] | 07.03.2024 - 05:53 |
-| [[🌍 Areas/📈 Personal Growth/5-second rule\|5-second rule]]                             | 07.03.2024 - 05:52 |
 
 { .block-language-dataview}
