@@ -41,11 +41,11 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[📺 Media DB/manga/Origin\|Origin]]                                                                                                                                                                 | 14.03.2024 - 13:52 |
+| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                                                                | 14.03.2024 - 23:55 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]]                                                                                                                                 | 14.03.2024 - 23:51 |
+| [[📺 Media DB/manga/Origin\|Origin]]                                                                                                                                                                 | 14.03.2024 - 23:49 |
 | [[📺 Media DB/manga/Fire Punch (2016)\|Fire Punch (2016)]]                                                                                                                                           | 14.03.2024 - 13:49 |
 | [[📺 Media DB/manga/Genkai Level 1 Kara No Nariagari - Saijaku Level No Ore Ga Isekai Saikyou Ni Naru Made\|Genkai Level 1 Kara No Nariagari - Saijaku Level No Ore Ga Isekai Saikyou Ni Naru Made]] | 14.03.2024 - 13:48 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]]                                                                                                                                 | 14.03.2024 - 11:18 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                      | 14.03.2024 - 11:18 |
 
 { .block-language-dataview}
 
@@ -78,5 +78,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1637** With over **13,66,000 words**.
+**Live Count: 1636** With over **13,66,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
