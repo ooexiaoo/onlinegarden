@@ -4,9 +4,9 @@
 
 | File                                                                                                                                                                                                    | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[📺 Media DB/manga/Origin\|Origin]]                                                                                                                                                                 | 14.03.2024 - 13:52 |
 | [[📺 Media DB/manga/Fire Punch (2016)\|Fire Punch (2016)]]                                                                                                                                           | 14.03.2024 - 13:49 |
 | [[📺 Media DB/manga/Genkai Level 1 Kara No Nariagari - Saijaku Level No Ore Ga Isekai Saikyou Ni Naru Made\|Genkai Level 1 Kara No Nariagari - Saijaku Level No Ore Ga Isekai Saikyou Ni Naru Made]] | 14.03.2024 - 13:48 |
-| [[📺 Media DB/manga/Origin\|Origin]]                                                                                                                                                                 | 14.03.2024 - 13:43 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]]                                                                                                                                 | 14.03.2024 - 11:18 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                                                                      | 14.03.2024 - 11:18 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-13\|2024-03-13]]                                                                                                                                 | 13.03.2024 - 14:49 |
