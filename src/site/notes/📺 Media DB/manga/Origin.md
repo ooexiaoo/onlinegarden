@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/manga/origin/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:35.977+05:30","updated":"2024-03-14T13:52:15.510+05:30"}
+{"dg-publish":true,"permalink":"/media-db/manga/origin/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:35.977+05:30","updated":"2024-03-14T23:49:07.200+05:30"}
 ---
-
 
 🧶 Tags:: #Manga
 🗃 Resources:: [Manga Link](https://myanimelist.net/manga/101119/Origin, https://m.manganelo.com/manga-vn110059)
