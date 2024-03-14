@@ -1,17 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/media-db/manga/origin/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:35.977+05:30","updated":"2023-12-10T09:58:27.735+05:30"}
+{"dg-publish":true,"permalink":"/media-db/manga/origin/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:35.977+05:30","updated":"2024-03-14T13:43:12.879+05:30"}
 ---
 
 
-🧶 Tags - #Manga
-
----
-🗃 Resources - https://myanimelist.net/manga/101119/Origin, https://m.manganelo.com/manga-vn110059
-
-# [[📺 Media DB/manga/Origin\|Origin]]
+🧶 Tags:: #Manga
+🗃 Resources:: [Manga Link](https://myanimelist.net/manga/101119/Origin, https://m.manganelo.com/manga-vn110059)
 ==2023-10-27 - 21:10==
 
----
 I found this manga, so I just decided to read it as the plot was somewhat interesting.
 There are quite a few amazing manga panels in this. The art is awesome, some panels can just be framed, they just look beautiful.
 
