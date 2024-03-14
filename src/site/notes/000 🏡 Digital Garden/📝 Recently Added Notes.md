@@ -4,6 +4,7 @@
 
 | File                                                                                                                                     | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]]                                                                  | 14.03.2024 - 11:18 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-13\|2024-03-13]]                                                                  | 13.03.2024 - 14:48 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-12\|2024-03-12]]                                                                  | 12.03.2024 - 11:00 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-08\|2024-03-08]]                                                                  | 08.03.2024 - 07:47 |
@@ -13,6 +14,5 @@
 | [[Excalidraw/Pomodoro sessions explained 2024-03-05 09.34.15.excalidraw\|Pomodoro sessions explained 2024-03-05 09.34.15.excalidraw]] | 05.03.2024 - 09:34 |
 | [[📺 Media DB/series/Kekkon Yubiwa Monogatari (2024)\|Kekkon Yubiwa Monogatari (2024)]]                                               | 05.03.2024 - 03:23 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-04\|2024-03-04]]                                                                  | 05.03.2024 - 03:20 |
-| [[Excalidraw/Willpower 2024-03-05 03.01.00.excalidraw\|Willpower 2024-03-05 03.01.00.excalidraw]]                                     | 05.03.2024 - 03:01 |
 
 { .block-language-dataview}
