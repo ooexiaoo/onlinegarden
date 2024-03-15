@@ -4,9 +4,9 @@
 
 | File                                                                                                                                                           | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[The Pygmalion Effect\|The Pygmalion Effect]]                                                                                                              | 16.03.2024 - 00:14 |
+| [[The Pygmalion Effect\|The Pygmalion Effect]]                                                                                                              | 16.03.2024 - 00:25 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                      | 16.03.2024 - 00:19 |
 | [[Feminine and Masculine\|Feminine and Masculine]]                                                                                                          | 16.03.2024 - 00:00 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                      | 15.03.2024 - 23:46 |
 | [[Excalidraw/Prototype Hydroponic using Square Pots 2024-03-15 21.28.13.excalidraw\|Prototype Hydroponic using Square Pots 2024-03-15 21.28.13.excalidraw]] | 15.03.2024 - 21:39 |
 | [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                       | 15.03.2024 - 21:28 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-15\|2024-03-15]]                                                                                        | 15.03.2024 - 18:10 |
