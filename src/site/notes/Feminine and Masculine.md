@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/feminine-and-masculine/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.278+05:30","updated":"2023-12-28T22:17:24.631+05:30"}
+{"dg-publish":true,"permalink":"/feminine-and-masculine/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.278+05:30","updated":"2024-03-16T00:00:39.386+05:30"}
 ---
 
 🧶 Tags:: #🌱 #Fleeting_Notes 
 ==2021-10-01 - 02:52==
 
-> [!note] This is written because of the discussion between me and K chan about feminine and masculine clothing and how it is important for men to try feminine looking clothing.
+> [!summary] This is written because of the discussion between me and K chan about feminine and masculine clothing and how it is important for men to try feminine looking clothing.
 
 Trying to break the barrier when something that looks feminine for men is a big thing. A girl can wear a guy's clothes, but a guy can't really do the same without being heavily judged for it. There are people who are doing it, and good for them to try it.
 
@@ -17,4 +17,7 @@ On a spiritual level, it makes a lot more sense to look at a human being just as
 
 Of course there's a bell curve of where most people will belong, like most males will be manly, and most females will be womanly, but that doesn't mean that some women are very masculine, and some men are very feminine.
 
+The whole point I'm trying to make is that does it even matter? Why do you care, if they seem feminine or masculine?
+
+Yeah! I realized it's harder to draw bell curves, but you get the idea!
 ![Bell curve of masculinity and femininity 2023-12-28 17.45.30.excalidraw.png](/img/user/Excalidraw/Bell%20curve%20of%20masculinity%20and%20femininity%202023-12-28%2017.45.30.excalidraw.png)
