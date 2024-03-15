@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-pygmalion-effect/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.284+05:30","updated":"2023-12-28T22:19:36.696+05:30"}
+{"dg-publish":true,"permalink":"/the-pygmalion-effect/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:40.284+05:30","updated":"2024-03-16T00:14:41.484+05:30"}
 ---
 
 Tags:: #🌱 #Fleeting_Notes 
@@ -7,10 +7,14 @@ Tags:: #🌱 #Fleeting_Notes
 
 1. The Pygmalion effect is a phenomenon in which higher beliefs lead to higher performance.
 2. The Pygmalion effect can be best understood by a circle.
-	1. Our beliefs about another person influence our actions towards that person.
-	2. Now this action has an impact on others beliefs about themselves.
-	3. As others believes change, it causes their actions to change.
-	4. These actions again reinforce our beliefs about the other person. Which repeats the cycle.
+	- Our beliefs about another person influence our actions towards that person.
+	- This action has an impact on their beliefs about themselves.
+	- As their beliefs change, it causes their actions to change.
+	- These actions again reinforce our beliefs about them, and the cycle repeats.
+
+I thought this is a fascinating thing to know. This led me to think about the book **"How to Win Friends and Influence People"**, in which *Dale Carnegie* talks about how it's important to praise and give your honest appreciation to people. How even giving a praise on their slightest improvements can change their behavior towards not only you but others as well. That made me think that we can create a positive Pygmalion effect when we try to.
+
+Here's one thing that I've realized as I've gotten older, we really don't get compliments on our efforts enough. We are just expected to do the work and make improvements because we that's just how it's supposed to be. So, following some of the advice from Dale doesn't seem like a bad proposition.
 
 ![Pasted image 20210819025203.png](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/Pasted%20image%2020210819025203.png)
 
