@@ -4,6 +4,7 @@
 
 | File                                                                                                                                     | Last modified      |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-15\|2024-03-15]]                                                                  | 15.03.2024 - 18:09 |
 | [[📺 Media DB/manga/Fire Punch (2016)\|Fire Punch (2016)]]                                                                            | 14.03.2024 - 13:44 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]]                                                                  | 14.03.2024 - 11:18 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-13\|2024-03-13]]                                                                  | 13.03.2024 - 14:48 |
@@ -13,6 +14,5 @@
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-05\|2024-03-05]]                                                                  | 06.03.2024 - 10:10 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-06\|2024-03-06]]                                                                  | 06.03.2024 - 10:10 |
 | [[Excalidraw/Pomodoro sessions explained 2024-03-05 09.34.15.excalidraw\|Pomodoro sessions explained 2024-03-05 09.34.15.excalidraw]] | 05.03.2024 - 09:34 |
-| [[📺 Media DB/series/Kekkon Yubiwa Monogatari (2024)\|Kekkon Yubiwa Monogatari (2024)]]                                               | 05.03.2024 - 03:23 |
 
 { .block-language-dataview}
