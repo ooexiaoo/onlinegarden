@@ -39,24 +39,24 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                                                           | Last modified      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[The Pygmalion Effect\|The Pygmalion Effect]]                                                                                                              | 16.03.2024 - 00:25 |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                                                      | 16.03.2024 - 00:19 |
-| [[Feminine and Masculine\|Feminine and Masculine]]                                                                                                          | 16.03.2024 - 00:00 |
-| [[Excalidraw/Prototype Hydroponic using Square Pots 2024-03-15 21.28.13.excalidraw\|Prototype Hydroponic using Square Pots 2024-03-15 21.28.13.excalidraw]] | 15.03.2024 - 21:39 |
-| [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                       | 15.03.2024 - 21:28 |
+| File                                                                    | Last modified      |
+| ----------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-16\|2024-03-16]] | 16.03.2024 - 14:30 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 16.03.2024 - 14:30 |
+| [[The Pygmalion Effect\|The Pygmalion Effect]]                       | 16.03.2024 - 00:25 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 16.03.2024 - 00:19 |
+| [[Feminine and Masculine\|Feminine and Masculine]]                   | 16.03.2024 - 00:00 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                                                           | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-16\|2024-03-16]]                                                                                        | 16.03.2024 - 14:30 |
 | [[Excalidraw/Prototype Hydroponic using Square Pots 2024-03-15 21.28.13.excalidraw\|Prototype Hydroponic using Square Pots 2024-03-15 21.28.13.excalidraw]] | 15.03.2024 - 21:28 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-15\|2024-03-15]]                                                                                        | 15.03.2024 - 18:09 |
 | [[📺 Media DB/manga/Fire Punch (2016)\|Fire Punch (2016)]]                                                                                                  | 14.03.2024 - 13:44 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]]                                                                                        | 14.03.2024 - 11:18 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-13\|2024-03-13]]                                                                                        | 13.03.2024 - 14:48 |
 
 { .block-language-dataview}
 
@@ -78,5 +78,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1638** With over **13,73,000 words**.
+**Live Count: 1639** With over **13,73,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
