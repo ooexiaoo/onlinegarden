@@ -4,6 +4,7 @@
 
 | File                                                                                                                                                           | Last modified      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[📺 Media DB/manga/Fire Punch (2016)\|Fire Punch (2016)]]                                                                                                  | 17.03.2024 - 12:42 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-16\|2024-03-16]]                                                                                        | 17.03.2024 - 02:14 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                                             | 16.03.2024 - 14:30 |
 | [[The Pygmalion Effect\|The Pygmalion Effect]]                                                                                                              | 16.03.2024 - 00:25 |
@@ -13,6 +14,5 @@
 | [[Excalidraw/Excalidraw\|Excalidraw]]                                                                                                                       | 15.03.2024 - 21:28 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-15\|2024-03-15]]                                                                                        | 15.03.2024 - 18:10 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-14\|2024-03-14]]                                                                                        | 14.03.2024 - 23:51 |
-| [[📺 Media DB/manga/Origin\|Origin]]                                                                                                                        | 14.03.2024 - 23:49 |
 
 { .block-language-dataview}
