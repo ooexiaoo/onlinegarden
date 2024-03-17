@@ -41,11 +41,11 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                    | Last modified      |
 | ----------------------------------------------------------------------- | ------------------ |
+| [[📺 Media DB/manga/Fire Punch (2016)\|Fire Punch (2016)]]           | 17.03.2024 - 12:42 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-16\|2024-03-16]] | 17.03.2024 - 02:14 |
 | [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 16.03.2024 - 14:30 |
 | [[The Pygmalion Effect\|The Pygmalion Effect]]                       | 16.03.2024 - 00:25 |
 | [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]               | 16.03.2024 - 00:19 |
-| [[Feminine and Masculine\|Feminine and Masculine]]                   | 16.03.2024 - 00:00 |
 
 { .block-language-dataview}
 
