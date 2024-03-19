@@ -39,13 +39,13 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                    | Last modified      |
-| ----------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-19\|2024-03-19]] | 19.03.2024 - 22:57 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-18\|2024-03-18]] | 19.03.2024 - 00:43 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 19.03.2024 - 00:42 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-17\|2024-03-17]] | 17.03.2024 - 22:51 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-13\|2024-03-13]] | 17.03.2024 - 22:48 |
+| File                                                                                                                                    | Last modified      |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]] | 19.03.2024 - 23:40 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-19\|2024-03-19]]                                                                 | 19.03.2024 - 22:57 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-18\|2024-03-18]]                                                                 | 19.03.2024 - 00:43 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                                      | 19.03.2024 - 00:42 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-17\|2024-03-17]]                                                                 | 17.03.2024 - 22:51 |
 
 { .block-language-dataview}
 
