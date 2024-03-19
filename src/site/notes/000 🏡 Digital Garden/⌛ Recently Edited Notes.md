@@ -4,7 +4,7 @@
 
 | File                                                                                                                                    | Last modified      |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                               | 20.03.2024 - 00:12 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                               | 20.03.2024 - 02:30 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                          | 20.03.2024 - 00:10 |
 | [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]] | 19.03.2024 - 23:40 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-19\|2024-03-19]]                                                                 | 19.03.2024 - 22:57 |
