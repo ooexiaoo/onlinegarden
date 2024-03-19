@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-20T00:12:35.663+05:30"}
+{"cssclasses":["wide-page","NoProps"],"dg-home":true,"dg-publish":true,"permalink":"/000-digital-garden/start-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","created":"2023-12-10T08:50:33.353+05:30","updated":"2024-03-20T02:30:27.618+05:30"}
 ---
 
 ## 🫨 Where The Heck Are You?
@@ -41,7 +41,7 @@ You can see all the content of the site in the sidebar. Even though this is not 
 ### Recently Edited Files
 | File                                                                                                                                    | Last modified      |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                               | 20.03.2024 - 00:12 |
+| [[000 🏡 Digital Garden/🏠 Start Here\|🏠 Start Here]]                                                                               | 20.03.2024 - 02:30 |
 | [[⚡ MISC/✍🏻 Note Topics\|✍🏻 Note Topics]]                                                                                          | 20.03.2024 - 00:10 |
 | [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]] | 19.03.2024 - 23:40 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-19\|2024-03-19]]                                                                 | 19.03.2024 - 22:57 |
@@ -67,7 +67,7 @@ If you want to see which notes I might be wanting to work on, you can see it all
 The thing is, when I started writing all this, it was never my intention to publish my writings to the web, as you can imagine.
 So the notes are not linked together in a way that would make it easy to find related content.
 I'm also publishing directly from my obsidian vault, so there are a few limitations as to how the UI will be rendered.
-> ![[questionmark.webp \| 100]]
+> ![questionmark.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/questionmark.webp)
 
 ## Git Contributions
 <img src="https://ghchart.rshah.org/5F3F9E/ooexiaoo" alt="Exia's Github Chart" />
