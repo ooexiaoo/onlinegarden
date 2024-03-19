@@ -1,5 +1,5 @@
 ---
-{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2024-03-04T09:46:32.649+05:30"}
+{"tags":["Favorite"],"dg-publish":true,"permalink":"/misc/note-topics/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:36.493+05:30","updated":"2024-03-20T00:10:00.739+05:30"}
 ---
 
 Tags:: #Topics 
@@ -17,7 +17,6 @@ Tags:: #Topics
 - [ ] The slave in search of constant pleasure/ hedonism (why men need to master their urge to find pleasure) - [[Why Men Are Slaves To Pleasure\|Why Men Are Slaves To Pleasure]]
 - [ ] [[How To Live A Stoic Life\|How To Live A Stoic Life]] - **<a href="https://keveducate.com/how-to-live-a-stoic-life/">Ref Link</a>**
 - [ ] About Entropy
-- [x] Myostatin And How To Reduce It [[🌍 Areas/💪🏼 Athletisism/How To Lower Myostatin\|How To Lower Myostatin]]
 - [ ] Become a producer, not a consumer
 - [ ] When comfort becomes crutches
 - [ ] What if we are imprisoned on earth
@@ -40,9 +39,7 @@ Tags:: #Topics
 - [ ] [What is Brahman?](https://www.yogapedia.com/definition/5274/brahman)
 - [ ] [Fadogia Agrestis](https://www.amazon.in/Shrisha-Organic-Agrestis-Tablets-60-Natural/dp/B0B6J255XF)
 - [ ] A website that shares business related ideas and business case studies with as much information as it can
-- [x] [[Laszlo Polgar on How Geniuses are Made\|Laszlo Polgar on How Geniuses are Made]]
-- [ ] https://danielkarim.com/domino-habits-the-building-blocks-of-identity/
-- [ ] [[Unlock Your Mind's True Potential - The Power of a Second Brain\|Unlock Your Mind's True Potential - The Power of a Second Brain]]
+- [ ] https://danielkarim.com/domino-habits-the-building-blocks-of-identity
 
  Links::
  <div style="position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
