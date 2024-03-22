@@ -1,5 +1,5 @@
 ---
-{"wordcount":0,"dg-publish":true,"permalink":"/projects/kawaii-doro/kawaii-doro/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-30T20:48:55.224+05:30","updated":"2024-02-09T22:41:39.559+05:30"}
+{"wordcount":0,"dg-publish":true,"permalink":"/projects/kawaii-doro/kawaii-doro/","dgPassFrontmatter":true,"noteIcon":"3","created":"2024-01-30T20:48:55.224+05:30","updated":"2024-03-22T19:12:32.616+05:30"}
 ---
 
 🧶 Tags:: #KawaiiDoro #Pomodoro 
@@ -30,3 +30,6 @@ Added Twitter Card and Open Graph Protocol Tags
   <meta name="twitter:description" content="Where Cuteness Meets Progress!">
   <meta name="twitter:image" content="https://kawaiidoro.com/img/Website image.webp">
 ```
+
+#### Kawaii Search Page
+I made the kawaii search page in NextJs and it's crazy fast. I understand why people like to use NextJs now.
