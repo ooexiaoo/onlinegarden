@@ -39,24 +39,24 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                             | Last modified      |
-| ------------------------------------------------------------------------------------------------ | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-21\|2024-03-21]]                          | 21.03.2024 - 17:24 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                               | 21.03.2024 - 17:23 |
-| [[Excalidraw/Drawing 2024-03-21 03.05.52.excalidraw\|Drawing 2024-03-21 03.05.52.excalidraw]] | 21.03.2024 - 03:20 |
-| [[Excalidraw/Excalidraw\|Excalidraw]]                                                         | 21.03.2024 - 03:05 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-20\|2024-03-20]]                          | 20.03.2024 - 22:04 |
+| File                                                                    | Last modified      |
+| ----------------------------------------------------------------------- | ------------------ |
+| [[👷🏻 Projects/KawaiiDoro/KawaiiDoro\|KawaiiDoro]]                  | 22.03.2024 - 19:12 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-22\|2024-03-22]] | 22.03.2024 - 19:10 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 22.03.2024 - 19:05 |
+| [[🌍 Areas/💪🏼 Athletisism/A&B Workout\|A&B Workout]]               | 22.03.2024 - 19:05 |
+| [[⚡ MISC/To Dos\|To Dos]]                                            | 21.03.2024 - 23:02 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                             | Last modified      |
 | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-22\|2024-03-22]]                          | 22.03.2024 - 19:05 |
+| [[🌍 Areas/💪🏼 Athletisism/A&B Workout\|A&B Workout]]                                        | 22.03.2024 - 19:02 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-21\|2024-03-21]]                          | 21.03.2024 - 17:23 |
 | [[Excalidraw/Drawing 2024-03-21 03.05.52.excalidraw\|Drawing 2024-03-21 03.05.52.excalidraw]] | 21.03.2024 - 03:05 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-20\|2024-03-20]]                          | 20.03.2024 - 22:03 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-18\|2024-03-18]]                          | 19.03.2024 - 00:42 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-19\|2024-03-19]]                          | 19.03.2024 - 00:41 |
 
 { .block-language-dataview}
 
@@ -78,5 +78,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1645** With over **13,75,000 words**.
+**Live Count: 1647** With over **13,75,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
