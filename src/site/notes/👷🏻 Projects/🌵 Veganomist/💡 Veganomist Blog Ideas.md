@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/projects/veganomist/veganomist-blog-ideas/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.036+05:30","updated":"2024-02-26T02:52:11.719+05:30"}
+{"dg-publish":true,"permalink":"/projects/veganomist/veganomist-blog-ideas/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-11-14T21:08:37.036+05:30","updated":"2024-03-25T22:09:06.094+05:30"}
 ---
 
-🧶 Tags - #Vegan_Blog 
-
----
-🗃 Resources - [[]]
-
-# [[👷🏻 Projects/🌵 Veganomist/💡 Veganomist Blog Ideas\|💡 Veganomist Blog Ideas]]
+🧶 Tags:: #Vegan_Blog 
 ==2023-03-16 - 10:07==
 
----
 1.  [[The Ethics of Veganism - Understanding the Conceptual Framework\|The Ethics of Veganism - Understanding the Conceptual Framework]]
 2.  [[The Utilitarian Case for Veganism - Minimizing Harm and Promoting Well-being\|The Utilitarian Case for Veganism - Minimizing Harm and Promoting Well-being]]
 3.  The Rights-Based Case for Veganism: Respecting Animals as Individuals - Should we respect animals as individuals?
