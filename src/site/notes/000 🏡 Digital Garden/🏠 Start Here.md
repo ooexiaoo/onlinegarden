@@ -39,24 +39,24 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                              | Last modified      |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[👷🏻 Projects/YouTube/Cloudstream\|Cloudstream]]                                                                             | 25.03.2024 - 22:18 |
-| [[👷🏻 Projects/YouTube/Getting Started With Linux - A Beginner's Guide\|Getting Started With Linux - A Beginner's Guide]]     | 25.03.2024 - 22:12 |
-| [[👷🏻 Projects/YouTube/8 Ways to Take a Break from Social Media (Script)\|8 Ways to Take a Break from Social Media (Script)]] | 25.03.2024 - 22:11 |
-| [[👷🏻 Projects/YouTube/Name Unavailable\|Name Unavailable]]                                                                   | 25.03.2024 - 22:10 |
-| [[👷🏻 Projects/Mohak Herbs/Mohak Herbs\|Mohak Herbs]]                                                                         | 25.03.2024 - 22:10 |
+| File                                                                                                                          | Last modified      |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-28\|2024-03-28]]                                                       | 28.03.2024 - 02:45 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                            | 28.03.2024 - 02:43 |
+| [[👷🏻 Projects/YouTube/The Importance of Time Management in Daily Life\|The Importance of Time Management in Daily Life]] | 28.03.2024 - 02:43 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-27\|2024-03-27]]                                                       | 27.03.2024 - 20:15 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-26\|2024-03-26]]                                                       | 27.03.2024 - 20:15 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
-| File                                                                    | Last modified      |
-| ----------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-25\|2024-03-25]] | 25.03.2024 - 01:36 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-23\|2024-03-23]] | 24.03.2024 - 02:01 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-24\|2024-03-24]] | 24.03.2024 - 02:01 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-22\|2024-03-22]] | 22.03.2024 - 19:05 |
-| [[🌍 Areas/💪🏼 Athletisism/A&B Workout\|A&B Workout]]               | 22.03.2024 - 19:02 |
+| File                                                                                                                          | Last modified      |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-28\|2024-03-28]]                                                       | 28.03.2024 - 02:43 |
+| [[👷🏻 Projects/YouTube/The Importance of Time Management in Daily Life\|The Importance of Time Management in Daily Life]] | 28.03.2024 - 02:18 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-26\|2024-03-26]]                                                       | 27.03.2024 - 20:14 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-27\|2024-03-27]]                                                       | 27.03.2024 - 20:14 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-25\|2024-03-25]]                                                       | 25.03.2024 - 01:36 |
 
 { .block-language-dataview}
 
@@ -78,5 +78,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1650** With over **13,75,000 words**.
+**Live Count: 1654** With over **13,75,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
