@@ -39,24 +39,24 @@ You can see all the content of the site in the sidebar. Even though this is not 
 | Anime | https://anime.insightfulsage.com |
 
 ### Recently Edited Files
-| File                                                                                                                          | Last modified      |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-28\|2024-03-28]]                                                       | 28.03.2024 - 02:45 |
-| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                                                                            | 28.03.2024 - 02:43 |
-| [[👷🏻 Projects/YouTube/The Importance of Time Management in Daily Life\|The Importance of Time Management in Daily Life]] | 28.03.2024 - 02:43 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-27\|2024-03-27]]                                                       | 27.03.2024 - 20:15 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-26\|2024-03-26]]                                                       | 27.03.2024 - 20:15 |
+| File                                                                    | Last modified      |
+| ----------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/Quaterly Notes/2024-Q1\|2024-Q1]]       | 28.03.2024 - 06:28 |
+| [[Templates/Quarterly Note\|Quarterly Note]]                         | 28.03.2024 - 05:59 |
+| [[🌍 Areas/🌍 Areas\|🌍 Areas]]                                      | 28.03.2024 - 05:57 |
+| [[Templates/📩 Templates\|📩 Templates]]                             | 28.03.2024 - 05:53 |
+| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-28\|2024-03-28]] | 28.03.2024 - 02:45 |
 
 { .block-language-dataview}
 
 ### Recently Added Files
 | File                                                                                                                          | Last modified      |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[🌍 Areas/📧 Personal Notes/Quaterly Notes/2024-Q1\|2024-Q1]]                                                             | 28.03.2024 - 05:57 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-28\|2024-03-28]]                                                       | 28.03.2024 - 02:43 |
 | [[👷🏻 Projects/YouTube/The Importance of Time Management in Daily Life\|The Importance of Time Management in Daily Life]] | 28.03.2024 - 02:18 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-26\|2024-03-26]]                                                       | 27.03.2024 - 20:14 |
 | [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-27\|2024-03-27]]                                                       | 27.03.2024 - 20:14 |
-| [[🌍 Areas/📧 Personal Notes/📓 Daily Notes/2024-03-25\|2024-03-25]]                                                       | 25.03.2024 - 01:36 |
 
 { .block-language-dataview}
 
@@ -78,5 +78,5 @@ I'm also publishing directly from my obsidian vault, so there are a few limitati
 ![graph 19-02-2024.webp](/img/user/%F0%9F%9B%A2%EF%B8%8F%20Resources/%F0%9F%93%81%20Files/%F0%9F%93%B8Images/graph%2019-02-2024.webp)
 
 😵‍💫 There are quite a few notes in the vault:
-**Live Count: 1654** With over **13,75,000 words**.
+**Live Count: 1655** With over **13,75,000 words**.
 So I'll try to keep things simple for now and add more complexity to the blog as I sort through the notes.
